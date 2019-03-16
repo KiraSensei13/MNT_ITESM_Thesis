@@ -466,10 +466,6 @@ KOMA-script documentation for details.}]{fancyhdr}
 
 \ifbool{consistentlayout}{
 	\DeclareDocumentEnvironment{committee}{}{
-		\begin{center}
-			{\normalsize \MakeUppercase{\univname} \par}% University name in capitals
-			\bigskip
-		\end{center}
 		\addchap*{\supervisingcommittee}
 		}{}%
 }{

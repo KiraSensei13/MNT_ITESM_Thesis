@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.6960 64-bit) (preloaded format=pdflatex 2019.2.1)  16 MAR 2019 15:55
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.6960 64-bit) (preloaded format=pdflatex 2019.2.1)  16 MAR 2019 17:43
 entering extended mode
 **./main.tex
 (main.tex
@@ -198,6 +198,40 @@ File: bk11.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
 \belowcaptionskip=\skip48
 \bibindent=\dimen134
 )
+("C:\Users\oskat\AppData\Local\Programs\MiKTeX 2.9\tex/latex/parskip\parskip.st
+y"
+Package: parskip 2019-01-16 v2.0c non-zero parskip adjustments
+
+("C:\Users\oskat\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\kvoptions
+.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+("C:\Users\oskat\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\keyval.st
+y"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+("C:\Users\oskat\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ltxcmds
+.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+("C:\Users\oskat\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\kvsetke
+ys.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+("C:\Users\oskat\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\infware
+rr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Users\oskat\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\etexcmd
+s.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+("C:\Users\oskat\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ifluate
+x.sty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)))))
 ("C:\Users\oskat\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\babel.sty"
 Package: babel 2018/11/13 3.27 The Babel package
 ("C:\Users\oskat\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\switch.def
@@ -233,11 +267,6 @@ e.sty"
 Package: scrbase 2018/12/30 v3.26a KOMA-Script package (KOMA-Script-independent
  basics and keyval usage)
 
-("C:\Users\oskat\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\keyval.st
-y"
-Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
-\KV@toks@=\toks14
-)
 ("C:\Users\oskat\AppData\Local\Programs\MiKTeX 2.9\tex/latex/koma-script\scrlfi
 le.sty"
 Package: scrlfile 2018/12/30 v3.26a KOMA-Script package (loading files)
@@ -527,37 +556,11 @@ Package: biblatex 2018/11/02 v3.12 programmable bibliographies (PK/MW)
 mds.sty"
 Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
 )
-
-("C:\Users\oskat\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\infware
-rr.sty"
-Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
-)
-("C:\Users\oskat\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ifluate
-x.sty"
-Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
-Package ifluatex Info: LuaTeX not detected.
-)
-("C:\Users\oskat\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ltxcmds
-.sty"
-Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
-)
 Package pdftexcmds Info: LuaTeX not detected.
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
 )
-("C:\Users\oskat\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\kvoptions
-.sty"
-Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
-
-("C:\Users\oskat\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\kvsetke
-ys.sty"
-Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
-
-("C:\Users\oskat\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\etexcmd
-s.sty"
-Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
-)))
 ("C:\Users\oskat\AppData\Local\Programs\MiKTeX 2.9\tex/latex/logreq\logreq.sty"
 Package: logreq 2010/08/04 v1.0 xml request logger
 \lrq@indent=\count279
@@ -723,18 +726,6 @@ Package biblatex Info: ... file 'blx-compat.def' found.
 ("C:\Users\oskat\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex\blx-compa
 t.def"
 File: blx-compat.def 2018/11/02 v3.12 biblatex compatibility (PK/MW)
-)
-Package biblatex Info: Trying to load BibTeX backend compatibility...
-Package biblatex Info: ... file 'blx-bibtex.def' found.
-
-("C:\Users\oskat\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex\blx-bibte
-x.def"
-File: blx-bibtex.def 2018/11/02 v3.12 biblatex compatibility (PK/MW)
-
-
-Package biblatex Warning: Using fall-back BibTeX(8) backend:
-(biblatex)                functionality may be reduced/unavailable.
-
 )
 Package biblatex Info: Trying to load generic definitions...
 Package biblatex Info: ... file 'biblatex.def' found.
@@ -905,7 +896,7 @@ LaTeX Info: Redefining \pageref on input line 6454.
 )
 Package scrhack Info: hyperref hack deactivated because of
 (scrhack)             detection of hyperref version, that doesn't
-(scrhack)             need that hack, on input line 137.
+(scrhack)             need that hack, on input line 139.
 Package hyperref Info: Driver (autodetected): hpdftex.
 
 ("C:\Users\oskat\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\hpdftex.d
@@ -922,10 +913,10 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip82
 )
-Package hyperref Info: Option `bookmarksopen' set `true' on input line 137.
-Package hyperref Info: Option `hypertexnames' set `false' on input line 137.
-Package hyperref Info: Option `colorlinks' set `true' on input line 137.
-Package hyperref Info: Option `unicode' set `true' on input line 137.
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 139.
+Package hyperref Info: Option `hypertexnames' set `false' on input line 139.
+Package hyperref Info: Option `colorlinks' set `true' on input line 139.
+Package hyperref Info: Option `unicode' set `true' on input line 139.
 
 ("C:\Users\oskat\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\puenc.def
 "
@@ -933,7 +924,7 @@ File: puenc.def 2018/11/30 v6.88e Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
 ... no UTF-8 mapping file for font encoding PU
 )
-Package hyperref Info: Option `breaklinks' set `true' on input line 137.
+Package hyperref Info: Option `breaklinks' set `true' on input line 139.
 Package biblatex Info: Trying to load language 'english'...
 Package biblatex Info: ... file 'english.lbx' found.
 
@@ -963,23 +954,23 @@ LaTeX Warning: Label `ChapterX' multiply defined.
 ) (Chapters/__IntroToLaTeX.aux))
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 137.
-LaTeX Font Info:    ... okay on input line 137.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 137.
-LaTeX Font Info:    ... okay on input line 137.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 137.
-LaTeX Font Info:    ... okay on input line 137.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 137.
-LaTeX Font Info:    ... okay on input line 137.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 137.
-LaTeX Font Info:    ... okay on input line 137.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 137.
-LaTeX Font Info:    ... okay on input line 137.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 137.
-LaTeX Font Info:    ... okay on input line 137.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 137.
-LaTeX Font Info:    ... okay on input line 137.
-LaTeX Font Info:    Try loading font information for T1+ppl on input line 137.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 139.
+LaTeX Font Info:    ... okay on input line 139.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 139.
+LaTeX Font Info:    ... okay on input line 139.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 139.
+LaTeX Font Info:    ... okay on input line 139.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 139.
+LaTeX Font Info:    ... okay on input line 139.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 139.
+LaTeX Font Info:    ... okay on input line 139.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 139.
+LaTeX Font Info:    ... okay on input line 139.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 139.
+LaTeX Font Info:    ... okay on input line 139.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 139.
+LaTeX Font Info:    ... okay on input line 139.
+LaTeX Font Info:    Try loading font information for T1+ppl on input line 139.
 
 ("C:\Users\oskat\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\t1ppl.fd"
 File: t1ppl.fd 2001/06/04 font definitions for T1/ppl.
@@ -1138,32 +1129,29 @@ Package caption Info: End \AtBeginDocument code.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 Package scrlayer Info: Setting magic \footheight to \baselineskip while
-(scrlayer)             \begin{document} on input line 137.
-Package scrbase Info: activating english \abbrevname on input line 137.
-Package scrbase Info: activating english \byname on input line 137.
-Package scrbase Info: activating english \acknowledgementname on input line 137
+(scrlayer)             \begin{document} on input line 139.
+Package scrbase Info: activating english \abbrevname on input line 139.
+Package scrbase Info: activating english \byname on input line 139.
+Package scrbase Info: activating english \acknowledgementname on input line 139
 .
-Package scrbase Info: activating english \authorshipname on input line 137.
+Package scrbase Info: activating english \authorshipname on input line 139.
 Package scrbase Info: activating english \supervisingcommittee on input line 13
-7.
-Package scrbase Info: activating english \constantsname on input line 137.
-Package scrbase Info: activating english \symbolsname on input line 137.
+9.
+Package scrbase Info: activating english \constantsname on input line 139.
+Package scrbase Info: activating english \symbolsname on input line 139.
 \big@size=\dimen188
 Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Automatic encoding selection.
 (biblatex)             Assuming data encoding 'utf8'.
-Package biblatex Info: Input encoding 'utf8' specified.
-Package biblatex Info: Data encoding 'utf8' specified.
-(biblatex)             No need to reencode data.
-\openout3 = `main-blx.bib'.
+\openout3 = `main.bcf'.
 
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'main.bbl' found.
 (main.bbl)
-Package biblatex Info: Reference section=0 on input line 137.
-Package biblatex Info: Reference segment=0 on input line 137.
+Package biblatex Info: Reference section=0 on input line 139.
+Package biblatex Info: Reference segment=0 on input line 139.
 \AtBeginShipoutBox=\box59
-Package hyperref Info: Link coloring ON on input line 137.
+Package hyperref Info: Link coloring ON on input line 139.
 
 ("C:\Users\oskat\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\nameref.s
 ty"
@@ -1175,37 +1163,37 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count423
 )
-LaTeX Info: Redefining \ref on input line 137.
-LaTeX Info: Redefining \pageref on input line 137.
-LaTeX Info: Redefining \nameref on input line 137.
+LaTeX Info: Redefining \ref on input line 139.
+LaTeX Info: Redefining \pageref on input line 139.
+LaTeX Info: Redefining \nameref on input line 139.
  (main.out) (main.out)
 \@outlinefile=\write4
 \openout4 = `main.out'.
 
-LaTeX Font Info:    Try loading font information for OT1+ppl on input line 137.
+LaTeX Font Info:    Try loading font information for OT1+ppl on input line 139.
 
 
 ("C:\Users\oskat\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\ot1ppl.fd"
 File: ot1ppl.fd 2001/06/04 font definitions for OT1/ppl.
 )
-LaTeX Font Info:    Try loading font information for OML+zplm on input line 137
+LaTeX Font Info:    Try loading font information for OML+zplm on input line 139
 .
 ("C:\Users\oskat\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\omlzplm.fd"
 File: omlzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OML/zplm.
 )
-LaTeX Font Info:    Try loading font information for OMS+zplm on input line 137
+LaTeX Font Info:    Try loading font information for OMS+zplm on input line 139
 .
  ("C:\Users\oskat\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\omszplm.fd
 "
 File: omszplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMS/zplm.
 )
-LaTeX Font Info:    Try loading font information for OMX+zplm on input line 137
+LaTeX Font Info:    Try loading font information for OMX+zplm on input line 139
 .
 
 ("C:\Users\oskat\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\omxzplm.fd"
 File: omxzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMX/zplm.
 )
-LaTeX Font Info:    Try loading font information for OT1+zplm on input line 137
+LaTeX Font Info:    Try loading font information for OT1+zplm on input line 139
 .
  ("C:\Users\oskat\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\ot1zplm.fd
 "
@@ -1213,7 +1201,7 @@ File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
 )
 1: section
 LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <20.74> not available
-(Font)              Font shape `T1/ppl/b/n' tried instead on input line 157.
+(Font)              Font shape `T1/ppl/b/n' tried instead on input line 159.
 [1
 
 
@@ -1229,7 +1217,7 @@ LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <20.74> not available
 
 ]
 LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <24.88> not available
-(Font)              Font shape `T1/ppl/b/n' tried instead on input line 284.
+(Font)              Font shape `T1/ppl/b/n' tried instead on input line 286.
  (main.toc
 LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <10.95> not available
 (Font)              Font shape `T1/ppl/b/n' tried instead on input line 3.
@@ -1253,7 +1241,7 @@ LaTeX Font Info:    Font shape `T1/cmtt/bx/n' in size <10.95> not available
  Abstract
 --------------------
 
-Underfull \hbox (badness 10000) in paragraph at lines 297--298
+Underfull \hbox (badness 10000) in paragraph at lines 299--300
 
  []
 
@@ -1279,73 +1267,77 @@ LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <12> not available
 [1
 
 
-]
+] [2]
 \openout2 = `Chapters/2_ProblmemDefinitionAndMotivation.aux'.
 
- (Chapters/2_ProblmemDefinitionAndMotivation.tex [2
-
-
-
-]
+ (Chapters/2_ProblmemDefinitionAndMotivation.tex
 Chapter 2.
 )
 1: section
-[3]
+[3
+
+
+
+] [4]
 \openout2 = `Chapters/3_HypothesisAndResearchQuestions.aux'.
 
- (Chapters/3_HypothesisAndResearchQuestions.tex [4
-
-
-
-]
+ (Chapters/3_HypothesisAndResearchQuestions.tex
 Chapter 3.
 )
 1: section
-[5]
+[5
+
+
+
+] [6]
 \openout2 = `Chapters/4_Objectives.aux'.
 
- (Chapters/4_Objectives.tex [6
-
-
-
-]
+ (Chapters/4_Objectives.tex
 Chapter 4.
 )
 1: section
-[7]
+[7
+
+
+
+] [8]
 \openout2 = `Chapters/5_TheoreticalFramework.aux'.
 
- (Chapters/5_TheoreticalFramework.tex [8
-
-
-
-]
+ (Chapters/5_TheoreticalFramework.tex
 Chapter 5.
 )
 1: section
-[9]
+[9
+
+
+
+] [10]
 \openout2 = `Chapters/__IntroToLaTeX.aux'.
 
- (Chapters/__IntroToLaTeX.tex [10
-
-
-
-]
+ (Chapters/__IntroToLaTeX.tex
 Chapter 6.
 LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <10> not available
 (Font)              Font shape `T1/ppl/b/n' tried instead on input line 27.
 LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <9> not available
 (Font)              Font shape `T1/ppl/b/n' tried instead on input line 31.
 1: section
-[11]
+[11
+
+
+
+]
 Overfull \hbox (12.15245pt too wide) in paragraph at lines 72--74
 \T1/ppl/m/n/10.95 site, here: [][]$\T1/cmtt/m/n/10.95 http : / / www . ecs . so
 ton . ac . uk / ~srg / softwaretools / document / templates/$[][] 
  []
 
 [12]
-LaTeX Font Info:    Try loading font information for OMS+ppl on input line 92.
+Overfull \hbox (8.98701pt too wide) in paragraph at lines 78--79
+[]\T1/ppl/m/n/10.95 Sunil's tem-plate was made avail-able through [][]$\T1/cmtt
+/m/n/10.95 http : / / www . LaTeXTemplates . com$[][] \T1/ppl/m/n/10.95 where
+ []
 
+LaTeX Font Info:    Try loading font information for OMS+ppl on input line 92.
 ("C:\Users\oskat\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\omsppl.fd"
 File: omsppl.fd 
 )
@@ -1354,99 +1346,95 @@ LaTeX Font Info:    Font shape `OMS/ppl/m/n' in size <10.95> not available
 [13]
 LaTeX Font Info:    Font shape `T1/cmtt/bx/n' in size <14.4> not available
 (Font)              Font shape `T1/cmtt/m/n' tried instead on input line 136.
- [14] [15]
+ [14]
+
+LaTeX Font Warning: Font shape `T1/cmtt/bx/sl' undefined
+(Font)              using `T1/cmtt/bx/n' instead on input line 163.
+
+[15]
 Overfull \hbox (8.37132pt too wide) in paragraph at lines 180--181
 \T1/ppl/m/n/10.95 sided print-ing is as sim-ple as un-com-ment-ing the \T1/cmtt
 /m/it/10.95 oneside \T1/ppl/m/n/10.95 op-tion of the \T1/cmtt/m/n/10.95 documen
 tclass
  []
 
-
-LaTeX Warning: Citation 'Reference1' on page 16 undefined on input line 194.
-
-
-LaTeX Warning: Citation 'Reference2' on page 16 undefined on input line 194.
-
-
-LaTeX Warning: Citation 'Reference1' on page 16 undefined on input line 194.
-
-
-LaTeX Warning: Citation 'Reference3' on page 16 undefined on input line 194.
-
 [16] [17]
-<Figures/Electron.pdf, id=411, 398.3386pt x 284.52756pt>
+<Figures/Electron.pdf, id=423, 398.3386pt x 284.52756pt>
 File: Figures/Electron.pdf Graphic file (type pdf)
 <use Figures/Electron.pdf>
 Package pdftex.def Info: Figures/Electron.pdf  used on input line 262.
 (pdftex.def)             Requested size: 398.33762pt x 284.52686pt.
- [18 <./Figures/Electron.pdf>]
+ [18] [19 <./Figures/Electron.pdf>]
 Overfull \hbox (0.90797pt too wide) in paragraph at lines 308--309
 \T1/ppl/m/n/10.95 au-to-mat-i-cally builds a ta-ble of Con-tents by look-ing at
  all the [][]\T1/cmtt/m/n/10.95 \chapter{}[]\T1/ppl/m/n/10.95 , [][]\T1/cmtt/m/
 n/10.95 \section{}
  []
 
+) [20]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 384.
 
-Overfull \hbox (0.45015pt too wide) in paragraph at lines 310--311
-[]\T1/ppl/m/n/10.95 The Ta-ble of Con-tents should only list the sec-tions to t
-hree (3) lev-els. A [][]\T1/cmtt/m/n/10.95 chapter{}
- []
+1: section
+[21
 
-[19]) [20]
 
-LaTeX Warning: Empty bibliography on input line 378.
-
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 382.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 382.
-(main.aux (Chapters/1_Introduction.aux)
+]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 384.
+ (main.aux (Chapters/1_Introduction.aux)
 (Chapters/2_ProblmemDefinitionAndMotivation.aux)
 (Chapters/3_HypothesisAndResearchQuestions.aux) (Chapters/4_Objectives.aux)
 (Chapters/5_TheoreticalFramework.aux) (Chapters/__IntroToLaTeX.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 382.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 382.
-Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 658D660444BE2C5D6F907C4BB09F2D21;7480.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 384.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 384.
 
 
-LaTeX Warning: There were undefined references.
+Package rerunfilecheck Warning: File `main.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `main.out':
+(rerunfilecheck)             Before: CFAD03E4FC27092F6D708EFCF77B5913;7674
+(rerunfilecheck)             After:  235CD6BC20A28A66F66EEA856092D443;7674.
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 
 LaTeX Warning: There were multiply-defined labels.
-
-
-Package biblatex Warning: Please (re)run BibTeX on the file(s):
-(biblatex)                main
-(biblatex)                and rerun LaTeX afterwards.
 
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 35029 strings out of 492946
- 713275 string characters out of 3126267
- 938263 words of memory out of 3000000
+ 35035 strings out of 492946
+ 713679 string characters out of 3126267
+ 1113431 words of memory out of 3000000
  38483 multiletter control sequences out of 15000+200000
  600872 words of font info for 150 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 58i,21n,83p,1121b,2430s stack positions out of 5000i,500n,10000p,200000b,50000s
- <C:\Users\oskat\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\
-ectt1000.pk> <C:\Users\oskat\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/
-ec/dpi600\ecit1095.pk> <C:\Users\oskat\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour
-/jknappen/ec/dpi600\ecst1095.pk> <C:\Users\oskat\AppData\Local\MiKTeX\2.9\fonts
-/pk/ljfour/jknappen/ec/dpi600\ectt1440.pk>{C:/Users/oskat/AppData/Local/Program
-s/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc} <C:\Users\oskat\AppData\Local\MiKTeX\
-2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1095.pk><C:/Users/oskat/AppData/Loca
-l/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/oskat/
-AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:
-/Users/oskat/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/palatino/uplb8a.
-pfb><C:/Users/oskat/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/palatino/
-uplr8a.pfb><C:/Users/oskat/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/pa
-latino/uplr8a.pfb><C:/Users/oskat/AppData/Local/Programs/MiKTeX 2.9/fonts/type1
-/urw/palatino/uplri8a.pfb>
-Output written on main.pdf (28 pages, 255201 bytes).
+ 60i,20n,79p,1121b,2430s stack positions out of 5000i,500n,10000p,200000b,50000s
+pdfTeX warning (dest): name{chapter*.3} has been referenced but does not exis
+t, replaced by a fixed one
+
+pdfTeX warning (dest): name{chapter*.1} has been referenced but does not exist,
+ replaced by a fixed one
+
+ <C:\Users\oskat\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ec
+tt1000.pk> <C:\Users\oskat\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec
+/dpi600\ecit1095.pk> <C:\Users\oskat\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/j
+knappen/ec/dpi600\ectt1440.pk>{C:/Users/oskat/AppData/Local/Programs/MiKTeX 2.9
+/fonts/enc/dvips/base/8r.enc} <C:\Users\oskat\AppData\Local\MiKTeX\2.9\fonts/pk
+/ljfour/jknappen/ec/dpi600\ectt1095.pk><C:/Users/oskat/AppData/Local/Programs/M
+iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/oskat/AppData/Loca
+l/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/oskat
+/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/palatino/uplb8a.pfb><C:/User
+s/oskat/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/palatino/uplr8a.pfb><
+C:/Users/oskat/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/palatino/uplr8
+a.pfb><C:/Users/oskat/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/palatin
+o/uplri8a.pfb>
+Output written on main.pdf (29 pages, 264903 bytes).
 PDF statistics:
- 677 PDF objects out of 1000 (max. 8388607)
- 85 named destinations out of 1000 (max. 500000)
- 414 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 696 PDF objects out of 1000 (max. 8388607)
+ 92 named destinations out of 1000 (max. 500000)
+ 422 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -40,7 +40,7 @@ singlespacing,
 % Uncomment to add the main table of contents to the table of contents
 %toctotoc,
 % Uncomment to add space between paragraphs
-%parskip,
+parskip,
 % Uncomment to not load the hyperref package
 %nohyperref,
 % Uncomment to get a line under the header
@@ -62,7 +62,9 @@ headsepline,
 \usepackage{mathpazo}
 
 % Use the bibtex backend with the authoryear citation style (which resembles APA)
-\usepackage[backend=bibtex,style=authoryear,natbib=true]{biblatex}
+\usepackage[backend=biber,style=authoryear,natbib=true]{biblatex}
+% MLA, APA, or IEEE? - https://www.overleaf.com/learn/latex/Biblatex_citation_styles
+%\usepackage[style=apa, backend=biber]{biblatex}
 
 % The filename of the bibliography
 \addbibresource{example.bib}
@@ -375,7 +377,7 @@ The Thesis Abstract is written here (and usually kept to just this page). The pa
 %	BIBLIOGRAPHY
 %----------------------------------------------------------------------------------------
 
-\printbibliography
+\printbibliography[heading=bibintoc]
 
 %----------------------------------------------------------------------------------------
 
