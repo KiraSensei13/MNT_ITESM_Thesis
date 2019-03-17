@@ -25,12 +25,14 @@
 %	CLASS DEFINITION AND PARAMETERS
 %----------------------------------------------------------------------------------------
 
-\NeedsTeXFormat{LaTeX2e}[1996/12/01]
+%\NeedsTeXFormat{LaTeX2e}[1996/12/01]
 \newcommand{\classname}{MastersDoctoralThesis}
 \ProvidesClass{\classname}[2017/08/27 v1.6 LaTeXTemplates.com]
 \providecommand{\baseclass}{book}
+
 \RequirePackage{etoolbox}
 \RequirePackage{xparse}
+
 \newbool{nolistspace}
 \newbool{chapteroneline}
 \newbool{listtoc}
