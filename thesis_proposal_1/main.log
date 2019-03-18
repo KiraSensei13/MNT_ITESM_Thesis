@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.6960 64-bit) (preloaded format=pdflatex 2019.2.1)  16 MAR 2019 20:09
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.6960 64-bit) (preloaded format=pdflatex 2019.2.1)  17 MAR 2019 16:38
 entering extended mode
 **./main.tex
 (main.tex
@@ -935,23 +935,10 @@ File: english.lbx 2018/11/02 v3.12 biblatex localization (PK/MW)
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
  (main.aux (Chapters/1_Introduction.aux)
-(Chapters/2_ProblmemDefinitionAndMotivation.aux
-
-LaTeX Warning: Label `ChapterX' multiply defined.
-
-) (Chapters/3_HypothesisAndResearchQuestions.aux
-
-LaTeX Warning: Label `ChapterX' multiply defined.
-
-) (Chapters/4_Objectives.aux
-
-LaTeX Warning: Label `ChapterX' multiply defined.
-
-) (Chapters/5_TheoreticalFramework.aux
-
-LaTeX Warning: Label `ChapterX' multiply defined.
-
-) (Chapters/__IntroToLaTeX.aux))
+(Chapters/2_ProblmemDefinitionAndMotivation.aux)
+(Chapters/3_HypothesisAndResearchQuestions.aux) (Chapters/4_Objectives.aux)
+(Chapters/5_TheoreticalFramework.aux) (Chapters/6_Methodology.aux)
+(Chapters/7_WorkPlan.aux))
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 139.
@@ -1206,14 +1193,14 @@ LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <20.74> not available
 
 
 
-{C:/Users/oskat/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] [2
-
-]
+{C:/Users/oskat/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] [2]
 --------------------
  Supervising Committee
 --------------------
 1: section
-[3] [4
+[3
+
+] [4
 
 ]
 LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <24.88> not available
@@ -1221,22 +1208,17 @@ LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <24.88> not available
  (main.toc
 LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <10.95> not available
 (Font)              Font shape `T1/ppl/b/n' tried instead on input line 3.
-
-1: section
-[5
-
-]
-LaTeX Font Info:    Try loading font information for T1+cmtt on input line 42.
- ("C:\Users\oskat\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\t1cmtt.fd"
-File: t1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
-)
-LaTeX Font Info:    Font shape `T1/cmtt/bx/n' in size <10.95> not available
-(Font)              Font shape `T1/cmtt/m/n' tried instead on input line 42.
 )
 \tf@toc=\write5
 \openout5 = `main.toc'.
 
- [6]
+
+1: section
+[5
+
+] [6
+
+]
 --------------------
  Abstract
 --------------------
@@ -1246,9 +1228,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 299--300
  []
 
 1: section
-[7
-
-] [8
+[7] [8
 
 ]
 1: section
@@ -1258,171 +1238,112 @@ Underfull \hbox (badness 10000) in paragraph at lines 299--300
 Chapter 1.
 LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <17.28> not available
 (Font)              Font shape `T1/ppl/b/n' tried instead on input line 3.
-LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <14.4> not available
-(Font)              Font shape `T1/ppl/b/n' tried instead on input line 11.
-LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <12> not available
-(Font)              Font shape `T1/ppl/b/n' tried instead on input line 18.
 )
 1: section
 [1
 
 
-] [2]
+]
 \openout2 = `Chapters/2_ProblmemDefinitionAndMotivation.aux'.
 
- (Chapters/2_ProblmemDefinitionAndMotivation.tex
+ (Chapters/2_ProblmemDefinitionAndMotivation.tex [2
+
+
+
+]
 Chapter 2.
 )
 1: section
-[3
-
-
-
-] [4]
+[3]
 \openout2 = `Chapters/3_HypothesisAndResearchQuestions.aux'.
 
- (Chapters/3_HypothesisAndResearchQuestions.tex
+ (Chapters/3_HypothesisAndResearchQuestions.tex [4
+
+
+
+]
 Chapter 3.
 )
 1: section
-[5
-
-
-
-] [6]
+[5]
 \openout2 = `Chapters/4_Objectives.aux'.
 
- (Chapters/4_Objectives.tex
+ (Chapters/4_Objectives.tex [6
+
+
+
+]
 Chapter 4.
 )
 1: section
-[7
-
-
-
-] [8]
+[7]
 \openout2 = `Chapters/5_TheoreticalFramework.aux'.
 
- (Chapters/5_TheoreticalFramework.tex
+ (Chapters/5_TheoreticalFramework.tex [8
+
+
+
+]
 Chapter 5.
 )
 1: section
-[9
+[9]
+\openout2 = `Chapters/6_Methodology.aux'.
+
+ (Chapters/6_Methodology.tex [10
 
 
 
-] [10]
-\openout2 = `Chapters/__IntroToLaTeX.aux'.
-
- (Chapters/__IntroToLaTeX.tex
+]
 Chapter 6.
-LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <10> not available
-(Font)              Font shape `T1/ppl/b/n' tried instead on input line 27.
-LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <9> not available
-(Font)              Font shape `T1/ppl/b/n' tried instead on input line 31.
-1: section
-[11
-
-
-
-]
-Overfull \hbox (12.15245pt too wide) in paragraph at lines 72--74
-\T1/ppl/m/n/10.95 site, here: [][]$\T1/cmtt/m/n/10.95 http : / / www . ecs . so
-ton . ac . uk / ~srg / softwaretools / document / templates/$[][] 
- []
-
-[12]
-Overfull \hbox (8.98701pt too wide) in paragraph at lines 78--79
-[]\T1/ppl/m/n/10.95 Sunil's tem-plate was made avail-able through [][]$\T1/cmtt
-/m/n/10.95 http : / / www . LaTeXTemplates . com$[][] \T1/ppl/m/n/10.95 where
- []
-
-LaTeX Font Info:    Try loading font information for OMS+ppl on input line 92.
-("C:\Users\oskat\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\omsppl.fd"
-File: omsppl.fd 
 )
-LaTeX Font Info:    Font shape `OMS/ppl/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 92.
-[13]
-LaTeX Font Info:    Font shape `T1/cmtt/bx/n' in size <14.4> not available
-(Font)              Font shape `T1/cmtt/m/n' tried instead on input line 136.
- [14]
-
-LaTeX Font Warning: Font shape `T1/cmtt/bx/sl' undefined
-(Font)              using `T1/cmtt/bx/n' instead on input line 163.
-
-[15]
-Overfull \hbox (8.37132pt too wide) in paragraph at lines 180--181
-\T1/ppl/m/n/10.95 sided print-ing is as sim-ple as un-com-ment-ing the \T1/cmtt
-/m/it/10.95 oneside \T1/ppl/m/n/10.95 op-tion of the \T1/cmtt/m/n/10.95 documen
-tclass
- []
-
-[16] [17]
-<Figures/Electron.pdf, id=421, 398.3386pt x 284.52756pt>
-File: Figures/Electron.pdf Graphic file (type pdf)
-<use Figures/Electron.pdf>
-Package pdftex.def Info: Figures/Electron.pdf  used on input line 262.
-(pdftex.def)             Requested size: 398.33762pt x 284.52686pt.
- [18] [19 <./Figures/Electron.pdf>]
-Overfull \hbox (0.90797pt too wide) in paragraph at lines 308--309
-\T1/ppl/m/n/10.95 au-to-mat-i-cally builds a ta-ble of Con-tents by look-ing at
- all the [][]\T1/cmtt/m/n/10.95 \chapter{}[]\T1/ppl/m/n/10.95 , [][]\T1/cmtt/m/
-n/10.95 \section{}
- []
-
-) [20]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 384.
-
 1: section
-[21
+[11]
+\openout2 = `Chapters/7_WorkPlan.aux'.
+
+ (Chapters/7_WorkPlan.tex [12
+
 
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 384.
- (main.aux (Chapters/1_Introduction.aux)
+Chapter 7.
+)
+1: section
+[13]
+
+LaTeX Warning: Empty bibliography on input line 382.
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 386.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 386.
+(main.aux (Chapters/1_Introduction.aux)
 (Chapters/2_ProblmemDefinitionAndMotivation.aux)
 (Chapters/3_HypothesisAndResearchQuestions.aux) (Chapters/4_Objectives.aux)
-(Chapters/5_TheoreticalFramework.aux) (Chapters/__IntroToLaTeX.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 384.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 384.
+(Chapters/5_TheoreticalFramework.aux) (Chapters/6_Methodology.aux)
+(Chapters/7_WorkPlan.aux))
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 386.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 386.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 235CD6BC20A28A66F66EEA856092D443;7674.
-
-
-LaTeX Font Warning: Some font shapes were not available, defaults substituted.
-
-
-LaTeX Warning: There were multiply-defined labels.
-
+(rerunfilecheck)             Checksum: CA19D981EC521B5689782BDF2E9AE622;1216.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 35033 strings out of 492946
- 713659 string characters out of 3126267
- 1113431 words of memory out of 3000000
- 38483 multiletter control sequences out of 15000+200000
- 600872 words of font info for 150 fonts, out of 3000000 for 9000
+ 34575 strings out of 492946
+ 705804 string characters out of 3126267
+ 1110674 words of memory out of 3000000
+ 38106 multiletter control sequences out of 15000+200000
+ 568260 words of font info for 79 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 60i,20n,79p,1121b,2430s stack positions out of 5000i,500n,10000p,200000b,50000s
- <C:\Users\oskat\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\
-ectt1000.pk> <C:\Users\oskat\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/
-ec/dpi600\ecit1095.pk> <C:\Users\oskat\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour
-/jknappen/ec/dpi600\ectt1440.pk>{C:/Users/oskat/AppData/Local/Programs/MiKTeX 2
-.9/fonts/enc/dvips/base/8r.enc} <C:\Users\oskat\AppData\Local\MiKTeX\2.9\fonts/
-pk/ljfour/jknappen/ec/dpi600\ectt1095.pk><C:/Users/oskat/AppData/Local/Programs
-/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/oskat/AppData/Lo
-cal/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/osk
-at/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/palatino/uplb8a.pfb><C:/Us
-ers/oskat/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/palatino/uplr8a.pfb
-><C:/Users/oskat/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/palatino/upl
-r8a.pfb><C:/Users/oskat/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/palat
-ino/uplri8a.pfb>
-Output written on main.pdf (29 pages, 264667 bytes).
+ 52i,19n,70p,1620b,1689s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Users/oskat/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc
+}<C:/Users/oskat/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/palatino/upl
+b8a.pfb><C:/Users/oskat/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/palat
+ino/uplr8a.pfb><C:/Users/oskat/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/ur
+w/palatino/uplri8a.pfb>
+Output written on main.pdf (21 pages, 83474 bytes).
 PDF statistics:
- 693 PDF objects out of 1000 (max. 8388607)
- 90 named destinations out of 1000 (max. 500000)
- 422 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 177 PDF objects out of 1000 (max. 8388607)
+ 32 named destinations out of 1000 (max. 500000)
+ 73 words of extra memory for PDF output out of 10000 (max. 10000000)
 
