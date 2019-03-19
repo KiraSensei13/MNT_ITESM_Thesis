@@ -46,6 +46,74 @@
       \verb :C$\backslash$:/Users/oskat/OneDrive - Instituto Tecnologico y de Estudios Superiores de Monterrey/Documents/MNT{\_}ITESM{\_}Thesis/relatedTheses/Master Thesis 2017 Braulio Cardenas{\_}AAS{\_}Revised.pdf:pdf
       \endverb
     \endentry
+    \entry{Cisquella-Serra2019}{article}{}
+      \name{author}{6}{}{%
+        {{hash=aeef87a2ce3c06ef2d4289ec4ffc904c}{%
+           family={Cisquella-Serra},
+           familyi={C\bibinithyphendelim S\bibinitperiod},
+           given={Albert},
+           giveni={A\bibinitperiod}}}%
+        {{hash=508789e701879087b43a86d6345bf082}{%
+           family={Magnani},
+           familyi={M\bibinitperiod},
+           given={Marco},
+           giveni={M\bibinitperiod}}}%
+        {{hash=b79dbe4d1cea53f15680474a99261616}{%
+           family={Gual-Mosegui},
+           familyi={G\bibinithyphendelim M\bibinitperiod},
+           given={{Á}lvaro},
+           giveni={Á\bibinitperiod}}}%
+        {{hash=0359d74aa1d4646ca8aa6fac0edd15d9}{%
+           family={Holmberg},
+           familyi={H\bibinitperiod},
+           given={Sunshine},
+           giveni={S\bibinitperiod}}}%
+        {{hash=b65050cc804afc514c2f3686dc670c6c}{%
+           family={Madou},
+           familyi={M\bibinitperiod},
+           given={Marc},
+           giveni={M\bibinitperiod}}}%
+        {{hash=7ecba707f68aca629ea882b53eafe910}{%
+           family={Gamero-Casta{ñ}o},
+           familyi={G\bibinithyphendelim C\bibinitperiod},
+           given={Manuel},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Academic Press}%
+      }
+      \strng{namehash}{42573d62b6b2262d8848a8f2d97b9dba}
+      \strng{fullhash}{d63c7e1a82ee13086af8cbd7d0b9be93}
+      \strng{bibnamehash}{42573d62b6b2262d8848a8f2d97b9dba}
+      \strng{authorbibnamehash}{42573d62b6b2262d8848a8f2d97b9dba}
+      \strng{authornamehash}{42573d62b6b2262d8848a8f2d97b9dba}
+      \strng{authorfullhash}{d63c7e1a82ee13086af8cbd7d0b9be93}
+      \field{sortinit}{C}
+      \field{sortinithash}{963e9d84a3da2344e8833203de5aed05}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{HYPOTHESIS The electrostatic initiation of a jet from the meniscus of a polymeric solution is a key step in near-field electrospinning (NFES), however this process is not sufficiently understood to determine a criterion for the critical emitter voltage triggering the jet, nor to optimize the electrodes. It is expected that the jet initiation in NFES is similar to that in cone-jet electrosprays, and can be described with a first principles model. EXPERIMENTS The electrostatic jet initiation of an SU-8 polymeric solution is studied with two different electrode geometries to quantify the initiation parameters and illustrate the optimization of the electric field. A first-principles model is developed to predict and analyze the initiation. FINDINGS Two jet emission mechanisms are identified: one in which the jet is ejected from a free-standing conical meniscus; and one resulting from the contact of the meniscus with the collector, as it evolves from a spherical to a conical shape. Both are triggered by a critical emitter potential. The former produces the thinnest jets with a diameter that depends on the properties of the fluid, while the latter is an alternative to existing mechanical initiation methods. The model reproduces well the experimental phenomena including the critical voltage.}
+      \field{issn}{0021-9797}
+      \field{journaltitle}{Journal of Colloid and Interface Science}
+      \field{month}{5}
+      \field{title}{{Study of the electrostatic jet initiation in near-field electrospinning}}
+      \field{volume}{543}
+      \field{year}{2019}
+      \field{pages}{106\bibrangedash 113}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1016/J.JCIS.2019.02.041
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/oskat/OneDrive - Instituto Tecnologico y de Estudios Superiores de Monterrey/Documents/MNT{\_}ITESM{\_}Thesis/relatedArticles/NFES.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://0-www-sciencedirect-com.millenium.itesm.mx/science/article/pii/S0021979719302152
+      \endverb
+      \verb{url}
+      \verb https://0-www-sciencedirect-com.millenium.itesm.mx/science/article/pii/S0021979719302152
+      \endverb
+    \endentry
     \entry{Madou2011}{article}{}
       \name{author}{7}{}{%
         {{hash=1c627bd3627cfed92c3976ee507d3e9a}{%
@@ -109,6 +177,60 @@
       \verb :C$\backslash$:/Users/oskat/Dropbox/PAPER/Papers/Bisht.pdf:pdf
       \endverb
       \keyw{abrication of polymeric nano,attention from researchers due,considerable,electrospinning,fi bers has attracted,mems,micro,microelectromechanical systems,microfabrication,nanopatterning,of applica-,polymeric nano fi ber,suspended nano fi bers,to a wide variety}
+    \endentry
+    \entry{Nataraj2012}{article}{}
+      \name{author}{3}{}{%
+        {{hash=2bf36def800110e0ddd5a6954a53eb68}{%
+           family={Nataraj},
+           familyi={N\bibinitperiod},
+           given={S.K.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=6bee2aca917824895b07d594a4b7fc19}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={K.S.},
+           giveni={K\bibinitperiod}}}%
+        {{hash=3444d2c92d6d4e6abce54c088569c6e7}{%
+           family={Aminabhavi},
+           familyi={A\bibinitperiod},
+           given={T.M.},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Pergamon}%
+      }
+      \strng{namehash}{7a104317700cd06282150364a7bfbff0}
+      \strng{fullhash}{7a104317700cd06282150364a7bfbff0}
+      \strng{bibnamehash}{7a104317700cd06282150364a7bfbff0}
+      \strng{authorbibnamehash}{7a104317700cd06282150364a7bfbff0}
+      \strng{authornamehash}{7a104317700cd06282150364a7bfbff0}
+      \strng{authorfullhash}{7a104317700cd06282150364a7bfbff0}
+      \field{sortinit}{N}
+      \field{sortinithash}{f7242c3ed3dc50029fca1be76c497c7c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Polyacrylonitrile (PAN), a well-known polymer with good stability and mechanical properties, has been widely used in producing carbon nanofibers (CNFs) as these have attracted much recent attention due to their excellent characteristics, such as spinnability, environmentally benign nature and commercial viability. Among the various precursors to produce CNFs, PAN has been extensively studied due to its high carbon yield and flexibility for tailoring the structure of the final CNFs as well as the ease of obtaining stabilized products due to the formation of a ladder structure via nitrile polymerization. In view of this, they have applications in areas such as electronics, tissue engineering, membrane filtration and high performance composites. This review presents various combinations of PAN and PAN-based precursors in producing CNFs from the PAN homopolymer or its modified precursors, copolymers, blends and various composites. Various modifications of PAN and their future prospects in different scientific and technological disciplines are addressed.}
+      \field{issn}{0079-6700}
+      \field{journaltitle}{Progress in Polymer Science}
+      \field{month}{3}
+      \field{number}{3}
+      \field{title}{{Polyacrylonitrile-based nanofibers—A state-of-the-art review}}
+      \field{volume}{37}
+      \field{year}{2012}
+      \field{pages}{487\bibrangedash 513}
+      \range{pages}{27}
+      \verb{doi}
+      \verb 10.1016/J.PROGPOLYMSCI.2011.07.001
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/oskat/OneDrive - Instituto Tecnologico y de Estudios Superiores de Monterrey/Documents/MNT{\_}ITESM{\_}Thesis/relatedArticles/Polyacrylonitrile.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://0-www-sciencedirect-com.millenium.itesm.mx/science/article/pii/S0079670011000931
+      \endverb
+      \verb{url}
+      \verb https://0-www-sciencedirect-com.millenium.itesm.mx/science/article/pii/S0079670011000931
+      \endverb
     \endentry
     \entry{Siddiqui2019}{article}{}
       \name{author}{10}{}{%

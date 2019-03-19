@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.6960 64-bit) (preloaded format=pdflatex 2019.2.1)  19 MAR 2019 13:55
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.6960 64-bit) (preloaded format=pdflatex 2019.2.1)  19 MAR 2019 15:19
 entering extended mode
 **./main.tex
 (main.tex
@@ -1210,7 +1210,7 @@ LaTeX Font Info:    Try loading font information for OT1+zplm on input line 142
 File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
 )
 1: section
-<./Figures/uniLogo.png, id=56, 401.5pt x 401.5pt>
+<./Figures/uniLogo.png, id=64, 401.5pt x 401.5pt>
 File: ./Figures/uniLogo.png Graphic file (type png)
 <use ./Figures/uniLogo.png>
 Package pdftex.def Info: ./Figures/uniLogo.png  used on input line 161.
@@ -1261,6 +1261,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 304--305
 
 ]
 1: section
+[9] [10
+
+]
+1: section
 \openout2 = `Chapters/1_Introduction.aux'.
 
 (Chapters/1_Introduction.tex
@@ -1269,11 +1273,23 @@ Chapter 1.
 [1
 
 
-]) [2]
+]
+Overfull \hbox (0.9778pt too wide) in paragraph at lines 15--16
+[]\T1/ppl/m/n/12 Near-field elec-tro-spin-ning or NFES al-lows large scale man-
+u-fac-tura-bil-ity com-
+ []
+
+) [2]
 \openout2 = `Chapters/2_ProblmemDefinitionAndMotivation.aux'.
 
  (Chapters/2_ProblmemDefinitionAndMotivation.tex
 Chapter 2.
+
+Overfull \hbox (5.23817pt too wide) in paragraph at lines 7--8
+\T1/ppl/m/n/12 Carbon nanowires have been fab-ri-cated with a pho-tore-sist by 
+multiple-photon
+ []
+
 )
 1: section
 [3
@@ -1291,28 +1307,22 @@ Chapter 2.
 Chapter 3.
 LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <14.4> not available
 (Font)              Font shape `T1/ppl/b/n' tried instead on input line 7.
-
-Overfull \hbox (28.24927pt too wide) in paragraph at lines 9--10
-\T1/ppl/m/n/10.95 (stage ve-loc-ity, volt-age, dis-pense rate) can be amended t
-o ob-tain a low volt-age electrospun-
- []
-
 LaTeX Font Info:    Try loading font information for OMS+ppl on input line 14.
 ("C:\Users\oskat\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\omsppl.fd"
 File: omsppl.fd 
 )
-LaTeX Font Info:    Font shape `OMS/ppl/m/n' in size <10.95> not available
+LaTeX Font Info:    Font shape `OMS/ppl/m/n' in size <12> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 14.
 
-Overfull \hbox (3.32758pt too wide) in paragraph at lines 21--23
-[]\T1/ppl/m/n/10.95 What rhe-o-log-i-cal prop-er-ties are to be con-trolled/tes
-ted to de-liver a electrospun-
+Overfull \hbox (19.56955pt too wide) in paragraph at lines 15--17
+[]\T1/ppl/m/n/12 Are there any ev-i-dence of car-bon nano-wire fab-ri-ca-tion t
+hough electrospun-
  []
 
 
-Overfull \hbox (20.36615pt too wide) in paragraph at lines 24--26
-\T1/ppl/m/n/10.95 elec-tro-spun, pho-topoly-mer-ized, and py-rolyzed into con-d
-uct-ing car-bon nanowires? 
+Overfull \hbox (39.7649pt too wide) in paragraph at lines 21--23
+[]\T1/ppl/m/n/12 What rhe-o-log-i-cal prop-er-ties are to be con-trolled/tested
+ to de-liver a electrospun-
  []
 
 )
@@ -1365,53 +1375,99 @@ Chapter 7.
 
 
 ]
-LaTeX Font Info:    Try loading font information for T1+cmtt on input line 389.
+LaTeX Font Info:    Try loading font information for T1+cmtt on input line 393.
 
 
 ("C:\Users\oskat\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\t1cmtt.fd"
 File: t1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-Overfull \hbox (5.08537pt too wide) in paragraph at lines 389--389
+Overfull \hbox (5.08537pt too wide) in paragraph at lines 393--393
 []\T1/ppl/m/n/10.95 Marc J. Madou et al.   Con-trolled Con-tin-u-ous Pat-tern-
 ing of Poly-meric Nanofibers
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 393.
+
+Overfull \hbox (32.5328pt too wide) in paragraph at lines 393--393
+[]\T1/ppl/m/n/10.95 S.K. Nataraj, K.S. Yang, and T.M. Am-inab-havi.   Polyacry
+lonitrile-based nanofibersA
+ []
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 397.
 1: section
 [15]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 393.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 397.
  (main.aux (Chapters/1_Introduction.aux)
 (Chapters/2_ProblmemDefinitionAndMotivation.aux)
 (Chapters/3_HypothesisAndResearchQuestions.aux) (Chapters/4_Objectives.aux)
 (Chapters/5_TheoreticalFramework.aux) (Chapters/6_Methodology.aux)
 (Chapters/7_WorkPlan.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 393.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 393.
-Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: B5856478F847E19CDC7B46921AA3245E;1818.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 397.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 397.
+
+
+Package rerunfilecheck Warning: File `main.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `main.out':
+(rerunfilecheck)             Before: 27BB7414D02E1AE3D129F44F4B610CAB;2161
+(rerunfilecheck)             After:  6FC789E33341BB7CFD05A23C66A67E66;2165.
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 34932 strings out of 492946
- 713600 string characters out of 3126267
- 1109703 words of memory out of 3000000
- 38435 multiletter control sequences out of 15000+200000
+ 34957 strings out of 492946
+ 714004 string characters out of 3126267
+ 1110857 words of memory out of 3000000
+ 38442 multiletter control sequences out of 15000+200000
  569544 words of font info for 82 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 54i,19n,76p,1723b,1927s stack positions out of 5000i,500n,10000p,200000b,50000s
- <C:\Users\oskat\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\
-ectt1095.pk>{C:/Users/oskat/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/b
-ase/8r.enc}<C:/Users/oskat/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public
-/amsfonts/cm/cmsy10.pfb><C:/Users/oskat/AppData/Local/Programs/MiKTeX 2.9/fonts
-/type1/urw/palatino/uplb8a.pfb><C:/Users/oskat/AppData/Local/Programs/MiKTeX 2.
-9/fonts/type1/urw/palatino/uplr8a.pfb><C:/Users/oskat/AppData/Local/Programs/Mi
-KTeX 2.9/fonts/type1/urw/palatino/uplr8a.pfb><C:/Users/oskat/AppData/Local/Prog
-rams/MiKTeX 2.9/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on main.pdf (23 pages, 135962 bytes).
+ 54i,19n,76p,1723b,1998s stack positions out of 5000i,500n,10000p,200000b,50000s
+pdfTeX warning (dest): name{chapter.16} has been referenced but does not exis
+t, replaced by a fixed one
+
+pdfTeX warning (dest): name{chapter.15} has been referenced but does not exist,
+ replaced by a fixed one
+
+pdfTeX warning (dest): name{section.14} has been referenced but does not exist,
+ replaced by a fixed one
+
+pdfTeX warning (dest): name{chapter.12} has been referenced but does not exist,
+ replaced by a fixed one
+
+pdfTeX warning (dest): name{section.11} has been referenced but does not exist,
+ replaced by a fixed one
+
+pdfTeX warning (dest): name{chapter.9} has been referenced but does not exist, 
+replaced by a fixed one
+
+pdfTeX warning (dest): name{section.8} has been referenced but does not exist, 
+replaced by a fixed one
+
+pdfTeX warning (dest): name{section.7} has been referenced but does not exist, 
+replaced by a fixed one
+
+pdfTeX warning (dest): name{chapter.5} has been referenced but does not exist, 
+replaced by a fixed one
+
+pdfTeX warning (dest): name{chapter.4} has been referenced but does not exist, 
+replaced by a fixed one
+
+ <C:\Users\oskat\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ec
+tt1095.pk>{C:/Users/oskat/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/bas
+e/8r.enc}<C:/Users/oskat/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/a
+msfonts/cm/cmsy10.pfb><C:/Users/oskat/AppData/Local/Programs/MiKTeX 2.9/fonts/t
+ype1/urw/palatino/uplb8a.pfb><C:/Users/oskat/AppData/Local/Programs/MiKTeX 2.9/
+fonts/type1/urw/palatino/uplr8a.pfb><C:/Users/oskat/AppData/Local/Programs/MiKT
+eX 2.9/fonts/type1/urw/palatino/uplr8a.pfb><C:/Users/oskat/AppData/Local/Progra
+ms/MiKTeX 2.9/fonts/type1/urw/palatino/uplri8a.pfb>
+Output written on main.pdf (25 pages, 148524 bytes).
 PDF statistics:
- 276 PDF objects out of 1000 (max. 8388607)
- 42 named destinations out of 1000 (max. 500000)
- 110 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 334 PDF objects out of 1000 (max. 8388607)
+ 60 named destinations out of 1000 (max. 500000)
+ 126 words of extra memory for PDF output out of 10000 (max. 10000000)
 
