@@ -29,12 +29,12 @@
 %oneside,
 % ngerman for German
 english,
-% Single line spacing, alternatives: onehalfspacing or doublespacing
-singlespacing,
+% Single line spacing, alternatives: singlespacing, onehalfspacing or doublespacing
+onehalfspacing,
 % Uncomment to enable draft mode (no pictures, no links, overfull hboxes indicated)
 %draft,
-% If the document is onehalfspacing or doublespacing, uncomment this to set spacing in lists to single
-%nolistspacing,
+% If the document is nolistspacing, onehalfspacing or doublespacing, uncomment this to set spacing in lists to single
+onehalfspacing,
 % Uncomment to add the list of figures/tables/etc to the table of contents
 %liststotoc,
 % Uncomment to add the main table of contents to the table of contents
@@ -46,7 +46,7 @@ parskip,
 % Uncomment to get a line under the header
 headsepline,
 % Uncomment to place the chapter title next to the number on one line
-%chapterinoneline,
+chapterinoneline,
 % Uncomment to change the layout of the declaration, abstract and acknowledgements pages to match the default layout
 %consistentlayout,
 % The class file specifying the document structure
@@ -61,13 +61,16 @@ headsepline,
 % Use the Palatino font by default
 \usepackage{mathpazo}
 
+% Use tu justify paragraphs
+\usepackage{ragged2e}
+
 % Use the bibtex backend with the authoryear citation style (which resembles APA)
-\usepackage[backend=biber,style=authoryear,natbib=true]{biblatex}
+\usepackage[backend=biber,natbib=true]{biblatex}
 % MLA, APA, or IEEE? - https://www.overleaf.com/learn/latex/Biblatex_citation_styles
 %\usepackage[style=apa, backend=biber]{biblatex}
 
 % The filename of the bibliography
-\addbibresource{example.bib}
+\addbibresource{mainBiblio.bib}
 
 % Required to generate language-dependent quotes in the bibliography
 \usepackage[autostyle=true]{csquotes} 
@@ -188,16 +191,16 @@ headsepline,
 \href{https://www.medinadora.com/}{\cosupname}
 %\cosupname
 \end{flushright}
-\end{minipage}\\[2cm]
+\end{minipage}\\[0.5cm]
  
 \vfill
 
 \large \textit{A thesis proposal submitted in fulfillment of the requirements\\ for the degree of
 % University requirement text
-\degreename}\\[0.3cm]
-\textit{in}\\[0.4cm]
+\degreename}\\[0.25cm]
+\textit{in}\\[0.25cm]
 % Research group name and department name
-\groupname\\\deptname\\[2cm]
+\groupname\\\deptname\\[1cm]
  
 \vfill
 
@@ -226,7 +229,6 @@ The committee members, hereby, recommend that the proposal by \authorname to be 
 \bigskip
 \bigskip
 \bigskip
-\bigskip
 
 \noindent \rule[0.5em]{15em}{0.5pt}\\ % This prints a line for the signature
 %\href{http://www.alanaguirre.com}{\supname}
@@ -238,7 +240,6 @@ Tecnológico de Monterrey\\
 \bigskip
 \bigskip
 \bigskip
-\bigskip
 
 \noindent \rule[0.5em]{15em}{0.5pt}\\ % This prints a line for the signature
 %\href{http://www.alanaguirre.com}{\supname}
@@ -246,7 +247,6 @@ Tecnológico de Monterrey\\
 1st committee member institution\\
 \emph{Committee Member}
 
-\bigskip
 \bigskip
 \bigskip
 \bigskip
@@ -264,7 +264,6 @@ Tecnológico de Monterrey\\
 
 \begin{center}
 
-\bigskip
 \bigskip
 \bigskip
 \bigskip
@@ -358,6 +357,8 @@ Carbon nano-wires are versatile materials composed of carbon chains with a wide 
 % Include the chapters of the thesis as separate files from the Chapters folder
 % Uncomment the lines as you write the chapters
 
+\setlength{\parskip}{1.5em} % Paragraph spacing
+%\RaggedRight
 \include{Chapters/1_Introduction}
 \include{Chapters/2_ProblmemDefinitionAndMotivation} 
 \include{Chapters/3_HypothesisAndResearchQuestions}

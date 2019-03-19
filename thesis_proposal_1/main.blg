@@ -1,9 +1,17 @@
 [0] Config.pm:304> INFO - This is Biber 2.12
 [0] Config.pm:307> INFO - Logfile is 'main.blg'
-[631] biber-MSWIN64:315> INFO - === 
-[663] Biber.pm:371> INFO - Reading 'main.bcf'
-[735] Biber.pm:889> INFO - Found 0 citekeys in bib section 0
-[762] Utils.pm:193> WARN - The file 'main.bcf' does not contain any citations!
-[768] bbl.pm:636> INFO - Writing 'main.bbl' with encoding 'UTF-8'
-[769] bbl.pm:739> INFO - Output to main.bbl
-[769] Biber.pm:110> INFO - WARNINGS: 1
+[29] biber-MSWIN64:315> INFO - === 
+[55] Biber.pm:371> INFO - Reading 'main.bcf'
+[130] Biber.pm:889> INFO - Found 3 citekeys in bib section 0
+[142] Biber.pm:4093> INFO - Processing section 0
+[155] Biber.pm:4254> INFO - Looking for bibtex format file 'mainBiblio.bib' for section 0
+[158] bibtex.pm:1523> INFO - LaTeX decoding ...
+[186] bibtex.pm:1340> INFO - Found BibTeX data source 'mainBiblio.bib'
+[201] Utils.pm:193> WARN - month field 'feb' in entry 'Siddiqui2019' is not an integer - this will probably not sort properly.
+[226] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[226] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[227] Biber.pm:3921> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'en-US'
+[227] Biber.pm:3927> INFO - No sort tailoring available for locale 'en-US'
+[238] bbl.pm:636> INFO - Writing 'main.bbl' with encoding 'UTF-8'
+[241] bbl.pm:739> INFO - Output to main.bbl
+[241] Biber.pm:110> INFO - WARNINGS: 1
