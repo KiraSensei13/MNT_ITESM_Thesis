@@ -73,7 +73,17 @@ chapterinoneline,
 \addbibresource{mainBiblio.bib}
 
 % Required to generate language-dependent quotes in the bibliography
-\usepackage[autostyle=true]{csquotes} 
+\usepackage[autostyle=true]{csquotes}
+
+% to set default colours
+\usepackage{xcolor}
+\definecolor{mygray}{gray}{0.5}
+
+% for gantt charts
+\usepackage{tikz}
+\usepackage{gantt}
+
+\usepackage{lscape}
 
 %----------------------------------------------------------------------------------------
 %	MARGIN SETTINGS
@@ -94,7 +104,7 @@ chapterinoneline,
 %----------------------------------------------------------------------------------------
 
 % Your thesis title, this is used in the title and abstract, print it elsewhere with \ttitle
-\thesistitle{Design of Polymer Solutions for the Fabrication of Conducting Carbon Nano-wires}
+\thesistitle{Graphitic carbon suspended nano-wires synthesis through mechanoelectrospinning of photocrosslinkable polymers}
 
 % Your supervisor's name, this is used in the title page, print it elsewhere with \supname and \cosupname
 \supervisor{Dr. Héctor Alán \textsc{Aguirre} Soto}
@@ -164,8 +174,8 @@ chapterinoneline,
 \vspace{0.5cm}
 \textsc{\Large Masters Thesis Proposal}\\[0.5cm]      % Thesis type
 
-\HRule \\[0.5cm]                            % Horizontal line
-{\huge \bfseries \ttitle\par}\vspace{0.25cm} % Thesis title
+\HRule \\%[0.5cm]                            % Horizontal line
+{\huge \bfseries \ttitle\par}\vspace{0.0cm} % Thesis title
 \HRule \\[0.5cm]                            % Horizontal line
  
 \begin{minipage}[t]{0.4\textwidth}
@@ -243,8 +253,8 @@ Tecnológico de Monterrey\\
 
 \noindent \rule[0.5em]{15em}{0.5pt}\\ % This prints a line for the signature
 %\href{http://www.alanaguirre.com}{\supname}
-1st committee member name\\
-1st committee member institution\\
+Marc \textsc{Madou}\\
+Tecnológico de Monterrey\\
 \emph{Committee Member}
 
 \bigskip
@@ -254,8 +264,8 @@ Tecnológico de Monterrey\\
 
 \noindent \rule[0.5em]{15em}{0.5pt}\\ % This prints a line for the signature
 %\href{http://www.alanaguirre.com}{\supname}
-2nd committee member name\\
-2nd committee member institution\\
+Sergio Omar \textsc{Martínez} Chapa\\
+Tecnológico de Monterrey\\
 \emph{Committee Member}
 
 \end{flushright}
