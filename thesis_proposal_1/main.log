@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.6960 64-bit) (preloaded format=pdflatex 2019.2.1)  20 MAR 2019 13:37
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.6960 64-bit) (preloaded format=pdflatex 2019.2.1)  20 MAR 2019 14:05
 entering extended mode
 **./main.tex
 (main.tex
@@ -1341,11 +1341,7 @@ File: english.lbx 2018/11/02 v3.12 biblatex localization (PK/MW)
 )
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
- (main.aux (Chapters/1_Introduction.aux)
-(Chapters/2_ProblmemDefinitionAndMotivation.aux)
-(Chapters/3_HypothesisAndResearchQuestions.aux) (Chapters/4_Objectives.aux)
-(Chapters/5_TheoreticalFramework.aux) (Chapters/6_Methodology.aux)
-(Chapters/7_WorkPlan.aux))
+ (main.aux)
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 152.
@@ -1495,7 +1491,7 @@ Package caption Info: End \AtBeginDocument code.
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * bindingoffset: 14.22636pt
-* modes: includehead includefoot twoside 
+* modes: includehead includefoot 
 * h-part:(L,W,R)=(71.13188pt, 404.02908pt, 108.12054pt)
 * v-part:(T,H,B)=(42.67912pt, 759.6886pt, 42.67912pt)
 * \paperwidth=597.50787pt
@@ -1503,13 +1499,13 @@ Package caption Info: End \AtBeginDocument code.
 * \textwidth=404.02908pt
 * \textheight=693.49821pt
 * \oddsidemargin=13.08826pt
-* \evensidemargin=35.85056pt
+* \evensidemargin=-1.1381pt
 * \topmargin=-29.59087pt
 * \headheight=18.85364pt
 * \headsep=19.8738pt
 * \topskip=11.0pt
 * \footskip=27.46295pt
-* \marginparwidth=116.0pt
+* \marginparwidth=62.0pt
 * \marginparsep=7.0pt
 * \columnsep=10.0pt
 * \skip\footins=10.0pt plus 4.0pt minus 2.0pt
@@ -1517,8 +1513,8 @@ Package caption Info: End \AtBeginDocument code.
 * \voffset=0.0pt
 * \mag=1000
 * \@twocolumnfalse
-* \@twosidetrue
-* \@mparswitchtrue
+* \@twosidefalse
+* \@mparswitchfalse
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
@@ -1610,14 +1606,12 @@ LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <20.74> not available
 
 
 {C:/Users/oskat/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./Figures/u
-niLogo.png>] [2
-
-]
+niLogo.png>]
 --------------------
  Supervising Committee
 --------------------
 1: section
-[3] [4
+[1
 
 ]
 LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <24.88> not available
@@ -1631,9 +1625,8 @@ LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <10.95> not available
 
 
 1: section
-[5
+[2
 
-] [6
 
 ]
 --------------------
@@ -1645,7 +1638,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 314--315
  []
 
 1: section
-[7] [8
+[3
 
 ]
 1: section
@@ -1655,6 +1648,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 314--315
 Chapter 1.
 1: section
 [1
+
 
 
 ]
@@ -1713,11 +1707,7 @@ Overfull \hbox (39.7649pt too wide) in paragraph at lines 24--26
 ]
 \openout2 = `Chapters/4_Objectives.aux'.
 
- (Chapters/4_Objectives.tex [6
-
-
-
-]
+ (Chapters/4_Objectives.tex
 Chapter 4.
 
 Overfull \hbox (3.22534pt too wide) in paragraph at lines 24--26
@@ -1727,37 +1717,36 @@ Overfull \hbox (3.22534pt too wide) in paragraph at lines 24--26
 
 )
 1: section
-[7]
-\openout2 = `Chapters/5_TheoreticalFramework.aux'.
-
- (Chapters/5_TheoreticalFramework.tex [8
+[6
 
 
 
 ]
+\openout2 = `Chapters/5_TheoreticalFramework.aux'.
+
+ (Chapters/5_TheoreticalFramework.tex
 Chapter 5.
 )
 1: section
-[9]
-\openout2 = `Chapters/6_Methodology.aux'.
-
- (Chapters/6_Methodology.tex [10
+[7
 
 
 
 ]
+\openout2 = `Chapters/6_Methodology.aux'.
+
+ (Chapters/6_Methodology.tex
 Chapter 6.
 )
 1: section
-[11]
-\openout2 = `Chapters/7_WorkPlan.aux'.
-
- (Chapters/7_WorkPlan.tex [12
-
+[8
 
 
 
 ]
+\openout2 = `Chapters/7_WorkPlan.aux'.
+
+ (Chapters/7_WorkPlan.tex
 Chapter 7.
 \ganttx=\count451
 \ganttheight=\count452
@@ -1778,16 +1767,32 @@ Missing character: There is no ; in font nullfont!
 Missing character: There is no ; in font nullfont!
 Missing character: There is no ; in font nullfont!
 Missing character: There is no ; in font nullfont!
+Missing character: There is no ; in font nullfont!
+Missing character: There is no ; in font nullfont!
+Missing character: There is no ; in font nullfont!
+Missing character: There is no ; in font nullfont!
+Missing character: There is no ; in font nullfont!
+Missing character: There is no ; in font nullfont!
+Missing character: There is no ; in font nullfont!
+Missing character: There is no ; in font nullfont!
+Missing character: There is no ; in font nullfont!
+Missing character: There is no ; in font nullfont!
+Missing character: There is no ; in font nullfont!
+
+Overfull \hbox (50.06647pt too wide) in paragraph at lines 34--35
+ [] 
+ []
+
 1: section
-[13]) [14
+[9
 
 
 
-]
+
+])
 LaTeX Font Info:    Try loading font information for T1+cmtt on input line 403.
 
-
-("C:\Users\oskat\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\t1cmtt.fd"
+ ("C:\Users\oskat\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\t1cmtt.fd"
 File: t1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 Overfull \hbox (56.38309pt too wide) in paragraph at lines 403--403
@@ -1808,7 +1813,11 @@ lonitrile-based nanofibersA
  []
 
 1: section
-[15]
+[10
+
+
+
+]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 407.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 407.
  (main.aux (Chapters/1_Introduction.aux)
@@ -1820,18 +1829,22 @@ Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 407.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 407.
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 4FF2E55B4E400E1E74BD2AA236C1F222;2171.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 45754 strings out of 492946
- 955791 string characters out of 3126267
- 1322458 words of memory out of 3000000
- 48996 multiletter control sequences out of 15000+200000
+ 45736 strings out of 492946
+ 954344 string characters out of 3126267
+ 1315266 words of memory out of 3000000
+ 49000 multiletter control sequences out of 15000+200000
  571150 words of font info for 84 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 64i,19n,76p,1723b,2012s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 64i,19n,76p,1723b,2002s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\oskat\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\
 ectt1095.pk>{C:/Users/oskat/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/b
 ase/8r.enc}<C:/Users/oskat/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public
@@ -1840,9 +1853,9 @@ ase/8r.enc}<C:/Users/oskat/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public
 9/fonts/type1/urw/palatino/uplr8a.pfb><C:/Users/oskat/AppData/Local/Programs/Mi
 KTeX 2.9/fonts/type1/urw/palatino/uplr8a.pfb><C:/Users/oskat/AppData/Local/Prog
 rams/MiKTeX 2.9/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on main.pdf (23 pages, 163045 bytes).
+Output written on main.pdf (14 pages, 160408 bytes).
 PDF statistics:
- 351 PDF objects out of 1000 (max. 8388607)
- 56 named destinations out of 1000 (max. 500000)
+ 312 PDF objects out of 1000 (max. 8388607)
+ 47 named destinations out of 1000 (max. 500000)
  142 words of extra memory for PDF output out of 10000 (max. 10000000)
 
