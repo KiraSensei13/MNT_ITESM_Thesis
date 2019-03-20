@@ -19,6 +19,52 @@
 
 \refsection{0}
   \datalist[entry]{nty/global//global/global}
+    \entry{Boer2014}{book}{}
+      \name{author}{2}{}{%
+        {{hash=6ee0b9d745395aec58364116f478ad83}{%
+           family={Boer},
+           familyi={B\bibinitperiod},
+           given={Jan},
+           giveni={J\bibinitperiod}}}%
+        {{hash=3a6129b009480e2b48357c084952ac5f}{%
+           family={Blitterswijk},
+           familyi={B\bibinitperiod},
+           given={Clemens},
+           giveni={C\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=c17ecddc870b4029c785f761dfae3d5f}{%
+           family={AP},
+           familyi={A\bibinitperiod},
+           given={Academic\bibnamedelimb Press\bibnamedelimb of\bibnamedelima Elsevier},
+           giveni={A\bibinitperiod\bibinitdelim P\bibinitperiod\bibinitdelim o\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Safary O Reilly}%
+      }
+      \strng{namehash}{56066dd29791c1c4d49497e2eb2a825a}
+      \strng{fullhash}{56066dd29791c1c4d49497e2eb2a825a}
+      \strng{bibnamehash}{56066dd29791c1c4d49497e2eb2a825a}
+      \strng{authorbibnamehash}{56066dd29791c1c4d49497e2eb2a825a}
+      \strng{authornamehash}{56066dd29791c1c4d49497e2eb2a825a}
+      \strng{authorfullhash}{56066dd29791c1c4d49497e2eb2a825a}
+      \strng{editorbibnamehash}{c17ecddc870b4029c785f761dfae3d5f}
+      \strng{editornamehash}{c17ecddc870b4029c785f761dfae3d5f}
+      \strng{editorfullhash}{c17ecddc870b4029c785f761dfae3d5f}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{2nd}
+      \field{title}{{Tissue Engineering}}
+      \field{year}{2014}
+      \verb{urlraw}
+      \verb https://learning.oreilly.com/library/view/tissue-engineering-2nd/9780124201453/XHTML/B9780124201453000109/B9780124201453000109.xhtml
+      \endverb
+      \verb{url}
+      \verb https://learning.oreilly.com/library/view/tissue-engineering-2nd/9780124201453/XHTML/B9780124201453000109/B9780124201453000109.xhtml
+      \endverb
+    \endentry
     \entry{Cardenas2017}{article}{}
       \name{author}{1}{}{%
         {{hash=8d4ac068a71a022961deb3984c42740c}{%
@@ -112,6 +158,64 @@
       \endverb
       \verb{url}
       \verb https://0-www-sciencedirect-com.millenium.itesm.mx/science/article/pii/S0021979719302152
+      \endverb
+    \endentry
+    \entry{Hribar2014}{article}{}
+      \name{author}{5}{}{%
+        {{hash=f8092cdc5a30cb27847be6ce9b798482}{%
+           family={Hribar},
+           familyi={H\bibinitperiod},
+           given={Kolin\bibnamedelima C},
+           giveni={K\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=d567830ceb1be13d5ab51e30c76dde85}{%
+           family={Soman},
+           familyi={S\bibinitperiod},
+           given={Pranav},
+           giveni={P\bibinitperiod}}}%
+        {{hash=4ce4567e85bc1e8d7872330f4a781156}{%
+           family={Warner},
+           familyi={W\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod}}}%
+        {{hash=ba8bed9cfabe738efd07854f60013792}{%
+           family={Chung},
+           familyi={C\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod}}}%
+        {{hash=f9096e59822a721d1e88394e3b911e43}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Shaochen},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{a751cfdf4add1d875f11fdf1a52150fb}
+      \strng{fullhash}{4729a0a65aeeb7f0a66e4b47f95c1306}
+      \strng{bibnamehash}{a751cfdf4add1d875f11fdf1a52150fb}
+      \strng{authorbibnamehash}{a751cfdf4add1d875f11fdf1a52150fb}
+      \strng{authornamehash}{a751cfdf4add1d875f11fdf1a52150fb}
+      \strng{authorfullhash}{4729a0a65aeeb7f0a66e4b47f95c1306}
+      \field{sortinit}{H}
+      \field{sortinithash}{5f15a7bc777ad49ff15aa4d2831b1681}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Light-assisted 3D direct-printing of biomaterials and cellular-scaffolds has the potential to develop novel lab-on-a-chip devices (LOCs) for a variety of biomedical applications, from drug discovery and diagnostic testing to in vitro tissue engineering and regeneration. Direct-writing describes a broad family of fabrication methods that typically employ computer-controlled translational stages to manufacture structures at multi-length scales. This review focuses on light-assisted direct-write fabrication for generating 3D functional scaffolds with precise micro- and nano-architecture, using both synthetic as well as naturally derived biomaterials. Two bioprinting approaches are discussed in detail - projection printing and laser-based systems - where each method is capable of modulating multiple scaffold parameters, such as 3D architecture, mechanical properties (e.g. stiffness), Poisson's ratio, chemical gradients, biological cell distributions, and porosity. The light-assisted direct-writing techniques described in this review provide the reader with alternative approaches to fabricate 3D biomaterials for utility in LOCs.}
+      \field{issn}{1473-0189}
+      \field{journaltitle}{Lab on a chip}
+      \field{month}{1}
+      \field{number}{2}
+      \field{title}{{Light-assisted direct-write of 3D functional biomaterials.}}
+      \field{volume}{14}
+      \field{year}{2014}
+      \field{pages}{268\bibrangedash 75}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1039/c3lc50634g
+      \endverb
+      \verb{urlraw}
+      \verb http://www.ncbi.nlm.nih.gov/pubmed/24257507
+      \endverb
+      \verb{url}
+      \verb http://www.ncbi.nlm.nih.gov/pubmed/24257507
       \endverb
     \endentry
     \entry{Madou2011}{article}{}
@@ -230,6 +334,48 @@
       \endverb
       \verb{url}
       \verb https://0-www-sciencedirect-com.millenium.itesm.mx/science/article/pii/S0079670011000931
+      \endverb
+    \endentry
+    \entry{Ovsianikov2012}{article}{}
+      \name{author}{4}{}{%
+        {{hash=5c22e486c42a327a1227e45be0bdde8c}{%
+           family={Ovsianikov},
+           familyi={O\bibinitperiod},
+           given={Aleksandr},
+           giveni={A\bibinitperiod}}}%
+        {{hash=9069f5da83ab094830c2021d96c089eb}{%
+           family={Mironov},
+           familyi={M\bibinitperiod},
+           given={Vladimir},
+           giveni={V\bibinitperiod}}}%
+        {{hash=704f99072e4cff76e1051615d85f6501}{%
+           family={Stampfl},
+           familyi={S\bibinitperiod},
+           given={Jurgen},
+           giveni={J\bibinitperiod}}}%
+        {{hash=00faf82365d66cf2b4499a7ae32c365c}{%
+           family={Liska},
+           familyi={L\bibinitperiod},
+           given={Robert},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{27d6af3ffd7a7312e2340f4ae2fca8f2}
+      \strng{fullhash}{07eb87b601c8cf7d097b0b70a3b043af}
+      \strng{bibnamehash}{27d6af3ffd7a7312e2340f4ae2fca8f2}
+      \strng{authorbibnamehash}{27d6af3ffd7a7312e2340f4ae2fca8f2}
+      \strng{authornamehash}{27d6af3ffd7a7312e2340f4ae2fca8f2}
+      \strng{authorfullhash}{07eb87b601c8cf7d097b0b70a3b043af}
+      \field{sortinit}{O}
+      \field{sortinithash}{dad3efd0836470093a7b4a7bb756eb8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Expert review of medical devices}
+      \field{month}{09}
+      \field{title}{Engineering 3D cell-culture matrices: Multiphoton processing technologies for biological and tissue engineering applications}
+      \field{volume}{9}
+      \field{year}{2012}
+      \verb{doi}
+      \verb 10.1586/erd.12.48
       \endverb
     \endentry
     \entry{Siddiqui2019}{article}{}
