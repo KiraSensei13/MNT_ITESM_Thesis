@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.6960 64-bit) (preloaded format=pdflatex 2019.2.1)  20 MAR 2019 14:05
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.6960 64-bit) (preloaded format=pdflatex 2019.2.1)  26 MAR 2019 13:41
 entering extended mode
 **./main.tex
 (main.tex
@@ -1341,7 +1341,11 @@ File: english.lbx 2018/11/02 v3.12 biblatex localization (PK/MW)
 )
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
- (main.aux)
+ (main.aux (Chapters/1_Introduction.aux)
+(Chapters/2_ProblmemDefinitionAndMotivation.aux)
+(Chapters/3_HypothesisAndResearchQuestions.aux) (Chapters/4_Objectives.aux)
+(Chapters/5_TheoreticalFramework.aux) (Chapters/6_Methodology.aux)
+(Chapters/7_WorkPlan.aux))
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 152.
@@ -1615,7 +1619,7 @@ niLogo.png>]
 
 ]
 LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <24.88> not available
-(Font)              Font shape `T1/ppl/b/n' tried instead on input line 301.
+(Font)              Font shape `T1/ppl/b/n' tried instead on input line 304.
  (main.toc
 LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <10.95> not available
 (Font)              Font shape `T1/ppl/b/n' tried instead on input line 3.
@@ -1633,7 +1637,7 @@ LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <10.95> not available
  Abstract
 --------------------
 
-Underfull \hbox (badness 10000) in paragraph at lines 314--315
+Underfull \hbox (badness 10000) in paragraph at lines 317--318
 
  []
 
@@ -1790,24 +1794,24 @@ Overfull \hbox (50.06647pt too wide) in paragraph at lines 34--35
 
 
 ])
-LaTeX Font Info:    Try loading font information for T1+cmtt on input line 403.
+LaTeX Font Info:    Try loading font information for T1+cmtt on input line 406.
 
  ("C:\Users\oskat\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\t1cmtt.fd"
 File: t1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-Overfull \hbox (56.38309pt too wide) in paragraph at lines 403--403
+Overfull \hbox (56.38309pt too wide) in paragraph at lines 406--406
 \T1/cmtt/m/n/10.95 library / view / tissue -[] engineering -[] 2nd / 9780124201
 453 / XHTML / B9780124201453000109 /
  []
 
 
-Overfull \hbox (5.08537pt too wide) in paragraph at lines 403--403
+Overfull \hbox (5.08537pt too wide) in paragraph at lines 406--406
 []\T1/ppl/m/n/10.95 Marc J. Madou et al.   Con-trolled Con-tin-u-ous Pat-tern-
 ing of Poly-meric Nanofibers
  []
 
 
-Overfull \hbox (32.5328pt too wide) in paragraph at lines 403--403
+Overfull \hbox (32.5328pt too wide) in paragraph at lines 406--406
 []\T1/ppl/m/n/10.95 S.K. Nataraj, K.S. Yang, and T.M. Am-inab-havi.   Polyacry
 lonitrile-based nanofibersA
  []
@@ -1818,30 +1822,26 @@ lonitrile-based nanofibersA
 
 
 ]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 407.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 407.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 410.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 410.
  (main.aux (Chapters/1_Introduction.aux)
 (Chapters/2_ProblmemDefinitionAndMotivation.aux)
 (Chapters/3_HypothesisAndResearchQuestions.aux) (Chapters/4_Objectives.aux)
 (Chapters/5_TheoreticalFramework.aux) (Chapters/6_Methodology.aux)
 (Chapters/7_WorkPlan.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 407.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 407.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 410.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 410.
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 4FF2E55B4E400E1E74BD2AA236C1F222;2171.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 45736 strings out of 492946
- 954344 string characters out of 3126267
- 1315266 words of memory out of 3000000
- 49000 multiletter control sequences out of 15000+200000
+ 45757 strings out of 492946
+ 955935 string characters out of 3126267
+ 1332497 words of memory out of 3000000
+ 49007 multiletter control sequences out of 15000+200000
  571150 words of font info for 84 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  64i,19n,76p,1723b,2002s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1853,7 +1853,7 @@ ase/8r.enc}<C:/Users/oskat/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public
 9/fonts/type1/urw/palatino/uplr8a.pfb><C:/Users/oskat/AppData/Local/Programs/Mi
 KTeX 2.9/fonts/type1/urw/palatino/uplr8a.pfb><C:/Users/oskat/AppData/Local/Prog
 rams/MiKTeX 2.9/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on main.pdf (14 pages, 160408 bytes).
+Output written on main.pdf (14 pages, 160812 bytes).
 PDF statistics:
  312 PDF objects out of 1000 (max. 8388607)
  47 named destinations out of 1000 (max. 500000)
