@@ -1,0 +1,48 @@
+% Chapter Template
+\begin{landscape}
+
+\chapter{Work Plan} % Main chapter title
+
+\label{Chapter:WorkPlan}
+
+\subsubsection*{\color{mygray}[Chapter under work]}
+%Once the Methodology has been established, it is important to set up the corresponding activities in an organized and timely manner. This is done using a Workplan Schedule. This provides us a clear idea of the amount of work needed expressed in periods of time.
+
+% move margin to fit table
+\leftskip-3em
+
+% \begin{gantt}{rows}{columns}
+\begin{gantt}{7}{24}
+\begin{ganttitle}
+% \numtitle{from}{step}{to}{width}
+\numtitle{2019}{1}{2020}{12}
+\end{ganttitle}
+
+\begin{ganttitle}
+\numtitle{1}{1}{12}{1}
+\numtitle{1}{1}{12}{1}
+\end{ganttitle}
+
+% Tasks ...
+% \ganttbar{taskName}{start}{duration}
+\ganttbar{Literature}{0}{5} %Jan
+\ganttbarcon{Thesis Kick-off}{5}{2} %Jun
+\ganttbarcon{Methodology}{7}{10} %Aug
+\ganttbarcon{Write Thesis}{12}{7}
+\ganttbarcon{Submit \& Defend}{19}{5}
+
+\end{gantt}
+
+\end{landscape}
+
+%----------------------------------------------------------------------------------------
+%	SECTION 1
+%----------------------------------------------------------------------------------------
+
+
+
+%-----------------------------------
+%	SUBSECTION 1
+%-----------------------------------
+
+
