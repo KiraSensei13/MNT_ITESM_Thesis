@@ -57,6 +57,7 @@ chapterinoneline,
 
 % Output font encoding for international characters
 \usepackage[T1]{fontenc}
+\usepackage{textcomp} % support the degree symbol
 
 % Use the Palatino font by default
 \usepackage{mathpazo}
@@ -327,8 +328,6 @@ School of Engineering and Sciences\\
 
 \textbf{NFES} & \textbf{N}ear \textbf{F}ield de \textbf{E}lectro\textbf{s}pinning\\
 
-\textbf{SU-8} & a photoresist\\
-
 \end{abbreviations}
 
 %----------------------------------------------------------------------------------------
@@ -401,6 +400,12 @@ Carbon nano-wires are versatile materials composed of carbon chains with a wide 
 %\include{Chapters/__IntroToLaTeX} 
 
 %----------------------------------------------------------------------------------------
+%	BIBLIOGRAPHY
+%----------------------------------------------------------------------------------------
+
+\printbibliography[title={References}]
+
+%----------------------------------------------------------------------------------------
 %	THESIS CONTENT - APPENDICES
 %----------------------------------------------------------------------------------------
 
@@ -412,12 +417,6 @@ Carbon nano-wires are versatile materials composed of carbon chains with a wide 
 %\include{Appendices/AppendixA}
 %\include{Appendices/AppendixB}
 %\include{Appendices/AppendixC}
-
-%----------------------------------------------------------------------------------------
-%	BIBLIOGRAPHY
-%----------------------------------------------------------------------------------------
-
-\printbibliography[title={References}]
 
 %----------------------------------------------------------------------------------------
 

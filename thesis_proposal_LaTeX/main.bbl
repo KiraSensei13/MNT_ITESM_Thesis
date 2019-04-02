@@ -259,6 +259,40 @@
       \verb http://www.ncbi.nlm.nih.gov/pubmed/24257507
       \endverb
     \endentry
+    \entry{Landis2011}{book}{}
+      \name{author}{1}{}{%
+        {{hash=242eca1f846e4d24d346782fb85498a7}{%
+           family={Landis},
+           familyi={L\bibinitperiod},
+           given={Stefan.},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {ISTE}%
+      }
+      \strng{namehash}{242eca1f846e4d24d346782fb85498a7}
+      \strng{fullhash}{242eca1f846e4d24d346782fb85498a7}
+      \strng{bibnamehash}{242eca1f846e4d24d346782fb85498a7}
+      \strng{authorbibnamehash}{242eca1f846e4d24d346782fb85498a7}
+      \strng{authornamehash}{242eca1f846e4d24d346782fb85498a7}
+      \strng{authorfullhash}{242eca1f846e4d24d346782fb85498a7}
+      \field{sortinit}{L}
+      \field{sortinithash}{2c7981aaabc885868aba60f0c09ee20f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Ch. 1. X-ray lithography : fundamentals and applications -- ch. 2. NanoImprint lithography -- ch. 3. Lithography techniques using scanning probe microscopy -- ch. 4. Lithography and manipulation based on the optical properties of metal nanostructures -- ch. 5. Patterning with self-assembling block copolymers -- ch. 6. Metrology for lithography.}
+      \field{isbn}{9781848212114}
+      \field{title}{{Nano-lithography}}
+      \field{year}{2011}
+      \field{pages}{325}
+      \range{pages}{1}
+      \verb{urlraw}
+      \verb https://learning.oreilly.com/library/view/nano-lithography/9781118621707/
+      \endverb
+      \verb{url}
+      \verb https://learning.oreilly.com/library/view/nano-lithography/9781118621707/
+      \endverb
+    \endentry
     \entry{Madou2011}{article}{}
       \name{author}{7}{}{%
         {{hash=1c627bd3627cfed92c3976ee507d3e9a}{%
@@ -323,6 +357,46 @@
       \endverb
       \keyw{abrication of polymeric nano,attention from researchers due,considerable,electrospinning,fi bers has attracted,mems,micro,microelectromechanical systems,microfabrication,nanopatterning,of applica-,polymeric nano fi ber,suspended nano fi bers,to a wide variety}
     \endentry
+    \entry{Mekaru2015}{article}{}
+      \name{author}{1}{}{%
+        {{hash=6475ef7bff3752db71e7c449df7a259f}{%
+           family={Mekaru},
+           familyi={M\bibinitperiod},
+           given={Harutaka},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{6475ef7bff3752db71e7c449df7a259f}
+      \strng{fullhash}{6475ef7bff3752db71e7c449df7a259f}
+      \strng{bibnamehash}{6475ef7bff3752db71e7c449df7a259f}
+      \strng{authorbibnamehash}{6475ef7bff3752db71e7c449df7a259f}
+      \strng{authornamehash}{6475ef7bff3752db71e7c449df7a259f}
+      \strng{authorfullhash}{6475ef7bff3752db71e7c449df7a259f}
+      \field{sortinit}{M}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In combination with tapered-trench-etching of Si and SU-8 photoresist, a grayscale mask for deep X-ray lithography was fabricated and passed a 10-times-exposure test. The performance of the X-ray grayscale mask was evaluated using the TERAS synchrotron radiation facility at the National Institute of Advanced Industrial Science and Technology (AIST). Although the SU-8 before photo-curing has been evaluated as a negative-tone photoresist for ultraviolet (UV) and X-ray lithographies, the characteristic of the SU-8 after photo-curing has not been investigated. A polymethyl methacrylate (PMMA) sheet was irradiated by a synchrotron radiation through an X-ray mask, and relationships between the dose energy and exposure depth, and between the dose energy and dimensional transition, were investigated. Using such a technique, the shape of a 26-mu m-high Si absorber was transformed into the shape of a PMMA microneedle with a height of 76 mu m, and done with a high contrast. Although during the fabrication process of the X-ray mask a 100-mu m-pattern-pitch (by design) was enlarged to 120 mu m. However, with an increase in an integrated dose energy this number decreased to 99 mu m. These results show that the X-ray grayscale mask has many practical applications. In this paper, the author reports on the evaluation results of SU-8 when used as a membrane material for an X-ray mask.}
+      \field{journaltitle}{Micromachines}
+      \field{month}{2}
+      \field{number}{2}
+      \field{title}{{Performance of SU-8 Membrane Suitable for Deep X-Ray Grayscale Lithography}}
+      \field{volume}{6}
+      \field{year}{2015}
+      \field{pages}{252\bibrangedash 265}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.3390/mi6020252
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/oskat/OneDrive - Instituto Tecnologico y de Estudios Superiores de Monterrey/Documents/MNT{\_}ITESM{\_}Thesis/relatedArticles/Performance{\_}of{\_}SU-8{\_}Membrane{\_}Suitable{\_}for{\_}Deep{\_}X-R.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://www.mdpi.com/2072-666X/6/2/252
+      \endverb
+      \verb{url}
+      \verb http://www.mdpi.com/2072-666X/6/2/252
+      \endverb
+    \endentry
     \entry{Nataraj2012}{article}{}
       \name{author}{3}{}{%
         {{hash=2bf36def800110e0ddd5a6954a53eb68}{%
@@ -377,46 +451,111 @@
       \verb https://0-www-sciencedirect-com.millenium.itesm.mx/science/article/pii/S0079670011000931
       \endverb
     \endentry
-    \entry{Ovsianikov2012}{article}{}
+    \entry{Schuster2009}{article}{}
       \name{author}{4}{}{%
-        {{hash=5c22e486c42a327a1227e45be0bdde8c}{%
-           family={Ovsianikov},
-           familyi={O\bibinitperiod},
-           given={Aleksandr},
-           giveni={A\bibinitperiod}}}%
-        {{hash=9069f5da83ab094830c2021d96c089eb}{%
-           family={Mironov},
-           familyi={M\bibinitperiod},
-           given={Vladimir},
-           giveni={V\bibinitperiod}}}%
-        {{hash=704f99072e4cff76e1051615d85f6501}{%
-           family={Stampfl},
+        {{hash=a97543700f36cb9b8f7de8437c97b5d9}{%
+           family={Schuster},
            familyi={S\bibinitperiod},
-           given={Jurgen},
-           giveni={J\bibinitperiod}}}%
-        {{hash=00faf82365d66cf2b4499a7ae32c365c}{%
-           family={Liska},
-           familyi={L\bibinitperiod},
-           given={Robert},
-           giveni={R\bibinitperiod}}}%
+           given={Christine},
+           giveni={C\bibinitperiod}}}%
+        {{hash=49dc0aa79aeb20a08e8e37b5a1a894ee}{%
+           family={Reuther},
+           familyi={R\bibinitperiod},
+           given={Freimut},
+           giveni={F\bibinitperiod}}}%
+        {{hash=ccfbb75ed300cd246b3069c117062d5b}{%
+           family={Kolander},
+           familyi={K\bibinitperiod},
+           given={Anett},
+           giveni={A\bibinitperiod}}}%
+        {{hash=318678b01eca89144183121aa7caa79f}{%
+           family={Gruetzner},
+           familyi={G\bibinitperiod},
+           given={Gabi},
+           giveni={G\bibinitperiod}}}%
       }
-      \strng{namehash}{27d6af3ffd7a7312e2340f4ae2fca8f2}
-      \strng{fullhash}{07eb87b601c8cf7d097b0b70a3b043af}
-      \strng{bibnamehash}{27d6af3ffd7a7312e2340f4ae2fca8f2}
-      \strng{authorbibnamehash}{27d6af3ffd7a7312e2340f4ae2fca8f2}
-      \strng{authornamehash}{27d6af3ffd7a7312e2340f4ae2fca8f2}
-      \strng{authorfullhash}{07eb87b601c8cf7d097b0b70a3b043af}
-      \field{sortinit}{O}
-      \field{sortinithash}{dad3efd0836470093a7b4a7bb756eb8c}
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{dda6b0840090bd4f648f762c40db502f}
+      \strng{fullhash}{7bd1c9cfb0883d59436173766131edaa}
+      \strng{bibnamehash}{dda6b0840090bd4f648f762c40db502f}
+      \strng{authorbibnamehash}{dda6b0840090bd4f648f762c40db502f}
+      \strng{authornamehash}{dda6b0840090bd4f648f762c40db502f}
+      \strng{authorfullhash}{7bd1c9cfb0883d59436173766131edaa}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Expert review of medical devices}
-      \field{month}{09}
-      \field{title}{Engineering 3D cell-culture matrices: Multiphoton processing technologies for biological and tissue engineering applications}
-      \field{volume}{9}
-      \field{year}{2012}
+      \field{abstract}{The aim of the work presented here was to develop curing polymers for nanoimprint lithography (NIL) enabling short cycle time, low imprint temperature, and an isothermal imprint process. The result is mr-NIL 6000LT: A photochemically curing polymer system for isothermal imprinting by combined thermal and UV nanoimprint lithography. It allows a lower imprint temperature than materials presented previously [C. Schuster, M. Kubenz, F. Reuther, M. Fink, G. Gr{ü}tzner, mr-NIL 6000 – New epoxy-based curing resist for efficient processing in combined thermal and UV nanoimprint lithography, in: Proceedings of SPIE 6517 2007, 65172B.; D.W. Johnson, H. Miller, M. Kubenz, F. Reuther, G. Gr{ü}tzner, Nanoimprinting with SU-8 Epoxy Resists, in: Proceedings of SPIE 6517 2007, 65172A.]. The material system chosen is based on a blend of epoxy resins and a photo acid generator. Such epoxy resists cure during the imprint step in combined thermal and UV nanoimprint lithography. Initiated by UV exposure the cationic polymerisation occurs at elevated temperature forming a polymer pattern with significantly increased thermal stability compared to the uncured system. Apart from the material development leading to mr-NIL 6000LT the correlations between the parameters imprint temperature, exposure time and post exposure hold time are investigated in this work. With the applied resin combination a Tg of −15°C is obtained. This enables the formation of solid films at room temperature after spin-coating and prebake and nevertheless imprint temperatures in the range of 45–50°C, which is a distinct decrease compared to the 100–110°C needed for the previously introduced mr-NIL 6000 [C. Schuster, M. Kubenz, F. Reuther, M. Fink, G. Gr{ü}tzner, mr-NIL 6000 – New epoxy-based curing resist for efficient processing in combined thermal and UV nanoimprint lithography, in: Proceedings of SPIE 6517 2007, 65172B.] or the 65–70°C necessary for defect-free imprinting of the epoxy-based polymer described in [D.W. Johnson, H. Miller, M. Kubenz, F. Reuther, G. Gr{ü}tzner, Nanoimprinting with SU-8 Epoxy Resists, in: Proceedings of SPIE 6517 2007, 65172A.]. mr-NIL 6000LT exhibits good dimensional stability at 120°C after curing during the imprint process. This is sufficient for an isothermal imprint process as well as subsequent processes, e.g. metallization or etching.}
+      \field{journaltitle}{Microelectronic Engineering}
+      \field{month}{4}
+      \field{number}{4-6}
+      \field{title}{{mr-NIL 6000LT – Epoxy-based curing resist for combined thermal and UV nanoimprint lithography below 50 °C}}
+      \field{volume}{86}
+      \field{year}{2009}
+      \field{pages}{722\bibrangedash 725}
+      \range{pages}{4}
       \verb{doi}
-      \verb 10.1586/erd.12.48
+      \verb 10.1016/J.MEE.2008.12.018
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/abs/pii/S0167931708006400
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/abs/pii/S0167931708006400
+      \endverb
+    \endentry
+    \entry{Sharma2012}{report}{}
+      \name{author}{4}{}{%
+        {{hash=c210d0ebc375b8d22861bd4ffc808737}{%
+           family={Sharma},
+           familyi={S\bibinitperiod},
+           given={Maneesh},
+           giveni={M\bibinitperiod}}}%
+        {{hash=0bc02d36ba0b04488c5b1e6b80c6c8a1}{%
+           family={Naik},
+           familyi={N\bibinitperiod},
+           given={Anant\bibnamedelima A},
+           giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=7d85b0ef6a1909366ecd6549d2e0dc52}{%
+           family={Raghunathan},
+           familyi={R\bibinitperiod},
+           given={P},
+           giveni={P\bibinitperiod}}}%
+        {{hash=8c00fc0afbdc40dc276ed03f361b8d07}{%
+           family={Eswaran},
+           familyi={E\bibinitperiod},
+           given={S\bibnamedelima V},
+           giveni={S\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+      }
+      \strng{namehash}{31e3b37e3b307f7da783b33a518721e0}
+      \strng{fullhash}{49f9a524c83dfb1a3844ed476152f66a}
+      \strng{bibnamehash}{31e3b37e3b307f7da783b33a518721e0}
+      \strng{authorbibnamehash}{31e3b37e3b307f7da783b33a518721e0}
+      \strng{authornamehash}{31e3b37e3b307f7da783b33a518721e0}
+      \strng{authorfullhash}{49f9a524c83dfb1a3844ed476152f66a}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Lithographic evaluation of a 'deep UV' negative photoresist is discussed along with the synthesis of an alternating 'high-ortho' novolak resin. 2-D NMR studies (COSY, NOESY, HSQC, HMBC) on this resin are also discussed.}
+      \field{booktitle}{J. Chem. Sci}
+      \field{number}{2}
+      \field{title}{{Evaluation of microlithographic performance of 'deep UV' resists: Synthesis, and 2D NMR studies on alternating 'high ortho' novolak resins}}
+      \field{type}{techreport}
+      \field{volume}{124}
+      \field{year}{2012}
+      \field{pages}{395\bibrangedash 401}
+      \range{pages}{7}
+      \verb{file}
+      \verb :C$\backslash$:/Users/oskat/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Sharma et al. - 2012 - Evaluation of microlithographic performance of 'deep UV' resists Synthesis, and 2D NMR studies on alternating 'hi.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb www.ias.ac.in/chemsci
+      \endverb
+      \verb{url}
+      \verb www.ias.ac.in/chemsci
       \endverb
     \endentry
     \entry{Siddiqui2019}{article}{}
@@ -506,6 +645,266 @@
       \endverb
       \verb{url}
       \verb https://0-www-sciencedirect-com.millenium.itesm.mx/science/article/pii/S2213343718307358
+      \endverb
+    \endentry
+    \entry{Singla2010}{report}{}
+      \name{author}{2}{}{%
+        {{hash=2d145627b9e16cf626780f65def68cb5}{%
+           family={Singla},
+           familyi={S\bibinitperiod},
+           given={Manoj},
+           giveni={M\bibinitperiod}}}%
+        {{hash=a65aba86329c2353c73920a0aed64c37}{%
+           family={Chawla},
+           familyi={C\bibinitperiod},
+           given={Vikas},
+           giveni={V\bibinitperiod}}}%
+      }
+      \strng{namehash}{9790fc9887e5679c400cc74687f92c3e}
+      \strng{fullhash}{9790fc9887e5679c400cc74687f92c3e}
+      \strng{bibnamehash}{9790fc9887e5679c400cc74687f92c3e}
+      \strng{authorbibnamehash}{9790fc9887e5679c400cc74687f92c3e}
+      \strng{authornamehash}{9790fc9887e5679c400cc74687f92c3e}
+      \strng{authorfullhash}{9790fc9887e5679c400cc74687f92c3e}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{There has been significant increase in use of glass fibre reinforced composites as structural materials in naval mine countermeasure surface ships. Sea mines when detonated emit underwater shock waves, which could impart severe loading to naval ship structure; there are attempts to model the response of a ship structure to this loading. For the model to be accurate {\&} useful material property data determined experimentally by taking different weight percentage of glass fibers (E-300, mat form) with epoxy resin {\&} comparison with fly ash reinforced composite. Specimens in the form of cube of size 10X10X10 (mm's) are used {\&} results are presented. Fracture behaviour of composite can also be studied using SEM. SEM analysis is done to observe distribution of fly ash particles in matrix, resin fly ash interface, glass fibre matrix interface, glass fibre distribution etc,.}
+      \field{booktitle}{Journal of Minerals {\&} Materials Characterization {\&} Engineering}
+      \field{number}{3}
+      \field{title}{{Mechanical Properties of Epoxy Resin-Fly Ash Composite}}
+      \field{type}{techreport}
+      \field{volume}{9}
+      \field{year}{2010}
+      \field{pages}{199\bibrangedash 210}
+      \range{pages}{12}
+      \verb{file}
+      \verb :C$\backslash$:/Users/oskat/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Singla, Chawla - 2010 - Mechanical Properties of Epoxy Resin-Fly Ash Composite.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://file.scirp.org/pdf/JMMCE20100300003{\_}77044062.pdf
+      \endverb
+      \verb{url}
+      \verb http://file.scirp.org/pdf/JMMCE20100300003%7B%5C_%7D77044062.pdf
+      \endverb
+    \endentry
+    \entry{Staab2011}{article}{}
+      \name{author}{4}{}{%
+        {{hash=def2b9e96b947cff37e7334e0df89dd7}{%
+           family={Staab},
+           familyi={S\bibinitperiod},
+           given={Matthias},
+           giveni={M\bibinitperiod}}}%
+        {{hash=08940de5c9fe6a51b64ca8f483d0ea90}{%
+           family={Greiner},
+           familyi={G\bibinitperiod},
+           given={Felix},
+           giveni={F\bibinitperiod}}}%
+        {{hash=d9ee06558ca47cbe01dad90d14eb675b}{%
+           family={Schlosser},
+           familyi={S\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+        {{hash=3da1a6624c69bab24bc4ded3dd775de7}{%
+           family={Schlaak},
+           familyi={S\bibinitperiod},
+           given={Helmut\bibnamedelima F.},
+           giveni={H\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+      }
+      \strng{namehash}{c75dba3293cfd006245d4494245c6e7c}
+      \strng{fullhash}{3ef139b5321af2b623f78d5b6d68e4f4}
+      \strng{bibnamehash}{c75dba3293cfd006245d4494245c6e7c}
+      \strng{authorbibnamehash}{c75dba3293cfd006245d4494245c6e7c}
+      \strng{authornamehash}{c75dba3293cfd006245d4494245c6e7c}
+      \strng{authorfullhash}{3ef139b5321af2b623f78d5b6d68e4f4}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The new acrylic photoresist named AZ 125 nXT is a serious option for low-cost high-aspect-ratio UV LIGA applications. It offers advantages compared to SU-8 like good adhesion to Si substrates, rapid processing, and easy removal after electroplating. Film thicknesses of 400, 800, and 1400 $\backslash$mu $\backslash$m with an aspect ratio of 20 : 1 have been shown by the authors. The photoresist's excellent electroforming behavior has been proved in an extremely acid copper electrolyte at room temperature as well as in an almost neutral nickel electrolyte at 50 {\^{}}$\backslash$circ $\backslash$C. The easy removal (wet: dimethyl sulfoxide or acetone, dry: plasma with reactive radicals) releases freestanding metal structures with aspect ratios of 13 : 1 and 16 : 1. $\backslash$hfill[2010-0307] [ABSTRACT FROM AUTHOR]}
+      \field{journaltitle}{Journal of Microelectromechanical Systems}
+      \field{month}{8}
+      \field{number}{4}
+      \field{title}{{Applications of Novel High-Aspect-Ratio Ultrathick UV Photoresist for Microelectroplating}}
+      \field{volume}{20}
+      \field{year}{2011}
+      \field{pages}{794\bibrangedash 796}
+      \range{pages}{3}
+      \verb{doi}
+      \verb 10.1109/JMEMS.2011.2159098
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/oskat/OneDrive - Instituto Tecnologico y de Estudios Superiores de Monterrey/Documents/MNT{\_}ITESM{\_}Thesis/relatedArticles/applicationsnovelHighAspectRatioUVphotoresist.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://ieeexplore.ieee.org/document/5948317/
+      \endverb
+      \verb{url}
+      \verb http://ieeexplore.ieee.org/document/5948317/
+      \endverb
+    \endentry
+    \entry{Sutikno2016}{article}{}
+      \name{author}{3}{}{%
+        {{hash=ecd4e00e340070e1ade28a768b1ef754}{%
+           family={Sutikno},
+           familyi={S\bibinitperiod},
+           given={Sutikno},
+           giveni={S\bibinitperiod}}}%
+        {{hash=893317535bdfe42ba509e150f75c85b8}{%
+           family={Hakim},
+           familyi={H\bibinitperiod},
+           given={Muhammad},
+           giveni={M\bibinitperiod}}}%
+        {{hash=d05d347614e77c9f1a4239baa0fc7555}{%
+           family={Sugianto},
+           familyi={S\bibinitperiod},
+           given={Sugianto},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{7cfedb5e463d30faf86c3dddf0678db5}
+      \strng{fullhash}{7cfedb5e463d30faf86c3dddf0678db5}
+      \strng{bibnamehash}{7cfedb5e463d30faf86c3dddf0678db5}
+      \strng{authorbibnamehash}{7cfedb5e463d30faf86c3dddf0678db5}
+      \strng{authornamehash}{7cfedb5e463d30faf86c3dddf0678db5}
+      \strng{authorfullhash}{7cfedb5e463d30faf86c3dddf0678db5}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Phenol-basedphotoresist for photolithography application is successfully developed in this research namely by mixing phenolic resin with ethanol solvent and sodium acetate 3-hydrate 30{\%} of phenolic resin mass. Novolac phenolic resin is made by mixing formaldehyde and phenol in mol ratio 2,8:1 catalyzed using NaOH. Phenolic resin is made at heating temperature of 85°C and stirring rotation speed of 1000 rpm. Photoresist thin film is spincoated on the glass substrate and prebaked on the hotplate at 95°C for 60 s. The research result shows that microstructures of resist film which are manufactured of resol phenolic resin seem more homogeneous than that of novolac phenolic resin. The maximum absorbance is in the wavelength range of 380-500 nm, its density and viscosity are 1,41 g/ml and 198 centipoise, respectively.}
+      \field{journaltitle}{Oriental Journal of Chemistry}
+      \field{month}{3}
+      \field{number}{1}
+      \field{title}{{Synthesis of Phenolic-Based Resist Materials for Photolithography}}
+      \field{volume}{32}
+      \field{year}{2016}
+      \field{pages}{165\bibrangedash 170}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.13005/ojc/320117
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/oskat/OneDrive - Instituto Tecnologico y de Estudios Superiores de Monterrey/Documents/MNT{\_}ITESM{\_}Thesis/relatedArticles/SynthesisOfPhenolicBasedResistMaterials.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://www.orientjchem.org/vol32no1/synthesis-of-phenolic-based-resist-materials-for-photolithography/
+      \endverb
+      \verb{url}
+      \verb http://www.orientjchem.org/vol32no1/synthesis-of-phenolic-based-resist-materials-for-photolithography/
+      \endverb
+    \endentry
+    \entry{Xu2014}{article}{}
+      \name{author}{3}{}{%
+        {{hash=1eb406d29eb9b8e5436f4815684a5c44}{%
+           family={Xu},
+           familyi={X\bibinitperiod},
+           given={Guang-Rui},
+           giveni={G\bibinithyphendelim R\bibinitperiod}}}%
+        {{hash=ae39100f40ef645be0a56a1b4c9d9931}{%
+           family={Xu},
+           familyi={X\bibinitperiod},
+           given={Miao-Jun},
+           giveni={M\bibinithyphendelim J\bibinitperiod}}}%
+        {{hash=cd1e4e648b0074e1d1f4427d70297b0a}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Bin},
+           giveni={B\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{441164d7052ceb50cc5497dabbc72e3e}
+      \strng{fullhash}{441164d7052ceb50cc5497dabbc72e3e}
+      \strng{bibnamehash}{441164d7052ceb50cc5497dabbc72e3e}
+      \strng{authorbibnamehash}{441164d7052ceb50cc5497dabbc72e3e}
+      \strng{authornamehash}{441164d7052ceb50cc5497dabbc72e3e}
+      \strng{authorfullhash}{441164d7052ceb50cc5497dabbc72e3e}
+      \field{sortinit}{X}
+      \field{sortinithash}{b0b62a29ee4a21a0e618fed53a0313cc}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The cyclotriphosphazene-based epoxy resin hexa-[4-(glycidyloxycarbonyl) phenoxy]cyclotriphosphazene defined as CTP-EP was successfully synthesized from hexachlorocyclotriphosphazene, p-hydroxybenzaldehyde and epichlorohydrin. Its chemical structure was characterized by Fourier transform infrared (FTIR) spectroscopy, 1H NMR, 13C NMR and 31P NMR spectroscopy. The prepared compound was cured with diamino diphenyl methane (DDM), diamino diphenyl sulfone (DDS) and m-phenylenediamine (mPDA), respectively. The flame retardant properties, thermal degradation behavior and flame retardant mechanism of the cured CTP-EP were investigated. The LOI values of all cured CTP-EP samples increased from 19.9{\%} for cured diglycidyl ether of bisphenol-A (DGEBA) to above 30{\%} and successfully passed UL-94 V-0 rating, which demonstrated that the prepared CTP-EP thermoset exhibited excellent flame retardancy. The dynamic mechanical thermal analysis (DMA) test demonstrated that the glass transition temperature (Tg) enhanced from 155 °C for the cured DGEBA to 167 °C for CTP-EP thermoset. The results of thermogravimetric analysis/infrared spectrometry (TG-IR) tests suggested that the phosphazene group and high aromatic content in CTP-EP thermoset stimulated the dehydration of the matrix at earlier degradation process and the formation of char layer, which retarded the release of pyrolysis gas and enhanced the thermal stability of the cured CTP-EP at high temperature. The cone calorimeter tests (cone) test revealed that heat release rate (HRR), total heat release (THR), smoke production rate (SPR) and total heat production (TSP) of the cured CTP-EP decreased significantly compared with the cured DGEBA. The scanning electron microscopy (SEM) results showed that the phosphazene groups in CTP-EP obviously stimulated the formation of the intumescent, compact and stable char layer, which enhanced the flame retardancy of the matrix during combustion. Consequently, the underlying materials were protected from further degradation and combustion during a fire and result in the efficient flame retardancy of CTP-EP thermoset.}
+      \field{issn}{0141-3910}
+      \field{journaltitle}{Polymer Degradation and Stability}
+      \field{month}{11}
+      \field{title}{{Synthesis and characterization of a novel epoxy resin based on cyclotriphosphazene and its thermal degradation and flammability performance}}
+      \field{volume}{109}
+      \field{year}{2014}
+      \field{pages}{240\bibrangedash 248}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1016/J.POLYMDEGRADSTAB.2014.07.020
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0141391014002808
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0141391014002808
+      \endverb
+    \endentry
+    \entry{Zhang2001}{article}{}
+      \name{author}{5}{}{%
+        {{hash=8afab9bdc9b292debbeb136dfd97036c}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={J},
+           giveni={J\bibinitperiod}}}%
+        {{hash=a15a317143f86f5e74e3456d14e2b488}{%
+           family={Tan},
+           familyi={T\bibinitperiod},
+           given={K\bibnamedelima L},
+           giveni={K\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=7b86ccaac50c9af1066745dba1cca8bb}{%
+           family={Hong},
+           familyi={H\bibinitperiod},
+           given={G\bibnamedelima D},
+           giveni={G\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=7ccc271c487b787a12b7a00654c3af17}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={L\bibnamedelima J},
+           giveni={L\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=dcd518ca509f7cc1e44e17ed4c8ebe3e}{%
+           family={Gong},
+           familyi={G\bibinitperiod},
+           given={H\bibnamedelima Q},
+           giveni={H\bibinitperiod\bibinitdelim Q\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IOP Publishing}%
+      }
+      \strng{namehash}{20caff317817169cad5ad44a90ac50b4}
+      \strng{fullhash}{14661cdea535f01223f438eb73c76ea8}
+      \strng{bibnamehash}{20caff317817169cad5ad44a90ac50b4}
+      \strng{authorbibnamehash}{20caff317817169cad5ad44a90ac50b4}
+      \strng{authornamehash}{20caff317817169cad5ad44a90ac50b4}
+      \strng{authorfullhash}{14661cdea535f01223f438eb73c76ea8}
+      \field{sortinit}{Z}
+      \field{sortinithash}{156173bd08b075d7295bc3e0f4735a04}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In this paper, SU-8 EPON-based photoresist (PR) polymerization optimization and its possible microfluidic and MEMS applications are reported. First, the optimization results of SU-8 under UV lithography are reported. The parameters which could have an influence on the lithography quality were chosen and optimized by a three-level, L9 orthogonal array of the Taguchi method. By optimization, the optimal parameter range and the weighted per cent of a parameter on the final results were determined. For SU-8-5 and SU-8-50, many microstructures with thicknesses of more than 100 and 500 µm and aspect ratios of more than 20 and 50 were obtained with high resolution. The optimization results show that the prebake time plays the key role in the quality, which is different from the previously published results. With the optimization results obtained, some possible applications of SU-8 were developed and demonstrated. These applications included using SU-8 as a structural material for a microfluidic system, as a micromold for electroplating, as a master for plastic hot-embossing, and even as a mask for some wet-etching processes.}
+      \field{journaltitle}{Journal of Micromechanics and Microengineering}
+      \field{month}{1}
+      \field{number}{1}
+      \field{title}{{Polymerization optimization of SU-8 photoresist and its applications in microfluidic systems and MEMS}}
+      \field{volume}{11}
+      \field{year}{2001}
+      \field{pages}{20\bibrangedash 26}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1088/0960-1317/11/1/304
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/oskat/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Zhang et al. - 2001 - Polymerization optimization of SU-8 photoresist and its applications in microfluidic systems and MEMS.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://stacks.iop.org/0960-1317/11/i=1/a=304?key=crossref.7e129e3392c38764a08aee10d49f57a6
+      \endverb
+      \verb{url}
+      \verb http://stacks.iop.org/0960-1317/11/i=1/a=304?key=crossref.7e129e3392c38764a08aee10d49f57a6
       \endverb
     \endentry
   \enddatalist
