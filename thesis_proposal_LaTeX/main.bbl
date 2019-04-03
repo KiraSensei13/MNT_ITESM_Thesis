@@ -19,6 +19,153 @@
 
 \refsection{0}
   \datalist[entry]{nty/global//global/global}
+    \entry{Anton1938}{article}{}
+      \name{author}{1}{}{%
+        {{hash=e34b3c8d277a1584f9dd3b0edf2b028b}{%
+           family={Anton},
+           familyi={A\bibinitperiod},
+           given={Formhals},
+           giveni={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{e34b3c8d277a1584f9dd3b0edf2b028b}
+      \strng{fullhash}{e34b3c8d277a1584f9dd3b0edf2b028b}
+      \strng{bibnamehash}{e34b3c8d277a1584f9dd3b0edf2b028b}
+      \strng{authorbibnamehash}{e34b3c8d277a1584f9dd3b0edf2b028b}
+      \strng{authornamehash}{e34b3c8d277a1584f9dd3b0edf2b028b}
+      \strng{authorfullhash}{e34b3c8d277a1584f9dd3b0edf2b028b}
+      \field{extraname}{1}
+      \field{sortinit}{A}
+      \field{sortinithash}{d77c7cdd82ff690d4c3ef13216f92f0b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Electro-spinning characterised by the electro-spinning apparatus characterised by the electrical field, e.g. combined with a magnetic fields, using biased or alternating fields}
+      \field{month}{8}
+      \field{title}{{Method and apparatus for spinning}}
+      \field{year}{1938}
+      \verb{doi}
+      \verb https://patents.google.com/?q=D01D5%2f0092
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/oskat/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Unknown - 1938 - Method and apparatus for spinning.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://patents.google.com/patent/US2349950A/en
+      \endverb
+      \verb{url}
+      \verb https://patents.google.com/patent/US2349950A/en
+      \endverb
+    \endentry
+    \entry{Anton1930}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=e34b3c8d277a1584f9dd3b0edf2b028b}{%
+           family={Anton},
+           familyi={A\bibinitperiod},
+           given={Formhals},
+           giveni={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{e34b3c8d277a1584f9dd3b0edf2b028b}
+      \strng{fullhash}{e34b3c8d277a1584f9dd3b0edf2b028b}
+      \strng{bibnamehash}{e34b3c8d277a1584f9dd3b0edf2b028b}
+      \strng{authorbibnamehash}{e34b3c8d277a1584f9dd3b0edf2b028b}
+      \strng{authornamehash}{e34b3c8d277a1584f9dd3b0edf2b028b}
+      \strng{authorfullhash}{e34b3c8d277a1584f9dd3b0edf2b028b}
+      \field{extraname}{2}
+      \field{sortinit}{A}
+      \field{sortinithash}{d77c7cdd82ff690d4c3ef13216f92f0b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This invention relates to a process and an apparatus for the production of artificial filaments.}
+      \field{month}{12}
+      \field{title}{{Process and apparatus for preparing artificial threads}}
+      \field{year}{1930}
+      \verb{doi}
+      \verb https://patents.google.com/?q=D01D5%2f0076
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/oskat/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Anton - 1930 - Process and apparatus for preparing artificial threads.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://patents.google.com/patent/US1975504A/en
+      \endverb
+      \verb{url}
+      \verb https://patents.google.com/patent/US1975504A/en
+      \endverb
+    \endentry
+    \entry{Basu2018}{book}{}
+      \name{author}{1}{}{%
+        {{hash=4ede7027ca7abddc63e87e096486c0d7}{%
+           family={Basu},
+           familyi={B\bibinitperiod},
+           given={Prabir},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{4ede7027ca7abddc63e87e096486c0d7}
+      \strng{fullhash}{4ede7027ca7abddc63e87e096486c0d7}
+      \strng{bibnamehash}{4ede7027ca7abddc63e87e096486c0d7}
+      \strng{authorbibnamehash}{4ede7027ca7abddc63e87e096486c0d7}
+      \strng{authornamehash}{4ede7027ca7abddc63e87e096486c0d7}
+      \strng{authorfullhash}{4ede7027ca7abddc63e87e096486c0d7}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{5.1.1 Historical Background}
+      \field{edition}{3rd Editio}
+      \field{title}{{Biomass Gasification, Pyrolysis and Torrefaction - Practical Design and Theory}}
+      \field{year}{2018}
+      \verb{file}
+      \verb :C$\backslash$:/Users/oskat/OneDrive - Instituto Tecnologico y de Estudios Superiores de Monterrey/Documents/MNT{\_}ITESM{\_}Thesis/relatedArticles/Pyrolysis{\_}book.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://app.knovel.com/hotlink/pdf/id:kt011PGVNJ/biomass-gasification/biomass-ga-historical
+      \endverb
+      \verb{url}
+      \verb https://app.knovel.com/hotlink/pdf/id:kt011PGVNJ/biomass-gasification/biomass-ga-historical
+      \endverb
+    \endentry
+    \entry{Baumgarten1971}{article}{}
+      \name{author}{1}{}{%
+        {{hash=bc0d92a8fff1fe59b7e8075ec0fd31b9}{%
+           family={Baumgarten},
+           familyi={B\bibinitperiod},
+           given={Peter\bibnamedelima K},
+           giveni={P\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Academic Press}%
+      }
+      \strng{namehash}{bc0d92a8fff1fe59b7e8075ec0fd31b9}
+      \strng{fullhash}{bc0d92a8fff1fe59b7e8075ec0fd31b9}
+      \strng{bibnamehash}{bc0d92a8fff1fe59b7e8075ec0fd31b9}
+      \strng{authorbibnamehash}{bc0d92a8fff1fe59b7e8075ec0fd31b9}
+      \strng{authornamehash}{bc0d92a8fff1fe59b7e8075ec0fd31b9}
+      \strng{authorfullhash}{bc0d92a8fff1fe59b7e8075ec0fd31b9}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Fibers measuring less than 1 $\mu$ in diameter were spun by electrostatic means from dimethyl formamide (DMF) solutions of acrylic resin. High-speed photographs showed that a single fiber was drawn out from the electrically charged drop which was suspended from a metal capillary. Calculations indicated that spinning velocity probably reached and perhaps exceeded the velocity of sound in air. Electric field maps and other theoretical considerations showed that electric conductivity plays an important role in the spinning mechanism. The effects on fiber diameter and jet length of solution viscosity, surrounding gas, flow rate, voltage, and geometry were determined.}
+      \field{journaltitle}{Journal of Colloid and Interface Science}
+      \field{month}{5}
+      \field{number}{1}
+      \field{title}{{Electrostatic spinning of acrylic microfibers}}
+      \field{volume}{36}
+      \field{year}{1971}
+      \field{pages}{71\bibrangedash 79}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1016/0021-9797(71)90241-4
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/0021979771902414
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/0021979771902414
+      \endverb
+    \endentry
     \entry{Boer2014}{book}{}
       \name{author}{2}{}{%
         {{hash=6ee0b9d745395aec58364116f478ad83}{%
@@ -259,6 +406,110 @@
       \verb http://www.ncbi.nlm.nih.gov/pubmed/24257507
       \endverb
     \endentry
+    \entry{Huang2003}{article}{}
+      \name{author}{4}{}{%
+        {{hash=73642728e96c5886f0d0fd96b9c60968}{%
+           family={Huang},
+           familyi={H\bibinitperiod},
+           given={Zheng-Ming},
+           giveni={Z\bibinithyphendelim M\bibinitperiod}}}%
+        {{hash=48938be01090aca0a5a944b93db17fee}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Y.-Z.},
+           giveni={Y\bibinithyphendelim Z\bibinitperiod}}}%
+        {{hash=c6d205391480f8c52b85d2cded0ee8b5}{%
+           family={Kotaki},
+           familyi={K\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=09f4919ea10f7498bc34040ad07c27b1}{%
+           family={Ramakrishna},
+           familyi={R\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{e2e79df2e3a92c3ee21a2c671fec1dcb}
+      \strng{fullhash}{27363f4c8ac808eb7fcc848d05015aaa}
+      \strng{bibnamehash}{e2e79df2e3a92c3ee21a2c671fec1dcb}
+      \strng{authorbibnamehash}{e2e79df2e3a92c3ee21a2c671fec1dcb}
+      \strng{authornamehash}{e2e79df2e3a92c3ee21a2c671fec1dcb}
+      \strng{authorfullhash}{27363f4c8ac808eb7fcc848d05015aaa}
+      \field{sortinit}{H}
+      \field{sortinithash}{5f15a7bc777ad49ff15aa4d2831b1681}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Electrospinning has been recognized as an efficient technique for the fabrication of polymer nanofibers. Various polymers have been successfully electrospun into ultrafine fibers in recent years mostly in solvent solution and some in melt form. Potential applications based on such fibers specifically their use as reinforcement in nanocomposite development have been realized. In this paper, a comprehensive review is presented on the researches and developments related to electrospun polymer nanofibers including processing, structure and property characterization, applications, and modeling and simulations. Information of those polymers together with their processing conditions for electrospinning of ultrafine fibers has been summarized in the paper. Other issues regarding the technology limitations, research challenges, and future trends are also discussed.}
+      \field{issn}{0266-3538}
+      \field{journaltitle}{Composites Science and Technology}
+      \field{month}{11}
+      \field{number}{15}
+      \field{title}{{A review on polymer nanofibers by electrospinning and their applications in nanocomposites}}
+      \field{volume}{63}
+      \field{year}{2003}
+      \field{pages}{2223\bibrangedash 2253}
+      \range{pages}{31}
+      \verb{doi}
+      \verb 10.1016/S0266-3538(03)00178-7
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0266353803001787
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0266353803001787
+      \endverb
+    \endentry
+    \entry{Jayaraman2003}{article}{}
+      \name{author}{4}{}{%
+        {{hash=8b3e64af236e12d7091dabc967a630d9}{%
+           family={Jayaraman},
+           familyi={J\bibinitperiod},
+           given={Krishnan},
+           giveni={K\bibinitperiod}}}%
+        {{hash=201059d36135e60803376798c7f3e30a}{%
+           family={Kotaki},
+           familyi={K\bibinitperiod},
+           given={Masaya},
+           giveni={M\bibinitperiod}}}%
+        {{hash=be469d71abbbb440ee2718398907b428}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Yanzhong},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=999c81f4720e8589afdeb8f94c0790bc}{%
+           family={Mo},
+           familyi={M\bibinitperiod},
+           given={Xiumei},
+           giveni={X\bibinitperiod}}}%
+      }
+      \strng{namehash}{159fb659a92adac1ed414ebe4486f4d8}
+      \strng{fullhash}{c1db33a7696f1c6d73374983863f7fc1}
+      \strng{bibnamehash}{159fb659a92adac1ed414ebe4486f4d8}
+      \strng{authorbibnamehash}{159fb659a92adac1ed414ebe4486f4d8}
+      \strng{authornamehash}{159fb659a92adac1ed414ebe4486f4d8}
+      \strng{authorfullhash}{c1db33a7696f1c6d73374983863f7fc1}
+      \field{sortinit}{J}
+      \field{sortinithash}{fce5f8d0bd05e8d93f3dbe21c78897ca}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Polymer nanofibers, with diameters in the nanometer range, possess larger surface areas per unit mass and permit easier addition of surface functionalities compared with polymer microfibers. Hence, polymer nanofiber mats are being considered for use as filters, scaffolds for tissue engineering, protective clothing, reinforcement in composite materials and sensors. Although some of these applications are in the development stage, a few have been commercially exploited. Research on polymer nanofibers, nanofiber mats, and their applications has seen a remarkable growth over the last few years. However, a review of the various issues related to these nanofibers has not been published. This article presents a review of the recent trends in the processing methods and characterization techniques for polymer nanofibers. Research challenges and future trends in the processing and characterization of polymer nanofibers are discussed in the article. Five processing methods have been examined in this review, namely drawing, template synthesis, phase separation, self-assembly, and electrospinning. Among these methods, electrospinning has been used to convert a large variety of polymers into nanofibers and may be the only process that has the potential for mass production. The structure, morphology, and geometry of nanofibers and the porosity and tensile properties of nanofiber mats can be investigated through conventional techniques and instruments. But new techniques are needed for the mechanical testing of single nanofibers. Although measurement of mechanical properties such as tensile modulus, strength, and elongation is difficult because of the small diameters of the fibers, these properties are crucial for the proper use of nanofiber mats.}
+      \field{journaltitle}{Journal of Nanoscience and Nanotechnology}
+      \field{number}{1-2}
+      \field{title}{{Recent Advances in Polymer Nanofibers}}
+      \field{volume}{4}
+      \field{year}{2003}
+      \field{pages}{52\bibrangedash 65}
+      \range{pages}{14}
+      \verb{urlraw}
+      \verb https://www.researchgate.net/publication/8591778{\_}Recent{\_}Advances{\_}in{\_}Polymer{\_}Nanofibers
+      \endverb
+      \verb{url}
+      \verb https://www.researchgate.net/publication/8591778%7B%5C_%7DRecent%7B%5C_%7DAdvances%7B%5C_%7Din%7B%5C_%7DPolymer%7B%5C_%7DNanofibers
+      \endverb
+    \endentry
     \entry{Landis2011}{book}{}
       \name{author}{1}{}{%
         {{hash=242eca1f846e4d24d346782fb85498a7}{%
@@ -291,6 +542,84 @@
       \endverb
       \verb{url}
       \verb https://learning.oreilly.com/library/view/nano-lithography/9781118621707/
+      \endverb
+    \endentry
+    \entry{Larrondo1981}{article}{}
+      \name{author}{2}{}{%
+        {{hash=3a1cfe2a83745079f8d1aecc46b3dbe3}{%
+           family={Larrondo},
+           familyi={L\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod}}}%
+        {{hash=75411d5c5f80d75e48a6a6a31c5af4c4}{%
+           family={{St. John Manley}},
+           familyi={S\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {John Wiley {\&} Sons, Ltd}%
+      }
+      \strng{namehash}{f590d75b40a10f84ca56ff8ce0053bd1}
+      \strng{fullhash}{f590d75b40a10f84ca56ff8ce0053bd1}
+      \strng{bibnamehash}{f590d75b40a10f84ca56ff8ce0053bd1}
+      \strng{authorbibnamehash}{f590d75b40a10f84ca56ff8ce0053bd1}
+      \strng{authornamehash}{f590d75b40a10f84ca56ff8ce0053bd1}
+      \strng{authorfullhash}{f590d75b40a10f84ca56ff8ce0053bd1}
+      \field{sortinit}{L}
+      \field{sortinithash}{2c7981aaabc885868aba60f0c09ee20f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Polymer Science: Polymer Physics Edition}
+      \field{month}{6}
+      \field{number}{6}
+      \field{title}{{Electrostatic fiber spinning from polymer melts. III. Electrostatic deformation of a pendant drop of polymer melt}}
+      \field{volume}{19}
+      \field{year}{1981}
+      \field{pages}{933\bibrangedash 940}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1002/pol.1981.180190603
+      \endverb
+      \verb{urlraw}
+      \verb http://doi.wiley.com/10.1002/pol.1981.180190603
+      \endverb
+      \verb{url}
+      \verb http://doi.wiley.com/10.1002/pol.1981.180190603
+      \endverb
+    \endentry
+    \entry{Li2012}{book}{}
+      \name{author}{1}{}{%
+        {{hash=67048cdfca3bdc2a38d4ba40e8cb56c0}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Quan},
+           giveni={Q\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {John Wiley {\&} Sons}%
+      }
+      \strng{namehash}{67048cdfca3bdc2a38d4ba40e8cb56c0}
+      \strng{fullhash}{67048cdfca3bdc2a38d4ba40e8cb56c0}
+      \strng{bibnamehash}{67048cdfca3bdc2a38d4ba40e8cb56c0}
+      \strng{authorbibnamehash}{67048cdfca3bdc2a38d4ba40e8cb56c0}
+      \strng{authornamehash}{67048cdfca3bdc2a38d4ba40e8cb56c0}
+      \strng{authorfullhash}{67048cdfca3bdc2a38d4ba40e8cb56c0}
+      \field{sortinit}{L}
+      \field{sortinithash}{2c7981aaabc885868aba60f0c09ee20f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The chemistry, physics, and applications of liquid crystals beyond LCDs Liquid Crystals (LCs) combine order and mobility on a molecular and supramolecular level. But while these remarkable states of matter are most commonly associated with visual display technologies, they have important applications for a variety of other fields as well. Liquid Crystals Beyond Displays: Chemistry, Physics, and Applications considers these, bringing together cutting-edge research from some of the most promising areas of LC science. Featuring contributions from respected researchers from around the globe, this edited volume emphasizes the chemistry, physics, and applications of LCs in areas such as photovoltaics, light-emitting diodes, filed-effect transistors, lasers, molecular motors, nanophotonics and biosensors. Specific chapters look at magnetic LCs, lyotropic chromonic LCs, LC-based chemical sensors, LCs in metamaterials, and much more. Introducing readers to the fundamentals of LC science through the use of illustrative examples, Liquid Crystals Beyond Displays covers not only the most recent research in the myriad areas in which LCs are being utilized, but also looks ahead, addressing potential future developments. Designed for physicists, chemists, engineers, and biologists working in academia or industry, as well as graduate students specializing in LC technology, this is the first book to consider LC applications across a wide range of fields.}
+      \field{title}{{Chapter 7: Liquid Crystal-Functionalized Nano- and Microfibers Produced by Electrospinning - Liquid Crystals Beyond Displays: Chemistry, Physics, and Applications}}
+      \field{year}{2012}
+      \verb{doi}
+      \verb 9781118078617
+      \endverb
+      \verb{urlraw}
+      \verb https://learning.oreilly.com/library/view/liquid-crystals-beyond/9781118259535/chapter07.html
+      \endverb
+      \verb{url}
+      \verb https://learning.oreilly.com/library/view/liquid-crystals-beyond/9781118259535/chapter07.html
       \endverb
     \endentry
     \entry{Madou2011}{article}{}
@@ -397,6 +726,55 @@
       \verb http://www.mdpi.com/2072-666X/6/2/252
       \endverb
     \endentry
+    \entry{Nadarajah2008}{article}{}
+      \name{author}{3}{}{%
+        {{hash=8342c58d935b2344d5a924d9d6542b45}{%
+           family={Nadarajah},
+           familyi={N\bibinitperiod},
+           given={Arunan},
+           giveni={A\bibinitperiod}}}%
+        {{hash=a04796c8968592354252d848d3437799}{%
+           family={Lawrence},
+           familyi={L\bibinitperiod},
+           given={Joseph\bibnamedelima G},
+           giveni={J\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=c09559cd26ea33f6853f02c4d8561ea5}{%
+           family={Hughes},
+           familyi={H\bibinitperiod},
+           given={Thomas\bibnamedelima W},
+           giveni={T\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+      }
+      \strng{namehash}{ce4a159c61d6b2c74fab633e183e4796}
+      \strng{fullhash}{ce4a159c61d6b2c74fab633e183e4796}
+      \strng{bibnamehash}{ce4a159c61d6b2c74fab633e183e4796}
+      \strng{authorbibnamehash}{ce4a159c61d6b2c74fab633e183e4796}
+      \strng{authornamehash}{ce4a159c61d6b2c74fab633e183e4796}
+      \strng{authorfullhash}{ce4a159c61d6b2c74fab633e183e4796}
+      \field{sortinit}{N}
+      \field{sortinithash}{f7242c3ed3dc50029fca1be76c497c7c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The lack of a low cost, high volume method to produce carbon nanotubes has greatly limited their commercialization. Carbon nanofibers have a similar structure and properties as nanotubes and are a commercially viable alternative to them. In recent years many of the difficulties of commercial nanofiber production have been overcome through innovations in their manufacturing process. It is now possible to produce carbon nanofibers of different grades, such as thinner and thicker walled ones, and low heat treated and high heat treated ones. Most significantly, commercial quantities can now be produced of carbon nanofibers that have been surface functionalized with carboxylic acid groups, making them suitable for further functionalization and new classes of applications, such as biomedical sensors and drug delivery. Despite their cost advantages and availability more widespread use of carbon nanofibers has been hampered by uncertainties in their molecular structure and a lack of physical property measurements. However, recent theoretical and experimental studies have addressed these deficiencies showing that these fibers have a cone-helix structure under the usual manufacturing conditions. Additionally, small amounts of a segmented carbon nanotube structure, commonly called a bamboo structure, are also present. When the conical nanofibers were heat treated they were found to transform to a stacked cone structure. Advances in surface functionalization have allowed a variety of groups to be incorporated on them, significantly enhancing their properties and potential applications. Finally, the recent development of a new method to measure the elastic properties and morphology of single nanofibers has clearly demonstrated the high strength of these fibers. These nanofibers now represent a well understood and well characterized graphitic carbon nanomaterial that can be manufactured at low cost in large quantities, and have the potential to bring widespread use of nanotechnology to a variety of fields.}
+      \field{journaltitle}{Trans Tech Publications}
+      \field{number}{1662-9795}
+      \field{title}{{Development and Commercialization of Vapor Grown Carbon Nanofibers: A Review}}
+      \field{volume}{380}
+      \field{year}{2008}
+      \field{pages}{193\bibrangedash 206}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.4028/www.scientific.net/KEM.380.193
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/oskat/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Nadarajah, Lawrence, Hughes - 2008 - Development and Commercialization of Vapor Grown Carbon Nanofibers A Review.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb www.scientific.net/KEM.380.193
+      \endverb
+      \verb{url}
+      \verb www.scientific.net/KEM.380.193
+      \endverb
+    \endentry
     \entry{Nataraj2012}{article}{}
       \name{author}{3}{}{%
         {{hash=2bf36def800110e0ddd5a6954a53eb68}{%
@@ -450,6 +828,172 @@
       \verb{url}
       \verb https://0-www-sciencedirect-com.millenium.itesm.mx/science/article/pii/S0079670011000931
       \endverb
+    \endentry
+    \entry{Ren1998}{report}{}
+      \name{author}{7}{}{%
+        {{hash=dfbebf67e86b0e78bf6404e1091ba4b8}{%
+           family={Ren},
+           familyi={R\bibinitperiod},
+           given={Z\bibnamedelima F},
+           giveni={Z\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=f5b594f6d129086e99959c2cbdb16630}{%
+           family={Huang},
+           familyi={H\bibinitperiod},
+           given={Z\bibnamedelima P},
+           giveni={Z\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=bc08634320a56dd72f0fb6916e266d4b}{%
+           family={Xu},
+           familyi={X\bibinitperiod},
+           given={J\bibnamedelima W},
+           giveni={J\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=3aec8d542883c873d066219c35805cd2}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={J\bibnamedelima H},
+           giveni={J\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=9979a9aaa234d8031b7903c4cb014ea3}{%
+           family={Bush},
+           familyi={B\bibinitperiod},
+           given={P},
+           giveni={P\bibinitperiod}}}%
+        {{hash=d49c500128d54452d626f7ed715145a4}{%
+           family={Siegal},
+           familyi={S\bibinitperiod},
+           given={M\bibnamedelima P},
+           giveni={M\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=65336d428d758683f4a347e1c11ebc74}{%
+           family={Provencio},
+           familyi={P\bibinitperiod},
+           given={P\bibnamedelima N},
+           giveni={P\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Science}%
+      }
+      \strng{namehash}{a9457eea3baf832a27de564d4729b6c0}
+      \strng{fullhash}{07e3e8843d4f316cd6be48ac6e89a4c1}
+      \strng{bibnamehash}{a9457eea3baf832a27de564d4729b6c0}
+      \strng{authorbibnamehash}{a9457eea3baf832a27de564d4729b6c0}
+      \strng{authornamehash}{a9457eea3baf832a27de564d4729b6c0}
+      \strng{authorfullhash}{07e3e8843d4f316cd6be48ac6e89a4c1}
+      \field{sortinit}{R}
+      \field{sortinithash}{da6b42bd3ab22fee61abed031ee405f7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Free-standing aligned carbon nanotubes have previously been grown above 700°C on mesoporous silica embedded with iron nanoparticles. Here, carbon nanotubes aligned over areas up to several square centimeters were grown on nickel-coated glass below 666°C by plasma-enhanced hot filament chemical vapor deposition. Acetylene gas was used as the carbon source and ammonia gas was used as a catalyst and dilution gas. Nanotubes with controllable diameters from 20 to 400 nanometers and lengths from 0.1 to 50 micrometers were obtained. Using this method, large panels of aligned carbon nanotubes can be made under conditions that are suitable for device fabrication.}
+      \field{title}{{Synthesis of Large Arrays of Well-Aligned Carbon Nanotubes on Glass}}
+      \field{type}{techreport}
+      \field{year}{1998}
+      \field{pages}{1105\bibrangedash 1107}
+      \range{pages}{3}
+      \verb{doi}
+      \verb 10.1126/science.282.5391.1105
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/oskat/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Ren et al. - 1998 - Synthesis of Large Arrays of Well-Aligned Carbon Nanotubes on Glass.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb www.sciencemag.org
+      \endverb
+      \verb{url}
+      \verb www.sciencemag.org
+      \endverb
+    \endentry
+    \entry{Reneker2008}{article}{}
+      \name{author}{2}{}{%
+        {{hash=8690f9e011f01659e59d1fbdb030c24d}{%
+           family={Reneker},
+           familyi={R\bibinitperiod},
+           given={Darrell\bibnamedelima H.},
+           giveni={D\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=2b3c13566ff08b02fb25ba3914b9d35a}{%
+           family={Yarin},
+           familyi={Y\bibinitperiod},
+           given={Alexander\bibnamedelima L.},
+           giveni={A\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{084e693ed6e912802eb27d1afa9a8707}
+      \strng{fullhash}{084e693ed6e912802eb27d1afa9a8707}
+      \strng{bibnamehash}{084e693ed6e912802eb27d1afa9a8707}
+      \strng{authorbibnamehash}{084e693ed6e912802eb27d1afa9a8707}
+      \strng{authornamehash}{084e693ed6e912802eb27d1afa9a8707}
+      \strng{authorfullhash}{084e693ed6e912802eb27d1afa9a8707}
+      \field{sortinit}{R}
+      \field{sortinithash}{da6b42bd3ab22fee61abed031ee405f7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In electrospinning, polymer nanofibers are formed by the creation and elongation of an electrified fluid jet. The path of the jet is from a fluid surface that is often, but not necessarily constrained by an orifice, through a straight segment of a tapering cone, then through a series of successively smaller electrically driven bending coils, with each bending coil having turns of increasing radius, and finally solidifying into a continuous thin fiber. Control of the process produces fibers with nanometer scale diameters, along with various cross-sectional shapes, beads, branches and buckling coils or zigzags. Additions to the fluid being spun, such as chemical reagents, other polymers, dispersed particles, proteins, and viable cells, resulted in the inclusion of the added material along the nanofibers. Post-treatments of nanofibers, by conglutination, by vapor coating, by chemical treatment of the surfaces, and by thermal processing, broaden the usefulness of nanofibers.}
+      \field{issn}{0032-3861}
+      \field{journaltitle}{Polymer}
+      \field{month}{5}
+      \field{number}{10}
+      \field{title}{{Electrospinning jets and polymer nanofibers}}
+      \field{volume}{49}
+      \field{year}{2008}
+      \field{pages}{2387\bibrangedash 2425}
+      \range{pages}{39}
+      \verb{doi}
+      \verb 10.1016/J.POLYMER.2008.02.002
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/oskat/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Reneker, Yarin - 2008 - Electrospinning jets and polymer nanofibers.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0032386108001407
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0032386108001407
+      \endverb
+    \endentry
+    \entry{Schiffman2008}{article}{}
+      \name{author}{2}{}{%
+        {{hash=46fe876aaaf22bae6e9830aac33be829}{%
+           family={Schiffman},
+           familyi={S\bibinitperiod},
+           given={Jessica\bibnamedelima D.},
+           giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=c34428906b6bc7183dcf770e19dcc143}{%
+           family={Schauer},
+           familyi={S\bibinitperiod},
+           given={Caroline\bibnamedelima L.},
+           giveni={C\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Taylor {\&} Francis Group}%
+      }
+      \strng{namehash}{977164ed3f1178855dc8a5eae43e06ad}
+      \strng{fullhash}{977164ed3f1178855dc8a5eae43e06ad}
+      \strng{bibnamehash}{977164ed3f1178855dc8a5eae43e06ad}
+      \strng{authorbibnamehash}{977164ed3f1178855dc8a5eae43e06ad}
+      \strng{authornamehash}{977164ed3f1178855dc8a5eae43e06ad}
+      \strng{authorfullhash}{977164ed3f1178855dc8a5eae43e06ad}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Electrospinning is a fabrication technique, which can be used to create nanofibrous non‐wovens from a variety of starting materials. The structure, chemical and mechanical stability, functionality, and other properties of the mats can be modified to match end applications. In this review, an introduction to biopolymers and the electrospinning process, as well as an overview of applications of nanofibrous biopolymer mats created by the electrospinning process will be discussed. Biopolymers will include polysaccharides (cellulose, chitin, chitosan, dextrose), proteins (collagen, gelatin, silk, etc.), DNA, as well as some biopolymer derivatives and composites.}
+      \field{issn}{1558-3724}
+      \field{journaltitle}{Polymer Reviews}
+      \field{month}{5}
+      \field{number}{2}
+      \field{title}{{A Review: Electrospinning of Biopolymer Nanofibers and their Applications}}
+      \field{volume}{48}
+      \field{year}{2008}
+      \field{pages}{317\bibrangedash 352}
+      \range{pages}{36}
+      \verb{doi}
+      \verb 10.1080/15583720802022182
+      \endverb
+      \verb{urlraw}
+      \verb http://www.tandfonline.com/doi/abs/10.1080/15583720802022182
+      \endverb
+      \verb{url}
+      \verb http://www.tandfonline.com/doi/abs/10.1080/15583720802022182
+      \endverb
+      \keyw{biopolymers,electrospinning,nanofibers,nano‐effects,non‐wovens,polysaccharides}
     \endentry
     \entry{Schuster2009}{article}{}
       \name{author}{4}{}{%
@@ -556,6 +1100,61 @@
       \endverb
       \verb{url}
       \verb www.ias.ac.in/chemsci
+      \endverb
+    \endentry
+    \entry{Shin2001}{article}{}
+      \name{author}{4}{}{%
+        {{hash=04895e47e199bdeb105c33c28519a116}{%
+           family={Shin},
+           familyi={S\bibinitperiod},
+           given={Y.M.},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=8ce2ec38feceeb5dc4331cd60507f988}{%
+           family={Hohman},
+           familyi={H\bibinitperiod},
+           given={M.M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=2253de395e0805b05666e03159bf7261}{%
+           family={Brenner},
+           familyi={B\bibinitperiod},
+           given={M.P.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=1ae374a405a9b5ce7daa378d58080892}{%
+           family={Rutledge},
+           familyi={R\bibinitperiod},
+           given={G.C.},
+           giveni={G\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{b3d9faf239fd0c67d48f802981079d50}
+      \strng{fullhash}{45fa8014cf83277a33e4ced4a7c8dbc2}
+      \strng{bibnamehash}{b3d9faf239fd0c67d48f802981079d50}
+      \strng{authorbibnamehash}{b3d9faf239fd0c67d48f802981079d50}
+      \strng{authornamehash}{b3d9faf239fd0c67d48f802981079d50}
+      \strng{authorfullhash}{45fa8014cf83277a33e4ced4a7c8dbc2}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In the electrospinning process, polymer fibers with submicron-scale diameters are formed by subjecting a fluid jet to a high electric field. We report an experimental investigation of the electrically forced jet and its instabilities. The results are interpreted within the framework of a recently developed theory for electrified fluid jets. We find that the process can be described by a small set of operating parameters and summarized through the use of operating diagrams of electric field versus flow rate. In addition, the jet current is related to the net charge density and found to depend on the fluid properties, the applied electric field and the equipment configuration. The net charge density appears to be relatively insensitive to the flow rate, at least for high flow rates. The experiments reveal that a key process in the formation of submicron-scale solid fibers is a convective instability, the rapidly whipping jet. The dependence of this instability on electric field and flow rate, and the exponential nature of its growth rate are in accord with the theory.}
+      \field{journaltitle}{Polymer}
+      \field{month}{12}
+      \field{number}{25}
+      \field{title}{{Experimental characterization of electrospinning: the electrically forced jet and instabilities}}
+      \field{volume}{42}
+      \field{year}{2001}
+      \field{pages}{09955\bibrangedash 09967}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1016/S0032-3861(01)00540-7
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0032386101005407
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0032386101005407
       \endverb
     \endentry
     \entry{Siddiqui2019}{article}{}
@@ -794,6 +1393,54 @@
       \verb http://www.orientjchem.org/vol32no1/synthesis-of-phenolic-based-resist-materials-for-photolithography/
       \endverb
     \endentry
+    \entry{Wang2007}{article}{}
+      \name{author}{4}{}{%
+        {{hash=b2eccb185095fccfeb40fdffd8b2105f}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Yu},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=3209f981f448a9f24add20db842c620d}{%
+           family={Fang},
+           familyi={F\bibinitperiod},
+           given={Daining},
+           giveni={D\bibinitperiod}}}%
+        {{hash=24f8cfcec4cfb25b3c10dbb818d0f5ad}{%
+           family={Soh},
+           familyi={S\bibinitperiod},
+           given={A.K.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=97396b63631c7b5155fe9e624a564950}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Bin},
+           giveni={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{732f5c87479ec410ccda984af68db0bf}
+      \strng{fullhash}{0f6593186b9b71935151d80a55dae208}
+      \strng{bibnamehash}{732f5c87479ec410ccda984af68db0bf}
+      \strng{authorbibnamehash}{732f5c87479ec410ccda984af68db0bf}
+      \strng{authornamehash}{732f5c87479ec410ccda984af68db0bf}
+      \strng{authorfullhash}{0f6593186b9b71935151d80a55dae208}
+      \field{sortinit}{W}
+      \field{sortinithash}{ecb89ff85896a47dc313960773ac311d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In this paper, by capturing the atomic information and reflecting the behaviour governed by the nonlinear potential function, an analytical molecular mechanics approach is proposed. A constitutive relation for single-walled carbon nanotubes (SWCNT's) is established to describe the nonlinear stress-strain curve of SWCNT's and to predict both the elastic properties and breaking strain of SWCNT's during tensile deformation. An analysis based on the virtual internal bond (VIB) model proposed by P. Zhang et al. is also presented for comparison. The results indicate that the proposed molecular mechanics approach is indeed an acceptable analytical method for analyzing the mechanical behavior of SWCNT's.}
+      \field{journaltitle}{Acta Mechanica Sinica}
+      \field{number}{6}
+      \field{title}{{Helical microtubes of graphitic carbon}}
+      \field{volume}{23}
+      \field{year}{2007}
+      \field{pages}{663\bibrangedash 671}
+      \range{pages}{9}
+      \verb{urlraw}
+      \verb https://www.researchgate.net/publication/260358247{\_}Helical{\_}microtubes{\_}of{\_}graphitic{\_}carbon
+      \endverb
+      \verb{url}
+      \verb https://www.researchgate.net/publication/260358247%7B%5C_%7DHelical%7B%5C_%7Dmicrotubes%7B%5C_%7Dof%7B%5C_%7Dgraphitic%7B%5C_%7Dcarbon
+      \endverb
+    \endentry
     \entry{Xu2014}{article}{}
       \name{author}{3}{}{%
         {{hash=1eb406d29eb9b8e5436f4815684a5c44}{%
@@ -905,6 +1552,73 @@
       \endverb
       \verb{url}
       \verb http://stacks.iop.org/0960-1317/11/i=1/a=304?key=crossref.7e129e3392c38764a08aee10d49f57a6
+      \endverb
+    \endentry
+    \entry{Zhu2016}{article}{}
+      \name{author}{7}{}{%
+        {{hash=e190598f03468c82fbbb9cfa22b56472}{%
+           family={Zhu},
+           familyi={Z\bibinitperiod},
+           given={Ziming},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=8698cfc7aae68759f042cdba9018139a}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Xindu},
+           giveni={X\bibinitperiod}}}%
+        {{hash=a41a5b1f346309cc1f92307d80f65cac}{%
+           family={Du},
+           familyi={D\bibinitperiod},
+           given={Zefeng},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=231cd438c31d63d6708d0bcdb1d42ed4}{%
+           family={Huang},
+           familyi={H\bibinitperiod},
+           given={Shenneng},
+           giveni={S\bibinitperiod}}}%
+        {{hash=aabf1b292d532d4fc52372b4f7843e20}{%
+           family={Peng},
+           familyi={P\bibinitperiod},
+           given={Dongyu},
+           giveni={D\bibinitperiod}}}%
+        {{hash=f4a30464d6e7f09e83775894b1b7b4ee}{%
+           family={Zheng},
+           familyi={Z\bibinitperiod},
+           given={Junwei},
+           giveni={J\bibinitperiod}}}%
+        {{hash=0664a31d75ae88d142a0e634df0ead4d}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Han},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{355ce826f597a6614055040e03d52177}
+      \strng{fullhash}{df8dcd0209c06f631ecf0ee661cde294}
+      \strng{bibnamehash}{355ce826f597a6614055040e03d52177}
+      \strng{authorbibnamehash}{355ce826f597a6614055040e03d52177}
+      \strng{authornamehash}{355ce826f597a6614055040e03d52177}
+      \strng{authorfullhash}{df8dcd0209c06f631ecf0ee661cde294}
+      \field{sortinit}{Z}
+      \field{sortinithash}{156173bd08b075d7295bc3e0f4735a04}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1042-6914}
+      \field{journaltitle}{Materials and Manufacturing Processes}
+      \field{month}{4}
+      \field{number}{6}
+      \field{title}{{Fabricated Wavy Micro/Nanofiber via Auxiliary Electrodes in Near-Field Electrospinning}}
+      \field{volume}{31}
+      \field{year}{2016}
+      \field{pages}{707\bibrangedash 712}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1080/10426914.2015.1048464
+      \endverb
+      \verb{urlraw}
+      \verb http://www.tandfonline.com/doi/full/10.1080/10426914.2015.1048464
+      \endverb
+      \verb{url}
+      \verb http://www.tandfonline.com/doi/full/10.1080/10426914.2015.1048464
       \endverb
     \endentry
   \enddatalist

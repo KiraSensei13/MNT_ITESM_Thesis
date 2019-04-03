@@ -3,16 +3,22 @@
 \contentsline {chapter}{Supervising Committee}{i}{section*.1}% 
 \contentsline {chapter}{Abstract}{v}{section*.6}% 
 \contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.7}% 
-\contentsline {chapter}{\numberline {2}Problem Definition and Motivation}{3}{chapter.10}% 
-\contentsline {chapter}{\numberline {3}Hypothesis and Research Questions}{5}{chapter.12}% 
-\contentsline {section}{\numberline {3.1}Research Hypothesis}{5}{section.14}% 
-\contentsline {section}{\numberline {3.2}Research Questions}{5}{section.15}% 
-\contentsline {chapter}{\numberline {4}Objectives}{6}{chapter.16}% 
-\contentsline {section}{\numberline {4.1}General objective}{6}{section.18}% 
-\contentsline {section}{\numberline {4.2}Particular objectives}{6}{section.19}% 
-\contentsline {chapter}{\numberline {5}Theoretical Framework}{7}{chapter.20}% 
-\contentsline {section}{\numberline {5.1}Photoresists}{7}{section.22}% 
-\contentsline {section}{\numberline {5.2}Electro-Mechanical Spinning}{8}{section.23}% 
-\contentsline {section}{\numberline {5.3}Carbon nano-fibers}{8}{section.24}% 
-\contentsline {chapter}{\numberline {6}Methodology}{9}{chapter.25}% 
-\contentsline {chapter}{\numberline {7}Work Plan}{10}{chapter.27}% 
+\contentsline {chapter}{\numberline {2}Problem Definition and Motivation}{3}{chapter.9}% 
+\contentsline {chapter}{\numberline {3}Hypothesis and Research Questions}{5}{chapter.10}% 
+\contentsline {section}{\numberline {3.1}Research Hypothesis}{5}{section.11}% 
+\contentsline {section}{\numberline {3.2}Research Questions}{5}{section.12}% 
+\contentsline {chapter}{\numberline {4}Objectives}{6}{chapter.13}% 
+\contentsline {section}{\numberline {4.1}General objective}{6}{section.14}% 
+\contentsline {section}{\numberline {4.2}Particular objectives}{6}{section.15}% 
+\contentsline {chapter}{\numberline {5}Theoretical Framework}{7}{chapter.16}% 
+\contentsline {section}{\numberline {5.1}Photoresists}{7}{section.17}% 
+\contentsline {section}{\numberline {5.2}Electro-Mechanical Spinning}{8}{section.18}% 
+\contentsline {section}{\numberline {5.3}Carbon nano-wire}{9}{section.21}% 
+\contentsline {chapter}{\numberline {6}Methodology}{11}{chapter.22}% 
+\contentsline {section}{\numberline {6.1}Work package 1 : Preliminary Literature Review}{11}{section.23}% 
+\contentsline {section}{\numberline {6.2}Work package 2 : Evaluation of Fabrication Parameters}{11}{section.24}% 
+\contentsline {section}{\numberline {6.3}Work package 3 : Polymer Solution Design}{12}{section.25}% 
+\contentsline {section}{\numberline {6.4}Work package 4 : Fabrication of Carbon Nano-wires}{12}{section.26}% 
+\contentsline {section}{\numberline {6.5}Work package 5 : Data Collection and Analysis of Results}{13}{section.27}% 
+\contentsline {section}{\numberline {6.6}Work package 6 : Documentation}{13}{section.28}% 
+\contentsline {chapter}{\numberline {7}Work Plan}{14}{chapter.29}% 
