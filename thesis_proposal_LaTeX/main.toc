@@ -15,11 +15,14 @@
 \contentsline {section}{\numberline {5.2}Electro-Mechanical Spinning}{8}{section.18}% 
 \contentsline {section}{\numberline {5.3}Pyrolysis}{9}{section.21}% 
 \contentsline {section}{\numberline {5.4}Carbon nano-wire}{11}{section.23}% 
-\contentsline {chapter}{\numberline {6}Methodology}{12}{chapter.24}% 
-\contentsline {section}{\numberline {6.1}Work package 1 : Preliminary Literature Review}{12}{section.25}% 
-\contentsline {section}{\numberline {6.2}Work package 2 : Evaluation of Fabrication Parameters}{12}{section.26}% 
-\contentsline {section}{\numberline {6.3}Work package 3 : Polymer Solution Design}{13}{section.27}% 
-\contentsline {section}{\numberline {6.4}Work package 4 : Fabrication of Carbon Nano-wires}{13}{section.28}% 
-\contentsline {section}{\numberline {6.5}Work package 5 : Data Collection and Analysis of Results}{14}{section.29}% 
-\contentsline {section}{\numberline {6.6}Work package 6 : Documentation}{14}{section.30}% 
-\contentsline {chapter}{\numberline {7}Work Plan}{15}{chapter.31}% 
+\contentsline {chapter}{\numberline {6}Related Work}{12}{chapter.24}% 
+\contentsline {section}{\numberline {6.1}Role of rheological properties in near field electrospun fibers morphology \cite {Flores2017}}{12}{section.25}% 
+\contentsline {section}{\numberline {6.2}Advanced Manufacturing Techniques for the Fabrication and Surface Modification of Carbon Nanowires \cite {Cardenas2017}}{12}{section.26}% 
+\contentsline {chapter}{\numberline {7}Methodology}{13}{chapter.27}% 
+\contentsline {section}{\numberline {7.1}Work package 1 : Preliminary Literature Review}{13}{section.28}% 
+\contentsline {section}{\numberline {7.2}Work package 2 : Evaluation of Fabrication Parameters}{13}{section.29}% 
+\contentsline {section}{\numberline {7.3}Work package 3 : Polymer Solution Design}{14}{section.30}% 
+\contentsline {section}{\numberline {7.4}Work package 4 : Fabrication of Carbon Nano-wires}{14}{section.31}% 
+\contentsline {section}{\numberline {7.5}Work package 5 : Data Collection and Analysis of Results}{15}{section.32}% 
+\contentsline {section}{\numberline {7.6}Work package 6 : Documentation}{15}{section.33}% 
+\contentsline {chapter}{\numberline {8}Work Plan}{16}{chapter.34}% 

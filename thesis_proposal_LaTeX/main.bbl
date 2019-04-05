@@ -307,6 +307,33 @@
       \verb https://0-www-sciencedirect-com.millenium.itesm.mx/science/article/pii/S0021979719302152
       \endverb
     \endentry
+    \entry{Flores2017}{article}{}
+      \name{author}{1}{}{%
+        {{hash=b5ca5c0bb6f5ade62c2f39a5b4a33ae0}{%
+           family={Flores},
+           familyi={F\bibinitperiod},
+           given={Domingo\bibnamedelima Ricardo},
+           giveni={D\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \strng{namehash}{b5ca5c0bb6f5ade62c2f39a5b4a33ae0}
+      \strng{fullhash}{b5ca5c0bb6f5ade62c2f39a5b4a33ae0}
+      \strng{bibnamehash}{b5ca5c0bb6f5ade62c2f39a5b4a33ae0}
+      \strng{authorbibnamehash}{b5ca5c0bb6f5ade62c2f39a5b4a33ae0}
+      \strng{authornamehash}{b5ca5c0bb6f5ade62c2f39a5b4a33ae0}
+      \strng{authorfullhash}{b5ca5c0bb6f5ade62c2f39a5b4a33ae0}
+      \field{sortinit}{F}
+      \field{sortinithash}{669c706c6f1fbf3b5a83d26f1d9e9e72}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In electrospinning process, polymer nanofibers are formed with diameters in the submicron scale when a drop of viscoelastic polymer solution is subjected to a high voltage electrostatic field, when the charge force overcomes the surface tension of the solution, a beam is projected onto a collector. Among other parameters, the rheological properties of the polymer solution can significantly influence fiber formation during the electrospinning process, although this is well known, there is still no clear understanding of the effect of these properties to form fibers with morphology and structure consistent and controlled.. The study was conducted for a system of SU-8 2002 (an epoxy-based negative photoresist) dissolved in cyclopentanone with poly(ethylene) oxide, PEO, and tetrabutylammonium tetrafluoroborate, TBATFB, as additives. The fibers were electrospun in an Electro Mechanical Spinning, EMS, platform. The rheological properties of the polymer solution were studied under shear conditions and combined with oscillatory data to get uniaxial deformation behavior using the Wagner constitutive equation. The elongational viscosity, e, in the projected beam is estimated by using data from oscillatory tests. For this purpose, solutions of SU-8 2002 were tested and then electrospun systematically over a range of concentrations. It was found that the variation in concentration of the additives modifies the viscoelastic properties of the solutions and, therefore, the electrospinnability. As PEO concentration is increased the complex, elongational and shear viscosity also increases. For concentrations of TBATFB, the variation of the viscosities has not a clear behavior pattern. The most regular and thinnest fibers were those obtained from a concentration of 99.5, 0.25 and 0.25 wt{\%}. of SU-8 2002, PEO and TBATFB respectively. With the acquired information, process variables for the EMS such as fabrication velocity, voltage and tip-to-collector distance were improved.}
+      \field{title}{{Role of rheological properties in near field electrospun fibers morphology}}
+      \field{year}{2017}
+      \field{pages}{130}
+      \range{pages}{1}
+      \verb{file}
+      \verb :C$\backslash$:/Users/oskat/OneDrive - Instituto Tecnologico y de Estudios Superiores de Monterrey/Documents/MNT{\_}ITESM{\_}Thesis/relatedTheses/Role of rheological properties in near field electrospun fibers morphology a Thesis by Ricardo Flores A00819488.pdf:pdf
+      \endverb
+    \endentry
     \entry{Franklin1951}{article}{}
       \name{author}{1}{}{%
         {{hash=103db1fe9c171aa941a9b4d1c3667a50}{%
