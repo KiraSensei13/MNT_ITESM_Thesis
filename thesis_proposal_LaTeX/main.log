@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.6960 64-bit) (preloaded format=pdflatex 2019.2.1)  25 APR 2019 12:40
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.6960 64-bit) (preloaded format=pdflatex 2019.2.1)  29 APR 2019 08:46
 entering extended mode
 **./main.tex
 (main.tex
@@ -1512,7 +1512,7 @@ LaTeX Info: Redefining \pageref on input line 6454.
 )
 Package scrhack Info: hyperref hack deactivated because of
 (scrhack)             detection of hyperref version, that doesn't
-(scrhack)             need that hack, on input line 157.
+(scrhack)             need that hack, on input line 160.
 Package hyperref Info: Driver (autodetected): hpdftex.
 
 ("C:\Users\oskat\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\hpdftex.d
@@ -1529,10 +1529,10 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip109
 )
-Package hyperref Info: Option `bookmarksopen' set `true' on input line 157.
-Package hyperref Info: Option `hypertexnames' set `false' on input line 157.
-Package hyperref Info: Option `colorlinks' set `true' on input line 157.
-Package hyperref Info: Option `unicode' set `true' on input line 157.
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 160.
+Package hyperref Info: Option `hypertexnames' set `false' on input line 160.
+Package hyperref Info: Option `colorlinks' set `true' on input line 160.
+Package hyperref Info: Option `unicode' set `true' on input line 160.
 
 ("C:\Users\oskat\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\puenc.def
 "
@@ -1540,7 +1540,7 @@ File: puenc.def 2018/11/30 v6.88e Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
 ... no UTF-8 mapping file for font encoding PU
 )
-Package hyperref Info: Option `breaklinks' set `true' on input line 157.
+Package hyperref Info: Option `breaklinks' set `true' on input line 160.
 Package biblatex Info: Trying to load language 'english'...
 Package biblatex Info: ... file 'english.lbx' found.
 
@@ -1557,31 +1557,31 @@ Package csquotes Info: ... found 'babel' package.
 (Chapters/7_Methodology.aux) (Chapters/8_WorkPlan.aux))
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 157.
-LaTeX Font Info:    ... okay on input line 157.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 157.
-LaTeX Font Info:    ... okay on input line 157.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 157.
-LaTeX Font Info:    ... okay on input line 157.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 157.
-LaTeX Font Info:    ... okay on input line 157.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 157.
-LaTeX Font Info:    ... okay on input line 157.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 157.
-LaTeX Font Info:    ... okay on input line 157.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 157.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 157.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 160.
+LaTeX Font Info:    ... okay on input line 160.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 160.
+LaTeX Font Info:    ... okay on input line 160.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 160.
+LaTeX Font Info:    ... okay on input line 160.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 160.
+LaTeX Font Info:    ... okay on input line 160.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 160.
+LaTeX Font Info:    ... okay on input line 160.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 160.
+LaTeX Font Info:    ... okay on input line 160.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 160.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 160.
 
 
 ("C:\Users\oskat\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\ts1cmr.fd"
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 157.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 157.
-LaTeX Font Info:    ... okay on input line 157.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 157.
-LaTeX Font Info:    ... okay on input line 157.
-LaTeX Font Info:    Try loading font information for T1+ppl on input line 157.
+LaTeX Font Info:    ... okay on input line 160.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 160.
+LaTeX Font Info:    ... okay on input line 160.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 160.
+LaTeX Font Info:    ... okay on input line 160.
+LaTeX Font Info:    Try loading font information for T1+ppl on input line 160.
 
 ("C:\Users\oskat\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\t1ppl.fd"
 File: t1ppl.fd 2001/06/04 font definitions for T1/ppl.
@@ -1664,18 +1664,18 @@ Package caption Info: End \AtBeginDocument code.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 Package scrlayer Info: Setting magic \footheight to \baselineskip while
-(scrlayer)             \begin{document} on input line 157.
-Package scrbase Info: activating english \abbrevname on input line 157.
-Package scrbase Info: activating english \byname on input line 157.
-Package scrbase Info: activating english \acknowledgementname on input line 157
+(scrlayer)             \begin{document} on input line 160.
+Package scrbase Info: activating english \abbrevname on input line 160.
+Package scrbase Info: activating english \byname on input line 160.
+Package scrbase Info: activating english \acknowledgementname on input line 160
 .
-Package scrbase Info: activating english \authorshipname on input line 157.
-Package scrbase Info: activating english \supervisingcommittee on input line 15
-7.
-Package scrbase Info: activating english \constantsname on input line 157.
-Package scrbase Info: activating english \symbolsname on input line 157.
+Package scrbase Info: activating english \authorshipname on input line 160.
+Package scrbase Info: activating english \supervisingcommittee on input line 16
+0.
+Package scrbase Info: activating english \constantsname on input line 160.
+Package scrbase Info: activating english \symbolsname on input line 160.
 ABD: EverySelectfont initializing macros
-LaTeX Info: Redefining \selectfont on input line 157.
+LaTeX Info: Redefining \selectfont on input line 160.
 Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Automatic encoding selection.
 (biblatex)             Assuming data encoding 'utf8'.
@@ -1684,12 +1684,12 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'main.bbl' found.
  (main.bbl)
-Package biblatex Info: Reference section=0 on input line 157.
-Package biblatex Info: Reference segment=0 on input line 157.
+Package biblatex Info: Reference section=0 on input line 160.
+Package biblatex Info: Reference segment=0 on input line 160.
 
 ABD: EveryShipout initializing macros
 \AtBeginShipoutBox=\box76
-Package hyperref Info: Link coloring ON on input line 157.
+Package hyperref Info: Link coloring ON on input line 160.
 
 ("C:\Users\oskat\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\nameref.s
 ty"
@@ -1701,50 +1701,50 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count462
 )
-LaTeX Info: Redefining \ref on input line 157.
-LaTeX Info: Redefining \pageref on input line 157.
-LaTeX Info: Redefining \nameref on input line 157.
+LaTeX Info: Redefining \ref on input line 160.
+LaTeX Info: Redefining \pageref on input line 160.
+LaTeX Info: Redefining \nameref on input line 160.
  (main.out) (main.out)
 \@outlinefile=\write5
 \openout5 = `main.out'.
 
-LaTeX Font Info:    Try loading font information for OT1+ppl on input line 157.
+LaTeX Font Info:    Try loading font information for OT1+ppl on input line 160.
 
 
 ("C:\Users\oskat\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\ot1ppl.fd"
 File: ot1ppl.fd 2001/06/04 font definitions for OT1/ppl.
 )
-LaTeX Font Info:    Try loading font information for OML+zplm on input line 157
+LaTeX Font Info:    Try loading font information for OML+zplm on input line 160
 .
 ("C:\Users\oskat\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\omlzplm.fd"
 File: omlzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OML/zplm.
 )
-LaTeX Font Info:    Try loading font information for OMS+zplm on input line 157
+LaTeX Font Info:    Try loading font information for OMS+zplm on input line 160
 .
  ("C:\Users\oskat\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\omszplm.fd
 "
 File: omszplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMS/zplm.
 )
-LaTeX Font Info:    Try loading font information for OMX+zplm on input line 157
+LaTeX Font Info:    Try loading font information for OMX+zplm on input line 160
 .
 
 ("C:\Users\oskat\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\omxzplm.fd"
 File: omxzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMX/zplm.
 )
-LaTeX Font Info:    Try loading font information for OT1+zplm on input line 157
+LaTeX Font Info:    Try loading font information for OT1+zplm on input line 160
 .
  ("C:\Users\oskat\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\ot1zplm.fd
 "
 File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
 )
 1: section
-<./Figures/uniLogo.png, id=123, 401.5pt x 401.5pt>
+<./Figures/uniLogo.png, id=171, 401.5pt x 401.5pt>
 File: ./Figures/uniLogo.png Graphic file (type png)
 <use ./Figures/uniLogo.png>
-Package pdftex.def Info: ./Figures/uniLogo.png  used on input line 176.
+Package pdftex.def Info: ./Figures/uniLogo.png  used on input line 179.
 (pdftex.def)             Requested size: 60.60188pt x 60.60223pt.
 LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <20.74> not available
-(Font)              Font shape `T1/ppl/b/n' tried instead on input line 183.
+(Font)              Font shape `T1/ppl/b/n' tried instead on input line 186.
 [1
 
 
@@ -1759,7 +1759,7 @@ niLogo.png>]
 
 ]
 LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <24.88> not available
-(Font)              Font shape `T1/ppl/b/n' tried instead on input line 309.
+(Font)              Font shape `T1/ppl/b/n' tried instead on input line 312.
  (main.toc
 LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <10.95> not available
 (Font)              Font shape `T1/ppl/b/n' tried instead on input line 3.
@@ -1789,7 +1789,7 @@ LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <10.95> not available
  Abstract
 --------------------
 
-Underfull \hbox (badness 10000) in paragraph at lines 356--357
+Underfull \hbox (badness 10000) in paragraph at lines 359--360
 
  []
 
@@ -1802,7 +1802,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 356--357
 
 (Chapters/1_Introduction.tex
 Chapter 1.
-<./Figures/FabricationProcess.png, id=236, 510.2262pt x 100.6962pt>
+<./Figures/FabricationProcess.png, id=312, 510.2262pt x 100.6962pt>
 File: ./Figures/FabricationProcess.png Graphic file (type png)
 <use ./Figures/FabricationProcess.png>
 Package pdftex.def Info: ./Figures/FabricationProcess.png  used on input line 2
@@ -1852,13 +1852,12 @@ Overfull \hbox (39.7649pt too wide) in paragraph at lines 24--26
  to de-liver a electrospun-
  []
 
-)
 1: section
 [5
 
 
 
-]
+]) [6]
 \openout2 = `Chapters/4_Objectives.aux'.
 
  (Chapters/4_Objectives.tex
@@ -1877,7 +1876,7 @@ Overfull \hbox (3.22534pt too wide) in paragraph at lines 24--26
 
 )
 1: section
-[6
+[7
 
 
 
@@ -1893,26 +1892,63 @@ st-bor-ough, MA, USA) is the prin-ci-pal provider
  []
 
 1: section
-[7
+[8
 
 
 
-] [8]
-<./Figures/FFES.png, id=347, 593.96906pt x 398.99063pt>
+] [9]
+<./Figures/FFES.png, id=429, 593.96906pt x 398.99063pt>
 File: ./Figures/FFES.png Graphic file (type png)
 <use ./Figures/FFES.png>
 Package pdftex.def Info: ./Figures/FFES.png  used on input line 27.
 (pdftex.def)             Requested size: 303.0218pt x 203.55559pt.
-<./Figures/NFES.png, id=353, 402.00188pt x 253.69781pt>
+<./Figures/NFES.png, id=435, 402.00188pt x 253.69781pt>
 File: ./Figures/NFES.png Graphic file (type png)
 <use ./Figures/NFES.png>
 Package pdftex.def Info: ./Figures/NFES.png  used on input line 37.
 (pdftex.def)             Requested size: 303.0218pt x 191.23293pt.
- [9 <./Figures/FFES.png>] [10 <./Figures/NFES.png>]) [11]
+ [10 <./Figures/FFES.png>] [11 <./Figures/NFES.png>]
+<./Figures/goodbadsolvent.png, id=473, 217.5628pt x 109.1578pt>
+File: ./Figures/goodbadsolvent.png Graphic file (type png)
+<use ./Figures/goodbadsolvent.png>
+Package pdftex.def Info: ./Figures/goodbadsolvent.png  used on input line 63.
+(pdftex.def)             Requested size: 202.01454pt x 101.36246pt.
+<./Figures/electrolyteConcentration.png, id=478, 238.64156pt x 107.65219pt>
+File: ./Figures/electrolyteConcentration.png Graphic file (type png)
+<use ./Figures/electrolyteConcentration.png>
+Package pdftex.def Info: ./Figures/electrolyteConcentration.png  used on input 
+line 73.
+(pdftex.def)             Requested size: 202.01454pt x 91.12862pt.
+ [12 <./Figures/goodbadsolvent.png>]
+LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <12> not available
+(Font)              Font shape `T1/ppl/b/n' tried instead on input line 82.
+<./Figures/ampSweep.png, id=491, 456.95718pt x 204.01219pt>
+File: ./Figures/ampSweep.png Graphic file (type png)
+<use ./Figures/ampSweep.png>
+Package pdftex.def Info: ./Figures/ampSweep.png  used on input line 88.
+(pdftex.def)             Requested size: 303.0218pt x 135.28972pt.
+ [13 <./Figures/electrolyteConcentration.png>]
+<./Figures/freqSweep.png, id=501, 338.76563pt x 165.61874pt>
+File: ./Figures/freqSweep.png Graphic file (type png)
+<use ./Figures/freqSweep.png>
+Package pdftex.def Info: ./Figures/freqSweep.png  used on input line 99.
+(pdftex.def)             Requested size: 303.0218pt x 148.14824pt.
+
+Overfull \hbox (4.99883pt too wide) in paragraph at lines 106--107
+\T1/ppl/m/n/12 The vis-cos-ity is mea-sured as a func-tion of the shear rate in
+ a ro-ta-tional rheome-
+ []
+
+<./Figures/flowCurve.png, id=506, 379.4175pt x 170.13562pt>
+File: ./Figures/flowCurve.png Graphic file (type png)
+<use ./Figures/flowCurve.png>
+Package pdftex.def Info: ./Figures/flowCurve.png  used on input line 110.
+(pdftex.def)             Requested size: 303.0218pt x 135.88022pt.
+) [14 <./Figures/ampSweep.png> <./Figures/freqSweep.png>] [15 <./Figures/flowCu
+rve.png>]
 \openout2 = `Chapters/6_StateoftheArt.aux'.
 
-
-(Chapters/6_StateoftheArt.tex
+ (Chapters/6_StateoftheArt.tex
 Chapter 6.
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
@@ -1924,72 +1960,89 @@ Overfull \hbox (27.31792pt too wide) in paragraph at lines 15--16
 ne with poly(ethylene)
  []
 
-LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <12> not available
-(Font)              Font shape `T1/ppl/b/n' tried instead on input line 39.
 1: section
-[12
+[16
 
 
 
 ]
-<./Figures/SerieAampSweep.png, id=401, 392.21532pt x 280.04625pt>
+<./Figures/SerieAampSweep.png, id=528, 392.21532pt x 280.04625pt>
 File: ./Figures/SerieAampSweep.png Graphic file (type png)
 <use ./Figures/SerieAampSweep.png>
 Package pdftex.def Info: ./Figures/SerieAampSweep.png  used on input line 44.
 (pdftex.def)             Requested size: 303.0218pt x 216.37552pt.
-<./Figures/SerieBampSweep.png, id=404, 394.47375pt x 264.23718pt>
+<./Figures/SerieBampSweep.png, id=531, 394.47375pt x 264.23718pt>
 File: ./Figures/SerieBampSweep.png Graphic file (type png)
 <use ./Figures/SerieBampSweep.png>
 Package pdftex.def Info: ./Figures/SerieBampSweep.png  used on input line 56.
 (pdftex.def)             Requested size: 303.0218pt x 202.97942pt.
-<./Figures/SerieCampSweep.png, id=405, 436.63126pt x 297.36093pt>
+<./Figures/SerieCampSweep.png, id=532, 436.63126pt x 297.36093pt>
 File: ./Figures/SerieCampSweep.png Graphic file (type png)
 <use ./Figures/SerieCampSweep.png>
 Package pdftex.def Info: ./Figures/SerieCampSweep.png  used on input line 64.
 (pdftex.def)             Requested size: 303.0218pt x 206.36804pt.
- [13 <./Figures/SerieAampSweep.png>]
-<./Figures/SerieAflowCurve.png, id=413, 465.23813pt x 253.69781pt>
+ [17 <./Figures/SerieAampSweep.png>]
+<./Figures/SerieAflowCurve.png, id=540, 465.23813pt x 253.69781pt>
 File: ./Figures/SerieAflowCurve.png Graphic file (type png)
 <use ./Figures/SerieAflowCurve.png>
-Package pdftex.def Info: ./Figures/SerieAflowCurve.png  used on input line 78.
+Package pdftex.def Info: ./Figures/SerieAflowCurve.png  used on input line 77.
 (pdftex.def)             Requested size: 303.0218pt x 165.24614pt.
 
-Overfull \hbox (8.93437pt too wide) in paragraph at lines 84--85
+Overfull \hbox (8.93437pt too wide) in paragraph at lines 83--84
 []\T1/ppl/m/n/12 From the re-sults in Fig-ure [][]6.4[][], it is no-tice-able t
 hat the ad-di-tion of small amounts
  []
 
-[14 <./Figures/SerieBampSweep.png>]
-<./Figures/SerieBflowCurve.png, id=421, 425.33907pt x 252.19218pt>
+[18 <./Figures/SerieBampSweep.png>]
+<./Figures/SerieBflowCurve.png, id=549, 425.33907pt x 252.19218pt>
 File: ./Figures/SerieBflowCurve.png Graphic file (type png)
 <use ./Figures/SerieBflowCurve.png>
-Package pdftex.def Info: ./Figures/SerieBflowCurve.png  used on input line 90.
+Package pdftex.def Info: ./Figures/SerieBflowCurve.png  used on input line 89.
 (pdftex.def)             Requested size: 303.0218pt x 179.67725pt.
- [15 <./Figures/SerieCampSweep.png> <./Figures/SerieAflowCurve.png>]
-<./Figures/SerieCflowCurve.png, id=429, 415.5525pt x 245.41687pt>
+ [19 <./Figures/SerieCampSweep.png> <./Figures/SerieAflowCurve.png>]
+<./Figures/SerieCflowCurve.png, id=557, 415.5525pt x 245.41687pt>
 File: ./Figures/SerieCflowCurve.png Graphic file (type png)
 <use ./Figures/SerieCflowCurve.png>
-Package pdftex.def Info: ./Figures/SerieCflowCurve.png  used on input line 100.
-
+Package pdftex.def Info: ./Figures/SerieCflowCurve.png  used on input line 99.
 (pdftex.def)             Requested size: 303.0218pt x 178.96558pt.
- [16 <./Figures/SerieBflowCurve.png> <./Figures/SerieCflowCurve.png>]
+<./Figures/SerieAfreqSweep.png, id=559, 397.485pt x 238.64156pt>
+File: ./Figures/SerieAfreqSweep.png Graphic file (type png)
+<use ./Figures/SerieAfreqSweep.png>
+Package pdftex.def Info: ./Figures/SerieAfreqSweep.png  used on input line 110.
+
+(pdftex.def)             Requested size: 303.0218pt x 181.93387pt.
+ [20 <./Figures/SerieBflowCurve.png> <./Figures/SerieCflowCurve.png>]
+<./Figures/SerieBfreqSweep.png, id=567, 394.47375pt x 238.64156pt>
+File: ./Figures/SerieBfreqSweep.png Graphic file (type png)
+<use ./Figures/SerieBfreqSweep.png>
+Package pdftex.def Info: ./Figures/SerieBfreqSweep.png  used on input line 120.
+
+(pdftex.def)             Requested size: 303.0218pt x 183.31758pt.
+<./Figures/SerieCfreqSweep.png, id=569, 421.575pt x 237.88875pt>
+File: ./Figures/SerieCfreqSweep.png Graphic file (type png)
+<use ./Figures/SerieCfreqSweep.png>
+Package pdftex.def Info: ./Figures/SerieCfreqSweep.png  used on input line 130.
+
+(pdftex.def)             Requested size: 303.0218pt x 170.993pt.
+ [21 <./Figures/SerieAfreqSweep.png>] [22 <./Figures/SerieBfreqSweep.png> <./Fi
+gures/SerieCfreqSweep.png>] [23]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\cite' on input line 112.
+(hyperref)                removing `\cite' on input line 146.
 
-) [17
+[24
 
-]
+] [25]) [26]
 \openout2 = `Chapters/7_Methodology.aux'.
 
  (Chapters/7_Methodology.tex
 Chapter 7.
 1: section
-[18
+[27
 
 
 
-] [19]) [20]
+] [28]) [29]
 \openout2 = `Chapters/8_WorkPlan.aux'.
 
  (Chapters/8_WorkPlan.tex
@@ -2039,41 +2092,41 @@ Overfull \hbox (92.61403pt too wide) in paragraph at lines 66--67
  []
 
 1: section
-[21
+[30
 
 
 
-]) [22]
-LaTeX Font Info:    Try loading font information for T1+cmtt on input line 423.
+]) [31]
+LaTeX Font Info:    Try loading font information for T1+cmtt on input line 426.
 
 
 ("C:\Users\oskat\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\t1cmtt.fd"
 File: t1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-Overfull \hbox (12.70465pt too wide) in paragraph at lines 423--423
+Overfull \hbox (12.70465pt too wide) in paragraph at lines 426--426
 []\T1/ppl/m/n/10.95 Rosalind Elsie Franklin.   Crys-tal-lite growth in graphi-
 tiz-ing and non-graphitizing
  []
 
 1: section
-[23
+[32
 
 
 ]
-Overfull \hbox (0.1114pt too wide) in paragraph at lines 423--423
+Overfull \hbox (0.1114pt too wide) in paragraph at lines 426--426
 \T1/cmtt/m/n/10.95 3538(03 ) 00178 -[] 7$[][]\T1/ppl/m/n/10.95 . \T1/ppl/m/sc/1
 0.95 url\T1/ppl/m/n/10.95 : [][]$\T1/cmtt/m/n/10.95 https : / / www . sciencedi
 rect . com / science / article /
  []
 
 
-Overfull \hbox (41.46208pt too wide) in paragraph at lines 423--423
+Overfull \hbox (41.46208pt too wide) in paragraph at lines 426--426
 [][]$\T1/cmtt/m/n/10.95 https : / / learning . oreilly . com / library / view /
  nano -[] lithography / 9781118621707/$[][]\T1/ppl/m/n/10.95 . 
  []
 
 
-Overfull \hbox (14.33789pt too wide) in paragraph at lines 423--423
+Overfull \hbox (14.33789pt too wide) in paragraph at lines 426--426
 \T1/ppl/m/it/10.95 pli-ca-tions\T1/ppl/m/n/10.95 . John Wi-ley & Sons, 2012. \T
 1/ppl/m/sc/10.95 doi\T1/ppl/m/n/10.95 : [][]$\T1/cmtt/m/n/10.95 9781118078617$[
 ][]\T1/ppl/m/n/10.95 . \T1/ppl/m/sc/10.95 url\T1/ppl/m/n/10.95 : [][]$\T1/cmtt/
@@ -2081,52 +2134,56 @@ m/n/10.95 https : / / learning .
  []
 
 
-Overfull \hbox (10.56036pt too wide) in paragraph at lines 423--423
+Overfull \hbox (10.56036pt too wide) in paragraph at lines 426--426
 []\T1/ppl/m/n/10.95 Marc J. Madou et al.   Con-trolled Con-tin-u-ous Pat-tern-
 ing of Poly-meric Nanofibers
  []
 
 
-Overfull \hbox (38.0078pt too wide) in paragraph at lines 423--423
+Overfull \hbox (38.0078pt too wide) in paragraph at lines 426--426
 []\T1/ppl/m/n/10.95 S.K. Nataraj, K.S. Yang, and T.M. Am-inab-havi.   Polyacry
 lonitrile-based nanofibersA
  []
 
 
-Overfull \hbox (1.6211pt too wide) in paragraph at lines 423--423
+Overfull \hbox (1.6211pt too wide) in paragraph at lines 426--426
 \T1/ppl/m/n/10.95 state-of-the-art re-view. In: \T1/ppl/m/it/10.95 Progress in
  Poly-mer Sci-ence \T1/ppl/m/n/10.95 37.3 (Mar. 2012), pp. 487
  []
 
-[24]
-Overfull \hbox (21.92175pt too wide) in paragraph at lines 423--423
+[33]
+Overfull \hbox (21.92175pt too wide) in paragraph at lines 426--426
 \T1/ppl/m/n/10.95 09967. \T1/ppl/m/sc/10.95 doi\T1/ppl/m/n/10.95 : [][]$\T1/cmt
 t/m/n/10.95 10 . 1016 / S0032 -[] 3861(01 ) 00540 -[] 7$[][]\T1/ppl/m/n/10.95 .
  \T1/ppl/m/sc/10.95 url\T1/ppl/m/n/10.95 : [][]$\T1/cmtt/m/n/10.95 https : / / 
 www . sciencedirect .
  []
 
-[25] [26]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 440.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 440.
+[34] [35]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 443.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 443.
  (main.aux (Chapters/1_Introduction.aux)
 (Chapters/2_ProblmemDefinitionAndMotivation.aux)
 (Chapters/3_HypothesisAndResearchQuestions.aux) (Chapters/4_Objectives.aux)
 (Chapters/5_TheoreticalFramework.aux) (Chapters/6_StateoftheArt.aux)
 (Chapters/7_Methodology.aux) (Chapters/8_WorkPlan.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 440.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 440.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 443.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 443.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: F762CCD8B1A61C1BD4A414935587FED8;6349.
+(rerunfilecheck)             Checksum: EE27A1AFF3BF947CAF42521DE9A3637B;7907.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 46928 strings out of 492946
- 974633 string characters out of 3126267
- 1353444 words of memory out of 3000000
- 50057 multiletter control sequences out of 15000+200000
+ 47024 strings out of 492946
+ 976523 string characters out of 3126267
+ 1355168 words of memory out of 3000000
+ 50109 multiletter control sequences out of 15000+200000
  586431 words of font info for 122 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  64i,20n,83p,2487b,3013s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -2142,9 +2199,9 @@ ppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/palatino/uplr8a.pfb><C:/Users/
 oskat/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/palatino/uplr8a.pfb><C:
 /Users/oskat/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/palatino/uplri8a
 .pfb>
-Output written on main.pdf (33 pages, 686090 bytes).
+Output written on main.pdf (42 pages, 870925 bytes).
 PDF statistics:
- 704 PDF objects out of 1000 (max. 8388607)
- 113 named destinations out of 1000 (max. 500000)
- 299 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 880 PDF objects out of 1000 (max. 8388607)
+ 149 named destinations out of 1000 (max. 500000)
+ 435 words of extra memory for PDF output out of 10000 (max. 10000000)
 
