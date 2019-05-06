@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.6960 64-bit) (preloaded format=pdflatex 2019.2.1)  29 APR 2019 08:46
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.6960 64-bit) (preloaded format=pdflatex 2019.2.1)  6 MAY 2019 11:39
 entering extended mode
 **./main.tex
 (main.tex
@@ -1553,7 +1553,7 @@ Package csquotes Info: ... found 'babel' package.
  (main.aux (Chapters/1_Introduction.aux)
 (Chapters/2_ProblmemDefinitionAndMotivation.aux)
 (Chapters/3_HypothesisAndResearchQuestions.aux) (Chapters/4_Objectives.aux)
-(Chapters/5_TheoreticalFramework.aux) (Chapters/6_StateoftheArt.aux)
+(Chapters/5_StateoftheArt.aux) (Chapters/6_TheoreticalFramework.aux)
 (Chapters/7_Methodology.aux) (Chapters/8_WorkPlan.aux))
 \openout1 = `main.aux'.
 
@@ -1881,75 +1881,10 @@ Overfull \hbox (3.22534pt too wide) in paragraph at lines 24--26
 
 
 ]
-\openout2 = `Chapters/5_TheoreticalFramework.aux'.
+\openout2 = `Chapters/5_StateoftheArt.aux'.
 
- (Chapters/5_TheoreticalFramework.tex
+ (Chapters/5_StateoftheArt.tex
 Chapter 5.
-
-Overfull \hbox (8.30965pt too wide) in paragraph at lines 14--15
-\T1/ppl/m/n/12 solid state; \T1/ppl/m/it/12 Mi-croChem Corp. \T1/ppl/m/n/12 (We
-st-bor-ough, MA, USA) is the prin-ci-pal provider
- []
-
-1: section
-[8
-
-
-
-] [9]
-<./Figures/FFES.png, id=429, 593.96906pt x 398.99063pt>
-File: ./Figures/FFES.png Graphic file (type png)
-<use ./Figures/FFES.png>
-Package pdftex.def Info: ./Figures/FFES.png  used on input line 27.
-(pdftex.def)             Requested size: 303.0218pt x 203.55559pt.
-<./Figures/NFES.png, id=435, 402.00188pt x 253.69781pt>
-File: ./Figures/NFES.png Graphic file (type png)
-<use ./Figures/NFES.png>
-Package pdftex.def Info: ./Figures/NFES.png  used on input line 37.
-(pdftex.def)             Requested size: 303.0218pt x 191.23293pt.
- [10 <./Figures/FFES.png>] [11 <./Figures/NFES.png>]
-<./Figures/goodbadsolvent.png, id=473, 217.5628pt x 109.1578pt>
-File: ./Figures/goodbadsolvent.png Graphic file (type png)
-<use ./Figures/goodbadsolvent.png>
-Package pdftex.def Info: ./Figures/goodbadsolvent.png  used on input line 63.
-(pdftex.def)             Requested size: 202.01454pt x 101.36246pt.
-<./Figures/electrolyteConcentration.png, id=478, 238.64156pt x 107.65219pt>
-File: ./Figures/electrolyteConcentration.png Graphic file (type png)
-<use ./Figures/electrolyteConcentration.png>
-Package pdftex.def Info: ./Figures/electrolyteConcentration.png  used on input 
-line 73.
-(pdftex.def)             Requested size: 202.01454pt x 91.12862pt.
- [12 <./Figures/goodbadsolvent.png>]
-LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <12> not available
-(Font)              Font shape `T1/ppl/b/n' tried instead on input line 82.
-<./Figures/ampSweep.png, id=491, 456.95718pt x 204.01219pt>
-File: ./Figures/ampSweep.png Graphic file (type png)
-<use ./Figures/ampSweep.png>
-Package pdftex.def Info: ./Figures/ampSweep.png  used on input line 88.
-(pdftex.def)             Requested size: 303.0218pt x 135.28972pt.
- [13 <./Figures/electrolyteConcentration.png>]
-<./Figures/freqSweep.png, id=501, 338.76563pt x 165.61874pt>
-File: ./Figures/freqSweep.png Graphic file (type png)
-<use ./Figures/freqSweep.png>
-Package pdftex.def Info: ./Figures/freqSweep.png  used on input line 99.
-(pdftex.def)             Requested size: 303.0218pt x 148.14824pt.
-
-Overfull \hbox (4.99883pt too wide) in paragraph at lines 106--107
-\T1/ppl/m/n/12 The vis-cos-ity is mea-sured as a func-tion of the shear rate in
- a ro-ta-tional rheome-
- []
-
-<./Figures/flowCurve.png, id=506, 379.4175pt x 170.13562pt>
-File: ./Figures/flowCurve.png Graphic file (type png)
-<use ./Figures/flowCurve.png>
-Package pdftex.def Info: ./Figures/flowCurve.png  used on input line 110.
-(pdftex.def)             Requested size: 303.0218pt x 135.88022pt.
-) [14 <./Figures/ampSweep.png> <./Figures/freqSweep.png>] [15 <./Figures/flowCu
-rve.png>]
-\openout2 = `Chapters/6_StateoftheArt.aux'.
-
- (Chapters/6_StateoftheArt.tex
-Chapter 6.
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\cite' on input line 13.
@@ -1960,79 +1895,144 @@ Overfull \hbox (27.31792pt too wide) in paragraph at lines 15--16
 ne with poly(ethylene)
  []
 
+LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <12> not available
+(Font)              Font shape `T1/ppl/b/n' tried instead on input line 39.
 1: section
-[16
+[8
 
 
 
 ]
-<./Figures/SerieAampSweep.png, id=528, 392.21532pt x 280.04625pt>
+<./Figures/SerieAampSweep.png, id=378, 392.21532pt x 280.04625pt>
 File: ./Figures/SerieAampSweep.png Graphic file (type png)
 <use ./Figures/SerieAampSweep.png>
 Package pdftex.def Info: ./Figures/SerieAampSweep.png  used on input line 44.
 (pdftex.def)             Requested size: 303.0218pt x 216.37552pt.
-<./Figures/SerieBampSweep.png, id=531, 394.47375pt x 264.23718pt>
+<./Figures/SerieBampSweep.png, id=381, 394.47375pt x 264.23718pt>
 File: ./Figures/SerieBampSweep.png Graphic file (type png)
 <use ./Figures/SerieBampSweep.png>
 Package pdftex.def Info: ./Figures/SerieBampSweep.png  used on input line 56.
 (pdftex.def)             Requested size: 303.0218pt x 202.97942pt.
-<./Figures/SerieCampSweep.png, id=532, 436.63126pt x 297.36093pt>
+<./Figures/SerieCampSweep.png, id=382, 436.63126pt x 297.36093pt>
 File: ./Figures/SerieCampSweep.png Graphic file (type png)
 <use ./Figures/SerieCampSweep.png>
 Package pdftex.def Info: ./Figures/SerieCampSweep.png  used on input line 64.
 (pdftex.def)             Requested size: 303.0218pt x 206.36804pt.
- [17 <./Figures/SerieAampSweep.png>]
-<./Figures/SerieAflowCurve.png, id=540, 465.23813pt x 253.69781pt>
+ [9 <./Figures/SerieAampSweep.png>]
+<./Figures/SerieAflowCurve.png, id=390, 465.23813pt x 253.69781pt>
 File: ./Figures/SerieAflowCurve.png Graphic file (type png)
 <use ./Figures/SerieAflowCurve.png>
 Package pdftex.def Info: ./Figures/SerieAflowCurve.png  used on input line 77.
 (pdftex.def)             Requested size: 303.0218pt x 165.24614pt.
 
 Overfull \hbox (8.93437pt too wide) in paragraph at lines 83--84
-[]\T1/ppl/m/n/12 From the re-sults in Fig-ure [][]6.4[][], it is no-tice-able t
+[]\T1/ppl/m/n/12 From the re-sults in Fig-ure [][]5.4[][], it is no-tice-able t
 hat the ad-di-tion of small amounts
  []
 
-[18 <./Figures/SerieBampSweep.png>]
-<./Figures/SerieBflowCurve.png, id=549, 425.33907pt x 252.19218pt>
+[10 <./Figures/SerieBampSweep.png>]
+<./Figures/SerieBflowCurve.png, id=399, 425.33907pt x 252.19218pt>
 File: ./Figures/SerieBflowCurve.png Graphic file (type png)
 <use ./Figures/SerieBflowCurve.png>
 Package pdftex.def Info: ./Figures/SerieBflowCurve.png  used on input line 89.
 (pdftex.def)             Requested size: 303.0218pt x 179.67725pt.
- [19 <./Figures/SerieCampSweep.png> <./Figures/SerieAflowCurve.png>]
-<./Figures/SerieCflowCurve.png, id=557, 415.5525pt x 245.41687pt>
+ [11 <./Figures/SerieCampSweep.png> <./Figures/SerieAflowCurve.png>]
+<./Figures/SerieCflowCurve.png, id=407, 415.5525pt x 245.41687pt>
 File: ./Figures/SerieCflowCurve.png Graphic file (type png)
 <use ./Figures/SerieCflowCurve.png>
 Package pdftex.def Info: ./Figures/SerieCflowCurve.png  used on input line 99.
 (pdftex.def)             Requested size: 303.0218pt x 178.96558pt.
-<./Figures/SerieAfreqSweep.png, id=559, 397.485pt x 238.64156pt>
+<./Figures/SerieAfreqSweep.png, id=409, 397.485pt x 238.64156pt>
 File: ./Figures/SerieAfreqSweep.png Graphic file (type png)
 <use ./Figures/SerieAfreqSweep.png>
 Package pdftex.def Info: ./Figures/SerieAfreqSweep.png  used on input line 110.
 
 (pdftex.def)             Requested size: 303.0218pt x 181.93387pt.
- [20 <./Figures/SerieBflowCurve.png> <./Figures/SerieCflowCurve.png>]
-<./Figures/SerieBfreqSweep.png, id=567, 394.47375pt x 238.64156pt>
+ [12 <./Figures/SerieBflowCurve.png> <./Figures/SerieCflowCurve.png>]
+<./Figures/SerieBfreqSweep.png, id=418, 394.47375pt x 238.64156pt>
 File: ./Figures/SerieBfreqSweep.png Graphic file (type png)
 <use ./Figures/SerieBfreqSweep.png>
 Package pdftex.def Info: ./Figures/SerieBfreqSweep.png  used on input line 120.
 
 (pdftex.def)             Requested size: 303.0218pt x 183.31758pt.
-<./Figures/SerieCfreqSweep.png, id=569, 421.575pt x 237.88875pt>
+<./Figures/SerieCfreqSweep.png, id=420, 421.575pt x 237.88875pt>
 File: ./Figures/SerieCfreqSweep.png Graphic file (type png)
 <use ./Figures/SerieCfreqSweep.png>
 Package pdftex.def Info: ./Figures/SerieCfreqSweep.png  used on input line 130.
 
 (pdftex.def)             Requested size: 303.0218pt x 170.993pt.
- [21 <./Figures/SerieAfreqSweep.png>] [22 <./Figures/SerieBfreqSweep.png> <./Fi
-gures/SerieCfreqSweep.png>] [23]
+ [13 <./Figures/SerieAfreqSweep.png>] [14 <./Figures/SerieBfreqSweep.png> <./Fi
+gures/SerieCfreqSweep.png>] [15]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\cite' on input line 146.
 
-[24
+[16
 
-] [25]) [26]
+] [17]) [18]
+\openout2 = `Chapters/6_TheoreticalFramework.aux'.
+
+ (Chapters/6_TheoreticalFramework.tex
+Chapter 6.
+
+Overfull \hbox (8.30965pt too wide) in paragraph at lines 14--15
+\T1/ppl/m/n/12 solid state; \T1/ppl/m/it/12 Mi-croChem Corp. \T1/ppl/m/n/12 (We
+st-bor-ough, MA, USA) is the prin-ci-pal provider
+ []
+
+1: section
+[19
+
+
+
+] [20]
+<./Figures/FFES.png, id=520, 593.96906pt x 398.99063pt>
+File: ./Figures/FFES.png Graphic file (type png)
+<use ./Figures/FFES.png>
+Package pdftex.def Info: ./Figures/FFES.png  used on input line 27.
+(pdftex.def)             Requested size: 303.0218pt x 203.55559pt.
+<./Figures/NFES.png, id=526, 402.00188pt x 253.69781pt>
+File: ./Figures/NFES.png Graphic file (type png)
+<use ./Figures/NFES.png>
+Package pdftex.def Info: ./Figures/NFES.png  used on input line 37.
+(pdftex.def)             Requested size: 303.0218pt x 191.23293pt.
+ [21 <./Figures/FFES.png>] [22 <./Figures/NFES.png>]
+<./Figures/goodbadsolvent.png, id=562, 217.5628pt x 109.1578pt>
+File: ./Figures/goodbadsolvent.png Graphic file (type png)
+<use ./Figures/goodbadsolvent.png>
+Package pdftex.def Info: ./Figures/goodbadsolvent.png  used on input line 63.
+(pdftex.def)             Requested size: 202.01454pt x 101.36246pt.
+<./Figures/electrolyteConcentration.png, id=567, 238.64156pt x 107.65219pt>
+File: ./Figures/electrolyteConcentration.png Graphic file (type png)
+<use ./Figures/electrolyteConcentration.png>
+Package pdftex.def Info: ./Figures/electrolyteConcentration.png  used on input 
+line 73.
+(pdftex.def)             Requested size: 202.01454pt x 91.12862pt.
+ [23 <./Figures/goodbadsolvent.png>]
+<./Figures/ampSweep.png, id=579, 456.95718pt x 204.01219pt>
+File: ./Figures/ampSweep.png Graphic file (type png)
+<use ./Figures/ampSweep.png>
+Package pdftex.def Info: ./Figures/ampSweep.png  used on input line 88.
+(pdftex.def)             Requested size: 303.0218pt x 135.28972pt.
+ [24 <./Figures/electrolyteConcentration.png>]
+<./Figures/freqSweep.png, id=590, 338.76563pt x 165.61874pt>
+File: ./Figures/freqSweep.png Graphic file (type png)
+<use ./Figures/freqSweep.png>
+Package pdftex.def Info: ./Figures/freqSweep.png  used on input line 99.
+(pdftex.def)             Requested size: 303.0218pt x 148.14824pt.
+
+Overfull \hbox (4.99883pt too wide) in paragraph at lines 106--107
+\T1/ppl/m/n/12 The vis-cos-ity is mea-sured as a func-tion of the shear rate in
+ a ro-ta-tional rheome-
+ []
+
+<./Figures/flowCurve.png, id=595, 379.4175pt x 170.13562pt>
+File: ./Figures/flowCurve.png Graphic file (type png)
+<use ./Figures/flowCurve.png>
+Package pdftex.def Info: ./Figures/flowCurve.png  used on input line 110.
+(pdftex.def)             Requested size: 303.0218pt x 135.88022pt.
+) [25 <./Figures/ampSweep.png> <./Figures/freqSweep.png>] [26 <./Figures/flowCu
+rve.png>]
 \openout2 = `Chapters/7_Methodology.aux'.
 
  (Chapters/7_Methodology.tex
@@ -2165,13 +2165,19 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 443.
  (main.aux (Chapters/1_Introduction.aux)
 (Chapters/2_ProblmemDefinitionAndMotivation.aux)
 (Chapters/3_HypothesisAndResearchQuestions.aux) (Chapters/4_Objectives.aux)
-(Chapters/5_TheoreticalFramework.aux) (Chapters/6_StateoftheArt.aux)
+(Chapters/5_StateoftheArt.aux) (Chapters/6_TheoreticalFramework.aux)
 (Chapters/7_Methodology.aux) (Chapters/8_WorkPlan.aux))
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 443.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 443.
-Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: EE27A1AFF3BF947CAF42521DE9A3637B;7907.
 
+
+Package rerunfilecheck Warning: File `main.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `main.out':
+(rerunfilecheck)             Before: 83F166D1D37E690215D7ED02F7B5BEB7;7907
+(rerunfilecheck)             After:  E773F34F29D5330ED7C28590B65B6D3A;8081.
 
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
@@ -2180,28 +2186,37 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 47024 strings out of 492946
- 976523 string characters out of 3126267
- 1355168 words of memory out of 3000000
+ 47028 strings out of 492946
+ 976563 string characters out of 3126267
+ 1354191 words of memory out of 3000000
  50109 multiletter control sequences out of 15000+200000
  586431 words of font info for 122 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  64i,20n,83p,2487b,3013s stack positions out of 5000i,500n,10000p,200000b,50000s
- <C:\Users\oskat\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\
-ectt1095.pk>{C:/Users/oskat/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/b
-ase/8r.enc}<C:/Users/oskat/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public
-/amsfonts/cm/cmr10.pfb><C:/Users/oskat/AppData/Local/Programs/MiKTeX 2.9/fonts/
-type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/oskat/AppData/Local/Programs/MiKT
-eX 2.9/fonts/type1/public/mathpazo/fplmr.pfb><C:/Users/oskat/AppData/Local/Prog
-rams/MiKTeX 2.9/fonts/type1/public/mathpazo/fplmri.pfb><C:/Users/oskat/AppData/
-Local/Programs/MiKTeX 2.9/fonts/type1/urw/palatino/uplb8a.pfb><C:/Users/oskat/A
-ppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/palatino/uplr8a.pfb><C:/Users/
-oskat/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/palatino/uplr8a.pfb><C:
-/Users/oskat/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/palatino/uplri8a
-.pfb>
-Output written on main.pdf (42 pages, 870925 bytes).
+pdfTeX warning (dest): name{chapter.71} has been referenced but does not exis
+t, replaced by a fixed one
+
+pdfTeX warning (dest): name{section.65} has been referenced but does not exist,
+ replaced by a fixed one
+
+pdfTeX warning (dest): name{chapter.64} has been referenced but does not exist,
+ replaced by a fixed one
+
+ <C:\Users\oskat\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ec
+tt1095.pk>{C:/Users/oskat/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/bas
+e/8r.enc}<C:/Users/oskat/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/a
+msfonts/cm/cmr10.pfb><C:/Users/oskat/AppData/Local/Programs/MiKTeX 2.9/fonts/ty
+pe1/public/amsfonts/cm/cmsy10.pfb><C:/Users/oskat/AppData/Local/Programs/MiKTeX
+ 2.9/fonts/type1/public/mathpazo/fplmr.pfb><C:/Users/oskat/AppData/Local/Progra
+ms/MiKTeX 2.9/fonts/type1/public/mathpazo/fplmri.pfb><C:/Users/oskat/AppData/Lo
+cal/Programs/MiKTeX 2.9/fonts/type1/urw/palatino/uplb8a.pfb><C:/Users/oskat/App
+Data/Local/Programs/MiKTeX 2.9/fonts/type1/urw/palatino/uplr8a.pfb><C:/Users/os
+kat/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/palatino/uplr8a.pfb><C:/U
+sers/oskat/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/palatino/uplri8a.p
+fb>
+Output written on main.pdf (42 pages, 871840 bytes).
 PDF statistics:
- 880 PDF objects out of 1000 (max. 8388607)
- 149 named destinations out of 1000 (max. 500000)
+ 885 PDF objects out of 1000 (max. 8388607)
+ 153 named destinations out of 1000 (max. 500000)
  435 words of extra memory for PDF output out of 10000 (max. 10000000)
 
