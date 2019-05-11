@@ -23,22 +23,23 @@
 \contentsline {subsubsection}{Polymer Solution}{17}{section*.43}% 
 \contentsline {subsubsection}{Deposition}{17}{section*.44}% 
 \contentsline {subsection}{\numberline {5.2.3}Results and Discussion}{18}{subsection.45}% 
-\contentsline {chapter}{\numberline {6}Theoretical Framework}{19}{chapter.46}% 
-\contentsline {section}{\numberline {6.1}Photoresists}{19}{section.47}% 
-\contentsline {section}{\numberline {6.2}Electro-Mechanical Spinning}{20}{section.48}% 
-\contentsline {section}{\numberline {6.3}Pyrolysis}{21}{section.51}% 
-\contentsline {section}{\numberline {6.4}Carbon nano-wire}{23}{section.53}% 
-\contentsline {section}{\numberline {6.5}Polymer Solutions}{23}{section.54}% 
-\contentsline {section}{\numberline {6.6}Rheometry}{24}{section.57}% 
-\contentsline {subsection}{\numberline {6.6.1}Amplitude Sweep}{24}{subsection.58}% 
-\contentsline {subsection}{\numberline {6.6.2}Frequency Sweep}{24}{subsection.60}% 
-\contentsline {subsection}{\numberline {6.6.3}Flow Curve}{25}{subsection.62}% 
-\contentsline {section}{\numberline {6.7}Preliminary Experiments}{25}{section.64}% 
-\contentsline {chapter}{\numberline {7}Methodology}{27}{chapter.65}% 
-\contentsline {section}{\numberline {7.1}Work package 1 : Preliminary Literature Review}{27}{section.66}% 
-\contentsline {section}{\numberline {7.2}Work package 2 : Evaluation of Fabrication Parameters}{27}{section.67}% 
-\contentsline {section}{\numberline {7.3}Work package 3 : Polymer Solution Design}{28}{section.68}% 
-\contentsline {section}{\numberline {7.4}Work package 4 : Fabrication of Carbon Nano-wires}{28}{section.69}% 
-\contentsline {section}{\numberline {7.5}Work package 5 : Data Collection and Analysis of Results}{29}{section.70}% 
-\contentsline {section}{\numberline {7.6}Work package 6 : Documentation}{29}{section.71}% 
-\contentsline {chapter}{\numberline {8}Work Plan}{30}{chapter.72}% 
+\contentsline {section}{\numberline {5.3}FIND PAPER THAT CONFIRMS THAT WITH THE INCREASE OF PEO CONCENTRATION, THE POROSITY DENSITY INCREASES IN CARBON STRUCTURES AFTER PYROLYSIS. \cite {newPAPER}}{19}{section.46}% 
+\contentsline {chapter}{\numberline {6}Theoretical Framework}{20}{chapter.47}% 
+\contentsline {section}{\numberline {6.1}Photoresists}{20}{section.48}% 
+\contentsline {section}{\numberline {6.2}Electro-Mechanical Spinning}{21}{section.49}% 
+\contentsline {section}{\numberline {6.3}Pyrolysis}{22}{section.52}% 
+\contentsline {section}{\numberline {6.4}Carbon nano-wire}{24}{section.54}% 
+\contentsline {section}{\numberline {6.5}Polymer Solutions}{24}{section.55}% 
+\contentsline {section}{\numberline {6.6}Rheometry}{25}{section.58}% 
+\contentsline {subsection}{\numberline {6.6.1}Amplitude Sweep}{25}{subsection.59}% 
+\contentsline {subsection}{\numberline {6.6.2}Frequency Sweep}{25}{subsection.61}% 
+\contentsline {subsection}{\numberline {6.6.3}Flow Curve}{26}{subsection.63}% 
+\contentsline {section}{\numberline {6.7}Preliminary Experiments}{26}{section.65}% 
+\contentsline {chapter}{\numberline {7}Methodology}{28}{chapter.66}% 
+\contentsline {section}{\numberline {7.1}Work package 1 : Preliminary Literature Review}{28}{section.67}% 
+\contentsline {section}{\numberline {7.2}Work package 2 : Evaluation of Fabrication Parameters}{28}{section.68}% 
+\contentsline {section}{\numberline {7.3}Work package 3 : Polymer Solution Design}{29}{section.69}% 
+\contentsline {section}{\numberline {7.4}Work package 4 : Fabrication of Carbon Nano-wires}{29}{section.70}% 
+\contentsline {section}{\numberline {7.5}Work package 5 : Data Collection and Analysis of Results}{30}{section.71}% 
+\contentsline {section}{\numberline {7.6}Work package 6 : Documentation}{30}{section.72}% 
+\contentsline {chapter}{\numberline {8}Work Plan}{31}{chapter.73}% 
