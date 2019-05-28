@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.6960 64-bit) (preloaded format=pdflatex 2019.2.1)  13 MAY 2019 11:47
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.6960 64-bit) (preloaded format=pdflatex 2019.2.1)  16 MAY 2019 17:36
 entering extended mode
 **./main.tex
 (main.tex
@@ -1426,6 +1426,31 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 730.
 LaTeX Info: Redefining \[ on input line 2844.
 LaTeX Info: Redefining \] on input line 2845.
 )
+("C:\Users\oskat\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pdfpages\pdfpages.
+sty"
+Package: pdfpages 2017/10/31 v0.5l Insert pages of external PDF documents (AM)
+
+("C:\Users\oskat\AppData\Local\Programs\MiKTeX 2.9\tex/latex/eso-pic\eso-pic.st
+y"
+Package: eso-pic 2018/04/12 v2.0h eso-pic (RN)
+
+("C:\Users\oskat\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\atbegsh
+i.sty"
+Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+))
+\AM@pagewidth=\dimen295
+\AM@pageheight=\dimen296
+
+("C:\Users\oskat\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pdfpages\pppdftex.
+def"
+File: pppdftex.def 2017/10/31 v0.5l Pdfpages driver for pdfTeX (AM)
+)
+\AM@pagebox=\box75
+\AM@global@opts=\toks40
+\AM@toc@title=\toks41
+\c@AM@survey=\count446
+\AM@templatesizebox=\box76
+)
 ("C:\Users\oskat\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\hyperref.
 sty"
 Package: hyperref 2018/11/30 v6.88e Hypertext links for LaTeX
@@ -1460,7 +1485,7 @@ Package: letltxmacro 2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
 Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
 Package: xcolor-patch 2016/05/16 xcolor patch
 Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
-Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+Package hobsub Info: Skipping package `atbegshi' (already loaded).
 Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
 Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
 )
@@ -1468,9 +1493,9 @@ Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
 ty"
 Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
 )
-\@linkdim=\dimen295
-\Hy@linkcounter=\count446
-\Hy@pagecounter=\count447
+\@linkdim=\dimen297
+\Hy@linkcounter=\count447
+\Hy@pagecounter=\count448
 
 ("C:\Users\oskat\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\pd1enc.de
 f"
@@ -1478,7 +1503,7 @@ File: pd1enc.def 2018/11/30 v6.88e Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 )
-\Hy@SavedSpaceFactor=\count448
+\Hy@SavedSpaceFactor=\count449
 
 ("C:\Users\oskat\AppData\Local\Programs\MiKTeX 2.9\tex/latex/00miktex\hyperref.
 cfg"
@@ -1491,12 +1516,12 @@ Package hyperref Info: Plain pages OFF on input line 4534.
 Package hyperref Info: Backreferencing OFF on input line 4539.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4772.
-\c@Hy@tempcnt=\count449
+\c@Hy@tempcnt=\count450
 LaTeX Info: Redefining \url on input line 5125.
-\XeTeXLinkMargin=\dimen296
-\Fld@menulength=\count450
-\Field@Width=\dimen297
-\Fld@charsize=\dimen298
+\XeTeXLinkMargin=\dimen298
+\Fld@menulength=\count451
+\Field@Width=\dimen299
+\Fld@charsize=\dimen300
 Package hyperref Info: Hyper figures OFF on input line 6380.
 Package hyperref Info: Link nesting OFF on input line 6385.
 Package hyperref Info: Hyper index ON on input line 6388.
@@ -1506,20 +1531,20 @@ Package hyperref Info: Link coloring with OCG OFF on input line 6405.
 Package hyperref Info: PDF/A mode OFF on input line 6410.
 LaTeX Info: Redefining \ref on input line 6450.
 LaTeX Info: Redefining \pageref on input line 6454.
-\Hy@abspage=\count451
-\c@Item=\count452
-\c@Hfootnote=\count453
+\Hy@abspage=\count452
+\c@Item=\count453
+\c@Hfootnote=\count454
 )
 Package scrhack Info: hyperref hack deactivated because of
 (scrhack)             detection of hyperref version, that doesn't
-(scrhack)             need that hack, on input line 160.
+(scrhack)             need that hack, on input line 163.
 Package hyperref Info: Driver (autodetected): hpdftex.
 
 ("C:\Users\oskat\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\hpdftex.d
 ef"
 File: hpdftex.def 2018/11/30 v6.88e Hyperref driver for pdfTeX
-\Fld@listcount=\count454
-\c@bookmark@seq@number=\count455
+\Fld@listcount=\count455
+\c@bookmark@seq@number=\count456
 
 ("C:\Users\oskat\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\rerunfile
 check.sty"
@@ -1529,10 +1554,10 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip109
 )
-Package hyperref Info: Option `bookmarksopen' set `true' on input line 160.
-Package hyperref Info: Option `hypertexnames' set `false' on input line 160.
-Package hyperref Info: Option `colorlinks' set `true' on input line 160.
-Package hyperref Info: Option `unicode' set `true' on input line 160.
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 163.
+Package hyperref Info: Option `hypertexnames' set `false' on input line 163.
+Package hyperref Info: Option `colorlinks' set `true' on input line 163.
+Package hyperref Info: Option `unicode' set `true' on input line 163.
 
 ("C:\Users\oskat\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\puenc.def
 "
@@ -1540,7 +1565,7 @@ File: puenc.def 2018/11/30 v6.88e Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
 ... no UTF-8 mapping file for font encoding PU
 )
-Package hyperref Info: Option `breaklinks' set `true' on input line 160.
+Package hyperref Info: Option `breaklinks' set `true' on input line 163.
 Package biblatex Info: Trying to load language 'english'...
 Package biblatex Info: ... file 'english.lbx' found.
 
@@ -1557,31 +1582,31 @@ Package csquotes Info: ... found 'babel' package.
 (Chapters/7_Methodology.aux) (Chapters/8_WorkPlan.aux))
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 160.
-LaTeX Font Info:    ... okay on input line 160.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 160.
-LaTeX Font Info:    ... okay on input line 160.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 160.
-LaTeX Font Info:    ... okay on input line 160.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 160.
-LaTeX Font Info:    ... okay on input line 160.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 160.
-LaTeX Font Info:    ... okay on input line 160.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 160.
-LaTeX Font Info:    ... okay on input line 160.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 160.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 160.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 163.
+LaTeX Font Info:    ... okay on input line 163.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 163.
+LaTeX Font Info:    ... okay on input line 163.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 163.
+LaTeX Font Info:    ... okay on input line 163.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 163.
+LaTeX Font Info:    ... okay on input line 163.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 163.
+LaTeX Font Info:    ... okay on input line 163.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 163.
+LaTeX Font Info:    ... okay on input line 163.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 163.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 163.
 
 
 ("C:\Users\oskat\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\ts1cmr.fd"
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 160.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 160.
-LaTeX Font Info:    ... okay on input line 160.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 160.
-LaTeX Font Info:    ... okay on input line 160.
-LaTeX Font Info:    Try loading font information for T1+ppl on input line 160.
+LaTeX Font Info:    ... okay on input line 163.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 163.
+LaTeX Font Info:    ... okay on input line 163.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 163.
+LaTeX Font Info:    ... okay on input line 163.
+LaTeX Font Info:    Try loading font information for T1+ppl on input line 163.
 
 ("C:\Users\oskat\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\t1ppl.fd"
 File: t1ppl.fd 2001/06/04 font definitions for T1/ppl.
@@ -1597,17 +1622,17 @@ File: siunitx-abbreviations.cfg 2017/11/26 v2.7k siunitx: Abbreviated units
 ("C:\Users\oskat\AppData\Local\Programs\MiKTeX 2.9\tex/context/base\supp-pdf.mk
 ii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count456
-\scratchdimen=\dimen299
-\scratchbox=\box75
-\nofMPsegments=\count457
-\nofMParguments=\count458
-\everyMPshowfont=\toks40
-\MPscratchCnt=\count459
-\MPscratchDim=\dimen300
-\MPnumerator=\count460
-\makeMPintoPDFobject=\count461
-\everyMPtoPDFconversion=\toks41
+\scratchcounter=\count457
+\scratchdimen=\dimen301
+\scratchbox=\box77
+\nofMPsegments=\count458
+\nofMParguments=\count459
+\everyMPshowfont=\toks42
+\MPscratchCnt=\count460
+\MPscratchDim=\dimen302
+\MPnumerator=\count461
+\makeMPintoPDFobject=\count462
+\everyMPtoPDFconversion=\toks43
 )
 ("C:\Users\oskat\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\epstopdf-
 base.sty"
@@ -1664,18 +1689,18 @@ Package caption Info: End \AtBeginDocument code.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 Package scrlayer Info: Setting magic \footheight to \baselineskip while
-(scrlayer)             \begin{document} on input line 160.
-Package scrbase Info: activating english \abbrevname on input line 160.
-Package scrbase Info: activating english \byname on input line 160.
-Package scrbase Info: activating english \acknowledgementname on input line 160
+(scrlayer)             \begin{document} on input line 163.
+Package scrbase Info: activating english \abbrevname on input line 163.
+Package scrbase Info: activating english \byname on input line 163.
+Package scrbase Info: activating english \acknowledgementname on input line 163
 .
-Package scrbase Info: activating english \authorshipname on input line 160.
+Package scrbase Info: activating english \authorshipname on input line 163.
 Package scrbase Info: activating english \supervisingcommittee on input line 16
-0.
-Package scrbase Info: activating english \constantsname on input line 160.
-Package scrbase Info: activating english \symbolsname on input line 160.
+3.
+Package scrbase Info: activating english \constantsname on input line 163.
+Package scrbase Info: activating english \symbolsname on input line 163.
 ABD: EverySelectfont initializing macros
-LaTeX Info: Redefining \selectfont on input line 160.
+LaTeX Info: Redefining \selectfont on input line 163.
 Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Automatic encoding selection.
 (biblatex)             Assuming data encoding 'utf8'.
@@ -1684,12 +1709,18 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'main.bbl' found.
  (main.bbl)
-Package biblatex Info: Reference section=0 on input line 160.
-Package biblatex Info: Reference segment=0 on input line 160.
+Package biblatex Info: Reference section=0 on input line 163.
+Package biblatex Info: Reference segment=0 on input line 163.
 
 ABD: EveryShipout initializing macros
-\AtBeginShipoutBox=\box76
-Package hyperref Info: Link coloring ON on input line 160.
+\AtBeginShipoutBox=\box78
+
+("C:\Users\oskat\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\pdflscape
+.sty"
+Package: pdflscape 2016/05/14 v0.11 Display of landscape pages in PDF (HO)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+)
+Package hyperref Info: Link coloring ON on input line 163.
 
 ("C:\Users\oskat\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\nameref.s
 ty"
@@ -1699,78 +1730,123 @@ Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 estring.sty"
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count462
+\c@section@level=\count463
 )
-LaTeX Info: Redefining \ref on input line 160.
-LaTeX Info: Redefining \pageref on input line 160.
-LaTeX Info: Redefining \nameref on input line 160.
+LaTeX Info: Redefining \ref on input line 163.
+LaTeX Info: Redefining \pageref on input line 163.
+LaTeX Info: Redefining \nameref on input line 163.
  (main.out) (main.out)
 \@outlinefile=\write5
 \openout5 = `main.out'.
 
-LaTeX Font Info:    Try loading font information for OT1+ppl on input line 160.
+LaTeX Font Info:    Try loading font information for OT1+ppl on input line 163.
 
 
 ("C:\Users\oskat\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\ot1ppl.fd"
 File: ot1ppl.fd 2001/06/04 font definitions for OT1/ppl.
 )
-LaTeX Font Info:    Try loading font information for OML+zplm on input line 160
+LaTeX Font Info:    Try loading font information for OML+zplm on input line 163
 .
 ("C:\Users\oskat\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\omlzplm.fd"
 File: omlzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OML/zplm.
 )
-LaTeX Font Info:    Try loading font information for OMS+zplm on input line 160
+LaTeX Font Info:    Try loading font information for OMS+zplm on input line 163
 .
  ("C:\Users\oskat\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\omszplm.fd
 "
 File: omszplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMS/zplm.
 )
-LaTeX Font Info:    Try loading font information for OMX+zplm on input line 160
+LaTeX Font Info:    Try loading font information for OMX+zplm on input line 163
 .
 
 ("C:\Users\oskat\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\omxzplm.fd"
 File: omxzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMX/zplm.
 )
-LaTeX Font Info:    Try loading font information for OT1+zplm on input line 160
+LaTeX Font Info:    Try loading font information for OT1+zplm on input line 163
 .
  ("C:\Users\oskat\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\ot1zplm.fd
 "
 File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
 )
 1: section
-<./Figures/uniLogo.png, id=179, 401.5pt x 401.5pt>
+<./Figures/uniLogo.png, id=187, 401.5pt x 401.5pt>
 File: ./Figures/uniLogo.png Graphic file (type png)
 <use ./Figures/uniLogo.png>
-Package pdftex.def Info: ./Figures/uniLogo.png  used on input line 179.
+Package pdftex.def Info: ./Figures/uniLogo.png  used on input line 182.
 (pdftex.def)             Requested size: 60.60188pt x 60.60223pt.
 LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <20.74> not available
-(Font)              Font shape `T1/ppl/b/n' tried instead on input line 186.
+(Font)              Font shape `T1/ppl/b/n' tried instead on input line 189.
 [1
 
 
 
 {C:/Users/oskat/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./Figures/u
 niLogo.png>]
---------------------
- Supervising Committee
---------------------
-1: section
-[1
 
-]
+Package pdfpages Warning: Option `page' is unknow to \includepdf.
+(pdfpages)                Did you mean `pages'? (Note the `s'!)
+(pdfpages)                OK, I'll proceed as if it were `pages'.
+
+
+
+pdfTeX warning: pdflatex (file ./pdf/AlanDoraSigns.pdf): PDF inclusion: found P
+DF version <1.7>, but at most version <1.5> allowed
+<./pdf/AlanDoraSigns.pdf, id=205, 597.55246pt x 845.07724pt>
+File: ./pdf/AlanDoraSigns.pdf Graphic file (type pdf)
+<use ./pdf/AlanDoraSigns.pdf>
+Package pdftex.def Info: ./pdf/AlanDoraSigns.pdf  used on input line 241.
+(pdftex.def)             Requested size: 597.551pt x 845.07518pt.
+
+
+pdfTeX warning: pdflatex (file ./pdf/AlanDoraSigns.pdf): PDF inclusion: found P
+DF version <1.7>, but at most version <1.5> allowed
+File: ./pdf/AlanDoraSigns.pdf Graphic file (type pdf)
+<use ./pdf/AlanDoraSigns.pdf>
+Package pdftex.def Info: ./pdf/AlanDoraSigns.pdf  used on input line 241.
+(pdftex.def)             Requested size: 597.551pt x 845.07518pt.
+
+
+pdfTeX warning: pdflatex (file ./pdf/AlanDoraSigns.pdf): PDF inclusion: found P
+DF version <1.7>, but at most version <1.5> allowed
+
+
+pdfTeX warning: pdflatex (file ./pdf/AlanDoraSigns.pdf): PDF inclusion: found P
+DF version <1.7>, but at most version <1.5> allowed
+<./pdf/AlanDoraSigns.pdf, id=208, page=1, 597.55246pt x 845.07724pt>
+File: ./pdf/AlanDoraSigns.pdf Graphic file (type pdf)
+<use ./pdf/AlanDoraSigns.pdf, page 1>
+Package pdftex.def Info: ./pdf/AlanDoraSigns.pdf , page1 used on input line 241
+.
+(pdftex.def)             Requested size: 597.551pt x 845.07518pt.
+File: ./pdf/AlanDoraSigns.pdf Graphic file (type pdf)
+<use ./pdf/AlanDoraSigns.pdf, page 1>
+Package pdftex.def Info: ./pdf/AlanDoraSigns.pdf , page1 used on input line 241
+.
+(pdftex.def)             Requested size: 597.57834pt x 845.11386pt.
+File: ./pdf/AlanDoraSigns.pdf Graphic file (type pdf)
+<use ./pdf/AlanDoraSigns.pdf, page 1>
+Package pdftex.def Info: ./pdf/AlanDoraSigns.pdf , page1 used on input line 241
+.
+(pdftex.def)             Requested size: 597.57834pt x 845.11386pt.
+File: ./pdf/AlanDoraSigns.pdf Graphic file (type pdf)
+<use ./pdf/AlanDoraSigns.pdf, page 1>
+Package pdftex.def Info: ./pdf/AlanDoraSigns.pdf , page1 used on input line 241
+.
+(pdftex.def)             Requested size: 597.57834pt x 845.11386pt.
+File: ./pdf/AlanDoraSigns.pdf Graphic file (type pdf)
+<use ./pdf/AlanDoraSigns.pdf, page 1>
+Package pdftex.def Info: ./pdf/AlanDoraSigns.pdf , page1 used on input line 241
+.
+(pdftex.def)             Requested size: 597.57834pt x 845.11386pt.
+[1 <./pdf/AlanDoraSigns.pdf>]
 LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <24.88> not available
-(Font)              Font shape `T1/ppl/b/n' tried instead on input line 312.
+(Font)              Font shape `T1/ppl/b/n' tried instead on input line 317.
  (main.toc
 LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <10.95> not available
 (Font)              Font shape `T1/ppl/b/n' tried instead on input line 3.
 
-Overfull \hbox (0.38148pt too wide) in paragraph at lines 26--26
- \T1/ppl/m/n/10.95 PEO CON-CEN-TRA-TION, THE POROS-ITY DEN-SITY IN-CREASES IN 
- []
-
 1: section
 [2
-
 
 ])
 \tf@toc=\write6
@@ -1793,7 +1869,7 @@ Overfull \hbox (0.38148pt too wide) in paragraph at lines 26--26
  Abstract
 --------------------
 
-Underfull \hbox (badness 10000) in paragraph at lines 359--360
+Underfull \hbox (badness 10000) in paragraph at lines 364--365
 
  []
 
@@ -1802,11 +1878,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 359--360
 
 ]
 1: section
-\openout2 = `Chapters/1_Introduction.aux'.
+\openout2 = `./Chapters/1_Introduction.aux'.
 
 (Chapters/1_Introduction.tex
 Chapter 1.
-<./Figures/FabricationProcess.png, id=324, 510.2262pt x 100.6962pt>
+<./Figures/FabricationProcess.png, id=358, 510.2262pt x 100.6962pt>
 File: ./Figures/FabricationProcess.png Graphic file (type png)
 <use ./Figures/FabricationProcess.png>
 Package pdftex.def Info: ./Figures/FabricationProcess.png  used on input line 2
@@ -1818,13 +1894,13 @@ Package pdftex.def Info: ./Figures/FabricationProcess.png  used on input line 2
 
 
  <./Figures/FabricationProcess.png>]) [2]
-\openout2 = `Chapters/2_ProblmemDefinitionAndMotivation.aux'.
+\openout2 = `./Chapters/2_ProblmemDefinitionAndMotivation.aux'.
 
 
 (Chapters/2_ProblmemDefinitionAndMotivation.tex
 Chapter 2.
 
-Overfull \hbox (5.23817pt too wide) in paragraph at lines 14--15
+Overfull \hbox (5.23817pt too wide) in paragraph at lines 14--17
 \T1/ppl/m/n/12 Carbon nanowires have been fab-ri-cated with a pho-tore-sist by 
 multiple-photon
  []
@@ -1835,7 +1911,7 @@ multiple-photon
 
 
 ]) [4]
-\openout2 = `Chapters/3_HypothesisAndResearchQuestions.aux'.
+\openout2 = `./Chapters/3_HypothesisAndResearchQuestions.aux'.
 
  (Chapters/3_HypothesisAndResearchQuestions.tex
 Chapter 3.
@@ -1845,9 +1921,9 @@ LaTeX Font Info:    Try loading font information for TS1+ppl on input line 17.
 ("C:\Users\oskat\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\ts1ppl.fd"
 File: ts1ppl.fd 2001/06/04 font definitions for TS1/ppl.
 )
-Overfull \hbox (9.09373pt too wide) in paragraph at lines 18--20
-[]\T1/ppl/m/n/12 Is there any ev-i-dence of car-bon nano-wire fab-ri-ca-tion th
-ough electrospun-
+Overfull \hbox (1.9658pt too wide) in paragraph at lines 18--20
+[]\T1/ppl/m/n/12 Is there any ev-i-dence of con-duc-tive car-bon nano-wire fab-
+ri-ca-tion though
  []
 
 1: section
@@ -1856,7 +1932,7 @@ ough electrospun-
 
 
 ]) [6]
-\openout2 = `Chapters/4_Objectives.aux'.
+\openout2 = `./Chapters/4_Objectives.aux'.
 
  (Chapters/4_Objectives.tex
 Chapter 4.
@@ -1879,190 +1955,215 @@ Overfull \hbox (3.22534pt too wide) in paragraph at lines 24--26
 
 
 ]
-\openout2 = `Chapters/5_StateoftheArt.aux'.
+\openout2 = `./Chapters/5_StateoftheArt.aux'.
 
  (Chapters/5_StateoftheArt.tex
 Chapter 5.
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\cite' on input line 13.
-
-
-Overfull \hbox (27.31792pt too wide) in paragraph at lines 15--16
-\T1/ppl/m/n/12 Flores stud-ied SU-8 2002 poly-mer so-lu-tions in cy-clopen-tano
-ne with poly(ethylene)
- []
+(hyperref)                removing `\cite' on input line 15.
 
 LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <12> not available
-(Font)              Font shape `T1/ppl/b/n' tried instead on input line 39.
+(Font)              Font shape `T1/ppl/b/n' tried instead on input line 19.
+<./Figures/ampSweep.png, id=423, 456.95718pt x 204.01219pt>
+File: ./Figures/ampSweep.png Graphic file (type png)
+<use ./Figures/ampSweep.png>
+Package pdftex.def Info: ./Figures/ampSweep.png  used on input line 28.
+(pdftex.def)             Requested size: 303.0218pt x 135.28972pt.
 1: section
 [8
 
 
 
 ]
-<./Figures/SerieAampSweep.png, id=390, 392.21532pt x 280.04625pt>
+<./Figures/freqSweep.png, id=437, 338.76563pt x 165.61874pt>
+File: ./Figures/freqSweep.png Graphic file (type png)
+<use ./Figures/freqSweep.png>
+Package pdftex.def Info: ./Figures/freqSweep.png  used on input line 39.
+(pdftex.def)             Requested size: 303.0218pt x 148.14824pt.
+
+Overfull \hbox (4.99883pt too wide) in paragraph at lines 46--47
+\T1/ppl/m/n/12 The vis-cos-ity is mea-sured as a func-tion of the shear rate in
+ a ro-ta-tional rheome-
+ []
+
+<./Figures/flowCurve.png, id=442, 379.4175pt x 170.13562pt>
+File: ./Figures/flowCurve.png Graphic file (type png)
+<use ./Figures/flowCurve.png>
+Package pdftex.def Info: ./Figures/flowCurve.png  used on input line 50.
+(pdftex.def)             Requested size: 303.0218pt x 135.88022pt.
+
+Overfull \hbox (27.31792pt too wide) in paragraph at lines 57--58
+\T1/ppl/m/n/12 Flores stud-ied SU-8 2002 poly-mer so-lu-tions in cy-clopen-tano
+ne with poly(ethylene)
+ []
+
+[9 <./Figures/ampSweep.png> <./Figures/freqSweep.png>] [10 <./Figures/flowCurve
+.png>]
+<./Figures/SerieAampSweep.png, id=469, 392.21532pt x 280.04625pt>
 File: ./Figures/SerieAampSweep.png Graphic file (type png)
 <use ./Figures/SerieAampSweep.png>
-Package pdftex.def Info: ./Figures/SerieAampSweep.png  used on input line 44.
+Package pdftex.def Info: ./Figures/SerieAampSweep.png  used on input line 86.
 (pdftex.def)             Requested size: 303.0218pt x 216.37552pt.
-<./Figures/SerieBampSweep.png, id=393, 394.47375pt x 264.23718pt>
+<./Figures/SerieBampSweep.png, id=474, 394.47375pt x 264.23718pt>
 File: ./Figures/SerieBampSweep.png Graphic file (type png)
 <use ./Figures/SerieBampSweep.png>
-Package pdftex.def Info: ./Figures/SerieBampSweep.png  used on input line 56.
+Package pdftex.def Info: ./Figures/SerieBampSweep.png  used on input line 98.
 (pdftex.def)             Requested size: 303.0218pt x 202.97942pt.
-<./Figures/SerieCampSweep.png, id=394, 436.63126pt x 297.36093pt>
+<./Figures/SerieCampSweep.png, id=477, 436.63126pt x 297.36093pt>
 File: ./Figures/SerieCampSweep.png Graphic file (type png)
 <use ./Figures/SerieCampSweep.png>
-Package pdftex.def Info: ./Figures/SerieCampSweep.png  used on input line 64.
+Package pdftex.def Info: ./Figures/SerieCampSweep.png  used on input line 106.
 (pdftex.def)             Requested size: 303.0218pt x 206.36804pt.
- [9 <./Figures/SerieAampSweep.png>]
-<./Figures/SerieAflowCurve.png, id=402, 465.23813pt x 253.69781pt>
+ [11 <./Figures/SerieAampSweep.png>]
+<./Figures/SerieAflowCurve.png, id=489, 465.23813pt x 253.69781pt>
 File: ./Figures/SerieAflowCurve.png Graphic file (type png)
 <use ./Figures/SerieAflowCurve.png>
-Package pdftex.def Info: ./Figures/SerieAflowCurve.png  used on input line 77.
+Package pdftex.def Info: ./Figures/SerieAflowCurve.png  used on input line 119.
+
 (pdftex.def)             Requested size: 303.0218pt x 165.24614pt.
 
-Overfull \hbox (8.93437pt too wide) in paragraph at lines 83--84
-[]\T1/ppl/m/n/12 From the re-sults in Fig-ure [][]5.4[][], it is no-tice-able t
+Overfull \hbox (8.93437pt too wide) in paragraph at lines 125--126
+[]\T1/ppl/m/n/12 From the re-sults in Fig-ure [][]5.7[][], it is no-tice-able t
 hat the ad-di-tion of small amounts
  []
 
-[10 <./Figures/SerieBampSweep.png>]
-<./Figures/SerieBflowCurve.png, id=411, 425.33907pt x 252.19218pt>
+[12 <./Figures/SerieBampSweep.png>]
+<./Figures/SerieBflowCurve.png, id=502, 425.33907pt x 252.19218pt>
 File: ./Figures/SerieBflowCurve.png Graphic file (type png)
 <use ./Figures/SerieBflowCurve.png>
-Package pdftex.def Info: ./Figures/SerieBflowCurve.png  used on input line 89.
+Package pdftex.def Info: ./Figures/SerieBflowCurve.png  used on input line 131.
+
 (pdftex.def)             Requested size: 303.0218pt x 179.67725pt.
- [11 <./Figures/SerieCampSweep.png> <./Figures/SerieAflowCurve.png>]
-<./Figures/SerieCflowCurve.png, id=419, 415.5525pt x 245.41687pt>
+ [13 <./Figures/SerieCampSweep.png> <./Figures/SerieAflowCurve.png>]
+<./Figures/SerieCflowCurve.png, id=513, 415.5525pt x 245.41687pt>
 File: ./Figures/SerieCflowCurve.png Graphic file (type png)
 <use ./Figures/SerieCflowCurve.png>
-Package pdftex.def Info: ./Figures/SerieCflowCurve.png  used on input line 99.
+Package pdftex.def Info: ./Figures/SerieCflowCurve.png  used on input line 141.
+
 (pdftex.def)             Requested size: 303.0218pt x 178.96558pt.
-<./Figures/SerieAfreqSweep.png, id=421, 397.485pt x 238.64156pt>
+<./Figures/SerieAfreqSweep.png, id=517, 397.485pt x 238.64156pt>
 File: ./Figures/SerieAfreqSweep.png Graphic file (type png)
 <use ./Figures/SerieAfreqSweep.png>
-Package pdftex.def Info: ./Figures/SerieAfreqSweep.png  used on input line 110.
+Package pdftex.def Info: ./Figures/SerieAfreqSweep.png  used on input line 152.
 
 (pdftex.def)             Requested size: 303.0218pt x 181.93387pt.
- [12 <./Figures/SerieBflowCurve.png> <./Figures/SerieCflowCurve.png>]
-<./Figures/SerieBfreqSweep.png, id=430, 394.47375pt x 238.64156pt>
+ [14 <./Figures/SerieBflowCurve.png> <./Figures/SerieCflowCurve.png>]
+<./Figures/SerieBfreqSweep.png, id=528, 394.47375pt x 238.64156pt>
 File: ./Figures/SerieBfreqSweep.png Graphic file (type png)
 <use ./Figures/SerieBfreqSweep.png>
-Package pdftex.def Info: ./Figures/SerieBfreqSweep.png  used on input line 120.
+Package pdftex.def Info: ./Figures/SerieBfreqSweep.png  used on input line 162.
 
 (pdftex.def)             Requested size: 303.0218pt x 183.31758pt.
-<./Figures/SerieCfreqSweep.png, id=432, 421.575pt x 237.88875pt>
+<./Figures/SerieCfreqSweep.png, id=532, 421.575pt x 237.88875pt>
 File: ./Figures/SerieCfreqSweep.png Graphic file (type png)
 <use ./Figures/SerieCfreqSweep.png>
-Package pdftex.def Info: ./Figures/SerieCfreqSweep.png  used on input line 130.
+Package pdftex.def Info: ./Figures/SerieCfreqSweep.png  used on input line 172.
 
 (pdftex.def)             Requested size: 303.0218pt x 170.993pt.
- [13 <./Figures/SerieAfreqSweep.png>] [14 <./Figures/SerieBfreqSweep.png> <./Fi
-gures/SerieCfreqSweep.png>] [15]
+ [15 <./Figures/SerieAfreqSweep.png>] [16 <./Figures/SerieBfreqSweep.png> <./Fi
+gures/SerieCfreqSweep.png>] [17]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\cite' on input line 146.
+(hyperref)                removing `\cite' on input line 188.
 
-[16
+[18
 
-] [17] [18]
-
-LaTeX Warning: Citation 'newPAPER' on page 19 undefined on input line 187.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\cite' on input line 187.
-
-) [19
-
-]
-\openout2 = `Chapters/6_TheoreticalFramework.aux'.
+] [19]) [20]
+\openout2 = `./Chapters/6_TheoreticalFramework.aux'.
 
  (Chapters/6_TheoreticalFramework.tex
 Chapter 6.
+<./Figures/PosNegResist.jpg, id=594, 481.8pt x 642.90187pt>
+File: ./Figures/PosNegResist.jpg Graphic file (type jpg)
+<use ./Figures/PosNegResist.jpg>
+Package pdftex.def Info: ./Figures/PosNegResist.jpg  used on input line 16.
+(pdftex.def)             Requested size: 222.21722pt x 296.51343pt.
 
-Overfull \hbox (8.30965pt too wide) in paragraph at lines 14--15
+Overfull \hbox (8.30965pt too wide) in paragraph at lines 22--23
 \T1/ppl/m/n/12 solid state; \T1/ppl/m/it/12 Mi-croChem Corp. \T1/ppl/m/n/12 (We
 st-bor-ough, MA, USA) is the prin-ci-pal provider
  []
 
 1: section
-[20
+[21
 
 
 
-]
-Overfull \hbox (5.22676pt too wide) in paragraph at lines 16--17
-[]\T1/ppl/m/n/12 In sum-mary, a pho-tore-sist is an "epoxy-based resin (poly-me
-ric) ma-te-rial which
- []
-
-[21]
-<./Figures/FFES.png, id=537, 593.96906pt x 398.99063pt>
+] [22 <./Figures/PosNegResist.jpg>]
+<./Figures/FFES.png, id=648, 593.96906pt x 398.99063pt>
 File: ./Figures/FFES.png Graphic file (type png)
 <use ./Figures/FFES.png>
-Package pdftex.def Info: ./Figures/FFES.png  used on input line 27.
+Package pdftex.def Info: ./Figures/FFES.png  used on input line 35.
 (pdftex.def)             Requested size: 303.0218pt x 203.55559pt.
-<./Figures/NFES.png, id=543, 402.00188pt x 253.69781pt>
+<./Figures/NFES.png, id=654, 402.00188pt x 253.69781pt>
 File: ./Figures/NFES.png Graphic file (type png)
 <use ./Figures/NFES.png>
-Package pdftex.def Info: ./Figures/NFES.png  used on input line 37.
+Package pdftex.def Info: ./Figures/NFES.png  used on input line 45.
 (pdftex.def)             Requested size: 303.0218pt x 191.23293pt.
- [22 <./Figures/FFES.png>] [23 <./Figures/NFES.png>]
-<./Figures/goodbadsolvent.png, id=579, 217.5628pt x 109.1578pt>
+ [23] [24 <./Figures/FFES.png>] [25 <./Figures/NFES.png>]
+<./Figures/goodbadsolvent.png, id=707, 217.5628pt x 109.1578pt>
 File: ./Figures/goodbadsolvent.png Graphic file (type png)
 <use ./Figures/goodbadsolvent.png>
-Package pdftex.def Info: ./Figures/goodbadsolvent.png  used on input line 63.
+Package pdftex.def Info: ./Figures/goodbadsolvent.png  used on input line 71.
 (pdftex.def)             Requested size: 202.01454pt x 101.36246pt.
-<./Figures/electrolyteConcentration.png, id=584, 238.64156pt x 107.65219pt>
+<./Figures/electrolyteConcentration.png, id=712, 238.64156pt x 107.65219pt>
 File: ./Figures/electrolyteConcentration.png Graphic file (type png)
 <use ./Figures/electrolyteConcentration.png>
 Package pdftex.def Info: ./Figures/electrolyteConcentration.png  used on input 
-line 73.
+line 81.
 (pdftex.def)             Requested size: 202.01454pt x 91.12862pt.
- [24 <./Figures/goodbadsolvent.png>]
-<./Figures/ampSweep.png, id=597, 456.95718pt x 204.01219pt>
-File: ./Figures/ampSweep.png Graphic file (type png)
-<use ./Figures/ampSweep.png>
-Package pdftex.def Info: ./Figures/ampSweep.png  used on input line 88.
-(pdftex.def)             Requested size: 303.0218pt x 135.28972pt.
- [25 <./Figures/electrolyteConcentration.png>]
-<./Figures/freqSweep.png, id=607, 338.76563pt x 165.61874pt>
-File: ./Figures/freqSweep.png Graphic file (type png)
-<use ./Figures/freqSweep.png>
-Package pdftex.def Info: ./Figures/freqSweep.png  used on input line 99.
-(pdftex.def)             Requested size: 303.0218pt x 148.14824pt.
+ [26 <./Figures/goodbadsolvent.png> <./Figures/electrolyteConcentration.png>]
+<./Figures/PEset1.png, id=726, 277.035pt x 207.77625pt>
+File: ./Figures/PEset1.png Graphic file (type png)
+<use ./Figures/PEset1.png>
+Package pdftex.def Info: ./Figures/PEset1.png  used on input line 95.
+(pdftex.def)             Requested size: 303.0218pt x 227.26738pt.
+<./Figures/PEset2.png, id=727, 277.035pt x 207.77625pt>
+File: ./Figures/PEset2.png Graphic file (type png)
+<use ./Figures/PEset2.png>
+Package pdftex.def Info: ./Figures/PEset2.png  used on input line 103.
+(pdftex.def)             Requested size: 303.0218pt x 227.26738pt.
+ [27 <./Figures/PEset1.png>]
+<./Figures/PEset1results.png, id=740, 714.0276pt x 408.5664pt>
+File: ./Figures/PEset1results.png Graphic file (type png)
+<use ./Figures/PEset1results.png>
+Package pdftex.def Info: ./Figures/PEset1results.png  used on input line 127.
+(pdftex.def)             Requested size: 303.0218pt x 173.39217pt.
+ [28 <./Figures/PEset2.png>]
+<./Figures/PEset2results.png, id=753, 713.5458pt x 408.5664pt>
+File: ./Figures/PEset2results.png Graphic file (type png)
+<use ./Figures/PEset2results.png>
+Package pdftex.def Info: ./Figures/PEset2results.png  used on input line 139.
+(pdftex.def)             Requested size: 303.0218pt x 173.50438pt.
 
-Overfull \hbox (4.99883pt too wide) in paragraph at lines 106--107
-\T1/ppl/m/n/12 The vis-cos-ity is mea-sured as a func-tion of the shear rate in
- a ro-ta-tional rheome-
+Overfull \hbox (3.58159pt too wide) in paragraph at lines 152--152
+[]|\T1/ppl/m/n/10.95 Sample|  
  []
 
-<./Figures/flowCurve.png, id=612, 379.4175pt x 170.13562pt>
-File: ./Figures/flowCurve.png Graphic file (type png)
-<use ./Figures/flowCurve.png>
-Package pdftex.def Info: ./Figures/flowCurve.png  used on input line 110.
-(pdftex.def)             Requested size: 303.0218pt x 135.88022pt.
-) [26 <./Figures/ampSweep.png> <./Figures/freqSweep.png>] [27 <./Figures/flowCu
-rve.png>]
-\openout2 = `Chapters/7_Methodology.aux'.
 
- (Chapters/7_Methodology.tex
+Overfull \hbox (3.56268pt too wide) in paragraph at lines 150--162
+ [] 
+ []
+
+[29 <./Figures/PEset1results.png> <./Figures/PEset2results.png>]) [30]
+\openout2 = `./Chapters/7_Methodology.aux'.
+
+
+(Chapters/7_Methodology.tex
 Chapter 7.
 1: section
-[28
+[31
 
 
 
-] [29]) [30]
-\openout2 = `Chapters/8_WorkPlan.aux'.
+] [32]) [33]
+\openout2 = `./Chapters/8_WorkPlan.aux'.
 
  (Chapters/8_WorkPlan.tex
 Chapter 8.
-\ganttx=\count463
-\ganttheight=\count464
+\ganttx=\count464
+\ganttheight=\count465
 Missing character: There is no ; in font nullfont!
 Missing character: There is no ; in font nullfont!
 Missing character: There is no ; in font nullfont!
@@ -2083,8 +2184,8 @@ Overfull \hbox (92.61403pt too wide) in paragraph at lines 39--40
  [] 
  []
 
-\ganttx=\count465
-\ganttheight=\count466
+\ganttx=\count466
+\ganttheight=\count467
 Missing character: There is no ; in font nullfont!
 Missing character: There is no ; in font nullfont!
 Missing character: There is no ; in font nullfont!
@@ -2106,41 +2207,35 @@ Overfull \hbox (92.61403pt too wide) in paragraph at lines 66--67
  []
 
 1: section
-[31
+[34
 
 
 
-]) [32]
-LaTeX Font Info:    Try loading font information for T1+cmtt on input line 426.
+]) [35]
+LaTeX Font Info:    Try loading font information for T1+cmtt on input line 431.
 
 
 ("C:\Users\oskat\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\t1cmtt.fd"
 File: t1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-Overfull \hbox (12.70465pt too wide) in paragraph at lines 426--426
-[]\T1/ppl/m/n/10.95 Rosalind Elsie Franklin.   Crys-tal-lite growth in graphi-
-tiz-ing and non-graphitizing
- []
-
-1: section
-[33
-
-
-]
-Overfull \hbox (0.1114pt too wide) in paragraph at lines 426--426
+Overfull \hbox (0.1114pt too wide) in paragraph at lines 431--431
 \T1/cmtt/m/n/10.95 3538(03 ) 00178 -[] 7$[][]\T1/ppl/m/n/10.95 . \T1/ppl/m/sc/1
 0.95 url\T1/ppl/m/n/10.95 : [][]$\T1/cmtt/m/n/10.95 https : / / www . sciencedi
 rect . com / science / article /
  []
 
+1: section
+[36
 
-Overfull \hbox (41.46208pt too wide) in paragraph at lines 426--426
+
+]
+Overfull \hbox (41.46208pt too wide) in paragraph at lines 431--431
 [][]$\T1/cmtt/m/n/10.95 https : / / learning . oreilly . com / library / view /
  nano -[] lithography / 9781118621707/$[][]\T1/ppl/m/n/10.95 . 
  []
 
 
-Overfull \hbox (14.33789pt too wide) in paragraph at lines 426--426
+Overfull \hbox (14.33789pt too wide) in paragraph at lines 431--431
 \T1/ppl/m/it/10.95 pli-ca-tions\T1/ppl/m/n/10.95 . John Wi-ley & Sons, 2012. \T
 1/ppl/m/sc/10.95 doi\T1/ppl/m/n/10.95 : [][]$\T1/cmtt/m/n/10.95 9781118078617$[
 ][]\T1/ppl/m/n/10.95 . \T1/ppl/m/sc/10.95 url\T1/ppl/m/n/10.95 : [][]$\T1/cmtt/
@@ -2148,79 +2243,230 @@ m/n/10.95 https : / / learning .
  []
 
 
-Overfull \hbox (10.56036pt too wide) in paragraph at lines 426--426
+Overfull \hbox (10.56036pt too wide) in paragraph at lines 431--431
 []\T1/ppl/m/n/10.95 Marc J. Madou et al.   Con-trolled Con-tin-u-ous Pat-tern-
 ing of Poly-meric Nanofibers
  []
 
 
-Overfull \hbox (38.0078pt too wide) in paragraph at lines 426--426
+Overfull \hbox (38.0078pt too wide) in paragraph at lines 431--431
 []\T1/ppl/m/n/10.95 S.K. Nataraj, K.S. Yang, and T.M. Am-inab-havi.   Polyacry
 lonitrile-based nanofibersA
  []
 
 
-Overfull \hbox (1.6211pt too wide) in paragraph at lines 426--426
+Overfull \hbox (1.6211pt too wide) in paragraph at lines 431--431
 \T1/ppl/m/n/10.95 state-of-the-art re-view. In: \T1/ppl/m/it/10.95 Progress in
  Poly-mer Sci-ence \T1/ppl/m/n/10.95 37.3 (Mar. 2012), pp. 487
  []
 
-[34]
-Overfull \hbox (21.92175pt too wide) in paragraph at lines 426--426
+[37]
+Overfull \hbox (21.92175pt too wide) in paragraph at lines 431--431
 \T1/ppl/m/n/10.95 09967. \T1/ppl/m/sc/10.95 doi\T1/ppl/m/n/10.95 : [][]$\T1/cmt
 t/m/n/10.95 10 . 1016 / S0032 -[] 3861(01 ) 00540 -[] 7$[][]\T1/ppl/m/n/10.95 .
  \T1/ppl/m/sc/10.95 url\T1/ppl/m/n/10.95 : [][]$\T1/cmtt/m/n/10.95 https : / / 
 www . sciencedirect .
  []
 
-[35] [36]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 443.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 443.
+[38] [39]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 448.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 448.
  (main.aux (Chapters/1_Introduction.aux)
 (Chapters/2_ProblmemDefinitionAndMotivation.aux)
 (Chapters/3_HypothesisAndResearchQuestions.aux) (Chapters/4_Objectives.aux)
 (Chapters/5_StateoftheArt.aux) (Chapters/6_TheoreticalFramework.aux)
 (Chapters/7_Methodology.aux) (Chapters/8_WorkPlan.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 443.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 443.
-Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: C304A1DE1375EB891B1A968FB94D605B;8932.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 448.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 448.
 
 
-LaTeX Warning: There were undefined references.
+Package rerunfilecheck Warning: File `main.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
 
+Package rerunfilecheck Info: Checksums for `main.out':
+(rerunfilecheck)             Before: E50E7E967DACD9FC91842DE5DC050BB3;8451
+(rerunfilecheck)             After:  1B2A9099B93D3E60338AAD8987828FF7;8294.
 
-Package biblatex Warning: Please (re)run Biber on the file:
-(biblatex)                main
-(biblatex)                and rerun LaTeX afterwards.
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 47030 strings out of 492946
- 976589 string characters out of 3126267
- 1355256 words of memory out of 3000000
- 50112 multiletter control sequences out of 15000+200000
- 586431 words of font info for 122 fonts, out of 3000000 for 9000
+ 47752 strings out of 492946
+ 988798 string characters out of 3126267
+ 1368360 words of memory out of 3000000
+ 50742 multiletter control sequences out of 15000+200000
+ 587558 words of font info for 126 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 64i,20n,83p,2487b,3013s stack positions out of 5000i,500n,10000p,200000b,50000s
- <C:\Users\oskat\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\
-ectt1095.pk>{C:/Users/oskat/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/b
-ase/8r.enc}<C:/Users/oskat/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public
-/amsfonts/cm/cmr10.pfb><C:/Users/oskat/AppData/Local/Programs/MiKTeX 2.9/fonts/
-type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/oskat/AppData/Local/Programs/MiKT
-eX 2.9/fonts/type1/public/mathpazo/fplmr.pfb><C:/Users/oskat/AppData/Local/Prog
-rams/MiKTeX 2.9/fonts/type1/public/mathpazo/fplmri.pfb><C:/Users/oskat/AppData/
-Local/Programs/MiKTeX 2.9/fonts/type1/urw/palatino/uplb8a.pfb><C:/Users/oskat/A
-ppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/palatino/uplr8a.pfb><C:/Users/
-oskat/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/palatino/uplr8a.pfb><C:
-/Users/oskat/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/palatino/uplri8a
-.pfb>
-Output written on main.pdf (43 pages, 875898 bytes).
+ 64i,20n,83p,2487b,3017s stack positions out of 5000i,500n,10000p,200000b,50000s
+pdfTeX warning (dest): name{table.caption.74} has been referenced but does no
+t exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{equation.62} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{table.caption.47} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{table.caption.26} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{figure.caption.73} has been referenced but does not
+ exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{figure.caption.70} has been referenced but does not
+ exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{figure.caption.66} has been referenced but does not
+ exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{figure.caption.60} has been referenced but does not
+ exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{figure.caption.57} has been referenced but does not
+ exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{figure.caption.38} has been referenced but does not
+ exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{figure.caption.34} has been referenced but does not
+ exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{figure.caption.30} has been referenced but does not
+ exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{figure.caption.24} has been referenced but does not
+ exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{figure.caption.22} has been referenced but does not
+ exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{figure.caption.20} has been referenced but does not
+ exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{figure.caption.8} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{chapter.82} has been referenced but does not exist,
+ replaced by a fixed one
+
+pdfTeX warning (dest): name{section.81} has been referenced but does not exist,
+ replaced by a fixed one
+
+pdfTeX warning (dest): name{chapter.75} has been referenced but does not exist,
+ replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.71} has been referenced but does not exi
+st, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.68} has been referenced but does not exi
+st, replaced by a fixed one
+
+pdfTeX warning (dest): name{section.67} has been referenced but does not exist,
+ replaced by a fixed one
+
+pdfTeX warning (dest): name{section.64} has been referenced but does not exist,
+ replaced by a fixed one
+
+pdfTeX warning (dest): name{section.61} has been referenced but does not exist,
+ replaced by a fixed one
+
+pdfTeX warning (dest): name{section.58} has been referenced but does not exist,
+ replaced by a fixed one
+
+pdfTeX warning (dest): name{section.56} has been referenced but does not exist,
+ replaced by a fixed one
+
+pdfTeX warning (dest): name{chapter.55} has been referenced but does not exist,
+ replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.54} has been referenced but does not exi
+st, replaced by a fixed one
+
+pdfTeX warning (dest): name{section*.53} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.51} has been referenced but does not exi
+st, replaced by a fixed one
+
+pdfTeX warning (dest): name{section*.50} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.48} has been referenced but does not exi
+st, replaced by a fixed one
+
+pdfTeX warning (dest): name{section.39} has been referenced but does not exist,
+ replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.35} has been referenced but does not exi
+st, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.31} has been referenced but does not exi
+st, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.27} has been referenced but does not exi
+st, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.25} has been referenced but does not exi
+st, replaced by a fixed one
+
+pdfTeX warning (dest): name{section*.23} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{section*.21} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{section*.19} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.18} has been referenced but does not exi
+st, replaced by a fixed one
+
+pdfTeX warning (dest): name{section.17} has been referenced but does not exist,
+ replaced by a fixed one
+
+pdfTeX warning (dest): name{chapter.16} has been referenced but does not exist,
+ replaced by a fixed one
+
+pdfTeX warning (dest): name{section.15} has been referenced but does not exist,
+ replaced by a fixed one
+
+pdfTeX warning (dest): name{chapter.13} has been referenced but does not exist,
+ replaced by a fixed one
+
+pdfTeX warning (dest): name{section.12} has been referenced but does not exist,
+ replaced by a fixed one
+
+pdfTeX warning (dest): name{chapter.10} has been referenced but does not exist,
+ replaced by a fixed one
+
+pdfTeX warning (dest): name{chapter.7} has been referenced but does not exist, 
+replaced by a fixed one
+
+pdfTeX warning (dest): name{section*.6} has been referenced but does not exist,
+ replaced by a fixed one
+
+pdfTeX warning (dest): name{section*.1} has been referenced but does not exist,
+ replaced by a fixed one
+
+ <C:\Users\oskat\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ec
+tt1095.pk>{C:/Users/oskat/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/bas
+e/8r.enc}<C:/Users/oskat/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/a
+msfonts/cm/cmr10.pfb><C:/Users/oskat/AppData/Local/Programs/MiKTeX 2.9/fonts/ty
+pe1/public/amsfonts/cm/cmsy10.pfb><C:/Users/oskat/AppData/Local/Programs/MiKTeX
+ 2.9/fonts/type1/public/mathpazo/fplmr.pfb><C:/Users/oskat/AppData/Local/Progra
+ms/MiKTeX 2.9/fonts/type1/public/mathpazo/fplmri.pfb><C:/Users/oskat/AppData/Lo
+cal/Programs/MiKTeX 2.9/fonts/type1/urw/palatino/uplb8a.pfb><C:/Users/oskat/App
+Data/Local/Programs/MiKTeX 2.9/fonts/type1/urw/palatino/uplr8a.pfb><C:/Users/os
+kat/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/palatino/uplr8a.pfb><C:/U
+sers/oskat/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/palatino/uplri8a.p
+fb>
+Output written on main.pdf (46 pages, 1745348 bytes).
 PDF statistics:
- 900 PDF objects out of 1000 (max. 8388607)
- 152 named destinations out of 1000 (max. 500000)
- 451 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1058 PDF objects out of 1200 (max. 8388607)
+ 213 named destinations out of 1000 (max. 500000)
+ 512 words of extra memory for PDF output out of 10000 (max. 10000000)
 

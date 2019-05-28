@@ -325,7 +325,7 @@
       \field{sortinithash}{669c706c6f1fbf3b5a83d26f1d9e9e72}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{In electrospinning process, polymer nanofibers are formed with diameters in the submicron scale when a drop of viscoelastic polymer solution is subjected to a high voltage electrostatic field, when the charge force overcomes the surface tension of the solution, a beam is projected onto a collector. Among other parameters, the rheological properties of the polymer solution can significantly influence fiber formation during the electrospinning process, although this is well known, there is still no clear understanding of the effect of these properties to form fibers with morphology and structure consistent and controlled.. The study was conducted for a system of SU-8 2002 (an epoxy-based negative photoresist) dissolved in cyclopentanone with poly(ethylene) oxide, PEO, and tetrabutylammonium tetrafluoroborate, TBATFB, as additives. The fibers were electrospun in an Electro Mechanical Spinning, EMS, platform. The rheological properties of the polymer solution were studied under shear conditions and combined with oscillatory data to get uniaxial deformation behavior using the Wagner constitutive equation. The elongational viscosity, e, in the projected beam is estimated by using data from oscillatory tests. For this purpose, solutions of SU-8 2002 were tested and then electrospun systematically over a range of concentrations. It was found that the variation in concentration of the additives modifies the viscoelastic properties of the solutions and, therefore, the electrospinnability. As PEO concentration is increased the complex, elongational and shear viscosity also increases. For concentrations of TBATFB, the variation of the viscosities has not a clear behavior pattern. The most regular and thinnest fibers were those obtained from a concentration of 99.5, 0.25 and 0.25 wt{\%}. of SU-8 2002, PEO and TBATFB respectively. With the acquired information, process variables for the EMS such as fabrication velocity, voltage and tip-to-collector distance were improved.}
+      \field{abstract}{In electrospinning process, polymer nanofibers are formed with diameters in the submicron scale when a drop of viscoelastic polymer solution is subjected to a high voltage electrostatic field, when the charge force overcomes the surface tension of the solution, a beam is projected onto a collector. Among other parameters, the rheological properties of the polymer solution can significantly influence fiber formation during the electrospinning process, although this is well known, there is still no clear understanding of the effect of these properties to form fibers with morphology and structure consistent and controlled. The study was conducted for a system of SU-8 2002 (an epoxy-based negative photoresist) dissolved in cyclopentanone with poly(ethylene) oxide, PEO, and tetrabutylammonium tetrafluoroborate, TBATFB, as additives. The fibers were electrospun in an Electro Mechanical Spinning, EMS, platform. The rheological properties of the polymer solution were studied under shear conditions and combined with oscillatory data to get uniaxial deformation behavior using the Wagner constitutive equation. The elongational viscosity in the projected beam is estimated by using data from oscillatory tests. For this purpose, solutions of SU-8 2002 were tested and then electrospun systematically over a range of concentrations. It was found that the variation in concentration of the additives modifies the viscoelastic properties of the solutions and, therefore, the electrospinnability. As PEO concentration is increased the complex, elongational and shear viscosity also increases. For concentrations of TBATFB, the variation of the viscosities has not a clear behavior pattern. The most regular and thinnest fibers were those obtained from a concentration of 99.5, 0.25 and 0.25 wt percent. of SU-8 2002, PEO and TBATFB respectively. With the acquired information, process variables for the EMS such as fabrication velocity, voltage and tip-to-collector distance were improved.}
       \field{title}{{Role of rheological properties in near field electrospun fibers morphology}}
       \field{year}{2017}
       \field{pages}{130}
@@ -334,46 +334,52 @@
       \verb :C$\backslash$:/Users/oskat/OneDrive - Instituto Tecnologico y de Estudios Superiores de Monterrey/Documents/MNT{\_}ITESM{\_}Thesis/relatedTheses/Role of rheological properties in near field electrospun fibers morphology a Thesis by Ricardo Flores A00819488.pdf:pdf
       \endverb
     \endentry
-    \entry{Franklin1951}{article}{}
-      \name{author}{1}{}{%
-        {{hash=103db1fe9c171aa941a9b4d1c3667a50}{%
-           family={Franklin},
-           familyi={F\bibinitperiod},
-           given={Rosalind\bibnamedelima Elsie},
-           giveni={R\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+    \entry{Hoggan2002}{article}{}
+      \name{author}{7}{}{%
+        {{hash=3c8ecea244586a972ce6eb752dc38c18}{%
+           family={Hoggan},
+           familyi={H\bibinitperiod}}}%
+        {{hash=fb09ebe1fdd0e860a82d06121070f7e7}{%
+           family={Nu{ñ}ez},
+           familyi={N\bibinitperiod},
+           given={Erik},
+           giveni={E\bibinitperiod}}}%
+        {{hash=472a15a57fdecd29c72a0224f2069582}{%
+           family={Flowers},
+           familyi={F\bibinitperiod}}}%
+        {{hash=192ac18fda6a8c862577f2274a91d741}{%
+           family={Devin},
+           familyi={D\bibinitperiod}}}%
+        {{hash=d6da749e1ce208cd64760dc39e349526}{%
+           family={DeSimone},
+           familyi={D\bibinitperiod}}}%
+        {{hash=2ac066fa2ba53448137d7ff3d22d22fa}{%
+           family={Mamman},
+           familyi={M\bibinitperiod},
+           given={Joseph},
+           giveni={J\bibinitperiod}}}%
+        {{hash=718768deff0a380e00d0ab3e2a3e392c}{%
+           family={Carbonell},
+           familyi={C\bibinitperiod},
+           given={Ruben},
+           giveni={R\bibinitperiod}}}%
       }
-      \strng{namehash}{103db1fe9c171aa941a9b4d1c3667a50}
-      \strng{fullhash}{103db1fe9c171aa941a9b4d1c3667a50}
-      \strng{bibnamehash}{103db1fe9c171aa941a9b4d1c3667a50}
-      \strng{authorbibnamehash}{103db1fe9c171aa941a9b4d1c3667a50}
-      \strng{authornamehash}{103db1fe9c171aa941a9b4d1c3667a50}
-      \strng{authorfullhash}{103db1fe9c171aa941a9b4d1c3667a50}
-      \field{sortinit}{F}
-      \field{sortinithash}{669c706c6f1fbf3b5a83d26f1d9e9e72}
+      \strng{namehash}{fafe0ed7a5dd5dcfe129641bc0bf32b0}
+      \strng{fullhash}{22df1223022bef46e221622a2360711c}
+      \strng{bibnamehash}{fafe0ed7a5dd5dcfe129641bc0bf32b0}
+      \strng{authorbibnamehash}{fafe0ed7a5dd5dcfe129641bc0bf32b0}
+      \strng{authornamehash}{fafe0ed7a5dd5dcfe129641bc0bf32b0}
+      \strng{authorfullhash}{22df1223022bef46e221622a2360711c}
+      \field{sortinit}{H}
+      \field{sortinithash}{5f15a7bc777ad49ff15aa4d2831b1681}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{An investigation of the structure of carbons of different origin treated at temperatures between 1000 and 3000°C has shown that the graphitizing and non-graphitizing carbons form two distinct and well-defined classes. The differences in structure are apparent from the earliest stages of carbonization, and may be attributed mainly to the formation at low temperatures, in the non-graphitizing carbons, of a strong system of cross-linking uniting the crystallites. This leads to a random orientation of th{è} crystallites in a rigid, finely porous mass. In the graphitizing carbons the cross-linking is much weaker, the structure is more compact, and neighbouring crystallites have a strong tendency to lie in nearly parallel orientation. It is shown that crystallite growth occurs by the gradual displacement of whole layer-planes or even of groups of layer-planes. The pre-orientation existing in the graphitizing carbons facilitates this process, enabling the rearrangement of the layer-planes to take place by small stages. It is the principal factor favouring crystallite growth in the graphitizing carbons. In the non-graphitizing carbons crystallite growth is impeded both by the strong cross-linking between neighbouring crystallites and by their random orientation.}
-      \field{issn}{2053-9169}
-      \field{journaltitle}{Proceedings of the Royal Society of London. Series A. Mathematical and Physical Sciences}
-      \field{month}{10}
-      \field{number}{1097}
-      \field{title}{{Crystallite growth in graphitizing and non-graphitizing carbons}}
-      \field{volume}{209}
-      \field{year}{1951}
-      \field{pages}{196\bibrangedash 218}
-      \range{pages}{23}
-      \verb{doi}
-      \verb 10.1098/rspa.1951.0197
-      \endverb
-      \verb{file}
-      \verb :C$\backslash$:/Users/oskat/OneDrive - Instituto Tecnologico y de Estudios Superiores de Monterrey/Documents/MNT{\_}ITESM{\_}Thesis/relatedArticles/GraphAnsNonGraph.pdf:pdf
-      \endverb
-      \verb{urlraw}
-      \verb http://www.royalsocietypublishing.org/doi/10.1098/rspa.1951.0197
-      \endverb
-      \verb{url}
-      \verb http://www.royalsocietypublishing.org/doi/10.1098/rspa.1951.0197
-      \endverb
+      \field{journaltitle}{Proceedings of SPIE-The International Society for Optical Engineering}
+      \field{title}{{Spin coating and photolithography using liquid and supercritical carbon dioxide}}
+      \field{volume}{4690}
+      \field{year}{2002}
+      \field{pages}{1217\bibrangedash 1223}
+      \range{pages}{7}
     \endentry
     \entry{Hribar2014}{article}{}
       \name{author}{5}{}{%

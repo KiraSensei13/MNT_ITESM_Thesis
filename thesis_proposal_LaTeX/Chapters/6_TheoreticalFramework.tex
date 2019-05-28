@@ -9,11 +9,19 @@
 % This involves a thorough state-ofthe-art bibliographic review, the building of a formal foundation, the study of related techniques, analysis and awareness of previous works and study of fundamental aspects that can help carry on your research.
 
 \section{Photoresists}
-The electronic industry requires a sustainable raw material supply for its development \cite{Sutikno2016}. Photoresists are a type of raw material used in microelectronics, which is composed by four main elements: a polymer (resin), a photoactive compound, a solvent, and an additive \cite{Schuster2009}. The additive requires to be with low molecular weight as it is intended to act as a photosensitive material. Photoresists are used within the manufacturing process of printed circuit boards \cite{Staab2011}. Photoresists are classified into two categories. The resist is defined as positive if the radiation exposed material is soluble in photoresist developer; otherwise, for negative photoresist the exposed material remains to stay in the photoresist surface as it crosslinks upon exposure \cite{Landis2011,Sharma2012}. In the manufacturing process of a semiconductor, the radiation sources which are often used in a lithography process are ultraviolet (UV) and X-ray \cite{Mekaru2015}.
+The electronic industry requires a sustainable raw material supply for its development \cite{Sutikno2016}. Photoresists are a type of raw material used in microelectronics, which is composed by four main elements: a polymer (resin), a photoactive compound, a solvent, and an additive \cite{Schuster2009}. The additive requires to be with low molecular weight as it is intended to act as a photosensitive material. Photoresists are used within the manufacturing process of printed circuit boards \cite{Staab2011}. Photoresists are classified into two categories. The resist is defined as positive if the radiation exposed material is soluble in photoresist developer; otherwise, for negative photoresist the exposed material remains to stay in the photoresist surface as it crosslinks upon exposure \cite{Landis2011,Sharma2012}, see Figure \ref{fig:PosNegResist}. In the manufacturing process of a semiconductor, the radiation sources which are often used in a lithography process are ultraviolet (UV) and X-ray \cite{Mekaru2015}.
+
+\begin{figure}[th]
+\centering
+\includegraphics[width=0.55\textwidth]{./Figures/PosNegResist.jpg}
+\decoRule
+\caption[Positive and negative resist exposure and development]{Positive and negative resist exposure and development \cite{Hoggan2002}}
+\label{fig:PosNegResist}
+\end{figure}
 
 The polymeric material is available on the broad market either in liquid or solid state; \emph{MicroChem Corp.} (Westborough, MA, USA) is the principal provider of SU-8 photoresist. SU-8 and similar photoresists are inexpensive with good adhesion on the semiconductor surface and high sensitivity \cite{Staab2011}. Epoxy resins are copolymer-thermosetting plastics which are normally produced by a chemical reaction process that involves epichlorohydrin and bisphenol-A compound \cite{Singla2010}. An epoxy-based polymer is typically used to produce patterns by lithography with the application of UV radiation. Lithography is a technique to transfer patterns from a mask and then transferred onto the substrate \cite{Landis2011,Xu2014}. SU-8 is a epoxy-based negative photoresist with the advantages of being inexpensive with good mechanical properties, good chemical resistance, and good electrical isolation \cite{Xu2014}. SU-8 photoresists are used in the production processes of MEMS \cite{Zhang2001}. Photoresist-wise, the contrast and quality level of UV radiation lithography is affected by the wavelengths of radiation sources. The higher the sensitivity of the material, the better is the lithography process as it absorbs radiation energy with ease to perform photochemical reactions in forming patterns \cite{Zhang2001}.
 
-In summary, a photoresist is an "epoxy-based resin (polymeric) material which changes its dissolution rate in a liquid solvent, called a developer, under high energy radiation.`` \cite{Landis2011}
+In summary, a photoresist is a "resin (polymeric) material which changes its dissolution rate in a liquid solvent, called a developer, under high energy radiation.`` \cite{Landis2011}
 
 \section{Electro-Mechanical Spinning}
 Diverse polymer patterning techniques have been developed for the fabrication of nano-fibers, such as arc discharge \cite{Wang2007}, chemical vapor deposition, laser ablation \cite{Ren1998}, and vapor growth \cite{Nadarajah2008}. Nonetheless, those processes are expensive due to either the low product yield or the expensive equipment required. The electrospinning method (invented by Formhals Anton in 1934) can produce fibers with a range of diameters between 10 $n m$ and 10 $\mu m$ \cite{Jayaraman2003,Anton1930} from a polymer solution under the influence of an electrostatic force. The applied electric field and solution conductivity and viscosity is an important parameter the affects the fiber diameter during the spinning along with other parameters such as jet length, solution viscosity surrounding gas, flow rate and the collector geometry \cite{Anton1938,Larrondo1981,Baumgarten1971,Shin2001}.
@@ -76,46 +84,85 @@ Figure \ref{fig:goodbadsolvent} shows how the quality of a solvent affects the p
 \label{fig:electrolyteConcentration}
 \end{figure}
 
-\section{Rheometry}
-Rheometry is the measuring technology used to determine rheological data. There are different measuring systems, instruments and analysis methods. Both, liquids and solid  can be investigated using rotational and oscillatory rheometers. Rotational tests are performed to characterize viscous behavior. In order to evaluate viscoelastic behavior, creep tests, relaxation tests and oscillatory tests are performed \cite{Flores2017}.
-
-\subsection{Amplitude Sweep}
-An amplitude sweep is a typical test used to characterize the behavior of a polymer
-solution or polymer melt. In this basic test a constant angular frequency is applied along with an increasing or decreasing deformation or strain, see Figure \ref{fig:ampSweep} a). The obtained results are the storage and loss moduli, $G'$ and $G''$ respectively, along the values of percentage of strain applied. The amplitude is the maximum of the oscillatory motion. Normally at low frequencies the viscoelastic material presents a linear behavior, this is when the viscoelastic properties are independent of the strain or stress imposed due to the structure of the material stays undisturbed. Nevertheless, as the amplitude is increased at some at some point this linear trend changes suddenly. Once this critical amplitude value is reached the material becomes more elastic or viscous depending on the solution initial state, see Figure \ref{fig:ampSweep} b) \cite{Flores2017}.
-
-\begin{figure}[th]
-\centering
-\includegraphics[width=0.75\textwidth]{./Figures/ampSweep.png}
-\decoRule
-\caption[Amplitude Sweep]{a) Imposed amplitude along time with constant frequency. b) Results for an amplitude sweep \cite{Flores2017}}
-\label{fig:ampSweep}
-\end{figure}
-
-\subsection{Frequency Sweep}
-A frequency sweep, is a common oscillatory test useful to understand the rheological behavior of fluids as it measures the viscoelastic properties. This measurement is considered a viscoelastic spectrum, in general, the shorter the timescale the more elastic the material behaves. These results are related to the molecular structure of the sample. Figure \ref{fig:freqSweep} shows a typical data for a polymer melt where different regions are observed. Frequency sweep measurements also allow the estimation of the molecular weight distribution characteristics such as entanglement density and process-ability \cite{Flores2017}. 
-
-\begin{figure}[th]
-\centering
-\includegraphics[width=0.75\textwidth]{./Figures/freqSweep.png}
-\decoRule
-\caption[Frequency Sweep]{Typical results for a frequency sweep. \cite{Flores2017}}
-\label{fig:freqSweep}
-\end{figure}
-
-\subsection{Flow Curve}
-The viscosity is measured as a function of the shear rate in a rotational rheometer with different geometries according to the sample. Normally three types of behaviours can be characterized in flow curve measurements: a) ideal viscous, b) shear thinning and c) shear thickening. Figure \ref{fig:flowCurve} shows three different materials and their response to an imposed shear rate \cite{Flores2017}.
-
-\begin{figure}[th]
-\centering
-\includegraphics[width=0.75\textwidth]{./Figures/flowCurve.png}
-\decoRule
-\caption[Flow Curves]{a) Flow curve stress vs stress. b) Flow curve strain vs shear viscosity. Both figures for i Newtonian fluid, ii Shear thinning fluid, iii Shear thickening fluid. \cite{Flores2017}}
-\label{fig:flowCurve}
-\end{figure}
-
 \section{Preliminary Experiments}
 
-To verify Flores' work \cite{Flores2017}, a series of rheological measurements have been executed. For that purpose, the solutions in Flores work were recreated as follows:
+\subsection{Materials and Sample Preparation}
+
+To verify Flores' work \cite{Flores2017}, a series of rheological measurements have been executed. For that purpose, the solutions in Flores work were recreated as follows: The polymer system in the study is SU-8 2002 (SU-8, an epoxy-based negative photoresist) dissolved in cyclopentanone with poly(ethylene oxide (PEO) to alter the viscoelastic properties of the polymer solution, and tetrabutylammonium tetrafluoroborate (TBATFB) to enhance the conductivity. Flores's results are listed in Section \ref{sec:FloresWrk}
+
+\begin{figure}[th]
+\centering
+\includegraphics[width=0.75\textwidth]{./Figures/PEset1.png}
+\decoRule
+\caption[Set 1 of the Recreation of Flores' "Serie B`` Samples]{Set 1 of the Recreation of Flores' Serie B`` Samples}
+\label{fig:PEset1}
+\end{figure}
+
+\begin{figure}[th]
+\centering
+\includegraphics[width=0.75\textwidth]{./Figures/PEset2.png}
+\decoRule
+\caption[Set 2 of the Recreation of Flores' "Serie B`` Samples]{Set 2 of the Recreation of Flores' "Serie B`` Samples}
+\label{fig:PEset2}
+\end{figure}
+
+The samples were prepared as follows, the suitable amounts of PEO and TBATFB were added to 5 $mL$ of SU-8 in a 20 $mL$ vial and stirred at 160 $r p m$ during 1 hour at 75 $^\circ C$. The proportions are represented in $w t \%$. The samples with higher PEO concentration required to be stirred for more time to get rid of all PEO bundles. In order to avert cross-linking of SU-8 threads, during the stirring, the samples were isolated from light. a 5 $mL$ syringe of was used to extract the solution from the vial. The recreated sample concentrations are depicted in Serie B within Table \ref{tbl:FloresSamples}.
+
+During the preliminary experiments, unlike to Flores' work, only the flow curve characterization was executed for two sample sets, as evidenced in Figures \ref{fig:PEset1} and \ref{fig:PEset2}. The two sets were characterized by the generation of flow curves with a "TA Instruments`` Discovery Hybrid Rheometer (DHR) at Tecnológico de Monterrey Campus Estado de México. The instrument's configuration was as follows:
+
+\begin{itemize}
+	\item Geometry: 60 $mm$, cone plate, peltier plate steel
+	\item Temperature: 20 $^\circ C$
+	\item Soak Time: 30.0 $s$
+	\item Shear rate: 0.004 to 0.03 $Hz$
+	\item Points per decade: 25
+\end{itemize}
+
+\subsection{Results}
+
+As stated by Flores \cite{Flores2017}, it is expected an increase in viscosity with the increase of PEO concentration. However, the rheological results of set 1 (Figure \ref{fig:PEset1results}) do not follow the expectations, as the 0.75 $w t \%$ PEO concentration is less viscous than the 0.50 concentration; and the 0.25 $w t \%$ PEO concentration is more viscous than the 0.75 concentration. On the other hand, results are not consistent with Flores' results as the viscosity values are as high as 200 $Pa.s$ as depicted in Figure \ref{fig:PEset1results}. The supposed values are to be around 0.0 and 10.0 $Pa.s$. 
+
+\begin{figure}[th]
+\centering
+\includegraphics[width=0.75\textwidth]{./Figures/PEset1results.png}
+\decoRule
+\caption[Set 1 Flow Curve Characterization of the Recreation of Flores' ``Serie B" Samples]{Set 1 Flow Curve Characterization of the Recreation of Flores' ``Serie B" Samples}
+\label{fig:PEset1results}
+\end{figure}
+
+As shown in Figure \ref{fig:PEset1}, inconsistencies between Flores' work and the current flow curves have been for not stirring the samples until all the PEO lumps get completely dissolved in cyclopentanone. The lack of stirring, generated unknown PEO concentrations within each sample, hence the inconsistent results.
+
+For set 2, the rheological flow curve characterization was performed in the same way as in set 1, however, each sample was stirred for approximately 20 minutes before the characterization process. See Figure \ref{fig:PEset2}. Set 2 results, as depicted in Figure \ref{fig:PEset2results}, are consistent with the expectations. However, unlike Flores' results, the replicated flow curves have a less stable/constant value as they present a more pronounced shear thinning behaviour. The difference in the shear thinning behaviours shown in Figure \ref{fig:PEset2results} (preliminary experiment, set 2 results) and Figure \ref{fig:SerieBflowCurve} (Flores' results \cite{Flores2017}) may be caused by: 1) the use of different measurement instruments during the characterization process; and 2) the cyclopentanone solvent evaporation.
+
+\begin{figure}[th]
+\centering
+\includegraphics[width=0.75\textwidth]{./Figures/PEset2results.png}
+\decoRule
+\caption[Set 2 Flow Curve Characterization of the Recreation of Flores' ``Serie B" Samples]{Set 2 Flow Curve Characterization of the Recreation of Flores' ``Serie B" Samples}
+\label{fig:PEset2results}
+\end{figure}
+
+%Does the viscosity of cyclopentanone coincide with the reported value in the literature? Can you make a table comparing your zero shear viscosity values against Flores'?
+
+\begin{table}[th]
+\caption{Method 1 and Method 2 conditions and parameters \cite{Cardenas2017}}
+\begin{center}
+\begin{tabular}{ >{\raggedright\arraybackslash}p{0.08\textwidth} >{\raggedright\arraybackslash}p{0.27\textwidth} >{\raggedright\arraybackslash}p{0.27\textwidth} >{\raggedright\arraybackslash}p{0.27\textwidth} } 
+\hline
+Sample & PEO concentration [$w t \%$] & Preliminary zero shear viscosity measurements [$Pa.s$] & Flores' zero shear viscosity measurements [$Pa.s$] \\
+\hline
+1 & 0.00 & 0.31 & 0.03 \\
+2 & 0.25 & 0.88 & 0.3 \\
+3 & 0.50 & 1.42 & 0.4 \\
+4 & 0.75 & 7.28 & 2 \\
+5 & 1.00 & 9.25 & 3 \\
+\hline
+\label{tbl:FloresCompare}
+\end{tabular}
+\end{center}
+\end{table}
+
+Table \ref{tbl:FloresCompare} compares the current zero shear viscosity measurements and Flores' measurements. The comparison shows that both measurements have the same behaviour with similar proportions, as the zero shear viscosity increases with the increase of PEO concentration. However, the results show that the current measured values are approximately three times larger that Flores' measurements.
 
 %----------------------------------------------------------------------------------------
 %	SECTION 1

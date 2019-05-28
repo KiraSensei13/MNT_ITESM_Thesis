@@ -1,45 +1,46 @@
 \boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
 \babel@toc {english}{}
-\contentsline {chapter}{Supervising Committee}{i}{section*.1}% 
-\contentsline {chapter}{Abstract}{vi}{section*.6}% 
-\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.7}% 
-\contentsline {chapter}{\numberline {2}Problem Definition and Motivation}{3}{chapter.9}% 
-\contentsline {chapter}{\numberline {3}Hypothesis and Research Questions}{5}{chapter.10}% 
-\contentsline {section}{\numberline {3.1}Research Hypothesis}{5}{section.11}% 
-\contentsline {section}{\numberline {3.2}Research Questions}{5}{section.12}% 
-\contentsline {chapter}{\numberline {4}Objectives}{7}{chapter.13}% 
-\contentsline {section}{\numberline {4.1}General objective}{7}{section.14}% 
-\contentsline {section}{\numberline {4.2}Particular objectives}{7}{section.15}% 
-\contentsline {chapter}{\numberline {5}Related Work}{8}{chapter.16}% 
-\contentsline {section}{\numberline {5.1}Role of rheological properties in near field electrospun fibers morphology \cite {Flores2017}}{8}{section.17}% 
-\contentsline {subsection}{\numberline {5.1.1}Rheological Characterization : \textbf {Amplitude Sweep}}{9}{subsection.19}% 
-\contentsline {subsection}{\numberline {5.1.2}Rheological Characterization : \textbf {Flow Curve}}{10}{subsection.23}% 
-\contentsline {subsection}{\numberline {5.1.3}Rheological Characterization : \textbf {Frequency Sweep}}{12}{subsection.27}% 
-\contentsline {section}{\numberline {5.2}Advanced Manufacturing Techniques for the Fabrication and Surface Modification of Carbon Nanowires \cite {Cardenas2017}}{16}{section.31}% 
-\contentsline {subsection}{\numberline {5.2.1}Method 1 : }{17}{subsection.39}% 
-\contentsline {subsubsection}{Polymer Solution}{17}{section*.40}% 
-\contentsline {subsubsection}{Deposition}{17}{section*.41}% 
-\contentsline {subsection}{\numberline {5.2.2}Method 2 : }{17}{subsection.42}% 
-\contentsline {subsubsection}{Polymer Solution}{17}{section*.43}% 
-\contentsline {subsubsection}{Deposition}{17}{section*.44}% 
-\contentsline {subsection}{\numberline {5.2.3}Results and Discussion}{18}{subsection.45}% 
-\contentsline {section}{\numberline {5.3}FIND PAPER THAT CONFIRMS THAT WITH THE INCREASE OF PEO CONCENTRATION, THE POROSITY DENSITY INCREASES IN CARBON STRUCTURES AFTER PYROLYSIS. \cite {newPAPER}}{19}{section.46}% 
-\contentsline {chapter}{\numberline {6}Theoretical Framework}{20}{chapter.47}% 
-\contentsline {section}{\numberline {6.1}Photoresists}{20}{section.48}% 
-\contentsline {section}{\numberline {6.2}Electro-Mechanical Spinning}{21}{section.49}% 
-\contentsline {section}{\numberline {6.3}Pyrolysis}{22}{section.52}% 
-\contentsline {section}{\numberline {6.4}Carbon nano-wire}{24}{section.54}% 
-\contentsline {section}{\numberline {6.5}Polymer Solutions}{24}{section.55}% 
-\contentsline {section}{\numberline {6.6}Rheometry}{25}{section.58}% 
-\contentsline {subsection}{\numberline {6.6.1}Amplitude Sweep}{25}{subsection.59}% 
-\contentsline {subsection}{\numberline {6.6.2}Frequency Sweep}{25}{subsection.61}% 
-\contentsline {subsection}{\numberline {6.6.3}Flow Curve}{26}{subsection.63}% 
-\contentsline {section}{\numberline {6.7}Preliminary Experiments}{26}{section.65}% 
-\contentsline {chapter}{\numberline {7}Methodology}{28}{chapter.66}% 
-\contentsline {section}{\numberline {7.1}Work package 1 : Preliminary Literature Review}{28}{section.67}% 
-\contentsline {section}{\numberline {7.2}Work package 2 : Evaluation of Fabrication Parameters}{28}{section.68}% 
-\contentsline {section}{\numberline {7.3}Work package 3 : Polymer Solution Design}{29}{section.69}% 
-\contentsline {section}{\numberline {7.4}Work package 4 : Fabrication of Carbon Nano-wires}{29}{section.70}% 
-\contentsline {section}{\numberline {7.5}Work package 5 : Data Collection and Analysis of Results}{30}{section.71}% 
-\contentsline {section}{\numberline {7.6}Work package 6 : Documentation}{30}{section.72}% 
-\contentsline {chapter}{\numberline {8}Work Plan}{31}{chapter.73}% 
+\contentsline {chapter}{Abstract}{vi}{section*.5}% 
+\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.6}% 
+\contentsline {chapter}{\numberline {2}Problem Definition and Motivation}{3}{chapter.8}% 
+\contentsline {chapter}{\numberline {3}Hypothesis and Research Questions}{5}{chapter.9}% 
+\contentsline {section}{\numberline {3.1}Research Hypothesis}{5}{section.10}% 
+\contentsline {section}{\numberline {3.2}Research Questions}{5}{section.11}% 
+\contentsline {chapter}{\numberline {4}Objectives}{7}{chapter.12}% 
+\contentsline {section}{\numberline {4.1}General objective}{7}{section.13}% 
+\contentsline {section}{\numberline {4.2}Specific objectives}{7}{section.14}% 
+\contentsline {chapter}{\numberline {5}Related Work}{8}{chapter.15}% 
+\contentsline {section}{\numberline {5.1}Role of rheological properties in near field electrospun fibers morphology \cite {Flores2017}}{8}{section.16}% 
+\contentsline {subsection}{\numberline {5.1.1}Rheometry}{8}{subsection.17}% 
+\contentsline {subsubsection}{Amplitude Sweep}{8}{section*.18}% 
+\contentsline {subsubsection}{Frequency Sweep}{9}{section*.20}% 
+\contentsline {subsubsection}{Flow Curve}{9}{section*.22}% 
+\contentsline {subsection}{\numberline {5.1.2}Sample Preparation}{10}{subsection.24}% 
+\contentsline {subsection}{\numberline {5.1.3}Rheological Characterization : \textbf {Amplitude Sweep}}{11}{subsection.26}% 
+\contentsline {subsection}{\numberline {5.1.4}Rheological Characterization : \textbf {Flow Curve}}{12}{subsection.30}% 
+\contentsline {subsection}{\numberline {5.1.5}Rheological Characterization : \textbf {Frequency Sweep}}{14}{subsection.34}% 
+\contentsline {section}{\numberline {5.2}Advanced Manufacturing Techniques for the Fabrication and Surface Modification of Carbon Nanowires \cite {Cardenas2017}}{18}{section.38}% 
+\contentsline {subsection}{\numberline {5.2.1}Method 1 : }{19}{subsection.47}% 
+\contentsline {subsubsection}{SU-8 2002 Polymer Solution}{19}{section*.48}% 
+\contentsline {subsubsection}{Deposition of Electrospun SU-8 2002 Solution}{19}{section*.49}% 
+\contentsline {subsection}{\numberline {5.2.2}Method 2 : }{20}{subsection.50}% 
+\contentsline {subsubsection}{SU-8 2025 Polymer Solution}{20}{section*.51}% 
+\contentsline {subsubsection}{Deposition of Electrospun SU-8 2025 Solution}{20}{section*.52}% 
+\contentsline {subsection}{\numberline {5.2.3}Results and Discussion}{20}{subsection.53}% 
+\contentsline {chapter}{\numberline {6}Theoretical Framework}{21}{chapter.54}% 
+\contentsline {section}{\numberline {6.1}Photoresists}{21}{section.55}% 
+\contentsline {section}{\numberline {6.2}Electro-Mechanical Spinning}{22}{section.57}% 
+\contentsline {section}{\numberline {6.3}Pyrolysis}{24}{section.60}% 
+\contentsline {section}{\numberline {6.4}Carbon nano-wire}{25}{section.62}% 
+\contentsline {section}{\numberline {6.5}Polymer Solutions}{26}{section.63}% 
+\contentsline {section}{\numberline {6.6}Preliminary Experiments}{26}{section.66}% 
+\contentsline {subsection}{\numberline {6.6.1}Materials and Sample Preparation}{26}{subsection.67}% 
+\contentsline {subsection}{\numberline {6.6.2}Results}{28}{subsection.70}% 
+\contentsline {chapter}{\numberline {7}Methodology}{31}{chapter.74}% 
+\contentsline {section}{\numberline {7.1}Preliminary Literature Review}{31}{section.75}% 
+\contentsline {section}{\numberline {7.2}Evaluation of Fabrication Parameters}{31}{section.76}% 
+\contentsline {section}{\numberline {7.3}Polymer Solution Design}{32}{section.77}% 
+\contentsline {section}{\numberline {7.4}Fabrication of Carbon Nano-wires}{32}{section.78}% 
+\contentsline {section}{\numberline {7.5}Data Collection and Analysis of Results}{33}{section.79}% 
+\contentsline {section}{\numberline {7.6}Documentation}{33}{section.80}% 
+\contentsline {chapter}{\numberline {8}Work Plan}{34}{chapter.81}% 
