@@ -1,5 +1,7 @@
 % Chapter Template
+
 \begin{landscape}
+\pagebreak[4]\global\pdfpageattr\expandafter{\the\pdfpageattr/Rotate 90}
 
 \chapter{Summary} % Main chapter title
 
@@ -77,14 +79,14 @@ Polymer & Solvent & NFES Variant & Polymer Solution and Process Properties & Fib
 \cite{Bisht2011}   \\ %Controlled Continuous Patterning of Polymeric Nanofibers on Three-Dimensional Substrates Using Low-Voltage Near-Field Electrospinning
 \hline
 Poly[2-methoxy-5-(2-ethylhexyloxy)-1,4-phenylenevinylene] (MEH-PPV) with Poly(ethylene oxide) (PEO) &
-acetonitrile / toluene mixture (65 / 35) or acetic acid / toluene (17 / 83) or pure toluene &
+acetonitrile / toluene mixture (65 / 35); acetic acid / toluene (17 / 83); pure toluene &
  &
 \begin{itemize}[leftmargin=*]
 \item Concentrations:
     \begin{itemize}[leftmargin=*]
-    \item 250 $m g$ of PEO in 3.5 $m L$ of acetonitrile / toluene
-    \item 250 $m g$ of PEO in 3 $m L$ of acetic acid / toluene
-    \item 10 $m g$ of MEH-PPV in 2 $m L$ of toluene
+    \item MEH-PPV solution: 10 $m g$ of MEH-PPV in 2 $m L$ of toluene
+    \item 500 $\mu L$ of MEH-PPV solution with 250 $m g$ of PEO in 3.5 $m L$ of acetonitrile / toluene (65 / 35)
+    \item 500 $\mu L$ of MEH-PPV solution with 250 $m g$ of PEO in 3 $m L$ of acetic acid / toluene (17 / 83)
     \end{itemize}
 \end{itemize} &
  &
@@ -95,6 +97,51 @@ acetonitrile / toluene mixture (65 / 35) or acetic acid / toluene (17 / 83) or p
 %\end{center}
 \end{table}
 
+\begin{table}[th]
+\caption{Electrospun Polymer Solutions - Solution and Process Parameters}
+%\begin{center}
+% total table width eq 0.91\textheight = 100%
+\begin{tabular}{
+>{\raggedright\arraybackslash}p{0.130\textheight}
+>{\raggedright\arraybackslash}p{0.130\textheight}
+>{\raggedright\arraybackslash}p{0.090\textheight}
+>{\raggedright\arraybackslash}p{0.310\textheight}
+>{\raggedright\arraybackslash}p{0.180\textheight}
+>{\raggedright\arraybackslash}p{0.060\textheight} } 
+\hline
+ &
+ &
+ &
+\begin{itemize}[leftmargin=*]
+\item[]
+    \begin{itemize}[leftmargin=*]
+    \item The resulting MEH-PPV/PEO concentration is 1:100
+    \end{itemize}
+\item Solution Stirring:
+    \begin{itemize}[leftmargin=*]
+    \item MEH-PPV solution stirred for 4 $h$
+    \item PEO solution stirred for 8 $h$
+    \item MEH-PPV/PEO solution stirred and ultrasonically agitated
+    \end{itemize}
+\item Collector substrate: SiO2/Si (oxide thickness = 800 $n m$)
+\item needle-to-collector distance: 500 $\mu m$
+\item $\mu m$-diameter tip Tungsten spinneret in a 26 gauge needle
+\item Solution deposition rate: 50 $\mu L / h$
+\item Electrostatic voltage: around 1.3 $k V$
+\item x-y stage velocity: 50 $c m / s$
+\end{itemize} &
+\begin{itemize}
+\item distance between adjacent fibers: around 100 $\mu m$
+\item Fiber diameter: around 100 $n m$
+\end{itemize} &
+\cite{Camillo2013} \\ %Near-field electrospinning of conjugated polymer light-emitting nanofibers
+\hline
+\label{tbl:FloresCompare}
+\end{tabular}
+%\end{center}
+\end{table}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{table}[th]
 \caption{Electrospun Polymer Solutions - Solution and Process Parameters}
 %\begin{center}
@@ -142,7 +189,9 @@ Polymer & Solvent & NFES Variant & Polymer Solution and Process Properties & Fib
 \addtolength{\oddsidemargin}{0.0in}
 \addtolength{\evensidemargin}{0.0in}
 \addtolength{\topmargin}{0.0in}
+
 \end{landscape}
+\pagebreak[4]\global\pdfpageattr\expandafter{\the\pdfpageattr/Rotate 0}
 
 %----------------------------------------------------------------------------------------
 %	SECTION 1

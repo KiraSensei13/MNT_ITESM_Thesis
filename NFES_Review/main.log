@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.6960 64-bit) (preloaded format=pdflatex 2019.2.1)  10 JUN 2019 15:02
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.6960 64-bit) (preloaded format=pdflatex 2019.2.1)  10 JUN 2019 17:36
 entering extended mode
 **./main.tex
 (main.tex
@@ -1592,6 +1592,9 @@ LaTeX Warning: Label `tbl:FloresCompare' multiply defined.
 
 LaTeX Warning: Label `tbl:FloresCompare' multiply defined.
 
+
+LaTeX Warning: Label `tbl:FloresCompare' multiply defined.
+
 ))
 \openout1 = `main.aux'.
 
@@ -1813,42 +1816,47 @@ Underfull \hbox (badness 10000) in paragraph at lines 258--259
 (Chapters/_tbl_Collection.tex
 Chapter 1.
 LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <24.88> not available
-(Font)              Font shape `T1/ppl/b/n' tried instead on input line 4.
+(Font)              Font shape `T1/ppl/b/n' tried instead on input line 6.
 
-Overfull \hbox (5.69519pt too wide) in paragraph at lines 28--29
+Overfull \hbox (5.69519pt too wide) in paragraph at lines 30--31
 []|\T1/ppl/m/n/10.95 Reference|  
  []
 
-LaTeX Font Info:    Try loading font information for TS1+ppl on input line 33.
+LaTeX Font Info:    Try loading font information for TS1+ppl on input line 35.
 ("C:\Users\oskat\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\ts1ppl.fd"
 File: ts1ppl.fd 2001/06/04 font definitions for TS1/ppl.
 )
-Overfull \hbox (2.64587pt too wide) in paragraph at lines 20--50
+Overfull \hbox (2.64587pt too wide) in paragraph at lines 22--52
 [][] 
  []
 
 
-Overfull \hbox (5.69519pt too wide) in paragraph at lines 64--65
+Overfull \hbox (5.69519pt too wide) in paragraph at lines 66--67
 []|\T1/ppl/m/n/10.95 Reference|  
  []
 
 
-Overfull \hbox (6.07986pt too wide) in paragraph at lines 79--79
+Overfull \hbox (6.07986pt too wide) in paragraph at lines 81--81
 \T1/ppl/m/n/10.95 phenylenevinylene] 
  []
 
 
-Overfull \hbox (2.64587pt too wide) in paragraph at lines 56--96
+Overfull \hbox (2.64587pt too wide) in paragraph at lines 58--98
 [][] 
  []
 
 
-Overfull \hbox (5.69519pt too wide) in paragraph at lines 110--111
+Overfull \hbox (2.64587pt too wide) in paragraph at lines 104--142
+[][] 
+ []
+
+
+Overfull \hbox (5.69519pt too wide) in paragraph at lines 157--158
 []|\T1/ppl/m/n/10.95 Reference|  
  []
 
 
-Overfull \hbox (2.64587pt too wide) in paragraph at lines 102--140
+Overfull \hbox (2.64587pt too wide) in paragraph at lines 149--187
 [][] 
  []
 
@@ -1858,7 +1866,7 @@ Overfull \hbox (2.64587pt too wide) in paragraph at lines 102--140
 
 
 
-] [2] [3])
+] [2] [3] [4])
 LaTeX Font Info:    Try loading font information for T1+cmtt on input line 318.
 
 
@@ -1871,7 +1879,7 @@ n-ing of Poly-meric Nanofibers
  []
 
 1: section
-[4
+[5
 
 
 
@@ -1893,7 +1901,7 @@ Overfull \hbox (19.59071pt too wide) in paragraph at lines 318--318
 10.95 AIP Ad-vances \T1/ppl/m/n/10.95 7.3 (Mar. 2017), p. 035310.
  []
 
-[5]
+[6]
 Overfull \hbox (9.7188pt too wide) in paragraph at lines 318--318
 \T1/ppl/m/n/10.95 Field Elec-tro-spin-ning. In: \T1/ppl/m/it/10.95 In-ter-na-t
 ional Work-shop on Mi-cro-fac-to-ries \T1/ppl/m/n/10.95 IWMF2014.9th
@@ -1911,7 +1919,7 @@ Overfull \hbox (34.3205pt too wide) in paragraph at lines 318--318
 ite Or-derly Mi-cro/Nanofibrous
  []
 
-[6]
+[7]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 335.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 335.
  (main.aux (Chapters/_tbl_Collection.aux))
@@ -1928,9 +1936,9 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 47420 strings out of 492946
- 977451 string characters out of 3126267
- 1351624 words of memory out of 3000000
+ 47422 strings out of 492946
+ 977472 string characters out of 3126267
+ 1355636 words of memory out of 3000000
  50681 multiletter control sequences out of 15000+200000
  569321 words of font info for 84 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1943,9 +1951,9 @@ pe1/urw/palatino/uplb8a.pfb><C:/Users/oskat/AppData/Local/Programs/MiKTeX 2.9/f
 onts/type1/urw/palatino/uplr8a.pfb><C:/Users/oskat/AppData/Local/Programs/MiKTe
 X 2.9/fonts/type1/urw/palatino/uplr8a.pfb><C:/Users/oskat/AppData/Local/Program
 s/MiKTeX 2.9/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on main.pdf (8 pages, 146433 bytes).
+Output written on main.pdf (9 pages, 148635 bytes).
 PDF statistics:
- 274 PDF objects out of 1000 (max. 8388607)
- 39 named destinations out of 1000 (max. 500000)
+ 280 PDF objects out of 1000 (max. 8388607)
+ 41 named destinations out of 1000 (max. 500000)
  34 words of extra memory for PDF output out of 10000 (max. 10000000)
 
