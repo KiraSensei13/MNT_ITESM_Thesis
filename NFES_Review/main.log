@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.6960 64-bit) (preloaded format=pdflatex 2019.2.1)  10 JUN 2019 17:36
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.6960 64-bit) (preloaded format=pdflatex 2019.2.1)  10 JUN 2019 17:45
 entering extended mode
 **./main.tex
 (main.tex
@@ -1826,37 +1826,37 @@ LaTeX Font Info:    Try loading font information for TS1+ppl on input line 35.
 ("C:\Users\oskat\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\ts1ppl.fd"
 File: ts1ppl.fd 2001/06/04 font definitions for TS1/ppl.
 )
-Overfull \hbox (2.64587pt too wide) in paragraph at lines 22--52
+Overfull \hbox (2.64587pt too wide) in paragraph at lines 22--53
 [][] 
  []
 
 
-Overfull \hbox (5.69519pt too wide) in paragraph at lines 66--67
+Overfull \hbox (5.69519pt too wide) in paragraph at lines 67--68
 []|\T1/ppl/m/n/10.95 Reference|  
  []
 
 
-Overfull \hbox (6.07986pt too wide) in paragraph at lines 81--81
+Overfull \hbox (6.07986pt too wide) in paragraph at lines 82--82
 \T1/ppl/m/n/10.95 phenylenevinylene] 
  []
 
 
-Overfull \hbox (2.64587pt too wide) in paragraph at lines 58--98
+Overfull \hbox (2.64587pt too wide) in paragraph at lines 59--102
 [][] 
  []
 
 
-Overfull \hbox (2.64587pt too wide) in paragraph at lines 104--142
+Overfull \hbox (2.64587pt too wide) in paragraph at lines 108--143
 [][] 
  []
 
 
-Overfull \hbox (5.69519pt too wide) in paragraph at lines 157--158
+Overfull \hbox (5.69519pt too wide) in paragraph at lines 158--159
 []|\T1/ppl/m/n/10.95 Reference|  
  []
 
 
-Overfull \hbox (2.64587pt too wide) in paragraph at lines 149--187
+Overfull \hbox (2.64587pt too wide) in paragraph at lines 150--188
 [][] 
  []
 
@@ -1951,7 +1951,7 @@ pe1/urw/palatino/uplb8a.pfb><C:/Users/oskat/AppData/Local/Programs/MiKTeX 2.9/f
 onts/type1/urw/palatino/uplr8a.pfb><C:/Users/oskat/AppData/Local/Programs/MiKTe
 X 2.9/fonts/type1/urw/palatino/uplr8a.pfb><C:/Users/oskat/AppData/Local/Program
 s/MiKTeX 2.9/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on main.pdf (9 pages, 148635 bytes).
+Output written on main.pdf (9 pages, 148679 bytes).
 PDF statistics:
  280 PDF objects out of 1000 (max. 8388607)
  41 named destinations out of 1000 (max. 500000)
