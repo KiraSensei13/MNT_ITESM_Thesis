@@ -1,0 +1,30 @@
+[0] Config.pm:304> INFO - This is Biber 2.12
+[0] Config.pm:307> INFO - Logfile is 'main.blg'
+[28] biber-MSWIN64:315> INFO - === 
+[49] Biber.pm:371> INFO - Reading 'main.bcf'
+[126] Biber.pm:889> INFO - Found 24 citekeys in bib section 0
+[137] Biber.pm:4093> INFO - Processing section 0
+[149] Biber.pm:4254> INFO - Looking for bibtex format file 'mainBiblio.bib' for section 0
+[158] bibtex.pm:1523> INFO - LaTeX decoding ...
+[215] bibtex.pm:1340> INFO - Found BibTeX data source 'mainBiblio.bib'
+[227] Utils.pm:193> WARN - month field 'apr' in entry 'Bisht2011' is not an integer - this will probably not sort properly.
+[251] Utils.pm:193> WARN - month field 'sep' in entry 'Duan2017' is not an integer - this will probably not sort properly.
+[267] Utils.pm:193> WARN - month field 'may' in entry 'Huang2015' is not an integer - this will probably not sort properly.
+[281] Utils.pm:193> WARN - month field 'sep' in entry 'Jiang2018' is not an integer - this will probably not sort properly.
+[286] Utils.pm:193> WARN - month field 'dec' in entry 'Kim2018' is not an integer - this will probably not sort properly.
+[293] Utils.pm:193> WARN - month field 'may' in entry 'Lee2012' is not an integer - this will probably not sort properly.
+[311] Utils.pm:193> WARN - month field 'jun' in entry 'Min2013' is not an integer - this will probably not sort properly.
+[334] Utils.pm:193> WARN - month field 'jan' in entry 'Song2015' is not an integer - this will probably not sort properly.
+[349] Utils.pm:193> WARN - month field 'jul' in entry 'Wang2015' is not an integer - this will probably not sort properly.
+[358] Utils.pm:193> WARN - month field 'mar' in entry 'Wang2017' is not an integer - this will probably not sort properly.
+[369] Utils.pm:193> WARN - month field 'jul' in entry 'Wang2018' is not an integer - this will probably not sort properly.
+[388] Utils.pm:193> WARN - month field 'apr' in entry 'Xue2014' is not an integer - this will probably not sort properly.
+[396] Utils.pm:193> WARN - month field 'oct' in entry 'Zheng2010' is not an integer - this will probably not sort properly.
+[405] Utils.pm:193> WARN - month field 'may' in entry 'Zheng2014' is not an integer - this will probably not sort properly.
+[442] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[443] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[443] Biber.pm:3921> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'en-US'
+[444] Biber.pm:3927> INFO - No sort tailoring available for locale 'en-US'
+[474] bbl.pm:636> INFO - Writing 'main.bbl' with encoding 'UTF-8'
+[488] bbl.pm:739> INFO - Output to main.bbl
+[490] Biber.pm:110> INFO - WARNINGS: 14

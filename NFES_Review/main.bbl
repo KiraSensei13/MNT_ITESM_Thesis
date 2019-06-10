@@ -1,0 +1,1648 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.0 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{Bisht2011}{article}{}
+      \name{author}{7}{}{%
+        {{hash=2a47f0ccd5d0ad49fe37dc1963091066}{%
+           family={Bisht},
+           familyi={B\bibinitperiod},
+           given={Gobind\bibnamedelima S.},
+           giveni={G\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=b4b3d6cf92a245cdd708e6429b7f6b30}{%
+           family={Canton},
+           familyi={C\bibinitperiod},
+           given={Giulia},
+           giveni={G\bibinitperiod}}}%
+        {{hash=487b12b0e7311b5fc437905a1d2cad8c}{%
+           family={Mirsepassi},
+           familyi={M\bibinitperiod},
+           given={Alireza},
+           giveni={A\bibinitperiod}}}%
+        {{hash=532fb7b2d56c6987f531c7011fba711d}{%
+           family={Kulinsky},
+           familyi={K\bibinitperiod},
+           given={Lawrence},
+           giveni={L\bibinitperiod}}}%
+        {{hash=e8da3fab5a42de1611a1e649b315bb81}{%
+           family={Oh},
+           familyi={O\bibinitperiod},
+           given={Seajin},
+           giveni={S\bibinitperiod}}}%
+        {{hash=1fe8f84cbd3730a48607da84842bf29a}{%
+           family={Dunn-Rankin},
+           familyi={D\bibinithyphendelim R\bibinitperiod},
+           given={Derek},
+           giveni={D\bibinitperiod}}}%
+        {{hash=1c627bd3627cfed92c3976ee507d3e9a}{%
+           family={Madou},
+           familyi={M\bibinitperiod},
+           given={Marc\bibnamedelima J.},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Chemical Society}%
+      }
+      \strng{namehash}{72eea9a9f228eecba48161be35821ddd}
+      \strng{fullhash}{db95c864e5ac917b2d778eac0c5c2175}
+      \strng{bibnamehash}{72eea9a9f228eecba48161be35821ddd}
+      \strng{authorbibnamehash}{72eea9a9f228eecba48161be35821ddd}
+      \strng{authornamehash}{72eea9a9f228eecba48161be35821ddd}
+      \strng{authorfullhash}{db95c864e5ac917b2d778eac0c5c2175}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{We report on a continuous method for controlled electrospinning of polymeric nanofibers on two-dimensional (2D) and three dimensional (3D) substrates using low voltage near-field electrospinning (LV NFES). The method overcomes some of the drawbacks in more conventional near-field electrospinning by using a superelastic polymer ink formulation. The viscoelastic nature of our polymer ink enables continuous electrospinning at a very low voltage of 200 V, almost an order of magnitude lower than conventional NFES, thereby reducing bending instabilities and increasing control of the resulting polymer jet. In one application, polymeric nanofibers are freely suspended between microstructures of 3D carbon on Si substrates to illustrate wiring together 3D components in any desired pattern.}
+      \field{issn}{1530-6984}
+      \field{journaltitle}{Nano Letters}
+      \field{month}{4}
+      \field{number}{4}
+      \field{title}{{Controlled Continuous Patterning of Polymeric Nanofibers on Three-Dimensional Substrates Using Low-Voltage Near-Field Electrospinning}}
+      \field{volume}{11}
+      \field{year}{2011}
+      \field{pages}{1831\bibrangedash 1837}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1021/nl2006164
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/oskat/OneDrive - Instituto Tecnologico y de Estudios Superiores de Monterrey/Documents/MNT{\_}ITESM{\_}Thesis/relatedArticles/CCPPNTDSULVNFE.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://pubs.acs.org/doi/10.1021/nl2006164
+      \endverb
+      \verb{url}
+      \verb https://pubs.acs.org/doi/10.1021/nl2006164
+      \endverb
+      \keyw{Electrospinning,micro/nanopatterning,microelectromechanical systems (MEMS),microfabrication,polymeric nanofiber,suspended nanofibers}
+    \endentry
+    \entry{Camillo2013}{article}{}
+      \name{author}{7}{}{%
+        {{hash=bdd5bc7e1551c3a6a769e6df7dc7e404}{%
+           family={Camillo},
+           familyi={C\bibinitperiod},
+           given={Daniela\bibnamedelima Di},
+           giveni={D\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=bc87d6c10d9ffce608b37dca2c824e69}{%
+           family={Fasano},
+           familyi={F\bibinitperiod},
+           given={Vito},
+           giveni={V\bibinitperiod}}}%
+        {{hash=4ba90b62387de52de07f62c20afd35e4}{%
+           family={Ruggieri},
+           familyi={R\bibinitperiod},
+           given={Fabrizio},
+           giveni={F\bibinitperiod}}}%
+        {{hash=bc7641ab9518b0744c580d344e137263}{%
+           family={Santucci},
+           familyi={S\bibinitperiod},
+           given={Sandro},
+           giveni={S\bibinitperiod}}}%
+        {{hash=99ef058c6b666f218293e34a39aa73f2}{%
+           family={Lozzi},
+           familyi={L\bibinitperiod},
+           given={Luca},
+           giveni={L\bibinitperiod}}}%
+        {{hash=83d5d0b16085792c285ca8479b884888}{%
+           family={Camposeo},
+           familyi={C\bibinitperiod},
+           given={Andrea},
+           giveni={A\bibinitperiod}}}%
+        {{hash=8526aef31db62313c92e3c5864a7eca1}{%
+           family={Pisignano},
+           familyi={P\bibinitperiod},
+           given={Dario},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{d60eb446c70a32ba12c77a723c491624}
+      \strng{fullhash}{c1123f14882db2896190f00a9c04b080}
+      \strng{bibnamehash}{d60eb446c70a32ba12c77a723c491624}
+      \strng{authorbibnamehash}{d60eb446c70a32ba12c77a723c491624}
+      \strng{authornamehash}{d60eb446c70a32ba12c77a723c491624}
+      \strng{authorfullhash}{c1123f14882db2896190f00a9c04b080}
+      \field{sortinit}{C}
+      \field{sortinithash}{963e9d84a3da2344e8833203de5aed05}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The authors report on the realization of ordered arrays of light-emitting conjugated polymer nanofibers by near-field electrospinning. The fibers, made by poly[2-methoxy-5-(2-ethylhexyloxy)-1,4-phenylenevinylene], have diameters of few hundreds of nanometers and emission peaked at 560 nm. The observed blue-shift compared to the emission from reference films is attributed to different polymer packing in the nanostructures. Optical confinement in the fibers is also analyzed through self-waveguided emission. These results open interesting perspectives for realizing complex and ordered architectures by light-emitting nanofibers, such as photonic circuits, and for the precise positioning and integration of conjugated polymer fibers into light-emitting devices.}
+      \field{journaltitle}{Nanoscale}
+      \field{title}{{Near-field electrospinning of conjugated polymer light-emitting nanofibers}}
+      \field{volume}{5}
+      \field{year}{2013}
+      \field{pages}{11637\bibrangedash 11642}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1039/C3NR03094F
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/oskat/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Camillo et al. - Unknown - Near-field electrospinning of conjugated polymer light-emitting nanofibers.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://arxiv.org/ftp/arxiv/papers/1310/1310.5101.pdf
+      \endverb
+      \verb{url}
+      \verb https://arxiv.org/ftp/arxiv/papers/1310/1310.5101.pdf
+      \endverb
+    \endentry
+    \entry{Chang2008}{article}{}
+      \name{author}{3}{}{%
+        {{hash=5e2024bda64a907b7cc9874d42476d60}{%
+           family={Chang},
+           familyi={C\bibinitperiod},
+           given={Chieh},
+           giveni={C\bibinitperiod}}}%
+        {{hash=9217d03923b345b6af7a88c14f36e4bb}{%
+           family={Limkrailassiri},
+           familyi={L\bibinitperiod},
+           given={Kevin},
+           giveni={K\bibinitperiod}}}%
+        {{hash=dd548cf30c4adb1c9fd9375c5b041cf0}{%
+           family={Lin},
+           familyi={L\bibinitperiod},
+           given={Liwei},
+           giveni={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{fdc72aee03824221c6ad422fc00c7d58}
+      \strng{fullhash}{fdc72aee03824221c6ad422fc00c7d58}
+      \strng{bibnamehash}{fdc72aee03824221c6ad422fc00c7d58}
+      \strng{authorbibnamehash}{fdc72aee03824221c6ad422fc00c7d58}
+      \strng{authornamehash}{fdc72aee03824221c6ad422fc00c7d58}
+      \strng{authorfullhash}{fdc72aee03824221c6ad422fc00c7d58}
+      \field{sortinit}{C}
+      \field{sortinithash}{963e9d84a3da2344e8833203de5aed05}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{A continuous near-field electrospinning NFES process has been developed to deposit solid nanofibers with orderly patterns over large areas. Before the onset of electrospinning, a bias voltage is applied to a semispherical shaped polymer droplet outside of a syringe needle, and a probe tip mechanically draws a single fiber from the droplet to initiate continuous NFES. Contrary to the conventional electrospinning process, we show that decreasing electrical field in continuous NFES results in smaller linewidth deposition, and nanofibers can be assembled into controlled complex patterns such as circular shapes and grid arrays on large and flat areas. {©} 2008 American Institute of Physics.}
+      \field{journaltitle}{Appl Phys Lett}
+      \field{title}{{Continuous near-field electrospinning for large area deposition of orderly nanofiber patterns}}
+      \field{year}{2008}
+      \field{pages}{3}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1063/1.2975834
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/oskat/OneDrive - Instituto Tecnologico y de Estudios Superiores de Monterrey/Documents/MNT{\_}ITESM{\_}Thesis/relatedArticles/CNFELADONP.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://www-bsac.eecs.berkeley.edu/publications/search/send{\_}publication{\_}pdf2client.php?pubID=1217995664
+      \endverb
+      \verb{url}
+      \verb http://www-bsac.eecs.berkeley.edu/publications/search/send%7B%5C_%7Dpublication%7B%5C_%7Dpdf2client.php?pubID=1217995664
+      \endverb
+    \endentry
+    \entry{Dalton2015}{article}{}
+      \name{author}{3}{}{%
+        {{hash=c706ac7f44b085cda3ff4de0a1f84c1b}{%
+           family={Dalton},
+           familyi={D\bibinitperiod},
+           given={Paul\bibnamedelima D},
+           giveni={P\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=2ac92ed818f83b8f43988d41ee3551ac}{%
+           family={Joergensen},
+           familyi={J\bibinitperiod},
+           given={T},
+           giveni={T\bibinitperiod}}}%
+        {{hash=2b9e72984f958b9d035fd896d26a9bc5}{%
+           family={Groll},
+           familyi={G\bibinitperiod},
+           given={Juergen},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{571b9fa87df759e1a6ba6b697099082b}
+      \strng{fullhash}{571b9fa87df759e1a6ba6b697099082b}
+      \strng{bibnamehash}{571b9fa87df759e1a6ba6b697099082b}
+      \strng{authorbibnamehash}{571b9fa87df759e1a6ba6b697099082b}
+      \strng{authornamehash}{571b9fa87df759e1a6ba6b697099082b}
+      \strng{authorfullhash}{571b9fa87df759e1a6ba6b697099082b}
+      \field{sortinit}{D}
+      \field{sortinithash}{2ef1bd9a78cc71eb74d7231c635177b8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Additive manufacturing of scaffolds with sub-micron filaments via melt electrospinning writing Related content Patterned melt electrospun substrates for tissue engineering}}
+      \field{year}{2015}
+      \verb{doi}
+      \verb 10.1088/1758-5090/7/3/035002
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/oskat/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Dalton, Joergensen, Groll - 2015 - Additive manufacturing of scaffolds with sub-micron filaments via melt electrospinning writing Relate.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://iopscience.iop.org/article/10.1088/1758-5090/7/3/035002/pdf
+      \endverb
+      \verb{url}
+      \verb https://iopscience.iop.org/article/10.1088/1758-5090/7/3/035002/pdf
+      \endverb
+    \endentry
+    \entry{Duan2017}{article}{}
+      \name{author}{5}{}{%
+        {{hash=fcd8858879a3ca0647843f2fee723732}{%
+           family={Duan},
+           familyi={D\bibinitperiod},
+           given={Yongqing},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=49b59ddab873b416c78c8a9af7bead11}{%
+           family={Ding},
+           familyi={D\bibinitperiod},
+           given={Yajiang},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=725a244c9e07269575a689e4575d9783}{%
+           family={Xu},
+           familyi={X\bibinitperiod},
+           given={Zhoulong},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=aa1c92023835d53e38aad5109df77395}{%
+           family={Huang},
+           familyi={H\bibinitperiod},
+           given={YongAn},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=180bb9d23a896d1092e3d42f448337ed}{%
+           family={Yin},
+           familyi={Y\bibinitperiod},
+           given={Zhouping},
+           giveni={Z\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Multidisciplinary Digital Publishing Institute (MDPI)}%
+      }
+      \strng{namehash}{6cbcc5d89bbd6c12a0b26a2b2046c829}
+      \strng{fullhash}{a35007da7fdd22271133fd6a6c528c15}
+      \strng{bibnamehash}{6cbcc5d89bbd6c12a0b26a2b2046c829}
+      \strng{authorbibnamehash}{6cbcc5d89bbd6c12a0b26a2b2046c829}
+      \strng{authornamehash}{6cbcc5d89bbd6c12a0b26a2b2046c829}
+      \strng{authorfullhash}{a35007da7fdd22271133fd6a6c528c15}
+      \field{sortinit}{D}
+      \field{sortinithash}{2ef1bd9a78cc71eb74d7231c635177b8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Micro/nano serpentine structures have widespread applications in flexible/stretchable electronics; however, challenges still exist for low-cost, high-efficiency and controllable manufacturing. Helix electrohydrodynamic printing (HE-printing) has been proposed here to realize controllable direct-writing of large area, highly aligned serpentine micro/nanofibers by introducing the rope coiling effect into printing process. By manipulating the flying trajectory and solidification degree of the micro/nano jet, the solidified micro/nanofiber flying in a stabilized helical manner and versatile serpentine structures deposited on a moving collector have been achieved. Systematic experiments and theoretical analysis were conducted to study the transformation behavior and the size changing rules for various deposited microstructures, and highly aligned serpentine microfibers were directly written by controlling the applied voltage, nozzle-to-collector distance and collector velocity. Furthermore, a hyper-stretchable piezoelectric device that can detect stretching, bending and pressure has been successfully fabricated using the printed serpentine micro/nanofibers, demonstrating the potential of HE-printing in stretchable electronics manufacturing.}
+      \field{issn}{2073-4360}
+      \field{journaltitle}{Polymers}
+      \field{month}{9}
+      \field{number}{9}
+      \field{title}{{Helix Electrohydrodynamic Printing of Highly Aligned Serpentine Micro/Nanofibers.}}
+      \field{volume}{9}
+      \field{year}{2017}
+      \verb{doi}
+      \verb 10.3390/polym9090434
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/oskat/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Duan et al. - 2017 - Helix Electrohydrodynamic Printing of Highly Aligned Serpentine MicroNanofibers.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://www.ncbi.nlm.nih.gov/pubmed/30965737 http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=PMC6418525
+      \endverb
+      \verb{url}
+      \verb http://www.ncbi.nlm.nih.gov/pubmed/30965737%20http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=PMC6418525
+      \endverb
+      \keyw{electrospinning,serpentine micro/nanofiber,stretchable electronics}
+    \endentry
+    \entry{Gupta2007}{article}{}
+      \name{author}{5}{}{%
+        {{hash=938f49b8d73f0efbba25ee07e32c8d44}{%
+           family={Gupta},
+           familyi={G\bibinitperiod},
+           given={Ashish},
+           giveni={A\bibinitperiod}}}%
+        {{hash=15f9da08df85a991ac196218a1fc51d6}{%
+           family={Seifalian},
+           familyi={S\bibinitperiod},
+           given={Alexander\bibnamedelima M},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=3f02ab5c7f7f2ea7f90473b2ca42f951}{%
+           family={Ahmad},
+           familyi={A\bibinitperiod},
+           given={Zeeshan},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=a85e2840699994842e8c6aef0ac35a05}{%
+           family={Edirisinghe},
+           familyi={E\bibinitperiod},
+           given={Mohan\bibnamedelima J},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=7d990eb54debba7602869d0a2288ceb4}{%
+           family={Winslet},
+           familyi={W\bibinitperiod},
+           given={Marc\bibnamedelima C},
+           giveni={M\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \strng{namehash}{50efa6ffd2e68d614d62055991bb8acc}
+      \strng{fullhash}{760dafabdb04dbe0eb17a33d689a11b3}
+      \strng{bibnamehash}{50efa6ffd2e68d614d62055991bb8acc}
+      \strng{authorbibnamehash}{50efa6ffd2e68d614d62055991bb8acc}
+      \strng{authornamehash}{50efa6ffd2e68d614d62055991bb8acc}
+      \strng{authorfullhash}{760dafabdb04dbe0eb17a33d689a11b3}
+      \field{sortinit}{G}
+      \field{sortinithash}{5e8d2bf9d38de41b1528bd307546008f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In this paper, we uncover a new method for the preparation of biopolymer scaffolds and demonstrate its potential for the development of organs with the aid of tissue engineering. Two novel nanocomposite polymers, a nonbiodegradable polyhedral oligomeric silsesquioxane-poly (carbonate-urea)urethane and a biodegradable polyhedral oligomeric silsesquioxane-polycaprolactone-poly(carbonate-urea)urethane, have been subjected to flow in an electric field. Electrically forced microthreading of the polymers occurs and a three-dimensional print-patterning device was used to deposit fine (50 µm) threads of polymer according to a predesigned architecture to prepare scaffolds. The technique can offer tremendous potential in the development of organs.}
+      \field{journaltitle}{Journal of BIOACTIVE AND COMPATIBLE POLYMERS}
+      \field{title}{{Novel Electrohydrodynamic Printing of Nanocomposite Biopolymer Scaffolds}}
+      \field{volume}{22}
+      \field{year}{2007}
+      \verb{doi}
+      \verb 10.1177/0883911507078268
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/oskat/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Gupta et al. - 2007 - Novel Electrohydrodynamic Printing of Nanocomposite Biopolymer Scaffolds.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://journals.sagepub.com/doi/pdf/10.1177/0883911507078268
+      \endverb
+      \verb{url}
+      \verb https://journals.sagepub.com/doi/pdf/10.1177/0883911507078268
+      \endverb
+      \keyw{electrohydrodynamic,polymer,printing,scaffold,tissue engineering}
+    \endentry
+    \entry{Huang2015}{article}{}
+      \name{author}{7}{}{%
+        {{hash=aa1c92023835d53e38aad5109df77395}{%
+           family={Huang},
+           familyi={H\bibinitperiod},
+           given={YongAn},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=fcd8858879a3ca0647843f2fee723732}{%
+           family={Duan},
+           familyi={D\bibinitperiod},
+           given={Yongqing},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=49b59ddab873b416c78c8a9af7bead11}{%
+           family={Ding},
+           familyi={D\bibinitperiod},
+           given={Yajiang},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=7278148de5ee5469472bbc19493e6e05}{%
+           family={Bu},
+           familyi={B\bibinitperiod},
+           given={Ningbin},
+           giveni={N\bibinitperiod}}}%
+        {{hash=59976cbcac8fc6c33eb3ce0de2308176}{%
+           family={Pan},
+           familyi={P\bibinitperiod},
+           given={Yanqiao},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=281ca4e7167bf64a7d430bae66bd1743}{%
+           family={Lu},
+           familyi={L\bibinitperiod},
+           given={Nanshu},
+           giveni={N\bibinitperiod}}}%
+        {{hash=180bb9d23a896d1092e3d42f448337ed}{%
+           family={Yin},
+           familyi={Y\bibinitperiod},
+           given={Zhouping},
+           giveni={Z\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Nature Publishing Group}%
+      }
+      \strng{namehash}{a30b12b5d7845a113b286af3d7310eb1}
+      \strng{fullhash}{59fa488378c6635130c71adc28adc154}
+      \strng{bibnamehash}{a30b12b5d7845a113b286af3d7310eb1}
+      \strng{authorbibnamehash}{a30b12b5d7845a113b286af3d7310eb1}
+      \strng{authornamehash}{a30b12b5d7845a113b286af3d7310eb1}
+      \strng{authorfullhash}{59fa488378c6635130c71adc28adc154}
+      \field{sortinit}{H}
+      \field{sortinithash}{5f15a7bc777ad49ff15aa4d2831b1681}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Versatile, kinetically controlled, high precision electrohydrodynamic writing of micro/nanofibers}
+      \field{issn}{2045-2322}
+      \field{journaltitle}{Scientific Reports}
+      \field{month}{5}
+      \field{number}{1}
+      \field{title}{{Versatile, kinetically controlled, high precision electrohydrodynamic writing of micro/nanofibers}}
+      \field{volume}{4}
+      \field{year}{2015}
+      \field{pages}{5949}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1038/srep05949
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/oskat/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Huang et al. - 2015 - Versatile, kinetically controlled, high precision electrohydrodynamic writing of micronanofibers.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://www.nature.com/articles/srep05949
+      \endverb
+      \verb{url}
+      \verb http://www.nature.com/articles/srep05949
+      \endverb
+      \keyw{Engineering,Nanoscience and technology}
+    \endentry
+    \entry{Jiang2018}{article}{}
+      \name{author}{12}{}{%
+        {{hash=915da924315b3b16daf42aac18d3ec42}{%
+           family={Jiang},
+           familyi={J\bibinitperiod},
+           given={Jiaxin},
+           giveni={J\bibinitperiod}}}%
+        {{hash=8fde8559617f603b3e2b3cf30cb48e9b}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Xiang},
+           giveni={X\bibinitperiod}}}%
+        {{hash=b57c0baf9ade61eb2c16b777847a89ed}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Wenwang},
+           giveni={W\bibinitperiod}}}%
+        {{hash=18b975301a4d17c28ca70d0a3fbce135}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Juan},
+           giveni={J\bibinitperiod}}}%
+        {{hash=171fc07245a8e7f54f9b60de6882f704}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Yifang},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=eb767ee7b4f9212d89f31fd8641fb48f}{%
+           family={Zheng},
+           familyi={Z\bibinitperiod},
+           given={Gaofeng},
+           giveni={G\bibinitperiod}}}%
+        {{hash=915da924315b3b16daf42aac18d3ec42}{%
+           family={Jiang},
+           familyi={J\bibinitperiod},
+           given={Jiaxin},
+           giveni={J\bibinitperiod}}}%
+        {{hash=8fde8559617f603b3e2b3cf30cb48e9b}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Xiang},
+           giveni={X\bibinitperiod}}}%
+        {{hash=b57c0baf9ade61eb2c16b777847a89ed}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Wenwang},
+           giveni={W\bibinitperiod}}}%
+        {{hash=18b975301a4d17c28ca70d0a3fbce135}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Juan},
+           giveni={J\bibinitperiod}}}%
+        {{hash=171fc07245a8e7f54f9b60de6882f704}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Yifang},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=eb767ee7b4f9212d89f31fd8641fb48f}{%
+           family={Zheng},
+           familyi={Z\bibinitperiod},
+           given={Gaofeng},
+           giveni={G\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Multidisciplinary Digital Publishing Institute}%
+      }
+      \strng{namehash}{f4b0e79f7d844ce6fc58a1c22b1ba0b9}
+      \strng{fullhash}{c6f8f4718244adb6abeb7fdf7d89b4d6}
+      \strng{bibnamehash}{f4b0e79f7d844ce6fc58a1c22b1ba0b9}
+      \strng{authorbibnamehash}{f4b0e79f7d844ce6fc58a1c22b1ba0b9}
+      \strng{authornamehash}{f4b0e79f7d844ce6fc58a1c22b1ba0b9}
+      \strng{authorfullhash}{c6f8f4718244adb6abeb7fdf7d89b4d6}
+      \field{sortinit}{J}
+      \field{sortinithash}{fce5f8d0bd05e8d93f3dbe21c78897ca}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{{<}p{>}Electrohydrodynamic direct-writing (EDW) is a developing technology for high-resolution printing. How to decrease the line width and improve the deposition accuracy of direct-written patterns has been the key to the promotion for the further application of EDW. In this paper, an airflow-assisted spinneret for electrohydrodynamic direct-writing was designed. An assisted laminar airflow was introduced to the EDW process, which provided an additional stretching and constraining force on the jet to reduce the surrounding interferences and enhance jet stability. The flow field and the electric field around the spinneret were simulated to direct the structure design of the airflow-assisted spinneret. Then, a series of experiments were conducted, and the results verified the spinneret design and demonstrated a stable ejection of jet in the EDW process. With assisted airflow, the uniformity of printed patterns and the deposition position accuracy of a charged jet can be improved. Complex patterns with positioning errors of less than 5{\%} have been printed and characterized, which provide an effective way to promote the integration of micro/nanosystems.{<}/p{>}}
+      \field{issn}{2072-666X}
+      \field{journaltitle}{Micromachines}
+      \field{month}{9}
+      \field{number}{9}
+      \field{title}{{Electrohydrodynamic Direct-Writing Micropatterns with Assisted Airflow}}
+      \field{volume}{9}
+      \field{year}{2018}
+      \field{pages}{456}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3390/mi9090456
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/oskat/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Jiang et al. - 2018 - Electrohydrodynamic Direct-Writing Micropatterns with Assisted Airflow.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://www.mdpi.com/2072-666X/9/9/456
+      \endverb
+      \verb{url}
+      \verb http://www.mdpi.com/2072-666X/9/9/456
+      \endverb
+      \keyw{assisted airflow,deposition accuracy,electrohydrodynamic direct,jet stability,writing}
+    \endentry
+    \entry{Kim2018}{article}{}
+      \name{author}{3}{}{%
+        {{hash=a21ac94739629c414840086e2b50bc42}{%
+           family={Kim},
+           familyi={K\bibinitperiod},
+           given={Jinseong},
+           giveni={J\bibinitperiod}}}%
+        {{hash=4e66521c939d8164132a482a87e94b4c}{%
+           family={Maeng},
+           familyi={M\bibinitperiod},
+           given={Bohee},
+           giveni={B\bibinitperiod}}}%
+        {{hash=ddaa75c4c6b894b3ab329398edbaa9f1}{%
+           family={Park},
+           familyi={P\bibinitperiod},
+           given={Jungyul},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer Singapore}%
+      }
+      \strng{namehash}{753b8831928fddb44af01197e0971c87}
+      \strng{fullhash}{753b8831928fddb44af01197e0971c87}
+      \strng{bibnamehash}{753b8831928fddb44af01197e0971c87}
+      \strng{authorbibnamehash}{753b8831928fddb44af01197e0971c87}
+      \strng{authornamehash}{753b8831928fddb44af01197e0971c87}
+      \strng{authorfullhash}{753b8831928fddb44af01197e0971c87}
+      \field{sortinit}{K}
+      \field{sortinithash}{9fd838a31ba64d981e8f44562bd33f89}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{2213-9621}
+      \field{journaltitle}{Micro and Nano Systems Letters}
+      \field{month}{12}
+      \field{number}{1}
+      \field{title}{{Characterization of 3D electrospinning on inkjet printed conductive pattern on paper}}
+      \field{volume}{6}
+      \field{year}{2018}
+      \field{pages}{12}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1186/s40486-018-0074-1
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/oskat/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Kim, Maeng, Park - 2018 - Characterization of 3D electrospinning on inkjet printed conductive pattern on paper.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://mnsl-journal.springeropen.com/articles/10.1186/s40486-018-0074-1
+      \endverb
+      \verb{url}
+      \verb https://mnsl-journal.springeropen.com/articles/10.1186/s40486-018-0074-1
+      \endverb
+    \endentry
+    \entry{Lee2012}{article}{}
+      \name{author}{5}{}{%
+        {{hash=6d2decb9b455d35e929a138790d12c07}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Jongwan},
+           giveni={J\bibinitperiod}}}%
+        {{hash=5dd34972f5adf3479bbb276f19f57e92}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Seung\bibnamedelima Yong},
+           giveni={S\bibinitperiod\bibinitdelim Y\bibinitperiod}}}%
+        {{hash=905d703cc8a9a7e561df81abd90da795}{%
+           family={Jang},
+           familyi={J\bibinitperiod},
+           given={Jinah},
+           giveni={J\bibinitperiod}}}%
+        {{hash=6fad91d20ef07c20c2710c4a2283d765}{%
+           family={Jeong},
+           familyi={J\bibinitperiod},
+           given={Young\bibnamedelima Hun},
+           giveni={Y\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=d0b8835ce06018953989ee0ef32f61ef}{%
+           family={Cho},
+           familyi={C\bibinitperiod},
+           given={Dong-Woo},
+           giveni={D\bibinithyphendelim W\bibinitperiod}}}%
+      }
+      \strng{namehash}{e87ccf43da0cc5c252d77d65d2d341ce}
+      \strng{fullhash}{6abf6a7d7ae0fd858638b36c84ed7c76}
+      \strng{bibnamehash}{e87ccf43da0cc5c252d77d65d2d341ce}
+      \strng{authorbibnamehash}{e87ccf43da0cc5c252d77d65d2d341ce}
+      \strng{authornamehash}{e87ccf43da0cc5c252d77d65d2d341ce}
+      \strng{authorfullhash}{6abf6a7d7ae0fd858638b36c84ed7c76}
+      \field{sortinit}{L}
+      \field{sortinithash}{2c7981aaabc885868aba60f0c09ee20f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0743-7463}
+      \field{journaltitle}{Langmuir}
+      \field{month}{5}
+      \field{number}{18}
+      \field{title}{{Fabrication of Patterned Nanofibrous Mats Using Direct-Write Electrospinning}}
+      \field{volume}{28}
+      \field{year}{2012}
+      \field{pages}{7267\bibrangedash 7275}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1021/la3009249
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/oskat/OneDrive - Instituto Tecnologico y de Estudios Superiores de Monterrey/Documents/MNT{\_}ITESM{\_}Thesis/relatedArticles/FPNMUDWE.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://pubs.acs.org/doi/10.1021/la3009249
+      \endverb
+      \verb{url}
+      \verb http://pubs.acs.org/doi/10.1021/la3009249
+      \endverb
+    \endentry
+    \entry{Liu2014}{article}{}
+      \name{author}{5}{}{%
+        {{hash=6c42217d31dd4ddb302d65192c088ca7}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Z\bibnamedelima H},
+           giveni={Z\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=48853d2726c490130b5e935e54c10176}{%
+           family={Pan},
+           familyi={P\bibinitperiod},
+           given={C\bibnamedelima T},
+           giveni={C\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+        {{hash=a88c77d75db6f409d8818de5230b0eb2}{%
+           family={Lin},
+           familyi={L\bibinitperiod},
+           given={L\bibnamedelima W},
+           giveni={L\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=fc41af71dc75cdb959adfe2f833004e2}{%
+           family={Huang},
+           familyi={H\bibinitperiod},
+           given={J\bibnamedelima C},
+           giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=79ac3bc1c47361d8e93afcd12bdde594}{%
+           family={Ou},
+           familyi={O\bibinitperiod},
+           given={Z\bibnamedelima Y},
+           giveni={Z\bibinitperiod\bibinitdelim Y\bibinitperiod}}}%
+      }
+      \strng{namehash}{37d15788d5940d07e849f228f26990af}
+      \strng{fullhash}{198c3fc2f57b69e8322e6ee655f27476}
+      \strng{bibnamehash}{37d15788d5940d07e849f228f26990af}
+      \strng{authorbibnamehash}{37d15788d5940d07e849f228f26990af}
+      \strng{authornamehash}{37d15788d5940d07e849f228f26990af}
+      \strng{authorfullhash}{198c3fc2f57b69e8322e6ee655f27476}
+      \field{sortinit}{L}
+      \field{sortinithash}{2c7981aaabc885868aba60f0c09ee20f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{One-dimensional piezoelectric nanomaterials have attracted great attention in recent years for their possible applications in mechanical energy scavenging devices. However, it is difficult to control the structural diameter, length, and density of these fibers fabricated by micro/nano-technologies. This work presents a hollow cylindrical near-field electrospinning (HCNFES) process to address production and performance issues encountered previously in either far-field electrospinning (FFES) or near-field electrospinning (NFES) processes. Oriented polyvinylidene fluoride (PVDF) fibers in the form of nonwoven fabric have been directly written on a glass tube for aligned piezoelectricity. Under a high in situ electrical poling field and strong mechanical stretching (the tangential speed on the glass tube collector is about 1989.3 mm s −1), the HCNFES process is able to uniformly deposit large arrays of PVDF fibers with good concentrations of piezoelectric $\beta$-phase. The nonwoven fiber fabric (NFF) is transferred onto a polyethylene terephthalate (PET) substrate and fixed at both ends using copper foil electrodes as a flexible textile-fiber-based PVDF energy harvester. Repeated stretching and releasing of PVDF NFF with a strain of 0.05{\%} at 7 Hz produces a maximum peak voltage and current at 76 mV and 39 nA, respectively.}
+      \field{title}{{Direct-write PVDF nonwoven fiber fabric energy harvesters via the hollow cylindrical near-field electrospinning process}}
+      \field{year}{2014}
+      \field{pages}{25003\bibrangedash 25014}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1088/0964-1726/23/2/025003
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/oskat/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Liu et al. - 2014 - Direct-write PVDF nonwoven fiber fabric energy harvesters via the hollow cylindrical near-field electrospinning proc.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://iopscience.iop.org/0964-1726/23/2/025003
+      \endverb
+      \verb{url}
+      \verb http://iopscience.iop.org/0964-1726/23/2/025003
+      \endverb
+      \keyw{PVDF,electrospinning,energy harvester,near-field electrospinning,nonwoven fiber fabric}
+    \endentry
+    \entry{Min2013}{article}{}
+      \name{author}{8}{}{%
+        {{hash=8b41cb7685b41a991d6e0b0e550650dc}{%
+           family={Min},
+           familyi={M\bibinitperiod},
+           given={Sung-Yong},
+           giveni={S\bibinithyphendelim Y\bibinitperiod}}}%
+        {{hash=6420c531a1bf685fdd065986de14e0de}{%
+           family={Kim},
+           familyi={K\bibinitperiod},
+           given={Tae-Sik},
+           giveni={T\bibinithyphendelim S\bibinitperiod}}}%
+        {{hash=5448ba5056cd4a86c536a67570a400d6}{%
+           family={Kim},
+           familyi={K\bibinitperiod},
+           given={Beom\bibnamedelima Joon},
+           giveni={B\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=afae4399d4ccba342dadb970937b48e8}{%
+           family={Cho},
+           familyi={C\bibinitperiod},
+           given={Himchan},
+           giveni={H\bibinitperiod}}}%
+        {{hash=fbc7c9c928b26400993c9b117fa024bd}{%
+           family={Noh},
+           familyi={N\bibinitperiod},
+           given={Yong-Young},
+           giveni={Y\bibinithyphendelim Y\bibinitperiod}}}%
+        {{hash=9a863168273e60c85af157420786774b}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Hoichang},
+           giveni={H\bibinitperiod}}}%
+        {{hash=19d192f51c0338944de1859288e5cb04}{%
+           family={Cho},
+           familyi={C\bibinitperiod},
+           given={Jeong\bibnamedelima Ho},
+           giveni={J\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=bb94d5c8147623b5bb85e9223433f070}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Tae-Woo},
+           giveni={T\bibinithyphendelim W\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Nature Publishing Group}%
+      }
+      \strng{namehash}{64f6ca66a36979a567b1652c2065af72}
+      \strng{fullhash}{5e5fe8a73a304310c5d7e1d5ce4e321d}
+      \strng{bibnamehash}{64f6ca66a36979a567b1652c2065af72}
+      \strng{authorbibnamehash}{64f6ca66a36979a567b1652c2065af72}
+      \strng{authornamehash}{64f6ca66a36979a567b1652c2065af72}
+      \strng{authorfullhash}{5e5fe8a73a304310c5d7e1d5ce4e321d}
+      \field{sortinit}{M}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The high-speed, large-area printing of aligned semiconducting nanowires is vital for practical device applications. Here, the authors use a high-speed printing technique to print semiconducting nanowire arrays onto device substrates with precise nanowire control, and high field-effect mobilities are observed.}
+      \field{issn}{2041-1723}
+      \field{journaltitle}{Nature Communications}
+      \field{month}{6}
+      \field{number}{1}
+      \field{title}{{Large-scale organic nanowire lithography and electronics}}
+      \field{volume}{4}
+      \field{year}{2013}
+      \field{pages}{1773}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1038/ncomms2785
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/oskat/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Min et al. - 2013 - Large-scale organic nanowire lithography and electronics.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://www.nature.com/articles/ncomms2785
+      \endverb
+      \verb{url}
+      \verb http://www.nature.com/articles/ncomms2785
+      \endverb
+      \keyw{Electronic properties and materials,Lithography,Nanowires}
+    \endentry
+    \entry{Pan2015}{article}{}
+      \name{author}{7}{}{%
+        {{hash=3929aba52248578d2b6d6dae5b27a5a3}{%
+           family={Pan},
+           familyi={P\bibinitperiod},
+           given={Cheng-Tang},
+           giveni={C\bibinithyphendelim T\bibinitperiod}}}%
+        {{hash=bb63bb4e688c28403c863c5b42414566}{%
+           family={Yen},
+           familyi={Y\bibinitperiod},
+           given={Chung-Kun},
+           giveni={C\bibinithyphendelim K\bibinitperiod}}}%
+        {{hash=e028ea3fdecd1cec8af411e7665dcaa3}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Shao-Yu},
+           giveni={S\bibinithyphendelim Y\bibinitperiod}}}%
+        {{hash=448f3c9c6ca95f3cffa267efe5ea2961}{%
+           family={Lai},
+           familyi={L\bibinitperiod},
+           given={Yan-Cheng},
+           giveni={Y\bibinithyphendelim C\bibinitperiod}}}%
+        {{hash=dd548cf30c4adb1c9fd9375c5b041cf0}{%
+           family={Lin},
+           familyi={L\bibinitperiod},
+           given={Liwei},
+           giveni={L\bibinitperiod}}}%
+        {{hash=fc41af71dc75cdb959adfe2f833004e2}{%
+           family={Huang},
+           familyi={H\bibinitperiod},
+           given={J.\bibnamedelimi C.},
+           giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=02b771d1317c79101e47a22213992293}{%
+           family={Kuo},
+           familyi={K\bibinitperiod},
+           given={Shiao-Wei},
+           giveni={S\bibinithyphendelim W\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Royal Society of Chemistry}%
+      }
+      \strng{namehash}{2900d8c269be58a3a42846d9fe7c77be}
+      \strng{fullhash}{995fa5f79936e495aff085c43cc5e6bb}
+      \strng{bibnamehash}{2900d8c269be58a3a42846d9fe7c77be}
+      \strng{authorbibnamehash}{2900d8c269be58a3a42846d9fe7c77be}
+      \strng{authornamehash}{2900d8c269be58a3a42846d9fe7c77be}
+      \strng{authorfullhash}{995fa5f79936e495aff085c43cc5e6bb}
+      \field{extraname}{1}
+      \field{sortinit}{P}
+      \field{sortinithash}{8d51b3d5b78d75b54308d706b9bbe285}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The power generation of the piezoelectric PVDF fiber tubes was 2.46 times higher than that of the solid fibers, which not only displayed mechanical stiffness but also produced a greater power output.}
+      \field{issn}{2046-2069}
+      \field{journaltitle}{RSC Advances}
+      \field{number}{103}
+      \field{title}{{Near-field electrospinning enhances the energy harvesting of hollow PVDF piezoelectric fibers}}
+      \field{volume}{5}
+      \field{year}{2015}
+      \field{pages}{85073\bibrangedash 85081}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1039/C5RA16604G
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/oskat/OneDrive - Instituto Tecnologico y de Estudios Superiores de Monterrey/Documents/MNT{\_}ITESM{\_}Thesis/relatedArticles/NFESEEHHPVDFPF.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://xlink.rsc.org/?DOI=C5RA16604G
+      \endverb
+      \verb{url}
+      \verb http://xlink.rsc.org/?DOI=C5RA16604G
+      \endverb
+    \endentry
+    \entry{Pan2014}{report}{}
+      \name{author}{7}{}{%
+        {{hash=3929aba52248578d2b6d6dae5b27a5a3}{%
+           family={Pan},
+           familyi={P\bibinitperiod},
+           given={Cheng-Tang},
+           giveni={C\bibinithyphendelim T\bibinitperiod}}}%
+        {{hash=bb63bb4e688c28403c863c5b42414566}{%
+           family={Yen},
+           familyi={Y\bibinitperiod},
+           given={Chung-Kun},
+           giveni={C\bibinithyphendelim K\bibinitperiod}}}%
+        {{hash=1d469294141174578eca0254092dab06}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Zong-Hsin},
+           giveni={Z\bibinithyphendelim H\bibinitperiod}}}%
+        {{hash=4ad75de73650054aec14feba9bacfabd}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Hui-Wen},
+           giveni={H\bibinithyphendelim W\bibinitperiod}}}%
+        {{hash=02b771d1317c79101e47a22213992293}{%
+           family={Kuo},
+           familyi={K\bibinitperiod},
+           given={Shiao-Wei},
+           giveni={S\bibinithyphendelim W\bibinitperiod}}}%
+        {{hash=f4f5087f1008291ed152d5f3a210c635}{%
+           family={Lu},
+           familyi={L\bibinitperiod},
+           given={Yi-Syuan},
+           giveni={Y\bibinithyphendelim S\bibinitperiod}}}%
+        {{hash=448f3c9c6ca95f3cffa267efe5ea2961}{%
+           family={Lai},
+           familyi={L\bibinitperiod},
+           given={Yan-Cheng},
+           giveni={Y\bibinithyphendelim C\bibinitperiod}}}%
+      }
+      \strng{namehash}{2900d8c269be58a3a42846d9fe7c77be}
+      \strng{fullhash}{2883b2d4d0b77795b0e77c614466fe22}
+      \strng{bibnamehash}{2900d8c269be58a3a42846d9fe7c77be}
+      \strng{authorbibnamehash}{2900d8c269be58a3a42846d9fe7c77be}
+      \strng{authornamehash}{2900d8c269be58a3a42846d9fe7c77be}
+      \strng{authorfullhash}{2883b2d4d0b77795b0e77c614466fe22}
+      \field{extraname}{2}
+      \field{sortinit}{P}
+      \field{sortinithash}{8d51b3d5b78d75b54308d706b9bbe285}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In this study, a cylindrical near-field electrospinning (CNFES) process was used to fabricate poly($\gamma$-benzyl $\alpha$, l-glutamate) (PBLG) fibers with permanent piezoelectricity. To analyze the piezoelectricity of various PBLG fibers, PBLG weight percentage, rotating tangential speed, electric field, and fiber diameter were investigated. The average diameter of the electrospun PBLG fiber is in the range from 4.37 to 25 $\mu$m with the optimum parameters (PBLG concentration: 18 wt{\%}, tangential collection velocity: 942.4778 mm/s, and electric field: 6×10 6 V/m). Fourier transform infrared spectroscopy (FTIR) was used to characterize PBLG nonwoven fiber fabrics (NFFs) made by the CNFES process. The PBLG NFFs with high absorption peak at 1650 cm −1 corresponding to $\alpha$-helix piezoelectric structures were demonstrated. In the experiment, the electrical energy output of one single PBLG fiber was characterized. The maximum power output is 138.42 pW with a load resistance of 8 MΩ. However, one single polyvinylidene fluoride (PVDF) fiber was also tested under the same condition and measurement. The power output is up to 265.81 pW with a load resistance of 6 MΩ. The results show that the power generation of the PVDF fibers exceeds that of PBLG fibers by 68{\%}.}
+      \field{booktitle}{Sensors and Materials}
+      \field{number}{2}
+      \field{title}{{Poly($\gamma$-benzyl $\alpha$, l-glutamate) in Cylindrical Near-Field Electrospinning Fabrication and Analysis of Piezoelectric Fibers}}
+      \field{type}{techreport}
+      \field{volume}{26}
+      \field{year}{2014}
+      \field{pages}{63\bibrangedash 73}
+      \range{pages}{11}
+      \verb{file}
+      \verb :C$\backslash$:/Users/oskat/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Pan et al. - 2014 - Poly($\gamma$-benzyl $\alpha$, l-glutamate) in Cylindrical Near-Field Electrospinning Fabrication and Analysis of Piezoelectric Fi.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://myukk.org/SM2017/sm{\_}pdf/SM971.pdf
+      \endverb
+      \verb{url}
+      \verb https://myukk.org/SM2017/sm%7B%5C_%7Dpdf/SM971.pdf
+      \endverb
+      \keyw{PBLG,cylindrical near-field electrospinning,piezoelectric fibers}
+    \endentry
+    \entry{Song2015}{article}{}
+      \name{author}{4}{}{%
+        {{hash=0fcae21ea7b722ed8b800a36d293ae77}{%
+           family={Song},
+           familyi={S\bibinitperiod},
+           given={Chiho},
+           giveni={C\bibinitperiod}}}%
+        {{hash=d7f69a26fa06d9d805a8983d9004f53f}{%
+           family={Rogers},
+           familyi={R\bibinitperiod},
+           given={John\bibnamedelima A.},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=4f70587c736ccf40b625fa5e7dafde16}{%
+           family={Kim},
+           familyi={K\bibinitperiod},
+           given={Jong-Man},
+           giveni={J\bibinithyphendelim M\bibinitperiod}}}%
+        {{hash=ea795d0be56ee2c1f236b56601d2f71f}{%
+           family={Ahn},
+           familyi={A\bibinitperiod},
+           given={Heejoon},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {The Polymer Society of Korea}%
+      }
+      \strng{namehash}{66a7824dee3e110efe88f2edaa1d7d2b}
+      \strng{fullhash}{ce8b89f98e43218927b34278d5bd6266}
+      \strng{bibnamehash}{66a7824dee3e110efe88f2edaa1d7d2b}
+      \strng{authorbibnamehash}{66a7824dee3e110efe88f2edaa1d7d2b}
+      \strng{authornamehash}{66a7824dee3e110efe88f2edaa1d7d2b}
+      \strng{authorfullhash}{ce8b89f98e43218927b34278d5bd6266}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1598-5032}
+      \field{journaltitle}{Macromolecular Research}
+      \field{month}{1}
+      \field{number}{1}
+      \field{title}{{Patterned polydiacetylene-embedded polystyrene nanofibers based on electrohydrodynamic jet printing}}
+      \field{volume}{23}
+      \field{year}{2015}
+      \field{pages}{118\bibrangedash 123}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1007/s13233-015-3024-2
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/oskat/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Song et al. - 2015 - Patterned polydiacetylene-embedded polystyrene nanofibers based on electrohydrodynamic jet printing.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://link.springer.com/10.1007/s13233-015-3024-2
+      \endverb
+      \verb{url}
+      \verb http://link.springer.com/10.1007/s13233-015-3024-2
+      \endverb
+    \endentry
+    \entry{Sun2006}{article}{}
+      \name{author}{4}{}{%
+        {{hash=816f1396f929d6e38092e5679b094928}{%
+           family={Sun},
+           familyi={S\bibinitperiod},
+           given={Daoheng},
+           giveni={D\bibinitperiod}}}%
+        {{hash=5e2024bda64a907b7cc9874d42476d60}{%
+           family={Chang},
+           familyi={C\bibinitperiod},
+           given={Chieh},
+           giveni={C\bibinitperiod}}}%
+        {{hash=16934c9702dbd4304b2d11044289ff10}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Sha},
+           giveni={S\bibinitperiod}}}%
+        {{hash=dd548cf30c4adb1c9fd9375c5b041cf0}{%
+           family={Lin},
+           familyi={L\bibinitperiod},
+           given={Liwei},
+           giveni={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{fa21d8dd5c075624cb9b7342617b72aa}
+      \strng{fullhash}{271f25111460f56b1301c12d60b82743}
+      \strng{bibnamehash}{fa21d8dd5c075624cb9b7342617b72aa}
+      \strng{authorbibnamehash}{fa21d8dd5c075624cb9b7342617b72aa}
+      \strng{authornamehash}{fa21d8dd5c075624cb9b7342617b72aa}
+      \strng{authorfullhash}{271f25111460f56b1301c12d60b82743}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{A near-field electrospinning (NFES) process has been developed to deposit solid nanofibers in a direct, continuous, and controllable manner. A tungsten electrode with tip diameter of 25 µm is used to construct nanofibers of 50−500 nm line width on silicon-based collectors while the liquid polymer solution is supplied in a manner analogous to that of a dip pen. The minimum applied bias voltage is 600 V, and minimum electrode-to-collector distance is 500 µm to achieve position controllable deposition. Charged nanofibers can be orderly collected, making NFES a potential tool in direct write nanofabrication for a variety of materials.}
+      \field{title}{{Near-Field Electrospinning}}
+      \field{year}{2006}
+      \verb{doi}
+      \verb 10.1021/nl0602701
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/oskat/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Sun et al. - 2006 - Near-Field Electrospinning.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://pubs.acs.org/doi/10.1021/nl0602701.
+      \endverb
+      \verb{url}
+      \verb https://pubs.acs.org/doi/10.1021/nl0602701.
+      \endverb
+    \endentry
+    \entry{Wang2015}{article}{}
+      \name{author}{7}{}{%
+        {{hash=0664a31d75ae88d142a0e634df0ead4d}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Han},
+           giveni={H\bibinitperiod}}}%
+        {{hash=231cd438c31d63d6708d0bcdb1d42ed4}{%
+           family={Huang},
+           familyi={H\bibinitperiod},
+           given={Shenneng},
+           giveni={S\bibinitperiod}}}%
+        {{hash=e5c3e4d1e7d16366cd322dcdee94f5e9}{%
+           family={Liang},
+           familyi={L\bibinitperiod},
+           given={Feng},
+           giveni={F\bibinitperiod}}}%
+        {{hash=c8f6dda7963dbfea3bc733201d6c1b20}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={Peixuan},
+           giveni={P\bibinitperiod}}}%
+        {{hash=fc5937b82562ae89da4dd7cdff3214a2}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Minhao},
+           giveni={M\bibinitperiod}}}%
+        {{hash=36595e014ac713cb3bf1ba2df20fa26a}{%
+           family={Lin},
+           familyi={L\bibinitperiod},
+           given={Sen},
+           giveni={S\bibinitperiod}}}%
+        {{hash=8698cfc7aae68759f042cdba9018139a}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Xindu},
+           giveni={X\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Hindawi}%
+      }
+      \strng{namehash}{2599ea3b9e6383f6a5cab22cfa42269b}
+      \strng{fullhash}{fba9f34259e8d85d040cb59ab18df6b4}
+      \strng{bibnamehash}{2599ea3b9e6383f6a5cab22cfa42269b}
+      \strng{authorbibnamehash}{2599ea3b9e6383f6a5cab22cfa42269b}
+      \strng{authornamehash}{2599ea3b9e6383f6a5cab22cfa42269b}
+      \strng{authorfullhash}{fba9f34259e8d85d040cb59ab18df6b4}
+      \field{extraname}{1}
+      \field{sortinit}{W}
+      \field{sortinithash}{ecb89ff85896a47dc313960773ac311d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Multinozzle electrospinning systems are designed to increase productivity, while near-field electrospinning (NFES) systems are designed to deposit solid nanofibers in a direct, continuous, and controllable manner. In this paper, several multinozzle NFES setups are tested. The experiment reveals that the deposition distance becomes larger when working distance and needle spacing increase, and the influence of voltage is relatively weaker. The deposition of double nozzle NFES has been studied with Coulomb's law and theoretical derivation has been verified by the experimental conclusion. The experiment result and theoretical derivation are helpful to get different distance of direct-written fibers by adjusting working distance or needle spacing to change distance of fibers largely and adjusting voltage to change distance slowly. Through these efforts, it is convenient to adjust the distance of straight fibers in multinozzle system.}
+      \field{issn}{1687-4110}
+      \field{journaltitle}{Journal of Nanomaterials}
+      \field{month}{7}
+      \field{title}{{Research on Multinozzle Near-Field Electrospinning Patterned Deposition}}
+      \field{volume}{2015}
+      \field{year}{2015}
+      \field{pages}{1\bibrangedash 8}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1155/2015/529138
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/oskat/OneDrive - Instituto Tecnologico y de Estudios Superiores de Monterrey/Documents/MNT{\_}ITESM{\_}Thesis/relatedArticles/RMNFESPD.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://www.hindawi.com/journals/jnm/2015/529138/
+      \endverb
+      \verb{url}
+      \verb http://www.hindawi.com/journals/jnm/2015/529138/
+      \endverb
+    \endentry
+    \entry{Wang2017}{article}{}
+      \name{author}{6}{}{%
+        {{hash=bbf6356093da86c865f6219ee3f91527}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Zhifeng},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=8698cfc7aae68759f042cdba9018139a}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Xindu},
+           giveni={X\bibinitperiod}}}%
+        {{hash=43d7c7869c57bf06b334ed14ff16153d}{%
+           family={Zeng},
+           familyi={Z\bibinitperiod},
+           given={Jun},
+           giveni={J\bibinitperiod}}}%
+        {{hash=e5c3e4d1e7d16366cd322dcdee94f5e9}{%
+           family={Liang},
+           familyi={L\bibinitperiod},
+           given={Feng},
+           giveni={F\bibinitperiod}}}%
+        {{hash=c8f6dda7963dbfea3bc733201d6c1b20}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={Peixuan},
+           giveni={P\bibinitperiod}}}%
+        {{hash=0664a31d75ae88d142a0e634df0ead4d}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Han},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {AIP Publishing LLC}%
+      }
+      \strng{namehash}{684be0a14afc587854c10eff74f59a1d}
+      \strng{fullhash}{d392b1a16e369afe88f90cbddc243065}
+      \strng{bibnamehash}{684be0a14afc587854c10eff74f59a1d}
+      \strng{authorbibnamehash}{684be0a14afc587854c10eff74f59a1d}
+      \strng{authornamehash}{684be0a14afc587854c10eff74f59a1d}
+      \strng{authorfullhash}{d392b1a16e369afe88f90cbddc243065}
+      \field{extraname}{2}
+      \field{sortinit}{W}
+      \field{sortinithash}{ecb89ff85896a47dc313960773ac311d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{For large area micro/nano pattern printing, multi-nozzle electrohydrodynamic (EHD) printing setup is an efficient method to boost productivity in near-field electrospinning (NFES) process. And cont...}
+      \field{issn}{2158-3226}
+      \field{journaltitle}{AIP Advances}
+      \field{month}{3}
+      \field{number}{3}
+      \field{title}{{Controllable deposition distance of aligned pattern via dual-nozzle near-field electrospinning}}
+      \field{volume}{7}
+      \field{year}{2017}
+      \field{pages}{035310}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1063/1.4974936
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/oskat/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Wang et al. - 2017 - Controllable deposition distance of aligned pattern via dual-nozzle near-field electrospinning.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://aip.scitation.org/doi/10.1063/1.4974936
+      \endverb
+      \verb{url}
+      \verb http://aip.scitation.org/doi/10.1063/1.4974936
+      \endverb
+      \keyw{electrohydrodynamics,electrospinning,nanopatterning,nozzles}
+    \endentry
+    \entry{Wang2018}{article}{}
+      \name{author}{10}{}{%
+        {{hash=bbf6356093da86c865f6219ee3f91527}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Zhifeng},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=8698cfc7aae68759f042cdba9018139a}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Xindu},
+           giveni={X\bibinitperiod}}}%
+        {{hash=75ed53713fec13f04757378f1e7e65be}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Jiarong},
+           giveni={J\bibinitperiod}}}%
+        {{hash=fe9b9cb4dc9bd85f159099d16f396173}{%
+           family={Lin},
+           familyi={L\bibinitperiod},
+           given={Ya-Ju},
+           giveni={Y\bibinithyphendelim J\bibinitperiod}}}%
+        {{hash=60c0b878a2e2057eb48202edcd489111}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Kuan},
+           giveni={K\bibinitperiod}}}%
+        {{hash=43d7c7869c57bf06b334ed14ff16153d}{%
+           family={Zeng},
+           familyi={Z\bibinitperiod},
+           given={Jun},
+           giveni={J\bibinitperiod}}}%
+        {{hash=c8f6dda7963dbfea3bc733201d6c1b20}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={Peixuan},
+           giveni={P\bibinitperiod}}}%
+        {{hash=8c237e44ade5484269647d767ac3def5}{%
+           family={He},
+           familyi={H\bibinitperiod},
+           given={Yunbo},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=2af761d9bef859ea29248418adce0dd7}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Yang},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=0664a31d75ae88d142a0e634df0ead4d}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Han},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {AIP Publishing LLC}%
+      }
+      \strng{namehash}{684be0a14afc587854c10eff74f59a1d}
+      \strng{fullhash}{cffdc4fbc97a6e7d7a60dd71e5aa9083}
+      \strng{bibnamehash}{684be0a14afc587854c10eff74f59a1d}
+      \strng{authorbibnamehash}{684be0a14afc587854c10eff74f59a1d}
+      \strng{authornamehash}{684be0a14afc587854c10eff74f59a1d}
+      \strng{authorfullhash}{cffdc4fbc97a6e7d7a60dd71e5aa9083}
+      \field{extraname}{3}
+      \field{sortinit}{W}
+      \field{sortinithash}{ecb89ff85896a47dc313960773ac311d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{To mass-volume fabricate micro- and nano-scales aligned pattern, multi-nozzle near-field electrospinning (NFES) direct-writing technology is well proposed as a high-efficiency method in electrohydr...}
+      \field{issn}{2158-3226}
+      \field{journaltitle}{AIP Advances}
+      \field{month}{7}
+      \field{number}{7}
+      \field{title}{{Fabrication and evaluation of controllable deposition distance for aligned pattern by multi-nozzle near-field electrospinning}}
+      \field{volume}{8}
+      \field{year}{2018}
+      \field{pages}{075111}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1063/1.5032082
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/oskat/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Wang et al. - 2018 - Fabrication and evaluation of controllable deposition distance for aligned pattern by multi-nozzle near-field elect.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://aip.scitation.org/doi/10.1063/1.5032082
+      \endverb
+      \verb{url}
+      \verb http://aip.scitation.org/doi/10.1063/1.5032082
+      \endverb
+      \keyw{electrohydrodynamics,electrospinning,jets,nanofabrication,nanofibres,nanopatterning,nozzles}
+    \endentry
+    \entry{Xu2014}{article}{}
+      \name{author}{7}{}{%
+        {{hash=a024bddfb2bcda05c297146cab908d94}{%
+           family={Xu},
+           familyi={X\bibinitperiod},
+           given={Jiachen},
+           giveni={J\bibinitperiod}}}%
+        {{hash=308573ea43ef718176e6fe3a7be778c1}{%
+           family={Abecassis},
+           familyi={A\bibinitperiod},
+           given={Maxwell},
+           giveni={M\bibinitperiod}}}%
+        {{hash=d795a1bfe15c3573bda31f8798b4d26a}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Zixuan},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=3f1c414d55a4612a9b11aa2c8cebdbbb}{%
+           family={Guo},
+           familyi={G\bibinitperiod},
+           given={Ping},
+           giveni={P\bibinitperiod}}}%
+        {{hash=08b63e81ca7d6c6b8139f109efd88359}{%
+           family={Huang},
+           familyi={H\bibinitperiod},
+           given={Jiaxing},
+           giveni={J\bibinitperiod}}}%
+        {{hash=5212c8eeb38a8fbc8268442756dc1d9e}{%
+           family={Ehmann},
+           familyi={E\bibinitperiod},
+           given={Kornel},
+           giveni={K\bibinitperiod}}}%
+        {{hash=3f63d8de2975d0bddc2dd877029a2cae}{%
+           family={Cao},
+           familyi={C\bibinitperiod},
+           given={Jian},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{fe20cb889f9388474987c875cf9f558a}
+      \strng{fullhash}{e4066b12f75b0a042e2d3cdc2820b796}
+      \strng{bibnamehash}{fe20cb889f9388474987c875cf9f558a}
+      \strng{authorbibnamehash}{fe20cb889f9388474987c875cf9f558a}
+      \strng{authornamehash}{fe20cb889f9388474987c875cf9f558a}
+      \strng{authorfullhash}{e4066b12f75b0a042e2d3cdc2820b796}
+      \field{sortinit}{X}
+      \field{sortinithash}{b0b62a29ee4a21a0e618fed53a0313cc}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Developed from the far field electrospinning (FFES) process, near-field electrospinning (NFES) holds the promise to become a direct-writing technology with high throughput and multi-material capability not only in 2D but also in 3D space. The underlying problem is the deposition of fibers on top of each other. Since the fibers are of sub-micron size, the accuracy of the deposition must reach the same level to realize this requirement. Deposition inaccuracy is attributable to numerous sources including the residual charges remaining on the deposited fibers that repel the fiber being deposited as well as the inappropriate shape of the electric field guiding the deposition process. To eliminate these two influences, this paper proposes two possible solutions. In the first, the polarity of the electrodes is being switched in subsequent deposition passes, while in the second the ground electrode plate is replaced by a grounded pin to modify the shape of the electric field. A comparative experimental analysis of the feasibility of these two methods is presented and their advantages and disadvantages are discussed.}
+      \field{journaltitle}{International Workshop on Microfactories}
+      \field{number}{9th}
+      \field{title}{{Accuracy Improvement of Nano-fiber Deposition by Near-Field Electrospinning}}
+      \field{volume}{IWMF2014}
+      \field{year}{2014}
+      \verb{file}
+      \verb :C$\backslash$:/Users/oskat/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Xu et al. - 2014 - Accuracy Improvement of Nano-fiber Deposition by Near-Field Electrospinning.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://conf.papercept.net/images/temp/IWMF/media/files/0041.pdf
+      \endverb
+      \verb{url}
+      \verb http://conf.papercept.net/images/temp/IWMF/media/files/0041.pdf
+      \endverb
+    \endentry
+    \entry{Xue2014}{article}{}
+      \name{author}{7}{}{%
+        {{hash=1f63757fcdc710438bd7338775075c08}{%
+           family={Xue},
+           familyi={X\bibinitperiod},
+           given={Niannan},
+           giveni={N\bibinitperiod}}}%
+        {{hash=0d36a6690c1ecc71addd182336c05c16}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Xia},
+           giveni={X\bibinitperiod}}}%
+        {{hash=715fd2a2ab254a9dc90e05298cab906a}{%
+           family={Bertulli},
+           familyi={B\bibinitperiod},
+           given={Cristina},
+           giveni={C\bibinitperiod}}}%
+        {{hash=d5f557ccf474914a3f659927652bdb94}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Zhaoying},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=5ccfb172d894ce57193ad5474f3bbe18}{%
+           family={Patharagulpong},
+           familyi={P\bibinitperiod},
+           given={Atipat},
+           giveni={A\bibinitperiod}}}%
+        {{hash=7a4cbb10e6f6cc4aee93965ff58633fb}{%
+           family={Sadok},
+           familyi={S\bibinitperiod},
+           given={Amine},
+           giveni={A\bibinitperiod}}}%
+        {{hash=fdf51048820878da408ba62bc2cc2a2c}{%
+           family={Huang},
+           familyi={H\bibinitperiod},
+           given={Yan\bibnamedelimb Yan\bibnamedelima Shery},
+           giveni={Y\bibinitperiod\bibinitdelim Y\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=3e8bc7f83e74813d99cdf2ca01c6349f}{%
+           family={Chin},
+           familyi={C\bibinitperiod},
+           given={Wei-Chun},
+           giveni={W\bibinithyphendelim C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Public Library of Science}%
+      }
+      \strng{namehash}{64d37e56e381a1c2a18dc6964a6b220e}
+      \strng{fullhash}{d0b42b2ada7743f6c748666fc5fca159}
+      \strng{bibnamehash}{64d37e56e381a1c2a18dc6964a6b220e}
+      \strng{authorbibnamehash}{64d37e56e381a1c2a18dc6964a6b220e}
+      \strng{authornamehash}{64d37e56e381a1c2a18dc6964a6b220e}
+      \strng{authorfullhash}{d0b42b2ada7743f6c748666fc5fca159}
+      \strng{editorbibnamehash}{3e8bc7f83e74813d99cdf2ca01c6349f}
+      \strng{editornamehash}{3e8bc7f83e74813d99cdf2ca01c6349f}
+      \strng{editorfullhash}{3e8bc7f83e74813d99cdf2ca01c6349f}
+      \field{sortinit}{X}
+      \field{sortinithash}{b0b62a29ee4a21a0e618fed53a0313cc}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Cellular behavior is strongly influenced by the architecture and pattern of its interfacing extracellular matrix (ECM). For an artificial culture system which could eventually benefit the translation of scientific findings into therapeutic development, the system should capture the key characteristics of a physiological microenvironment. At the same time, it should also enable standardized, high throughput data acquisition. Since an ECM is composed of different fibrous proteins, studying cellular interaction with individual fibrils will be of physiological relevance. In this study, we employ near-field electrospinning to create ordered patterns of collagenous fibrils of gelatin, based on an acetic acid and ethyl acetate aqueous co-solvent system. Tunable conformations of micro-fibrils were directly deposited onto soft polymeric substrates in a single step. We observe that global topographical features of straight lines, beads-on-strings, and curls are dictated by solution conductivity; whereas the finer details such as the fiber cross-sectional profile are tuned by solution viscosity. Using these fibril constructs as cellular assays, we study EA.hy926 endothelial cells' response to ROCK inhibition, because of ROCK's key role in the regulation of cell shape. The fibril array was shown to modulate the cellular morphology towards a pre-capillary cord-like phenotype, which was otherwise not observed on a flat 2-D substrate. Further facilitated by quantitative analysis of morphological parameters, the fibril platform also provides better dissection in the cells' response to a H1152 ROCK inhibitor. In conclusion, the near-field electrospun fibril constructs provide a more physiologically-relevant platform compared to a featureless 2-D surface, and simultaneously permit statistical single-cell image cytometry using conventional microscopy systems. The patterning approach described here is also expected to form the basics for depositing other protein fibrils, seen among potential applications as culture platforms for drug screening.}
+      \field{issn}{1932-6203}
+      \field{journaltitle}{PLoS ONE}
+      \field{month}{4}
+      \field{number}{4}
+      \field{title}{{Rapid Patterning of 1-D Collagenous Topography as an ECM Protein Fibril Platform for Image Cytometry}}
+      \field{volume}{9}
+      \field{year}{2014}
+      \field{pages}{e93590}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1371/journal.pone.0093590
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/oskat/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Xue et al. - 2014 - Rapid Patterning of 1-D Collagenous Topography as an ECM Protein Fibril Platform for Image Cytometry.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://dx.plos.org/10.1371/journal.pone.0093590
+      \endverb
+      \verb{url}
+      \verb https://dx.plos.org/10.1371/journal.pone.0093590
+      \endverb
+    \endentry
+    \entry{Zheng2010}{article}{}
+      \name{author}{6}{}{%
+        {{hash=eb767ee7b4f9212d89f31fd8641fb48f}{%
+           family={Zheng},
+           familyi={Z\bibinitperiod},
+           given={Gaofeng},
+           giveni={G\bibinitperiod}}}%
+        {{hash=b57c0baf9ade61eb2c16b777847a89ed}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Wenwang},
+           giveni={W\bibinitperiod}}}%
+        {{hash=8fde8559617f603b3e2b3cf30cb48e9b}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Xiang},
+           giveni={X\bibinitperiod}}}%
+        {{hash=81ea17908d44f2b64d7815e3ec660491}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={Dezhi},
+           giveni={D\bibinitperiod}}}%
+        {{hash=816f1396f929d6e38092e5679b094928}{%
+           family={Sun},
+           familyi={S\bibinitperiod},
+           given={Daoheng},
+           giveni={D\bibinitperiod}}}%
+        {{hash=dd548cf30c4adb1c9fd9375c5b041cf0}{%
+           family={Lin},
+           familyi={L\bibinitperiod},
+           given={Liwei},
+           giveni={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{66b5c76e71a7e6d4aa91a4aee44c2181}
+      \strng{fullhash}{54a5b1287d009c8ebd21cc4026f744ae}
+      \strng{bibnamehash}{66b5c76e71a7e6d4aa91a4aee44c2181}
+      \strng{authorbibnamehash}{66b5c76e71a7e6d4aa91a4aee44c2181}
+      \strng{authornamehash}{66b5c76e71a7e6d4aa91a4aee44c2181}
+      \strng{authorfullhash}{54a5b1287d009c8ebd21cc4026f744ae}
+      \field{extraname}{1}
+      \field{sortinit}{Z}
+      \field{sortinithash}{156173bd08b075d7295bc3e0f4735a04}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0022-3727}
+      \field{journaltitle}{Journal of Physics D: Applied Physics}
+      \field{month}{10}
+      \field{number}{41}
+      \field{title}{{Precision deposition of a nanofibre by near-field electrospinning}}
+      \field{volume}{43}
+      \field{year}{2010}
+      \field{pages}{415501}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1088/0022-3727/43/41/415501
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/oskat/OneDrive - Instituto Tecnologico y de Estudios Superiores de Monterrey/Documents/MNT{\_}ITESM{\_}Thesis/relatedArticles/PDNNFES.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://stacks.iop.org/0022-3727/43/i=41/a=415501?key=crossref.304f8be16661d1ca2c851060187b2845
+      \endverb
+      \verb{url}
+      \verb http://stacks.iop.org/0022-3727/43/i=41/a=415501?key=crossref.304f8be16661d1ca2c851060187b2845
+      \endverb
+    \endentry
+    \entry{Zheng2014}{article}{}
+      \name{author}{7}{}{%
+        {{hash=5f52537a747d57b763059384bc1157d4}{%
+           family={Zheng},
+           familyi={Z\bibinitperiod},
+           given={Jiang-Yi},
+           giveni={J\bibinithyphendelim Y\bibinitperiod}}}%
+        {{hash=81a1dbbf63217814057a23dd179f2b7b}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Hai-Yan},
+           giveni={H\bibinithyphendelim Y\bibinitperiod}}}%
+        {{hash=8fde8559617f603b3e2b3cf30cb48e9b}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Xiang},
+           giveni={X\bibinitperiod}}}%
+        {{hash=f0e7d180081df6c4c59c600f7c044474}{%
+           family={Zhao},
+           familyi={Z\bibinitperiod},
+           given={Yang},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=748f05b010261e4e6b2f5d9af921485b}{%
+           family={Huang},
+           familyi={H\bibinitperiod},
+           given={Wei-Wei},
+           giveni={W\bibinithyphendelim W\bibinitperiod}}}%
+        {{hash=11670350671fa7928708fce9c088ab3a}{%
+           family={Zheng},
+           familyi={Z\bibinitperiod},
+           given={Gao-Feng},
+           giveni={G\bibinithyphendelim F\bibinitperiod}}}%
+        {{hash=eb19d292e44cc7c5d5b51e507494d3cd}{%
+           family={Sun},
+           familyi={S\bibinitperiod},
+           given={Dao-Heng},
+           giveni={D\bibinithyphendelim H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Hindawi}%
+      }
+      \strng{namehash}{7bb2b1f564ceaa7a5ddd1b8518718125}
+      \strng{fullhash}{e2d3ae661c716af94bc2b006c80789a0}
+      \strng{bibnamehash}{7bb2b1f564ceaa7a5ddd1b8518718125}
+      \strng{authorbibnamehash}{7bb2b1f564ceaa7a5ddd1b8518718125}
+      \strng{authornamehash}{7bb2b1f564ceaa7a5ddd1b8518718125}
+      \strng{authorfullhash}{e2d3ae661c716af94bc2b006c80789a0}
+      \field{extraname}{2}
+      \field{sortinit}{Z}
+      \field{sortinithash}{156173bd08b075d7295bc3e0f4735a04}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{AC pulse-modulated electrohydrodynamic direct-writing (EDW) was utilized to direct-write orderly micro/nanofibrous structure on the flexible insulating polyethylene terephthalate (PET) substrate. During the EDW process, AC electrical field induced charges to reciprocate along the jet and decreased the charge repulsive force that applied on charged jet. Thanks to the smaller charge repulsive force, stable straight jet can be built up to direct-write orderly micro/nanofibrous structures on the insulating substrate. The minimum motion velocity required to direct-write straight line fibrous structure on insulating PET substrate was 700 mm/s. Moreover, the influences of AC voltage amplitude, frequency, and duty cycle ratio on the line width of fibrous structures were investigated. This work proposes a novel solution to overcome the inherent charge repulsion emerging on the insulating substrate, and promotes the application of EDW technology on the flexible electronics.}
+      \field{issn}{1687-4110}
+      \field{journaltitle}{Journal of Nanomaterials}
+      \field{month}{5}
+      \field{title}{{Electrohydrodynamic Direct-Write Orderly Micro/Nanofibrous Structure on Flexible Insulating Substrate}}
+      \field{volume}{2014}
+      \field{year}{2014}
+      \field{pages}{1\bibrangedash 7}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1155/2014/708186
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/oskat/OneDrive - Instituto Tecnologico y de Estudios Superiores de Monterrey/Documents/MNT{\_}ITESM{\_}Thesis/relatedArticles/EDWOMNSFIS.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://www.hindawi.com/journals/jnm/2014/708186/
+      \endverb
+      \verb{url}
+      \verb http://www.hindawi.com/journals/jnm/2014/708186/
+      \endverb
+    \endentry
+    \entry{Zheng2012}{article}{}
+      \name{author}{8}{}{%
+        {{hash=ffb97d2db5a68752cd441b0c6741f3e9}{%
+           family={Zheng},
+           familyi={Z\bibinitperiod},
+           given={Jie},
+           giveni={J\bibinitperiod}}}%
+        {{hash=48e9e94bd6e9e1e3e5a6fe5645ab1c0d}{%
+           family={Long},
+           familyi={L\bibinitperiod},
+           given={Yun\bibnamedelima Ze},
+           giveni={Y\bibinitperiod\bibinitdelim Z\bibinitperiod}}}%
+        {{hash=e9a87cd1e75c288c7553dad00ec6ba7c}{%
+           family={Sun},
+           familyi={S\bibinitperiod},
+           given={Bin},
+           giveni={B\bibinitperiod}}}%
+        {{hash=9a166841b14c6b296461da22f3bf744f}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Zhi\bibnamedelima Hua},
+           giveni={Z\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=ee558650f11e3dd194c3631df0bdbfc6}{%
+           family={Shao},
+           familyi={S\bibinitperiod},
+           given={Feng},
+           giveni={F\bibinitperiod}}}%
+        {{hash=4d99de50be3a00d257c40fc1d46471e5}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Hong\bibnamedelima Di},
+           giveni={H\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=021eb4ba1f7b28d578fea08fce1ad4ff}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Zhi\bibnamedelima Ming},
+           giveni={Z\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=9f66dba986823cfd59927d696f2e6537}{%
+           family={Huang},
+           familyi={H\bibinitperiod},
+           given={Jia\bibnamedelima Yin},
+           giveni={J\bibinitperiod\bibinitdelim Y\bibinitperiod}}}%
+      }
+      \strng{namehash}{8fa20d0ba1f398679ef35983d1d9b98d}
+      \strng{fullhash}{7c8634ce9b9c67477014ee313535e5fb}
+      \strng{bibnamehash}{8fa20d0ba1f398679ef35983d1d9b98d}
+      \strng{authorbibnamehash}{8fa20d0ba1f398679ef35983d1d9b98d}
+      \strng{authornamehash}{8fa20d0ba1f398679ef35983d1d9b98d}
+      \strng{authorfullhash}{7c8634ce9b9c67477014ee313535e5fb}
+      \field{extraname}{3}
+      \field{sortinit}{Z}
+      \field{sortinithash}{156173bd08b075d7295bc3e0f4735a04}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Electrospinning is a straightforward method to produce micro/nanoscale fibers from polymer solutions typically using an operating voltage of 10 kV - 30 kV and spinning distance of 10 cm - 20 cm. In this paper, polyvinyl pyrrolidone (PVP) non-woven nanofibers with diameters of 200 nm - 900 nm were prepared by low-voltage near-field electrospinning with a working voltage of less than 2.8 kV and a spinning distance of less than 10 mm. Besides the uniform fibers, beaded-fibers were also fabricated and the formation mechanism was discussed. Particularly, a series of experiments were carried out to explore the influence of processing variables on the formation of near-field electrospun PVP nanofibers, including concentration, humidity, collecting position, and spinning distance. {©} 2012 Chinese Physical Society and IOP Publishing Ltd.}
+      \field{issn}{16741056}
+      \field{journaltitle}{Chinese Physics B}
+      \field{number}{4}
+      \field{title}{{Polymer nanofibers prepared by low-voltage near-field electrospinning}}
+      \field{volume}{21}
+      \field{year}{2012}
+      \field{pages}{1\bibrangedash 6}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1088/1674-1056/21/4/048102
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/oskat/OneDrive - Instituto Tecnologico y de Estudios Superiores de Monterrey/Documents/MNT{\_}ITESM{\_}Thesis/relatedArticles/PNFPLVNFES.pdf:pdf
+      \endverb
+      \keyw{beaded-fibers,nanofibers,near-field electrospinning}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
