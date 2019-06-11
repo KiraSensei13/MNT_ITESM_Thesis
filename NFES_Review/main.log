@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.6960 64-bit) (preloaded format=pdflatex 2019.2.1)  10 JUN 2019 19:12
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.6960 64-bit) (preloaded format=pdflatex 2019.2.1)  11 JUN 2019 13:07
 entering extended mode
 **./main.tex
 (main.tex
@@ -1851,92 +1851,92 @@ Overfull \hbox (5.07034pt too wide) in paragraph at lines 116--117
  []
 
 
-Overfull \hbox (2.65648pt too wide) in paragraph at lines 108--131
+Overfull \hbox (2.65648pt too wide) in paragraph at lines 108--143
 [][] 
  []
 
 
-Overfull \hbox (5.07034pt too wide) in paragraph at lines 146--147
+Overfull \hbox (5.07034pt too wide) in paragraph at lines 158--159
 []|\T1/ppl/m/n/10.95 Ref.|  
  []
 
 
-Overfull \hbox (4.36966pt too wide) in paragraph at lines 157--158
+Overfull \hbox (4.36966pt too wide) in paragraph at lines 169--170
 []|\T1/ppl/m/n/10.95 [[][]10[][]]|  
  []
 
 
-Overfull \hbox (4.36966pt too wide) in paragraph at lines 158--159
+Overfull \hbox (4.36966pt too wide) in paragraph at lines 170--171
 []|\T1/ppl/m/n/10.95 [[][]11[][]]|  
  []
 
 
-Overfull \hbox (4.36966pt too wide) in paragraph at lines 159--160
+Overfull \hbox (4.36966pt too wide) in paragraph at lines 171--172
 []|\T1/ppl/m/n/10.95 [[][]12[][]]|  
  []
 
 
-Overfull \hbox (4.36966pt too wide) in paragraph at lines 160--161
+Overfull \hbox (4.36966pt too wide) in paragraph at lines 172--173
 []|\T1/ppl/m/n/10.95 [[][]14[][]]|  
  []
 
 
-Overfull \hbox (4.36966pt too wide) in paragraph at lines 161--162
+Overfull \hbox (4.36966pt too wide) in paragraph at lines 173--174
 []|\T1/ppl/m/n/10.95 [[][]13[][]]|  
  []
 
 
-Overfull \hbox (4.36966pt too wide) in paragraph at lines 162--163
+Overfull \hbox (4.36966pt too wide) in paragraph at lines 174--175
 []|\T1/ppl/m/n/10.95 [[][]15[][]]|  
  []
 
 
-Overfull \hbox (4.36966pt too wide) in paragraph at lines 163--164
+Overfull \hbox (4.36966pt too wide) in paragraph at lines 175--176
 []|\T1/ppl/m/n/10.95 [[][]16[][]]|  
  []
 
 
-Overfull \hbox (4.36966pt too wide) in paragraph at lines 164--165
+Overfull \hbox (4.36966pt too wide) in paragraph at lines 176--177
 []|\T1/ppl/m/n/10.95 [[][]17[][]]|  
  []
 
 
-Overfull \hbox (4.36966pt too wide) in paragraph at lines 165--166
+Overfull \hbox (4.36966pt too wide) in paragraph at lines 177--178
 []|\T1/ppl/m/n/10.95 [[][]18[][]]|  
  []
 
 
-Overfull \hbox (4.36966pt too wide) in paragraph at lines 166--167
+Overfull \hbox (4.36966pt too wide) in paragraph at lines 178--179
 []|\T1/ppl/m/n/10.95 [[][]19[][]]|  
  []
 
 
-Overfull \hbox (4.36966pt too wide) in paragraph at lines 167--168
+Overfull \hbox (4.36966pt too wide) in paragraph at lines 179--180
 []|\T1/ppl/m/n/10.95 [[][]20[][]]|  
  []
 
 
-Overfull \hbox (4.36966pt too wide) in paragraph at lines 168--169
+Overfull \hbox (4.36966pt too wide) in paragraph at lines 180--181
 []|\T1/ppl/m/n/10.95 [[][]21[][]]|  
  []
 
 
-Overfull \hbox (4.36966pt too wide) in paragraph at lines 169--170
+Overfull \hbox (4.36966pt too wide) in paragraph at lines 181--182
 []|\T1/ppl/m/n/10.95 [[][]22[][]]|  
  []
 
 
-Overfull \hbox (4.36966pt too wide) in paragraph at lines 170--171
+Overfull \hbox (4.36966pt too wide) in paragraph at lines 182--183
 []|\T1/ppl/m/n/10.95 [[][]23[][]]|  
  []
 
 
-Overfull \hbox (4.36966pt too wide) in paragraph at lines 171--172
+Overfull \hbox (4.36966pt too wide) in paragraph at lines 183--184
 []|\T1/ppl/m/n/10.95 [[][]24[][]]|  
  []
 
 
-Overfull \hbox (2.65648pt too wide) in paragraph at lines 138--176
+Overfull \hbox (2.65648pt too wide) in paragraph at lines 150--188
 [][] 
  []
 
@@ -2016,24 +2016,25 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 47423 strings out of 492946
- 977479 string characters out of 3126267
- 1354614 words of memory out of 3000000
+ 47424 strings out of 492946
+ 977485 string characters out of 3126267
+ 1357614 words of memory out of 3000000
  50681 multiletter control sequences out of 15000+200000
- 569321 words of font info for 84 fonts, out of 3000000 for 9000
+ 569578 words of font info for 85 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  64i,19n,83p,2159b,3012s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\oskat\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\
 ectt1095.pk>{C:/Users/oskat/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/b
 ase/8r.enc}<C:/Users/oskat/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public
-/mathpazo/fplmri.pfb><C:/Users/oskat/AppData/Local/Programs/MiKTeX 2.9/fonts/ty
-pe1/urw/palatino/uplb8a.pfb><C:/Users/oskat/AppData/Local/Programs/MiKTeX 2.9/f
-onts/type1/urw/palatino/uplr8a.pfb><C:/Users/oskat/AppData/Local/Programs/MiKTe
-X 2.9/fonts/type1/urw/palatino/uplr8a.pfb><C:/Users/oskat/AppData/Local/Program
-s/MiKTeX 2.9/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on main.pdf (10 pages, 149067 bytes).
+/amsfonts/cm/cmsy10.pfb><C:/Users/oskat/AppData/Local/Programs/MiKTeX 2.9/fonts
+/type1/public/mathpazo/fplmri.pfb><C:/Users/oskat/AppData/Local/Programs/MiKTeX
+ 2.9/fonts/type1/urw/palatino/uplb8a.pfb><C:/Users/oskat/AppData/Local/Programs
+/MiKTeX 2.9/fonts/type1/urw/palatino/uplr8a.pfb><C:/Users/oskat/AppData/Local/P
+rograms/MiKTeX 2.9/fonts/type1/urw/palatino/uplr8a.pfb><C:/Users/oskat/AppData/
+Local/Programs/MiKTeX 2.9/fonts/type1/urw/palatino/uplri8a.pfb>
+Output written on main.pdf (10 pages, 157291 bytes).
 PDF statistics:
- 282 PDF objects out of 1000 (max. 8388607)
+ 286 PDF objects out of 1000 (max. 8388607)
  42 named destinations out of 1000 (max. 500000)
  34 words of extra memory for PDF output out of 10000 (max. 10000000)
 
