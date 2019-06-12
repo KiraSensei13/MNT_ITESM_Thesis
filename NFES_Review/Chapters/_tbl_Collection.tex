@@ -1,7 +1,7 @@
 % Chapter Template
 
-\begin{landscape}
-\pagebreak[4]\global\pdfpageattr\expandafter{\the\pdfpageattr/Rotate 90}
+%\begin{landscape}
+%\pagebreak[4]\global\pdfpageattr\expandafter{\the\pdfpageattr/Rotate 90}
 
 \chapter{Summary} % Main chapter title
 
@@ -9,6 +9,64 @@
 
 %\subsubsection*{\color{mygray}[Chapter under work]}
 %Once the Methodology has been established, it is important to set up the corresponding activities in an organized and timely manner. This is done using a Workplan Schedule. This provides us a clear idea of the amount of work needed expressed in periods of time.
+
+\begin{table}[th]
+\caption{Electrospun Polymer Solutions - Solution and Process Parameters}
+%\begin{center}
+% total table width eq 0.91\textheight = 100%
+\begin{tabular}{
+>{\raggedright\arraybackslash}p{0.28\textwidth}
+>{\raggedright\arraybackslash}p{0.72\textwidth} }
+
+\hline
+Polymer(s): &
+Poly(ethylene oxide) (PEO) \\
+
+\arrayrulecolor{lightgray}\hline
+Solvent(s): &
+Deionized water \\
+
+\hline
+NFES Variant: &
+Low-Voltage NFES \\
+
+\hline
+Polymer Solution and Process Properties: &
+\begin{itemize}[leftmargin=*]
+\item PEO Concentration: 1, 2, and 3 $w t \%$
+\item Rise in solution conductivity with the increase in PEO concentration
+\item Solution Stirring: 24 $h$ of free diffusion followed by 96 $h$ of stirring at 30 $r p m$
+\item 3 $m L$ syringe
+\item 27 gauge type 304 stainless steel needle
+\item Solution deposition rate: lower than 1 $\mu L / h$
+\item needle-to-collector distance: 1 $m m$
+\item Collector substrate: Pyrolyzed SU-8 carbon and Si
+\item NFES process initiated by an air interference with a glass microprobe tip (1 to 3 $\mu m$ tip diameter) to overcome the surface tension
+\item Time to produce a stable continuous jet: 45 $min$
+\item Polymer jet initiated at 400-600 $V$ and dispensed at 200-400 $V$
+\item Collector linear speed: 10-40 $m m / s$
+\item The voltage turned on when the solution formed a full-sized droplet of 500 $\mu m$ diameter at the needle tip.
+\end{itemize} \\
+
+\hline
+Fiber Characterization: &
+\begin{itemize}[leftmargin=*]
+\item Diameter: 50-425 $n m$
+\end{itemize} \\
+
+\hline
+Ref: & \cite{Bisht2011} \\ %Controlled Continuous Patterning of Polymeric Nanofibers on Three-Dimensional Substrates Using Low-Voltage Near-Field Electrospinning
+\arrayrulecolor{black}\hline
+\label{tbl:FloresCompare}
+\end{tabular}
+%\end{center}
+\end{table}
+
+
+
+
+\begin{landscape}
+\pagebreak[4]\global\pdfpageattr\expandafter{\the\pdfpageattr/Rotate 90}
 
 % move margin to fit table
 %\addtolength{\oddsidemargin}{-1.5in}
@@ -31,7 +89,7 @@ Polymer(s) & Solvent(s) & NFES Variant & Polymer Solution and Process Properties
 \hline
 Poly(ethylene oxide) (PEO) &
 Deionized water &
-Mechano electrospinning &
+Low-Voltage NFES &
 \begin{itemize}[leftmargin=*]
 \item PEO Concentration: 1, 2, and 3 $w t \%$
 \item Rise in solution conductivity with the increase in PEO concentration
@@ -73,7 +131,7 @@ Polymer(s) & Solvent(s) & NFES Variant & Polymer Solution and Process Properties
 \hline
 Poly[2-methoxy-5-(2-ethylhexyloxy)-1,4-phenylenevinylene] (MEH-PPV) with Poly(ethylene oxide) (PEO) &
 acetonitrile / toluene mixture (65 / 35); acetic acid / toluene (17 / 83); pure toluene &
-Mechano electrospinning &
+\emph{Not determined.} &
 \begin{itemize}[leftmargin=*]
 \item Concentrations:
     \begin{itemize}[leftmargin=*]
@@ -117,7 +175,7 @@ Polymer(s) & Solvent(s) & NFES Variant & Polymer Solution and Process Properties
 \hline
 Poly(ethylene oxide) (PEO) &
 Water &
-Mechano electrospinning &
+Scanning Tip Electrospinning and NFES &
 \begin{itemize}[leftmargin=*]
 \item 7 wt \% PEO aqueous solution
 \item Under room temperature at 1 $atm$
@@ -161,13 +219,60 @@ Poly($\varepsilon$-Caprolactone) (PCL) &
 Melt Electrospinning Writing (MEW) &
 \begin{itemize}[leftmargin=*]
 \item Collector substrate: NCO-sP(EO-stat-PO)-coated glass slide surfaces
-\item fibre diameters are between 5 and 30 $\mu m$
+\item Accelerating voltage 2.0–10.0 $k V$
+\item Collector distance: 1–10 $m m$
+\item Heating temperature: 80–120 $^\circ C$
+\item Feeding air pressure 0.5–4.0 $bar$
+\item Spinneret diameters: 21, 23, 25, 27, 30, and 33 $G$
+\item Axis velocity: 1000–9000 $m m / min$
+\item Fibre spacing: 100 $\mu m$
 \end{itemize} &
 \begin{itemize}[leftmargin=*]
-\item 1
-\item 2
+\item Filament surface is smooth and homogeneous
+\item The crystalline regions formed perpendicular to the filament
+\item Fiber diameter: 817 $\pm$ 165 $n m$
 \end{itemize} &
 \cite{Dalton2015}  \\ % Additive manufacturing of scaffolds with sub-micron filaments via melt electrospinning writing Related content Patterned melt electrospun substrates for tissue engineering
+\hline
+\label{tbl:FloresCompare}
+\end{tabular}
+%\end{center}
+\end{table}
+
+\begin{table}[th]
+\caption{Electrospun Polymer Solutions - Solution and Process Parameters}
+%\begin{center}
+% total table width eq 0.91\textheight = 100%
+\begin{tabular}{
+>{\raggedright\arraybackslash}p{0.130\textheight}
+>{\raggedright\arraybackslash}p{0.130\textheight}
+>{\raggedright\arraybackslash}p{0.090\textheight}
+>{\raggedright\arraybackslash}p{0.350\textheight}
+>{\raggedright\arraybackslash}p{0.180\textheight}
+>{\raggedright\arraybackslash}p{0.020\textheight} }  
+\hline
+Polymer(s) & Solvent(s) & NFES Variant & Polymer Solution and Process Properties & Fiber Characterization & Ref. \\
+\hline
+Poly(vinylidine fluorid) (PVDF) &
+N,N-dimethylformamide (DMF) &
+Helix Electrohydrodynamic Printing (HE-printing) &
+\begin{itemize}[leftmargin=*]
+\item 1.8 $g$ PVDF in 4.1 $g$ of DMF and 4.1 $g$ of acetone to obtain a concentration of 18\%
+\item Solution kept at 35 $^\circ C$ for about 6 $h$ until the solution was homogeneous.
+\item Collector substrate: Poly(dimethylsiloxane) (PDMS) on Ecoflex
+\item Solution feed rate: 400 $n L / min$
+\item Needle diameter: inner 260 $\mu m$; external 510 $\mu m$
+\item Applied voltage: 1.5–3 $k V$
+\item Nozzle-to-collector distance: 10-50 $m m$
+\item x-y stage velocity: 0-400 $m m / min$
+\item At room temperature and 35–45\% humidity
+\end{itemize} &
+\begin{itemize}[leftmargin=*]
+\item Stretchable serpentine structures with specific wavelength and amplitude.
+\item Wavelength: about 100-2000 $\mu m$
+\item Fiber diameter: about 1.5-3 $\mu m$
+\end{itemize} &
+\cite{Duan2017}    \\ %Helix Electrohydrodynamic Printing of Highly Aligned Serpentine Micro/Nanofibers.
 \hline
 \label{tbl:FloresCompare}
 \end{tabular}
@@ -193,7 +298,7 @@ Polymer(s) & Solvent(s) & NFES Variant & Polymer Solution and Process Properties
 % &  &  &  &  & \cite{Camillo2013} \\ %Near-field electrospinning of conjugated polymer light-emitting nanofibers
 % &  &  &  &  & \cite{Chang2008}   \\ %Continuous near-field electrospinning for large area deposition of orderly nanofiber patterns
 % &  &  &  &  & \cite{Dalton2015}  \\ % Additive manufacturing of scaffolds with sub-micron filaments via melt electrospinning writing Related content Patterned melt electrospun substrates for tissue engineering
- &  &  &  &  & \cite{Duan2017}    \\ %Helix Electrohydrodynamic Printing of Highly Aligned Serpentine Micro/Nanofibers.
+% &  &  &  &  & \cite{Duan2017}    \\ %Helix Electrohydrodynamic Printing of Highly Aligned Serpentine Micro/Nanofibers.
  &  &  &  &  & \cite{Gupta2007}   \\ %Novel Electrohydrodynamic Printing of Nanocomposite Biopolymer Scaffolds
  &  &  &  &  & \cite{Huang2015}   \\ %Versatile, kinetically controlled, high precision electrohydrodynamic writing of micro/nanofibers
  &  &  &  &  & \cite{Jiang2018}   \\ %Electrohydrodynamic Direct-Writing Micropatterns with Assisted Airflow
