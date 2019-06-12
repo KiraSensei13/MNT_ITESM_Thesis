@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.6960 64-bit) (preloaded format=pdflatex 2019.2.1)  12 JUN 2019 15:10
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.6960 64-bit) (preloaded format=pdflatex 2019.2.1)  12 JUN 2019 15:17
 entering extended mode
 **./main.tex
 (main.tex
@@ -1832,11 +1832,16 @@ Underfull \hbox (badness 10000) in paragraph at lines 262--263
 Chapter 1.
 LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <24.88> not available
 (Font)              Font shape `T1/ppl/b/n' tried instead on input line 6.
-LaTeX Font Info:    Try loading font information for TS1+ppl on input line 35.
+LaTeX Font Info:    Try loading font information for TS1+ppl on input line 36.
 ("C:\Users\oskat\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\ts1ppl.fd"
 File: ts1ppl.fd 2001/06/04 font definitions for TS1/ppl.
 )
-Overfull \hbox (23.99998pt too wide) in paragraph at lines 17--63
+Overfull \hbox (23.99998pt too wide) in paragraph at lines 18--64
+[][] 
+ []
+
+
+Overfull \hbox (23.99998pt too wide) in paragraph at lines 72--120
 [][] 
  []
 
@@ -1845,152 +1850,129 @@ Overfull \hbox (23.99998pt too wide) in paragraph at lines 17--63
 
 
 
-]
-Overfull \hbox (5.07034pt too wide) in paragraph at lines 88--89
+] [2]
+Overfull \hbox (5.07034pt too wide) in paragraph at lines 143--144
 []|\T1/ppl/m/n/10.95 Ref.|  
  []
 
 
-Overfull \hbox (2.65648pt too wide) in paragraph at lines 80--116
+Overfull \hbox (2.65648pt too wide) in paragraph at lines 135--170
 [][] 
  []
 
 
-Overfull \hbox (5.07034pt too wide) in paragraph at lines 130--131
+Overfull \hbox (5.07034pt too wide) in paragraph at lines 184--185
 []|\T1/ppl/m/n/10.95 Ref.|  
  []
 
 
-Overfull \hbox (6.07986pt too wide) in paragraph at lines 132--132
-\T1/ppl/m/n/10.95 phenylenevinylene] 
- []
-
-
-Overfull \hbox (2.65648pt too wide) in paragraph at lines 122--160
+Overfull \hbox (2.65648pt too wide) in paragraph at lines 176--209
 [][] 
  []
 
 
-Overfull \hbox (5.07034pt too wide) in paragraph at lines 174--175
+Overfull \hbox (5.07034pt too wide) in paragraph at lines 223--224
 []|\T1/ppl/m/n/10.95 Ref.|  
  []
 
 
-Overfull \hbox (2.65648pt too wide) in paragraph at lines 166--201
-[][] 
- []
-
-
-Overfull \hbox (5.07034pt too wide) in paragraph at lines 215--216
-[]|\T1/ppl/m/n/10.95 Ref.|  
- []
-
-
-Overfull \hbox (2.65648pt too wide) in paragraph at lines 207--240
-[][] 
- []
-
-
-Overfull \hbox (5.07034pt too wide) in paragraph at lines 254--255
-[]|\T1/ppl/m/n/10.95 Ref.|  
- []
-
-
-Overfull \hbox (7.73367pt too wide) in paragraph at lines 257--257
+Overfull \hbox (7.73367pt too wide) in paragraph at lines 226--226
 \T1/ppl/m/n/10.95 dimethylformamide 
  []
 
 
-Overfull \hbox (2.65648pt too wide) in paragraph at lines 246--280
+Overfull \hbox (2.65648pt too wide) in paragraph at lines 215--249
 [][] 
  []
 
 
-Overfull \hbox (5.07034pt too wide) in paragraph at lines 295--296
+Overfull \hbox (5.07034pt too wide) in paragraph at lines 264--265
 []|\T1/ppl/m/n/10.95 Ref.|  
  []
 
 
-Overfull \hbox (4.36966pt too wide) in paragraph at lines 306--307
+Overfull \hbox (4.36966pt too wide) in paragraph at lines 275--276
 []|\T1/ppl/m/n/10.95 [[][]10[][]]|  
  []
 
 
-Overfull \hbox (4.36966pt too wide) in paragraph at lines 307--308
+Overfull \hbox (4.36966pt too wide) in paragraph at lines 276--277
 []|\T1/ppl/m/n/10.95 [[][]11[][]]|  
  []
 
 
-Overfull \hbox (4.36966pt too wide) in paragraph at lines 308--309
+Overfull \hbox (4.36966pt too wide) in paragraph at lines 277--278
 []|\T1/ppl/m/n/10.95 [[][]12[][]]|  
  []
 
 
-Overfull \hbox (4.36966pt too wide) in paragraph at lines 309--310
+Overfull \hbox (4.36966pt too wide) in paragraph at lines 278--279
 []|\T1/ppl/m/n/10.95 [[][]14[][]]|  
  []
 
 
-Overfull \hbox (4.36966pt too wide) in paragraph at lines 310--311
+Overfull \hbox (4.36966pt too wide) in paragraph at lines 279--280
 []|\T1/ppl/m/n/10.95 [[][]13[][]]|  
  []
 
 
-Overfull \hbox (4.36966pt too wide) in paragraph at lines 311--312
+Overfull \hbox (4.36966pt too wide) in paragraph at lines 280--281
 []|\T1/ppl/m/n/10.95 [[][]15[][]]|  
  []
 
 
-Overfull \hbox (4.36966pt too wide) in paragraph at lines 312--313
+Overfull \hbox (4.36966pt too wide) in paragraph at lines 281--282
 []|\T1/ppl/m/n/10.95 [[][]16[][]]|  
  []
 
 
-Overfull \hbox (4.36966pt too wide) in paragraph at lines 313--314
+Overfull \hbox (4.36966pt too wide) in paragraph at lines 282--283
 []|\T1/ppl/m/n/10.95 [[][]17[][]]|  
  []
 
 
-Overfull \hbox (4.36966pt too wide) in paragraph at lines 314--315
+Overfull \hbox (4.36966pt too wide) in paragraph at lines 283--284
 []|\T1/ppl/m/n/10.95 [[][]18[][]]|  
  []
 
 
-Overfull \hbox (4.36966pt too wide) in paragraph at lines 315--316
+Overfull \hbox (4.36966pt too wide) in paragraph at lines 284--285
 []|\T1/ppl/m/n/10.95 [[][]19[][]]|  
  []
 
 
-Overfull \hbox (4.36966pt too wide) in paragraph at lines 316--317
+Overfull \hbox (4.36966pt too wide) in paragraph at lines 285--286
 []|\T1/ppl/m/n/10.95 [[][]20[][]]|  
  []
 
 
-Overfull \hbox (4.36966pt too wide) in paragraph at lines 317--318
+Overfull \hbox (4.36966pt too wide) in paragraph at lines 286--287
 []|\T1/ppl/m/n/10.95 [[][]21[][]]|  
  []
 
 
-Overfull \hbox (4.36966pt too wide) in paragraph at lines 318--319
+Overfull \hbox (4.36966pt too wide) in paragraph at lines 287--288
 []|\T1/ppl/m/n/10.95 [[][]22[][]]|  
  []
 
 
-Overfull \hbox (4.36966pt too wide) in paragraph at lines 319--320
+Overfull \hbox (4.36966pt too wide) in paragraph at lines 288--289
 []|\T1/ppl/m/n/10.95 [[][]23[][]]|  
  []
 
 
-Overfull \hbox (4.36966pt too wide) in paragraph at lines 320--321
+Overfull \hbox (4.36966pt too wide) in paragraph at lines 289--290
 []|\T1/ppl/m/n/10.95 [[][]24[][]]|  
  []
 
 
-Overfull \hbox (2.65648pt too wide) in paragraph at lines 287--325
+Overfull \hbox (2.65648pt too wide) in paragraph at lines 256--294
 [][] 
  []
 
-[2] [3] [4] [5] [6] [7])
+[3
+
+] [4] [5] [6])
 LaTeX Font Info:    Try loading font information for T1+cmtt on input line 322.
 
 
@@ -2003,8 +1985,7 @@ n-ing of Poly-meric Nanofibers
  []
 
 1: section
-[8
-
+[7
 
 
 
@@ -2026,7 +2007,7 @@ Overfull \hbox (19.59071pt too wide) in paragraph at lines 322--322
 10.95 AIP Ad-vances \T1/ppl/m/n/10.95 7.3 (Mar. 2017), p. 035310.
  []
 
-[9]
+[8]
 Overfull \hbox (9.7188pt too wide) in paragraph at lines 322--322
 \T1/ppl/m/n/10.95 Field Elec-tro-spin-ning. In: \T1/ppl/m/it/10.95 In-ter-na-t
 ional Work-shop on Mi-cro-fac-to-ries \T1/ppl/m/n/10.95 IWMF2014.9th
@@ -2044,7 +2025,7 @@ Overfull \hbox (34.3205pt too wide) in paragraph at lines 322--322
 ite Or-derly Mi-cro/Nanofibrous
  []
 
-[10]
+[9]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 339.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 339.
  (main.aux (Chapters/_tbl_Collection.aux))
@@ -2061,9 +2042,9 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 47477 strings out of 492946
- 978229 string characters out of 3126267
- 1365930 words of memory out of 3000000
+ 47475 strings out of 492946
+ 978206 string characters out of 3126267
+ 1356912 words of memory out of 3000000
  50723 multiletter control sequences out of 15000+200000
  570076 words of font info for 87 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -2077,9 +2058,9 @@ ase/8r.enc}<C:/Users/oskat/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public
 /MiKTeX 2.9/fonts/type1/urw/palatino/uplr8a.pfb><C:/Users/oskat/AppData/Local/P
 rograms/MiKTeX 2.9/fonts/type1/urw/palatino/uplr8a.pfb><C:/Users/oskat/AppData/
 Local/Programs/MiKTeX 2.9/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on main.pdf (12 pages, 163860 bytes).
+Output written on main.pdf (11 pages, 161601 bytes).
 PDF statistics:
- 299 PDF objects out of 1000 (max. 8388607)
- 47 named destinations out of 1000 (max. 500000)
+ 293 PDF objects out of 1000 (max. 8388607)
+ 45 named destinations out of 1000 (max. 500000)
  34 words of extra memory for PDF output out of 10000 (max. 10000000)
 
