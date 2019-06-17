@@ -1,4 +1,4 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{10}
 \expandafter\ifx\csname url\endcsname\relax
   \def\url#1{\texttt{#1}}\fi
 \expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
@@ -58,5 +58,72 @@ J.~Kim, B.~Maeng, J.~Park, {Characterization of 3D electrospinning on inkjet
   (2018) 12.
 \newblock \href {https://doi.org/10.1186/s40486-018-0074-1}
   {\path{doi:10.1186/s40486-018-0074-1}}.
+
+\bibitem{527120:11974316}
+S.-Y. Min, T.-S. Kim, B.~J. Kim, H.~Cho, Y.-Y. Noh, H.~Yang, J.~H. Cho, T.-W.
+  Lee, {Large-scale organic nanowire lithography and electronics}, {Nature
+  Communications} 4~(1) (2013) 1773.
+\newblock \href {https://doi.org/10.1038/ncomms2785}
+  {\path{doi:10.1038/ncomms2785}}.
+
+\bibitem{527120:11974320}
+C.~Song, J.~A. Rogers, J.-M. Kim, H.~Ahn, {Patterned polydiacetylene-embedded
+  polystyrene nanofibers based on electrohydrodynamic jet printing},
+  {Macromolecular Research} 23~(1) (2015) 118--123.
+\newblock \href {https://doi.org/10.1007/s13233-015-3024-2}
+  {\path{doi:10.1007/s13233-015-3024-2}}.
+
+\bibitem{527120:11974321}
+D.~Sun, C.~Chang, S.~Li, L.~Lin, {Near-Field Electrospinning} (2006).
+\newblock \href {https://doi.org/10.1021/nl0602701}
+  {\path{doi:10.1021/nl0602701}}.
+
+\bibitem{527120:11974322}
+H.~Wang, S.~Huang, F.~Liang, P.~Wu, M.~Li, S.~Lin, X.~Chen, {Research on
+  Multinozzle Near-Field Electrospinning Patterned Deposition}, {Journal of
+  Nanomaterials} 2015 (2015) 1--8.
+\newblock \href {https://doi.org/10.1155/2015/529138}
+  {\path{doi:10.1155/2015/529138}}.
+
+\bibitem{527120:11974323}
+Z.~Wang, X.~Chen, J.~Zeng, F.~Liang, P.~Wu, H.~Wang, {Controllable deposition
+  distance of aligned pattern via dual-nozzle near-field electrospinning}, {AIP
+  Advances} 7~(3) (2017) 035310.
+\newblock \href {https://doi.org/10.1063/1.4974936}
+  {\path{doi:10.1063/1.4974936}}.
+
+\bibitem{527120:11974324}
+Z.~Wang, X.~Chen, J.~Zhang, Y.-J. Lin, K.~Li, J.~Zeng, P.~Wu, Y.~He, Y.~Li,
+  H.~Wang, {Fabrication and evaluation of controllable deposition distance for
+  aligned pattern by multi-nozzle near-field electrospinning}, {AIP Advances}
+  8~(7) (2018) 075111.
+\newblock \href {https://doi.org/10.1063/1.5032082}
+  {\path{doi:10.1063/1.5032082}}.
+
+\bibitem{527120:11974325}
+J.~Xu, M.~Abecassis, Z.~Zhang, P.~Guo, J.~Huang, K.~Ehmann, J.~Cao, {Accuracy
+  Improvement of Nano-fiber Deposition by Near-Field Electrospinning},
+  {International Workshop on Microfactories} IWMF2014~(9th) (2014).
+
+\bibitem{527120:11974326}
+N.~Xue, X.~Li, C.~Bertulli, Z.~Li, A.~Patharagulpong, A.~Sadok, Y.~Y.~S. Huang,
+  {Rapid Patterning of 1-D Collagenous Topography as an ECM Protein Fibril
+  Platform for Image Cytometry}, {PLoS ONE} 9~(4) (2014) e93590.
+\newblock \href {https://doi.org/10.1371/journal.pone.0093590}
+  {\path{doi:10.1371/journal.pone.0093590}}.
+
+\bibitem{527120:11974327}
+G.~Zheng, W.~Li, X.~Wang, D.~Wu, D.~Sun, L.~Lin, {Precision deposition of a
+  nanofibre by near-field electrospinning}, {Journal of Physics D: Applied
+  Physics} 43~(41) (2010) 415501.
+\newblock \href {https://doi.org/10.1088/0022-3727/43/41/415501}
+  {\path{doi:10.1088/0022-3727/43/41/415501}}.
+
+\bibitem{527120:11974328}
+J.-Y. Zheng, H.-Y. Liu, X.~Wang, Y.~Zhao, W.-W. Huang, G.-F. Zheng, D.-H. Sun,
+  {Electrohydrodynamic Direct-Write Orderly Micro/Nanofibrous Structure on
+  Flexible Insulating Substrate}, {Journal of Nanomaterials} 2014 (2014) 1--7.
+\newblock \href {https://doi.org/10.1155/2014/708186}
+  {\path{doi:10.1155/2014/708186}}.
 
 \end{thebibliography}
