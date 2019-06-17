@@ -1,0 +1,62 @@
+\begin{thebibliography}{1}
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{\texttt{#1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+\expandafter\ifx\csname href\endcsname\relax
+  \def\href#1#2{#2} \def\path#1{#1}\fi
+
+\bibitem{527120:11973130}
+G.~S. Bisht, G.~Canton, A.~Mirsepassi, L.~Kulinsky, S.~Oh, D.~Dunn-Rankin,
+  M.~J. Madou, {Controlled Continuous Patterning of Polymeric Nanofibers on
+  Three-Dimensional Substrates Using Low-Voltage Near-Field Electrospinning},
+  {Nano Letters} 11~(4) (2011) 1831--1837.
+\newblock \href {https://doi.org/10.1021/nl2006164}
+  {\path{doi:10.1021/nl2006164}}.
+
+\bibitem{527120:11974305}
+D.~D. Camillo, V.~Fasano, F.~Ruggieri, S.~Santucci, L.~Lozzi, A.~Camposeo,
+  D.~Pisignano, {Near-field electrospinning of conjugated polymer
+  light-emitting nanofibers}, {Nanoscale} 5 (2013) 11637--11642.
+\newblock \href {https://doi.org/10.1039/C3NR03094F}
+  {\path{doi:10.1039/C3NR03094F}}.
+
+\bibitem{527120:11974306}
+C.~Chang, K.~Limkrailassiri, L.~Lin, {Continuous near-field electrospinning for
+  large area deposition of orderly nanofiber patterns}, {Appl Phys Lett} (2008)
+  3\href {https://doi.org/10.1063/1.2975834} {\path{doi:10.1063/1.2975834}}.
+
+\bibitem{527120:11974308}
+Y.~Duan, Y.~Ding, Z.~Xu, Y.~Huang, Z.~Yin, {Helix Electrohydrodynamic Printing
+  of Highly Aligned Serpentine Micro/Nanofibers.}, {Polymers} 9~(9) (sep 2017).
+\newblock \href {https://doi.org/10.3390/polym9090434}
+  {\path{doi:10.3390/polym9090434}}.
+
+\bibitem{527120:11974310}
+A.~Gupta, A.~M. Seifalian, Z.~Ahmad, M.~J. Edirisinghe, M.~C. Winslet, {Novel
+  Electrohydrodynamic Printing of Nanocomposite Biopolymer Scaffolds}, {Journal
+  of BIOACTIVE AND COMPATIBLE POLYMERS} 22 (2007).
+\newblock \href {https://doi.org/10.1177/0883911507078268}
+  {\path{doi:10.1177/0883911507078268}}.
+
+\bibitem{527120:11974311}
+Y.~Huang, Y.~Duan, Y.~Ding, N.~Bu, Y.~Pan, N.~Lu, Z.~Yin, {Versatile,
+  kinetically controlled, high precision electrohydrodynamic writing of
+  micro/nanofibers}, {Scientific Reports} 4~(1) (2015) 5949.
+\newblock \href {https://doi.org/10.1038/srep05949}
+  {\path{doi:10.1038/srep05949}}.
+
+\bibitem{527120:11974312}
+J.~Jiang, X.~Wang, W.~Li, J.~Liu, Y.~Liu, G.~Zheng, J.~Jiang, X.~Wang, W.~Li,
+  J.~Liu, Y.~Liu, G.~Zheng, {Electrohydrodynamic Direct-Writing Micropatterns
+  with Assisted Airflow}, {Micromachines} 9~(9) (2018) 456.
+\newblock \href {https://doi.org/10.3390/mi9090456}
+  {\path{doi:10.3390/mi9090456}}.
+
+\bibitem{527120:11974313}
+J.~Kim, B.~Maeng, J.~Park, {Characterization of 3D electrospinning on inkjet
+  printed conductive pattern on paper}, {Micro and Nano Systems Letters} 6~(1)
+  (2018) 12.
+\newblock \href {https://doi.org/10.1186/s40486-018-0074-1}
+  {\path{doi:10.1186/s40486-018-0074-1}}.
+
+\end{thebibliography}
