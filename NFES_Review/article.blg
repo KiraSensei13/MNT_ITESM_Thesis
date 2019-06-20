@@ -5,45 +5,45 @@ The style file: elsarticle-num.bst
 Database file #1: article.bib
 Warning--empty journal in 527120:11974321
 Warning--empty journal in 527120:11974304
-You've used 23 entries,
+You've used 31 entries,
             2952 wiz_defined-function locations,
-            823 strings with 11027 characters,
-and the built_in function-call counts, 7846 in all, are:
-= -- 677
-> -- 452
+            879 strings with 12659 characters,
+and the built_in function-call counts, 10341 in all, are:
+= -- 915
+> -- 538
 < -- 0
-+ -- 166
-- -- 143
-* -- 721
-:= -- 1198
-add.period$ -- 44
-call.type$ -- 23
-change.case$ -- 23
++ -- 200
+- -- 169
+* -- 935
+:= -- 1533
+add.period$ -- 60
+call.type$ -- 31
+change.case$ -- 30
 chr.to.int$ -- 0
-cite$ -- 25
-duplicate$ -- 184
-empty$ -- 733
-format.name$ -- 166
-if$ -- 1910
+cite$ -- 33
+duplicate$ -- 245
+empty$ -- 1009
+format.name$ -- 198
+if$ -- 2554
 int.to.chr$ -- 0
-int.to.str$ -- 23
-missing$ -- 23
-newline$ -- 98
-num.names$ -- 23
-pop$ -- 101
+int.to.str$ -- 31
+missing$ -- 31
+newline$ -- 130
+num.names$ -- 31
+pop$ -- 143
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 458
+skip$ -- 615
 stack$ -- 0
-substring$ -- 285
-swap$ -- 67
+substring$ -- 417
+swap$ -- 90
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 2
-while$ -- 41
-width$ -- 25
-write$ -- 234
+while$ -- 55
+width$ -- 33
+write$ -- 312
 (There were 2 warnings)
