@@ -168,6 +168,8 @@
 
 \usepackage{longtable}
 
+\usepackage{float}
+
 \makeatletter
 \AtBeginDocument{\@ifpackageloaded{rotating}{\PassOptionsToPackage{figuresright}{rotating}}{\usepackage[figuresright]{rotating}}\setlength{\rotFPtop}{0pt plus 1fil}\setlength{\rotFPbot}{0pt plus 1fil}}
 \makeatother
@@ -213,10 +215,34 @@ Near-field electrospinning (NFES) is identified to be a technique able to fabric
 \section{Introduction}
 Even though electrospinning is an old invention \unskip~\cite{527120:12073288}, it is currently a trending topic among researchers \unskip~\cite{527120:12073453,527120:12073495,527120:12073496}. One of the reasons electrospinning is to be studied is its potential to fabricate polymer nano-fibers from a variety of polymers. The technique allows the production of thin continuous fibers with ease, with diameters down to 3 nm in some cases, which is something difficult to achieve by other techniques. Furthermore, the basic setup can be modified with ease to fabricate different fibers with diversified functionalities with different materials. The produced fibers can be aligned or unaligned. Besides, the electrospinning equipment is inexpensive and of small size, compared to the equipment of standard spinning techniques. On the other hand, the understanding of the electrospinning process has improved in the last years \unskip~\cite{527120:12073538}.
 
-The main components of the electrospinning technique are the fluid control unit (e.g. syringe pump) and a voltage power supply. The process also requires a target electrode or combination of electrodes on which the fibers can be collected. Figure 6.2 describes a typical electrospinning set-up \unskip~\cite{527120:12073538}. Two sub-techniques can be derived from electrospinning depending on the distance between the dispensing electrode and the collector. The process in which the electrospun jet can be controlled near the tip is called NFES or near-field electrospinning \unskip~\cite{527120:12033655}. Moreover, if the distance between the collector and the dispensing needle is greater, the configuration is known as FFES or far-field electrospinning \unskip~\cite{527120:12073581}. Near-field electrospinning is considered to be an outstanding technique to fabricate polymer fibers with spatial control. NFES has suffered several modifications to improve the precision and accuracy of the fiber deposition. 
+The main components of the electrospinning technique are the fluid control unit (e.g. syringe pump) and a voltage power supply. The process also requires a target electrode or combination of electrodes on which the fibers can be collected.  Figure~\ref{f-fe28447572e9} describes a typical near-field electrospinning set-up \unskip~\cite{527120:12073538}. Two sub-techniques can be derived from electrospinning depending on the distance between the dispensin g electrode and the collector. The process in which the electrospun jet can be controlled near the tip is called NFES or near-field electrospinning \unskip~\cite{527120:12033655}. Moreover, if the distance between the collector and the dispensing needle is greater, the configuration is known as FFES or far-field electrospinning \unskip~\cite{527120:12073581}. Near-field electrospinning is considered to be an outstanding technique to fabricate polymer fibers with spatial control and it has suffered several modifications to improve the precision and accuracy of the fiber deposition. This paper intents to collect the NFES variants of electrospunable polymer solutions with spatial control in recent research.
+
+
+\bgroup
+\fixFloatSize{images/596d6818-a246-493e-bea0-03f815ab8ff8-unfes.jpg}
+\begin{figure*}[!htbp]
+\centering \makeatletter\IfFileExists{images/596d6818-a246-493e-bea0-03f815ab8ff8-unfes.jpg}{\includegraphics{images/596d6818-a246-493e-bea0-03f815ab8ff8-unfes.jpg}}{}
+\makeatother 
+\caption{{Typical near-field electrospinning set-up \unskip~\protect\cite{527120:11973130} .}}
+\label{f-fe28447572e9}
+\end{figure*}
+\egroup
+
     
-\section{NFES}
-\unskip~\cite{527120:11973130}
+\section{NFES articles' summary}
+The key advance that allows for lowering of the voltage and attendant increase in patterning control ofNFES is the use of a superelastic polymer ink. Solutions of such a polymer ink contain long entangled polymer chains that promote stretchability and are expected to augment continuity of the electrospun jets. This facilitates the continuous electrospinning of the polymer jet into nanofiber. 
+
+The polymer jet does not self-initiate under the influence of the voltage because the electrostatic force cannot overcome the surface tension at the droplet - air interface. Therefore, the electrospinning process was initiated by introducing an artificial instability at the droplet - air interface with a glass microprobe tip (1 to 3 \ensuremath{\mu }m tip diameter) that resulted in a very high local electric field, sufficient to overcome the interfacial surface tension, giving rise to the formation of the Taylor cone and initiation of the polymer jet.
+
+Therefore, we believe that 2 wt \% PEO solution has the proper balance of viscosity, conductivity, and resistance to hardening that allows for low-voltage continuous electrospinning.
+
+At 300 Vand lower, the perturbation phenomenon was eliminated and straight deposition patterns were obtained (as seen in Figure 4c,d). This could be achieved with slow stage speeds (20-40 mm/s) clearly demonstrating that the low-voltage NFES technique substantially reduces bending instabilities
+
+Another advantage oflower voltage operation lies in reduction of the diameter of the jet, leading to thinner nanofibers. This is most likely due to the lower electrostatic forces at play that reduce the feed rate of the polymer, thus reducing jet thickness. Therefore, the voltage can be manipulated to directly control the thickness of the nanofibers
+
+Further investigation into the effect of voltage on the thickness \mbox{}\protect\newline of nanofibers reveals an increasing linear trend of average diameter versus voltage as shown in Figure 6. This trend is opposite to that observed in far-field electrospinning
+
+We further demonstrate the ability to integrate low-voltage \mbox{}\protect\newline NFES ``writing'' capability with 3D substrates by suspending nanofibers on carbon micropost arrays on a Si substrate. In a typical example, we use posts of a height of40 \ensuremath{\mu }m, a diameter of 30 \ensuremath{\mu }m, an interpostal distance of 100 \ensuremath{\mu }m. \unskip~\cite{527120:11973130}
 
 \unskip~\cite{527120:11974314}
 
@@ -279,9 +305,9 @@ The main components of the electrospinning technique are the fluid control unit 
 \def\arraystretch{1}\\\endfirsthead \hline \noalign{\vskip3pt} \noalign{\textit{Table \thetable\ continued}} \noalign{\vskip3pt} \hline \endhead \hline \noalign{\vskip3pt} \noalign{\textit{\hfill Continued on next page}} \noalign{\vskip3pt} \endfoot \endlastfoot 
 \tbltoprule Polymer(s) & Solvent(s) & NFES Variant & Process Parameters and Fiber Characterization & Ref.\\
 \tblmidrule 
-Poly(ethylene oxide) (PEO) &
+Poly(ethylene oxide) (PEO MW = 4 000 000) &
   Deionized water &
-  Low-Voltage NFES &
+  Low-Voltage NFES (LV NFES) &
   \textbf{Solution Concentration:} 1, 2, and 3 $wt\% $ PEO \mbox{}\protect\newline \textbf{Nozzle:} 27 gauge type 304; stainless steel needle \mbox{}\protect\newline \textbf{Solution deposition rate:} lower than 1$\mu L / h $ \mbox{}\protect\newline \textbf{Nozzle-to-substrate distance:} 1$mm $ \mbox{}\protect\newline \textbf{Substrate composition: }Pyrolyzed SU-8 carbon and Si \mbox{}\protect\newline \textbf{Applied voltage: }polymer jet initiated at 400-600 $V $ and dispensed at 200-400 $V $ \mbox{}\protect\newline \textbf{x-y stage velocity:} 10-40$mm/s $ \mbox{}\protect\newline \textbf{Fiber Diameter:} 50-425$nm $ \mbox{}\protect\newline \textbf{Distance between adjacent fibers:} \textit{Not determined} &
   \unskip~\cite{527120:11973130}\\\cline{1-1}\cline{2-2}\cline{3-3}\cline{4-4}\cline{5-5}
 Poly[2-methoxy-5-(2-ethylhexyloxy)-1,4-phenylenevinylene] (MEH-PPV) with Poly(ethylene oxide) (PEO) &
@@ -391,7 +417,7 @@ Poly(ethylene oxide) (PEO) &
   \unskip~\cite{527120:12033656}\\\cline{1-1}\cline{2-2}\cline{3-3}\cline{4-4}\cline{5-5}
 Poly(ethylene oxide) (PEO) &
   Deionized water &
-   &
+  Typical NFES process &
   \textbf{Solution Concentration:} 10$wt\% $ PEO \mbox{}\protect\newline \textbf{Nozzle:} 32G metal needle \mbox{}\protect\newline \textbf{Solution deposition rate:} (Jet impact speed of 5$mm/s $ ) \mbox{}\protect\newline \textbf{Nozzle-to-substrate distance:} 0.5$mm $ \mbox{}\protect\newline \textbf{Substrate composition:} p-type silicon wafer \mbox{}\protect\newline \textbf{Applied voltage:} 400$V $ \mbox{}\protect\newline \textbf{x-y stage velocity:} 5$mm/s $ \mbox{}\protect\newline \textbf{Fiber Diameter:} \mbox{}\protect\newline \textbf{Distance between adjacent fibers:} 50$\mu m $ &
   \unskip~\cite{527120:12033657}\\
 \tblbottomrule 
