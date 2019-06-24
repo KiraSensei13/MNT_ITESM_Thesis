@@ -3,8 +3,8 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: article.aux
 The style file: elsarticle-num.bst
 Database file #1: article.bib
-Warning--empty journal in 527120:11974304
 Warning--empty journal in 527120:11974321
+Warning--empty journal in 527120:11974304
 You've used 29 entries,
             2952 wiz_defined-function locations,
             864 strings with 12181 characters,
