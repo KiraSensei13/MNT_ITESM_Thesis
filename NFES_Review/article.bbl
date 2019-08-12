@@ -58,23 +58,42 @@ G.~S. Bisht, G.~Canton, A.~Mirsepassi, L.~Kulinsky, S.~Oh, D.~Dunn-Rankin,
 \newblock \href {https://doi.org/10.1021/nl2006164}
   {\path{doi:10.1021/nl2006164}}.
 
-\bibitem{527120:11974305}
-D.~D. Camillo, V.~Fasano, F.~Ruggieri, S.~Santucci, L.~Lozzi, A.~Camposeo,
-  D.~Pisignano, {Near-field electrospinning of conjugated polymer
-  light-emitting nanofibers}, {Nanoscale} 5 (2013) 11637--11642.
-\newblock \href {https://doi.org/10.1039/C3NR03094F}
-  {\path{doi:10.1039/C3NR03094F}}.
-
 \bibitem{527120:11974306}
 C.~Chang, K.~Limkrailassiri, L.~Lin, {Continuous near-field electrospinning for
   large area deposition of orderly nanofiber patterns}, {Appl Phys Lett} (2008)
   3\href {https://doi.org/10.1063/1.2975834} {\path{doi:10.1063/1.2975834}}.
 
-\bibitem{527120:11974308}
-Y.~Duan, Y.~Ding, Z.~Xu, Y.~Huang, Z.~Yin, {Helix Electrohydrodynamic Printing
-  of Highly Aligned Serpentine Micro/Nanofibers.}, {Polymers} 9~(9) (sep 2017).
-\newblock \href {https://doi.org/10.3390/polym9090434}
-  {\path{doi:10.3390/polym9090434}}.
+\bibitem{527120:11974329}
+J.~Zheng, Y.~Z. Long, B.~Sun, Z.~H. Zhang, F.~Shao, H.~D. Zhang, Z.~M. Zhang,
+  J.~Y. Huang, {Polymer nanofibers prepared by low-voltage near-field
+  electrospinning}, {Chinese Physics B} 21~(4) (2012) 1--6.
+\newblock \href {https://doi.org/10.1088/1674-1056/21/4/048102}
+  {\path{doi:10.1088/1674-1056/21/4/048102}}.
+
+\bibitem{527120:11974317}
+C.-T. Pan, C.-K. Yen, Z.-H. Liu, H.-W. Li, S.-W. Kuo, Y.-S. Lu, Y.-C. Lai,
+  {Poly(\$\ensuremath{\gamma }\$-benzyl \$\ensuremath{\alpha }\$, l-glutamate)
+  in Cylindrical Near-Field Electrospinning Fabrication and Analysis of
+  Piezoelectric Fibers} (2014).
+
+\bibitem{527120:12321129}
+C.-T. Pan, C.-K. Yen, S.-Y. Wang, Y.-C. Lai, L.~Lin, J.~C. Huang, S.-W. Kuo,
+  {Near-field electrospinning enhances the energy harvesting of hollow PVDF
+  piezoelectric fibers}, {RSC Advances} 5~(103) (2015) 85073--85081.
+\newblock \href {https://doi.org/10.1039/C5RA16604G}
+  {\path{doi:10.1039/C5RA16604G}}.
+
+\bibitem{527120:12321556}
+J.~Kameoka, H.~G. Craighead, {Fabrication of oriented polymeric nanofibers on
+  planar surfaces by electrospinning}, {Applied Physics Letters} 83~(2) (2003)
+  371--373.
+\newblock \href {https://doi.org/10.1063/1.1592638}
+  {\path{doi:10.1063/1.1592638}}.
+
+\bibitem{527120:11974321}
+D.~Sun, C.~Chang, S.~Li, L.~Lin, {Near-Field Electrospinning} (2006).
+\newblock \href {https://doi.org/10.1021/nl0602701}
+  {\path{doi:10.1021/nl0602701}}.
 
 \bibitem{527120:11974310}
 A.~Gupta, A.~M. Seifalian, Z.~Ahmad, M.~J. Edirisinghe, M.~C. Winslet, {Novel
@@ -83,33 +102,27 @@ A.~Gupta, A.~M. Seifalian, Z.~Ahmad, M.~J. Edirisinghe, M.~C. Winslet, {Novel
 \newblock \href {https://doi.org/10.1177/0883911507078268}
   {\path{doi:10.1177/0883911507078268}}.
 
-\bibitem{527120:11974311}
-Y.~Huang, Y.~Duan, Y.~Ding, N.~Bu, Y.~Pan, N.~Lu, Z.~Yin, {Versatile,
-  kinetically controlled, high precision electrohydrodynamic writing of
-  micro/nanofibers}, {Scientific Reports} 4~(1) (2015) 5949.
-\newblock \href {https://doi.org/10.1038/srep05949}
-  {\path{doi:10.1038/srep05949}}.
+\bibitem{527120:11974326}
+N.~Xue, X.~Li, C.~Bertulli, Z.~Li, A.~Patharagulpong, A.~Sadok, Y.~Y.~S. Huang,
+  {Rapid Patterning of 1-D Collagenous Topography as an ECM Protein Fibril
+  Platform for Image Cytometry}, {PLoS ONE} 9~(4) (2014) e93590.
+\newblock \href {https://doi.org/10.1371/journal.pone.0093590}
+  {\path{doi:10.1371/journal.pone.0093590}}.
 
-\bibitem{527120:11974312}
-J.~Jiang, X.~Wang, W.~Li, J.~Liu, Y.~Liu, G.~Zheng, J.~Jiang, X.~Wang, W.~Li,
-  J.~Liu, Y.~Liu, G.~Zheng, {Electrohydrodynamic Direct-Writing Micropatterns
-  with Assisted Airflow}, {Micromachines} 9~(9) (2018) 456.
-\newblock \href {https://doi.org/10.3390/mi9090456}
-  {\path{doi:10.3390/mi9090456}}.
+\bibitem{527120:11974307}
+S.~Coppola, V.~Vespini, G.~Nasti, O.~Gennari, S.~Grilli, M.~Ventre, M.~Iannone,
+  P.~A. Netti, P.~Ferraro, {Tethered Pyro-Electrohydrodynamic Spinning for
+  Patterning Well-Ordered Structures at Micro-and Nanoscale}, {Chem. Mater} 26
+  (2014) 3360.
+\newblock \href {https://doi.org/10.1021/cm501265j}
+  {\path{doi:10.1021/cm501265j}}.
 
-\bibitem{527120:11974313}
-J.~Kim, B.~Maeng, J.~Park, {Characterization of 3D electrospinning on inkjet
-  printed conductive pattern on paper}, {Micro and Nano Systems Letters} 6~(1)
-  (2018) 12.
-\newblock \href {https://doi.org/10.1186/s40486-018-0074-1}
-  {\path{doi:10.1186/s40486-018-0074-1}}.
-
-\bibitem{527120:11974316}
-S.-Y. Min, T.-S. Kim, B.~J. Kim, H.~Cho, Y.-Y. Noh, H.~Yang, J.~H. Cho, T.-W.
-  Lee, {Large-scale organic nanowire lithography and electronics}, {Nature
-  Communications} 4~(1) (2013) 1773.
-\newblock \href {https://doi.org/10.1038/ncomms2785}
-  {\path{doi:10.1038/ncomms2785}}.
+\bibitem{527120:12322072}
+D.~D. Camillo, V.~Fasano, F.~Ruggieri, S.~Santucci, L.~Lozzi, A.~Camposeo,
+  D.~Pisignano, {Near-field electrospinning of conjugated polymer
+  light-emitting nanofibers}, {Nanoscale} 5 (2013) 11637--11642.
+\newblock \href {https://doi.org/10.1039/C3NR03094F}
+  {\path{doi:10.1039/C3NR03094F}}.
 
 \bibitem{527120:11974320}
 C.~Song, J.~A. Rogers, J.-M. Kim, H.~Ahn, {Patterned polydiacetylene-embedded
@@ -118,10 +131,65 @@ C.~Song, J.~A. Rogers, J.-M. Kim, H.~Ahn, {Patterned polydiacetylene-embedded
 \newblock \href {https://doi.org/10.1007/s13233-015-3024-2}
   {\path{doi:10.1007/s13233-015-3024-2}}.
 
-\bibitem{527120:11974321}
-D.~Sun, C.~Chang, S.~Li, L.~Lin, {Near-Field Electrospinning} (2006).
-\newblock \href {https://doi.org/10.1021/nl0602701}
-  {\path{doi:10.1021/nl0602701}}.
+\bibitem{527120:11974311}
+Y.~Huang, Y.~Duan, Y.~Ding, N.~Bu, Y.~Pan, N.~Lu, Z.~Yin, {Versatile,
+  kinetically controlled, high precision electrohydrodynamic writing of
+  micro/nanofibers}, {Scientific Reports} 4~(1) (2015) 5949.
+\newblock \href {https://doi.org/10.1038/srep05949}
+  {\path{doi:10.1038/srep05949}}.
+
+\bibitem{527120:11974316}
+S.-Y. Min, T.-S. Kim, B.~J. Kim, H.~Cho, Y.-Y. Noh, H.~Yang, J.~H. Cho, T.-W.
+  Lee, {Large-scale organic nanowire lithography and electronics}, {Nature
+  Communications} 4~(1) (2013) 1773.
+\newblock \href {https://doi.org/10.1038/ncomms2785}
+  {\path{doi:10.1038/ncomms2785}}.
+
+\bibitem{527120:11974313}
+J.~Kim, B.~Maeng, J.~Park, {Characterization of 3D electrospinning on inkjet
+  printed conductive pattern on paper}, {Micro and Nano Systems Letters} 6~(1)
+  (2018) 12.
+\newblock \href {https://doi.org/10.1186/s40486-018-0074-1}
+  {\path{doi:10.1186/s40486-018-0074-1}}.
+
+\bibitem{527120:11974325}
+J.~Xu, M.~Abecassis, Z.~Zhang, P.~Guo, J.~Huang, K.~Ehmann, J.~Cao, {Accuracy
+  Improvement of Nano-fiber Deposition by Near-Field Electrospinning},
+  {International Workshop on Microfactories} IWMF2014~(9th) (2014).
+
+\bibitem{527120:11974315}
+Z.~H. Liu, C.~T. Pan, L.~W. Lin, J.~C. Huang, Z.~Y. Ou, {Direct-write PVDF
+  nonwoven fiber fabric energy harvesters via the hollow cylindrical near-field
+  electrospinning process} (2014) 25003--25014\href
+  {https://doi.org/10.1088/0964-1726/23/2/025003}
+  {\path{doi:10.1088/0964-1726/23/2/025003}}.
+
+\bibitem{527120:12322289}
+W.~S. Choi, G.~H. Kim, J.~H. Shin, G.~Lim, T.~An, {Electrospinning onto
+  Insulating Substrates by Controlling Surface Wettability and Humidity},
+  {Nanoscale Research Letters} 12 (2017).
+\newblock \href {https://doi.org/10.1186/s11671-017-2380-6}
+  {\path{doi:10.1186/s11671-017-2380-6}}.
+
+\bibitem{527120:11974305}
+D.~D. Camillo, V.~Fasano, F.~Ruggieri, S.~Santucci, L.~Lozzi, A.~Camposeo,
+  D.~Pisignano, {Near-field electrospinning of conjugated polymer
+  light-emitting nanofibers}, {Nanoscale} 5 (2013) 11637--11642.
+\newblock \href {https://doi.org/10.1039/C3NR03094F}
+  {\path{doi:10.1039/C3NR03094F}}.
+
+\bibitem{527120:11974308}
+Y.~Duan, Y.~Ding, Z.~Xu, Y.~Huang, Z.~Yin, {Helix Electrohydrodynamic Printing
+  of Highly Aligned Serpentine Micro/Nanofibers.}, {Polymers} 9~(9) (sep 2017).
+\newblock \href {https://doi.org/10.3390/polym9090434}
+  {\path{doi:10.3390/polym9090434}}.
+
+\bibitem{527120:11974312}
+J.~Jiang, X.~Wang, W.~Li, J.~Liu, Y.~Liu, G.~Zheng, J.~Jiang, X.~Wang, W.~Li,
+  J.~Liu, Y.~Liu, G.~Zheng, {Electrohydrodynamic Direct-Writing Micropatterns
+  with Assisted Airflow}, {Micromachines} 9~(9) (2018) 456.
+\newblock \href {https://doi.org/10.3390/mi9090456}
+  {\path{doi:10.3390/mi9090456}}.
 
 \bibitem{527120:11974322}
 H.~Wang, S.~Huang, F.~Liang, P.~Wu, M.~Li, S.~Lin, X.~Chen, {Research on
@@ -145,18 +213,6 @@ Z.~Wang, X.~Chen, J.~Zhang, Y.-J. Lin, K.~Li, J.~Zeng, P.~Wu, Y.~He, Y.~Li,
 \newblock \href {https://doi.org/10.1063/1.5032082}
   {\path{doi:10.1063/1.5032082}}.
 
-\bibitem{527120:11974325}
-J.~Xu, M.~Abecassis, Z.~Zhang, P.~Guo, J.~Huang, K.~Ehmann, J.~Cao, {Accuracy
-  Improvement of Nano-fiber Deposition by Near-Field Electrospinning},
-  {International Workshop on Microfactories} IWMF2014~(9th) (2014).
-
-\bibitem{527120:11974326}
-N.~Xue, X.~Li, C.~Bertulli, Z.~Li, A.~Patharagulpong, A.~Sadok, Y.~Y.~S. Huang,
-  {Rapid Patterning of 1-D Collagenous Topography as an ECM Protein Fibril
-  Platform for Image Cytometry}, {PLoS ONE} 9~(4) (2014) e93590.
-\newblock \href {https://doi.org/10.1371/journal.pone.0093590}
-  {\path{doi:10.1371/journal.pone.0093590}}.
-
 \bibitem{527120:11974327}
 G.~Zheng, W.~Li, X.~Wang, D.~Wu, D.~Sun, L.~Lin, {Precision deposition of a
   nanofibre by near-field electrospinning}, {Journal of Physics D: Applied
@@ -178,14 +234,6 @@ N.~Bu, Y.~Huang, X.~Wang, Z.~Yin, {Materials and Manufacturing Processes
   Direct-Written by Mechano-Electrospinning} (2012).
 \newblock \href {https://doi.org/10.1080/10426914.2012.700145}
   {\path{doi:10.1080/10426914.2012.700145}}.
-
-\bibitem{527120:11974307}
-S.~Coppola, V.~Vespini, G.~Nasti, O.~Gennari, S.~Grilli, M.~Ventre, M.~Iannone,
-  P.~A. Netti, P.~Ferraro, {Tethered Pyro-Electrohydrodynamic Spinning for
-  Patterning Well-Ordered Structures at Micro-and Nanoscale}, {Chem. Mater} 26
-  (2014) 3360.
-\newblock \href {https://doi.org/10.1021/cm501265j}
-  {\path{doi:10.1021/cm501265j}}.
 
 \bibitem{527120:12033656}
 A.~R. Nagle, C.~D. Fay, Z.~Xie, G.~G. Wallace, X.~Wang, M.~J. Higgins, {A

@@ -4,46 +4,47 @@ The top-level auxiliary file: article.aux
 The style file: elsarticle-num.bst
 Database file #1: article.bib
 Warning--empty journal in 527120:11974321
+Warning--empty journal in 527120:11974315
 Warning--empty journal in 527120:11974304
-You've used 29 entries,
+You've used 36 entries,
             2952 wiz_defined-function locations,
-            864 strings with 12181 characters,
-and the built_in function-call counts, 9612 in all, are:
-= -- 851
-> -- 497
+            917 strings with 14079 characters,
+and the built_in function-call counts, 12031 in all, are:
+= -- 1064
+> -- 627
 < -- 0
-+ -- 185
-- -- 156
-* -- 863
-:= -- 1426
-add.period$ -- 56
-call.type$ -- 29
-change.case$ -- 28
++ -- 233
+- -- 197
+* -- 1080
+:= -- 1778
+add.period$ -- 68
+call.type$ -- 36
+change.case$ -- 35
 chr.to.int$ -- 0
-cite$ -- 31
-duplicate$ -- 229
-empty$ -- 941
-format.name$ -- 183
-if$ -- 2376
+cite$ -- 39
+duplicate$ -- 284
+empty$ -- 1175
+format.name$ -- 231
+if$ -- 2972
 int.to.chr$ -- 0
-int.to.str$ -- 29
-missing$ -- 29
-newline$ -- 122
-num.names$ -- 29
-pop$ -- 135
+int.to.str$ -- 36
+missing$ -- 35
+newline$ -- 148
+num.names$ -- 36
+pop$ -- 172
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 575
+skip$ -- 710
 stack$ -- 0
-substring$ -- 381
-swap$ -- 84
+substring$ -- 510
+swap$ -- 103
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
-warning$ -- 2
-while$ -- 51
-width$ -- 31
-write$ -- 292
-(There were 2 warnings)
+warning$ -- 3
+while$ -- 63
+width$ -- 38
+write$ -- 357
+(There were 3 warnings)
