@@ -156,6 +156,7 @@
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Feature enabled:
+%toc: yes
 %pagenum: yes
 %text-layout: twocolumn
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -163,7 +164,9 @@
 \makeatletter
 \def\ps@pprintTitle{\save@ps@pprintTitle\gdef\@oddfoot{\footnotesize\hspace*{.5\textwidth}\thepage\itshape \null\hfill\today}}
 \makeatother
-          
+          \makeatletter\@ifundefined{tableofcontents}{\usepackage{typeset-custom-toc}}{}\makeatother
+\usepackage{etoolbox}
+
 \usepackage{longtable}
 
 \usepackage{float}
@@ -207,6 +210,8 @@ Near-field electrospinning (NFES) is identified to be a technique able to fabric
 \end{keyword}
       
 \end{frontmatter}
+\tableofcontents
+
     
 \section{Introduction}
 Even though electrospinning is an old invention \unskip~\cite{527120:12073288}, it is currently a trending topic among researchers \unskip~\cite{527120:12073453,527120:12073495,527120:12073496}. One of the reasons electrospinning is to be studied is its potential to fabricate polymer nano-fibers from a variety of polymers. The technique allows the production of thin continuous fibers with ease, with diameters down to 3 $nm $ in some cases, which is something difficult to achieve by other techniques. Furthermore, the basic setup can be modified with ease to fabricate different fibers with diversified functionalities with different materials. The produced fibers can be aligned or unaligned. Besides, the electrospinning equipment is inexpensive and of small size, compared to the equipment of standard spinning techniques. On the other hand, the understanding of the electrospinning process has improved in the last years \unskip~\cite{527120:12073538}.
@@ -227,14 +232,45 @@ Near-field electrospinning is considered to be an outstanding technique to fabri
     
 \section{Polymer Solution}
 In electrospinning, it is generally agreed that with higher concentration, the diameter of the fibers increased due to greater viscosity which resist stretching. In near field electrospinning, similar observations have been reported where concentration increases, fiber diameter increased\unskip~\cite{527120:11974306,527120:11974329}. However, in separate studies by Pan et al.\unskip~\cite{527120:11974317,527120:12321129} using poly(\ensuremath{\gamma }-benzyl \ensuremath{\alpha }, l-glutamate) and polyvinylidene fluoride (PVDF) reported reduction in fiber diameter with increasing concentration. Pan et al.\unskip~\cite{527120:12321129} attributed this to a higher charge accumulation in higher concentration PVDF solution. However, more studies need to be carried out to verify this.
+\begin{table*}[!htbp]
+\caption{{Approximation process to estimate the critical polymer concentration. Several polymer concentrations are tried and the resulting jets are observed until a continuous stream is achieved.} }
+\label{tw-8687dd17082c}
+\def\arraystretch{1}
+\ignorespaces 
+\centering 
+\begin{tabulary}{\linewidth}{LL}
+\tbltoprule Observation & Concentration Adjustement\\
+\tblmidrule 
+Dripping, no stream &
+  Increase\\
+Splitting small droplets &
+  Increase slightly\\
+Steady stream &
+  No concentration adjustment\\
+Splitting large globs &
+  Decrease slightly\\
+Nozzle clogging  &
+  Decrease\\
+\tblbottomrule 
+\end{tabulary}\par 
+\end{table*}
 
 
 
-\subsection{Polymers}[SECTION UNDERWORK]
+
+\subsection{Polymers}The polymer selection is in function on the intended application. For example, a fast dissolving hydrophilic polymer such as poly(ethylene oxide) (PEO) is used for fast drug delivery systems. Otherwise, slow dissolving polymers such as poly($\varepsilon $-caprolactone) (PCL) or poly(lactic-co-glycolic acid) (PLGA) are implemented. \unskip~\cite{527120:13082763}
+
+The polymer molecular weight along with the polymer concentration and solvent selection have a direct effect on the solution viscosity, conductivity and surface tension, hence the solution behavior in the electrospinning process. The spunable viscosity range varies with the polymer and solvent. 
+
+Solutions with low viscosity are prone to insufficient polymer chain entanglements to produce fibers.\unskip~\cite{527120:13082763} On the other hand, if the solution is too viscous, then the surface tension cannot easily be overcome by the electric field. In both cases, the result can be droplets or particles forming rather than fibers; see Table~\ref{tw-8687dd17082c}.
 
 
 
-\subsection{Solvents}[SECTION UNDERWORK]
+\subsection{Solvents}The solvent used must be capable of dissolving the polymer of interest at an appropriate concentration to form fibers, and must posses a suitable volatility. A low-volatility solvent like water may fail to evaporate completely over the distance between the spinneret and the collector. When the fibers form, they will hence contain residual water owing to this incomplete evaporation. The residue solvent will subsequently evaporate from the fibers upon storage, resulting in ribbon-like (flattened) fibers, wrinkles on the fiber surface or fused fibers. On the other hand, a high-volatility solvent may evaporate very quickly, leading to larger fiber diameters (less time for elongation before solidification) and clogging of the spinneret (due to drying of the liquid at the spinneret before jetting, or drying of the Taylor cone during jetting). Solvents commonly used for electrospinning include ethanol, chloroform, dichloromethane and hexafluoroisopropanol.
+
+Mixtures of miscible solvents can be used to ensure that sufficient polymer can be dissolved to give a solution of appropriate viscosity and volatility with suitable dielectric constant range to allow fiber formation. However, care must be taken because using a mixture of solvents with very different volatilities can result in porous fiber structures, as reported by Katsogiannis et al. for organic solvent mixtures with dimethyl sulfoxide (DMSO).\unskip~\cite{527120:13082766} DMSO evaporates much more slowly than the organic solvents used, which results in its incorporation into the fibers. The DMSO will eventually evaporate, yielding porous fibers.
+
+It is also important to take into account the surface tension of the solution. Solvents with very high surface tensions (e.g. water) can result in instability arising during the spinning process, and a broad range of fiber diameters in the products. If necessary, a surfactant can be added to reduce the surface tension, but this will be incorporated into the fibers produced.
     
 \section{NFES Parameters}
 To spin nano fibers at close distances, the initial diameter of the jet is required to be as small as possible since stretching of the thread is limited. Kameoka et al.\unskip~\cite{527120:12321556} demonstrated that a small initial spinning radius can be achieved using an atomic force microscope tip with a small polymer solution drop at the tip.
@@ -243,7 +279,9 @@ Near-field electrospinning, has exhibited to be capable fabricate nano fibers ov
 
 Coppola et al.\unskip~\cite{527120:11974307} have showed a NFES variant that allows polymer nano fibers to be deposited directly from a polymer drop, averting the issue of nozzle clogging. The fibers are also prone soaking after deposition thus giving the fibers a semi-circular cross-section as depicted in Xue et al.'s\unskip~\cite{527120:11974326} work. 
 
-The thinnest nozzles in literature so far are about 100 $\mu m $ in diameter, for instance Chang et al.\unskip~\cite{527120:11974306} used a 100 $\mu m $ inner diameter needle tip to electrospin poly(ethylene oxide) (PEO) and Camillo et al.\unskip~\cite{527120:12322072} used a micro-diameter tip Tungsten spinneret in a 26G needle to electrospin co-polymer, poly[2-methoxy-5-(2-ethylhexyloxy)-1,4-phenylenevinylene] (MEH-PPV) with poly(ethylene oxide) (PEO).
+
+
+\subsection{Nozzle spinneret}The thinnest nozzles in literature so far are about 100 $\mu m $ in diameter, for instance Chang et al.\unskip~\cite{527120:11974306} used a 100 $\mu m $ inner diameter needle tip to electrospin poly(ethylene oxide) (PEO) and Camillo et al.\unskip~\cite{527120:12322072} used a micro-diameter tip Tungsten spinneret in a 26G needle to electrospin co-polymer, poly[2-methoxy-5-(2-ethylhexyloxy)-1,4-phenylenevinylene] (MEH-PPV) with poly(ethylene oxide) (PEO). The nozzle most commonly comprises a simple narrow-bore, blunt-end metal needle. The diameter of the needle can vary, but most commonly researches work with internal diameters below 1 $mm $ . This translates to needles of gauge 18{\textendash}22. In general, this simple spinneret design can be used to achieve successful spinning. A blunt-end rather than a tapered-end for the needle exit is important as the size distribution of the products increase with an increase in needle tip angle. However, it should be noted that there will be some interactions between the solvent and polymer molecules in the solution and the metal surface of the spinneret. There will exist some attractive forces between the polar groups in the polymer and the electropositive metal surface, which can act counter to the drawing force of the electric field and can pull the polymer solution back into the spinneret. It has been found that coating the spinneret exterior in a non-conductive and non-stick polymer such as Teflon can reduce these interactions.\unskip~\cite{527120:13082768} As a result, the electrical energy can be more efficiently used to elongate and narrow the polymer jet, and narrower fibers can be produced. In addition, strong attractive forces between the polymer jet and the metal spinneret can result in fibers becoming attracted to the needle, leading to lower yields and potentially to blocking of the exit orifice. This effect too can be ameliorated using an epoxy coating.\unskip~\cite{527120:13082811}
 
 
 
@@ -261,7 +299,7 @@ Another workaround to break the polymer solution surface tension is to initializ
 
 
 
-\subsubsection{Nozzle-to-substrate distance}In NFES, the fiber morphology can be altered by the control of the height between the nozzle and the substrate (collector). With the decrease of the nozzle-to-substrate distance, the electric field strength increases; however it can cause incomplete solvent volatilisation and possible short circuits between the collector and the nozzle tip.
+\subsection{Nozzle-to-substrate distance}In NFES, the fiber morphology can be altered by the control of the height between the nozzle and the substrate (collector). With the decrease of the nozzle-to-substrate distance, the electric field strength increases; however it can cause incomplete solvent volatilisation and possible short circuits between the collector and the nozzle tip.
 
 An optimal nozzle-to-substrate distance shall be defined to ensure the fabrication of dry continuous fibers. If the solvent is not well evaporated, the produced fibers are prone to defects; on the other hand if solidification happens too fast, the solids can block the spinneret which can prevent a continuous fiber yield. Furthermore, the polymer jet will discharge itself as soon as possible, therefore long distances can result in low yields.
 
@@ -269,7 +307,7 @@ Typically, metal nozzle tips are used, with small inner diameters. From literatu
 
 
 
-\subsubsection{Electric field}Recent literature suggests that the fiber morphology depends on the electric field profile created by the applied voltage during NFES. Since the electric field is an induced force that attracts the solution jet towards the desired location within the collector.
+\subsection{Electric field}Recent literature suggests that the fiber morphology depends on the electric field profile created by the applied voltage during NFES. Since the electric field is an induced force that attracts the solution jet towards the desired location within the collector.
 
 Bisht et al.\unskip~\cite{527120:11973130} and Min et al.\unskip~\cite{527120:11974316} have reported the ability to electrospin nano fibers with high accuracy. Min et al. \unskip~\cite{527120:11974316} implemented a NFES setup with multiple "field-effect transistors" on a flexible polyacrylate collector with an x-y stage velocity of 13.3 $cm/s $ to fabricate fibers with a diameter about 289 $nm $ and a distance between adjacent fibers of 50 $\mu m $. 
 
@@ -327,7 +365,7 @@ Poly(ethylene oxide) (PEO) &
   \textbf{Solution Concentration:} 6$wt\% $ PEO \mbox{}\protect\newline \textbf{Nozzle:} \textit{Not determined} \mbox{}\protect\newline \textbf{Solution deposition rate:} 1200$nL/min $ \mbox{}\protect\newline \textbf{Nozzle-to-substrate distance:} 7.5$mm $ \mbox{}\protect\newline \textbf{Substrate composition:} \textit{Not determined} \mbox{}\protect\newline \textbf{Applied voltage:} polymer jet initiated at 2 $kV $ and dispensed at 0.8-1$kV $ \mbox{}\protect\newline \textbf{x-y stage velocity:} around 400$mm/s $ \mbox{}\protect\newline \textbf{Fiber Diameter:} 200-350$nm $ \mbox{}\protect\newline \textbf{Distance between adjacent fibers:} 5$\mu m $ &
   \unskip~\cite{527120:11974311}\\\cline{1-1}\cline{2-2}\cline{3-3}\cline{4-4}\cline{5-5}
 Poly(ethylene oxide) (PEO) &
-  Deionized water and the ethanol with a volume ratio of 3:1 &
+  Deionized water and ethanol with a volume ratio of 3:1 &
   Airflow-assisted Electrohydro-dynamic Direct-writing (EDW) &
   \textbf{Solution Concentration:} 8$wt\% $ PEO \mbox{}\protect\newline \textbf{Nozzle:} Outer airflow passage diameter: 1$mm $ Airflow gas pump pressure: 25$kPa $ Inner liquid passage diameter: 0.21$mm $ \mbox{}\protect\newline \textbf{Solution deposition rate:} 30$\mu L / h $ \mbox{}\protect\newline \textbf{Nozzle-to-substrate distance:} 2$mm $ \mbox{}\protect\newline \textbf{Substrate composition: }Silicon \mbox{}\protect\newline \textbf{Applied voltage:} about 2$kV $ \mbox{}\protect\newline \textbf{x-y stage velocity:} 1-20$mm/s $ \mbox{}\protect\newline \textbf{Fiber Diameter:} 3.73 $\pm $ 1.37$\mu m $ \mbox{}\protect\newline \textbf{Distance between adjacent fibers: }5.13 $\pm $ 6.67$\mu m $ &
   \unskip~\cite{527120:11974312}\\\cline{1-1}\cline{2-2}\cline{3-3}\cline{4-4}\cline{5-5}
@@ -461,6 +499,7 @@ Poly(ethylene oxide) (PEO) &
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 
+\apptocmd{\thebibliography}{\csname phantomsection\endcsname\addcontentsline{toc}{section}{\numberline{}\refname}}{}{}
     
 
 

@@ -1,0 +1,22 @@
+\contentsline {section}{\numberline {1}Introduction}{1}
+\contentsline {section}{\numberline {2}Polymer Solution}{2}
+\contentsline {subsection}{\numberline {2.1}Polymers}{2}
+\contentsline {subsection}{\numberline {2.2}Solvents}{2}
+\contentsline {section}{\numberline {3}NFES Parameters}{4}
+\contentsline {subsection}{\numberline {3.1}Nozzle spinneret}{4}
+\contentsline {subsection}{\numberline {3.2}Applied Voltage}{4}
+\contentsline {subsection}{\numberline {3.3}Nozzle-to-substrate distance}{5}
+\contentsline {subsection}{\numberline {3.4}Electric field}{5}
+\contentsline {subsection}{\numberline {3.5}Substrate}{6}
+\contentsline {section}{\numberline {4}NFES Variants}{16}
+\contentsline {subsection}{\numberline {4.1}Low-Voltage NFES (LV NFES) \unskip \nobreakspace {}\cite {527120:11973130}}{16}
+\contentsline {subsection}{\numberline {4.2}Scanning Tip Electrospinning \unskip \nobreakspace {}\cite {527120:11974306}}{16}
+\contentsline {subsection}{\numberline {4.3}3D Electrospinning \unskip \nobreakspace {}\cite {527120:11974313} \unhbox \voidb@x \hbox {}\newline Electrohydro-dynamic 3D Print-patterning or Electrohydro-dynamic Jetting \unskip \nobreakspace {}\cite {527120:11974310}}{16}
+\contentsline {subsection}{\numberline {4.4}Multinozzle NFES \unskip \nobreakspace {}\cite {527120:11974322,527120:11974323,527120:11974324}}{16}
+\contentsline {subsection}{\numberline {4.5}Electrohydro-dynamic Writing or Mechanoelectrospinning (MES) \unskip \nobreakspace {}\cite {527120:11974311} \unhbox \voidb@x \hbox {}\newline Electrohydro-dynamic Direct-Write (EDW) \unskip \nobreakspace {}\cite {527120:11974328} \unhbox \voidb@x \hbox {}\newline Mechano-Electrospinning \unskip \nobreakspace {}\cite {527120:11974304}}{16}
+\contentsline {subsection}{\numberline {4.6}Suspension NFES \unskip \nobreakspace {}\cite {527120:12033656}}{16}
+\contentsline {subsection}{\numberline {4.7}Helix Electrohydro-dynamic Printing (HE-printing) \unskip \nobreakspace {}\cite {527120:11974308} \unhbox \voidb@x \hbox {}\newline Electrohydro-dynamic (EHD) jet printing \unskip \nobreakspace {}\cite {527120:11974320}}{16}
+\contentsline {subsection}{\numberline {4.8}Airflow-assisted Electrohydro-dynamic Direct-writing (EDW) \unskip \nobreakspace {}\cite {527120:11974312}}{16}
+\contentsline {subsection}{\numberline {4.9}Tethered Pyro-Electrohydro-dynamic Spinning (TPES) \unskip \nobreakspace {}\cite {527120:11974307}}{16}
+\contentsline {section}{\numberline {5}Conclusion}{16}
+\contentsline {section}{\hbox to\@tempdima {\hfil }References}{16}

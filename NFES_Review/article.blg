@@ -6,45 +6,45 @@ Database file #1: article.bib
 Warning--empty journal in 527120:11974321
 Warning--empty journal in 527120:11974315
 Warning--empty journal in 527120:11974304
-You've used 36 entries,
+You've used 40 entries,
             2952 wiz_defined-function locations,
-            917 strings with 14079 characters,
-and the built_in function-call counts, 12031 in all, are:
-= -- 1064
-> -- 627
+            946 strings with 14990 characters,
+and the built_in function-call counts, 13389 in all, are:
+= -- 1195
+> -- 682
 < -- 0
-+ -- 233
-- -- 197
-* -- 1080
-:= -- 1778
-add.period$ -- 68
-call.type$ -- 36
-change.case$ -- 35
++ -- 254
+- -- 214
+* -- 1203
+:= -- 1968
+add.period$ -- 76
+call.type$ -- 40
+change.case$ -- 39
 chr.to.int$ -- 0
-cite$ -- 39
-duplicate$ -- 284
-empty$ -- 1175
-format.name$ -- 231
-if$ -- 2972
+cite$ -- 43
+duplicate$ -- 316
+empty$ -- 1312
+format.name$ -- 252
+if$ -- 3314
 int.to.chr$ -- 0
-int.to.str$ -- 36
-missing$ -- 35
-newline$ -- 148
-num.names$ -- 36
-pop$ -- 172
+int.to.str$ -- 40
+missing$ -- 39
+newline$ -- 164
+num.names$ -- 40
+pop$ -- 188
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 710
+skip$ -- 790
 stack$ -- 0
-substring$ -- 510
-swap$ -- 103
+substring$ -- 591
+swap$ -- 115
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 3
-while$ -- 63
-width$ -- 38
-write$ -- 357
+while$ -- 71
+width$ -- 42
+write$ -- 397
 (There were 3 warnings)
