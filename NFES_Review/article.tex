@@ -157,14 +157,22 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Feature enabled:
 %toc: yes
+%bookmark: yes
 %pagenum: yes
 %text-layout: twocolumn
+%endfloat: placeins
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
+\makeatletter
+\@ifpackageloaded{hyperref}{\def\alreadybookmark{}}{\usepackage[hidelinks]{hyperref}}
+\@ifpackageloaded{bookmark}{}{\usepackage{bookmark}}
+\makeatother
+\ifdefined\alreadybookmark\def\pdfbookmark[#1]#2#3{}\fi
 \makeatletter
 \def\ps@pprintTitle{\save@ps@pprintTitle\gdef\@oddfoot{\footnotesize\hspace*{.5\textwidth}\thepage\itshape \null\hfill\today}}
 \makeatother
           \makeatletter\@ifundefined{tableofcontents}{\usepackage{typeset-custom-toc}}{}\makeatother
+\usepackage[section]{placeins}
+
 \usepackage{etoolbox}
 
 \usepackage{longtable}
@@ -188,7 +196,7 @@
 \usepackage{pdflscape}
 
 \begin{document}
-
+\pdfbookmark[title]{Polymers for Near-field Electrospinning with Spatial Control}{title}
 
 
 \begin{frontmatter}
@@ -206,19 +214,17 @@
 Near-field electrospinning (NFES) is identified to be a technique able to fabricate polymer nano and micro fibers with accurate placement. In the past years (2006-2019), several polymer solutions have been successfully electrospun into fibers through several variants of the conventional NFES process. Each NFES variant intents to tailor the process parameters in order to improve the fibers' properties. This paper presents a review on the research and related development of electrospun fibers, emphasizing the used polymers, solvents, and fiber characteristics. Relevant summary of polymer solutions and near-field electrospinning processing conditions is provided in this paper.
 \end{abstract}
 \begin{keyword} 
-      polymer\sep solvent\sep near-field electrospinning\sep NFES\sep fibers\sep spatial control
+polymer\sep solvent\sep near-field electrospinning\sep NFES\sep fibers\sep spatial control
 \end{keyword}
-      
+
 \end{frontmatter}
 \tableofcontents
 
     
-\section{Introduction}
-Even though electrospinning is an old invention \unskip~\cite{527120:12073288}, it is currently a trending topic among researchers \unskip~\cite{527120:12073453,527120:12073495,527120:12073496}. One of the reasons electrospinning is to be studied is its potential to fabricate polymer nano-fibers from a variety of polymers. The technique allows the production of thin continuous fibers with ease, with diameters down to 3 $nm $ in some cases, which is something difficult to achieve by other techniques. Furthermore, the basic setup can be modified with ease to fabricate different fibers with diversified functionalities with different materials. The produced fibers can be aligned or unaligned. Besides, the electrospinning equipment is inexpensive and of small size, compared to the equipment of standard spinning techniques\unskip~\cite{527120:12073538}. On the other hand, the understanding of the electrospinning process has improved in the last years.
+\section{Types of electrospinning (Classified by process properties)}
+~Even though electrospinning is an old invention \unskip~\cite{527120:12073288}, it is currently a trending topic among researchers \unskip~\cite{527120:12073453,527120:12073495,527120:12073496}. One of the reasons electrospinning is to be studied is its potential to fabricate polymer nano fibers from a variety of polymers. The technique allows the production of thin continuous fibers with ease, with diameters down to 3 $nm $ in some cases, which is something difficult to achieve by other techniques. Furthermore, the basic setup can be modified with ease to fabricate different fibers with diversified functionalities with different materials. The produced fibers can be aligned or unaligned. Besides, the electrospinning equipment is inexpensive and of small size, compared to the equipment of standard spinning techniques\unskip~\cite{527120:12073538}. On the other hand, the understanding of the electrospinning process has improved in the last years.
 
-
-
-\subsection{Types of electrospinning (Classified by process properties)}Current literature dictates the typical spinning setup is comprised by three main components: a syringe needle, a fiber collector, and some way to dispense the fibers from the needle to the collector. The spinning process is an electrohydro-dynamic (EHD) technique that yields continuous polymer fibers. Other EHD techniques are spraying and atomization which produce polymer droplets and polymer particles respectively.
+Current literature dictates the typical spinning setup is comprised by three main components: a syringe needle, a fiber collector, and some way to dispense the fibers from the needle to the collector. The spinning process is an electrohydro-dynamic (EHD) technique that yields continuous polymer fibers. Other EHD techniques are spraying and atomization which produce polymer droplets and polymer particles respectively.
 
 
 \bgroup
@@ -236,63 +242,59 @@ In electrospinning the fibers are deposited by an electrical potential differenc
 
 
 
-\subsubsection{High voltage power supply: Direct Current \& Alternating Current}Electricity comprises a flow of electrons (negatively charged subatomic particles). In direct current (DC; used for the vast majority ofelectrospinning work) the electrons flow in one direction continually. Itis also possible to have alternating current (AC), which is used to powermost electrical devices in the home. AC involves a periodic change in thedirection of current flow: that is, the electrons first flow in one directionand then switch to flow in the reverse direction. The switch betweendirections is repeated many times per second and is known as the frequency of the AC. Using an AC power supply rather than the conventional DC supply was first shown to generate polymer-based nanofibresin 2004. [3]
+\subsection{High voltage power supply: Direct Current \& Alternating Current}Direct current (DC) is typically used in electrospinning with the electrons flowing in one direction. Alternate current (AC) implementations are also studied as the AC creates a change in the direction of the current flow. Kessick et al.\unskip~\cite{527120:13444381} demonstrated the implementation of AC power supplies in the production of polymer fibers.
 
-The experimental set-up for AC electrospinning is similar to thatfor the DC process, but it does not require a grounded collector. Because the current alternates, the fibres produced at one instant in time carry apositive charge, while those generated shortly thereafter have a negativecharge. The positive and negative fibres thus discharge on each other,which results in an aerogel plume of fibres. The frequency of the AC current determines whether charge carriersof one polarity have sufficient time to charge the solution and result inspinning. The optimal AC frequency is material-dependent and typicallyin the range of 50 Hz{\textendash}1 kHz. [4]
+The AC electrospinning setup is similar to that for the DC variant. AC electrospinning apparatus do not require a grounded collector as the current alternates. In AC, the produced fibers are prone to carry an electric charge, while those generated shortly after have an opposite charge. The difference in charges lead the fibers to discharge on each other, creating an aerogel plume of fibers. The optimal AC frequency depends on the materials used and is typically within of 50 $Hz $ {\textendash} 1 $kHz $. \unskip~\cite{527120:13443405}
 
-The AC approach has been explored for the fabrication of drugloaded fibres in a few recent studies. In one, Balogh et al. undertook adirect comparison of fibres prepared by DC and AC spinning.5 They usedthe beta-blocker carvedilol as a model drug, and fibres were generatedusing three different polymers: Eudragit EPO, a cationic copolymer soluble below pH 5.0; Eudragit L100-55, an anionic polymer soluble abovepH 5.5; and the neutral polymer poly(vinyl pyrrolidone) (PVP). It wasfound that fibres could be generated with all three polymers from bothtypes of spinning, but that it was possible to use muchfaster flow rates in the AC process. With DC spinning, a maximum flow rate of 5 ml h{\textendash}1 could be achieved, whereas with AC this could beincreased to up to 40 ml h{\textendash}1. All fibres, from both processes and madefrom all polymers, existed as amorphous solid dispersions. The drugrelease profiles were studied, and the AC and DC fibres were found to beindistinguishable in their performance. [Adapted with permission from Balogh, A.; Cselko, R.; Demuth,B.; Verreck, G.; Mensch, J.; Marosi, G.; Nagy, Z. K. `Alternating currentelectrospinning for preparation of fibrous drug delivery systems.' Int.J. Pharm. 495 (2015): 75{\textendash}80. Copyright Elsevier 2015.]
-
-The same team have also compared AC and DC electrospinningof blends of hydroxypropylmethylcellulose (HPMC) and poly(ethyleneoxide) (PEO) with the poorly water-soluble diuretic spironolactone. [6] Both HPMC and PEO alone could be processed by the DC approach. Incontrast, AC electrospinning of HPMC led to a mixture of droplets andfibres, and high-molecular-weight PEOs did not yield any solid productsat all in the AC method. Selecting appropriate blends of the two polymers,however, permitted high-quality fibres to be formed via AC spinning.
-
-AC processing of HPMC or PEO with spironolactone also proved tobe problematic, but again with the right mix of HPMC and PEO drugloaded fibres could be generated. These were able to accelerate thedissolution rate of the drug, even at loadings of up to 40\% w/w. The ACgenerated fibres were found to be several orders of magnitude thinnerthan the DC electrospun fibres despite the flow rate being three timesfaster in the AC process.
-
-Similar observations have been reported using HPMC acetate succinate (HPMCAS) and spironolactone. [7] HPMCAS could not be processedby either DC or AC electrospinning; the addition of PEO permitted fibresto be produced with the DC approach, but not using AC, and the additionof an ionic surfactant or salt was required to produce high-quality fibreswith AC spinning. As with HPMC, the HPMCAS fibres led to a significantenhancement in the dissolution rate
-
-It is thus clear that AC electrospinning is similarly effective to theDC approach in producing drug delivery systems. Although its use in thisregard is in its infancy, given the fact it allows higher throughput than theDC technique, it seems certain that this is an approach which is likely toreceive much more attention in the coming years.
+The AC technique has been studied for drug loaded related applications. Balogh et al. \unskip~\cite{527120:13445177} compared fibers fabricated by DC and AC spinning techniques. They produced fibers by using three polymers: Eudragit EPO (cationic copolymer), Eudragit L100-55 (anionic polymer) and poly(vinyl pyrrolidone) (PVP) (neutral polymer). Balogh et al. discovered AC and DC electrospinning can produce fibers with all three polymers. However, The AC process allowed the implementation of faster flow rates than in the DC setup. The DC electrospinning technique generated fibers with a maximum flow rate of 5 $ml/h $; on the other hand, the AC setup allowed an increase in flow rate up to 40 $ml/h $. AC electrospinning approach is as effective as the DC technique in producing drug delivery systems.
 
 
 
-\subsubsection{Polymer reservoir: Polymer melt \& Polymer solution}Another variant of electrospinning which has attracted some attentionin the drug delivery sphere is the melt process. This is discussed indetail in a recent review. [8] In brief, the process is analogous to the solution electrospinning discussed in previous sections, but in place of a polymer solution a melt is used. This adds some complexity to the process, because the syringe and spinneret must be heated to maintain thepolymer in its liquid state. Further, the elevated temperature can potentially lead to drug degradation, since many drugs are thermally labile.The fibres produced in melt spinning are typically found to have largerdiameters than those from the solution route due to the significantlyhigher viscosity of a polymer melt than its solution form. The apparatusused is depicted in [TODO: draw an apparatus used for melt electrospinning].
+\subsection{Polymer reservoir: Polymer melt \& Polymer solution}Another electrospinning classification is the melt process. As Brown et al. \unskip~\cite{527120:13445499} discussed, the polymer melt is equivalent to the polymer solution electrospinning (in place of a polymer solution a melt is used). The use of a polymer melt increases the complexity of the process, because the nozzle syringe and spinneret required to be heated to maintain the polymer in a liquid state. The fibers produced in melt spinning are typically found to have larger diameters than those from the polymer solutions due to the higher viscosity of a polymer melt than its solution. The apparatus used by Brown et al. \unskip~\cite{527120:13445499} is depicted in .
 
-Despite these apparent disadvantages, there are a number ofattractive aspects of the melt spinning process, not least the fact that itobviates the need to handle large volumes of volatile solvents. This bothrenders the process safer, particularly if it is to be performed on the largerscale, and precludes any solvent contamination in the products.
+[TODO: draw an apparatus used for melt electrospinning].
 
-The first report of a melt electrospun drug delivery system camefrom Nagy and co-workers, who prepared melt-spun fibres of Eudragit EPO loaded with carvedilol. [9] The drug and polymer were melted andmixed to form a homogeneous solid mixture prior to spinning, and thenprocessed as in a solution experiment but with both the syringe and spinneret heated. The melt fibres were much wider than analogous systemsprocessed through solution spinning, with those from melt processinghaving diameters of 5{\textendash}30 \ensuremath{\mu}m, as compared to 300{\textendash}1000 nm for the solution-spun fibres. The drug was completely amorphouslydispersed in the fibers regardless of the processing route. This is asexpected for solution spinning, and in the melt case was thought tobe because the experiment was carried out above the melting point ofcarvedilol. The melt fibres freed their drug loading faster than the solution-spun analogues, despite the much larger surface area of the latter.The authors ascribed this to the fact that the melt fibres had a loose nonwoven structure, whereas those prepared by solution spinning weremore tightly packed.
+Despite the added complexity and thicker diameters, melt electrospinning  gets around the need to handle volatile solvents, making the process safer to be performed on larger scales, On the other hand, this technique gets rid of any solvent contamination.
 
-This work has been built on to blend plasticisers with the polymerEudragit E and carvedilol active ingredient. [10] The plasticisers triacetin,Tween 80 and polyethylene glycol were all investigated with the goal ofreducing the melting point of the polymer/drug blend and thereby permitting lower temperatures to be used for spinning. This should reducethe likelihood of any degradation occurring. High-performance liquidchromatography data obtained on dissolved fibres revealed that the addition of plasticisers clearly reduced the amounts of carvedilol degradation products present after melt spinning
+The first report of a melt electrospun drug delivery system came from Nagy et al. \unskip~\cite{527120:13445555}, who prepared fibers by melt electrospinning of Eudragit EPO with carvedilol. The drug and polymer were melted and mixed to form a homogeneous solid mixture prior to spinning. The melt-spun fibers reached diameters of 5{\textendash}30 $\mu m $, compared to 300{\textendash}1000 $nm $ diameters produced from solution-spun fibers. 
 
-A direct comparison of poly(\ensuremath{\varepsilon }-caprolactone) (PCL) fibres generatedby the melt and solution-spinning approaches has been reported by Lianand Meng. [11] These authors prepared curcumin-loaded fibres of around4 \ensuremath{\mu}m in diameter using both techniques. They found that there was agreater tendency for the curcumin to crystallise using the solution route(a result of its low solubility in the solvent used for spinning). The meltfibres led to a reduced burst release and a slower release rate. Thesefindings were attributed to the solution-spun fibres having a porous structure, which permitted both water ingress and the incorporated curcuminto diffuse out of the polymer matrix
+This work has been built on to blend plasticisers with the polymer Eudragit EPO and carvedilol active ingredient.\unskip~\cite{527120:13445752} The plasticisers Triacetin, Tween 80 and Polyethylene Glycol were investigated by Attila et al. in order to reduce the melting point of the polymer-drug mixture. The temperature drop is desirable to minimize the occurring drug degradation.
 
-Melt electrospinning typically generates micron-size fibres. In arecent effort, however, highly uniform and precise deposition of PCLnanofibres (817 \ensuremath{\pm} 165 nm) was achieved using a method known as meltelectrospinning writing. [12] This combines melt electrospinning with additive manufacturing (three-dimensional (3D) printing) technology, usinga computer-controlled extruder moving on a translational stage to build a3D structure layer by layer. The 3D fibrous architecture produced allowedefficient in vitro proliferation of primary human mesenchymal stromalcells. The melt electrospinning writing technology can produce regular3D morphologies in a highly controllable and reproducible fashion, andis currently being explored for a range of tissue-engineering applications.
+Lian and Meng\unskip~\cite{527120:13445754} performed a comparison of poly(\ensuremath{\varepsilon }-caprolactone) (PCL) fibers fabricated by the melt and solution electrospinning techniques. Lian and Meng\unskip~\cite{527120:13445754} reported that melt spinning is preferable when the polymer presents a low solubility, on the other hand the melt fibers were produced in a slower release rate.  Lian and Men findings feature the solution-spun fibers to have a porous structure. Gernot et al.\unskip~\cite{527120:13534159} demonstrated that submicron-size fibers are possible through melt electrospinning. In their effort, they achieved a precise deposition of PCL fibers with diameters of $817 \pm 165 nm $. 
 
-Although melt electrospinning has received much less researchinterest than the solution process, it appears to be equally as flexible interms of handling multiple fluids, and coaxial melt spinning has beenreported. [13] The initial melt spinning experiment is perhaps harder toestablish than the solution route, but it is clear that this approach has agreat deal of unexplored potential in the development of drug deliverysystems.
-
-
-
-\subsubsection{Stretching forces}
+In literature, melt electrospinning has less evidence than the solution approach. However, melt electrospinning arises to be as flexible as its solution counterpart in handling multiple polymers, as reported in McCann's work\unskip~\cite{527120:13534572}. Currently, the melt electrospinning setup is harder to establish but the lack of research on this technique explains its unexplored potential.
 
 
 
-\paragraph{Centrifugal force}Centrifugal spinning employs a rotating polymer source to generate fibres.Several centrifugal methods can generate nanofibres. These includeForcespinning, which employs rotary speed of above 2000 revolutionsper minute (rpm), [14] electrocentrifugal spinning, [15] which combines astrong electric potential (as in electrospinning) with centrifugal force,and pressurised gyration, which adds high pressure ({\textgreater} 10 kPa) to centrifugal spinning to enhance fibre formation (see section 6.8). [16]
-
-These approaches can be applied to polymer solutions andemulsions, and if the source can be heated also to a polymer melt [TODO: draw an apparatus used for centrifugalspinning]. [17] This technique has received some attention in the contextof drug delivery. For instance, Zander prepared PCL fibres using both thesolution and melt variants of the centrifugal technique. [18] This authoremployed spinning speeds in the range of 3000{\textendash}18,000 rpm, yieldingfibres of 10 \ensuremath{\mu }m in diameter. PC12 neuron cells could be successfullygrown on the fibres, demonstrating that they have potential in nervetissue engineering.
-
-In other work, centrifugally spun PCL/PVP fibres containing theantibiotic tetracycline have been produced from a methanol/chloroformsolution at 2000 rpm. [19] These were sub-micron in their diameters, andhighly aligned. The rate of drug release could be tuned by varying thePCL/PVP ratio in the fibres, and the fibres were found to be effective ininhibiting bacterial growth. Core/shell fibres for the delivery of growthfactors have further been reported from centrifugal spinning of a waterin-oil emulsion, with PCL dissolved in the oil phase. [20]
-
-Fibres have also been made using a melt process with sucrose (asugar dimer) loaded with a range of poorly water-soluble drugs, includingolanzapine (an antipsychotic medicine) and piroxicam (a non-steroidalanti-inflammatory). [21] The fibres were 10{\textendash}15 \ensuremath{\mu }m in diameter, and the dissolution rate of the drugs enhanced after fibre formation.
-
-Since the centrifugal spinning approach is a simple one whichallows relatively large-scale production of fibres, [22] it appears to havemuch promise in the drug delivery field. It can also be coupled toelectrospinning, with both centrifugal and electrical forces applied simultaneously to drive solvent evaporation. [15] Such centrifugalelectrospinning uses the same equipment as the standard centrifugalprocess but additionally applies a high voltage between the rotatingspinneret and the collector. It has been reported to lead to significantlyhigher throughput than standard electrospinning, [23] and to producehighly aligned fibres. [23, 24] Centrifugal electrospinning has further beendemonstrated to have potential in the production of drug deliverysystems, with a recent report of PVP fibres loaded with the antibiotictetracycline hydrochloride. [25] Production rates of up to 120 g h{\textendash}1 couldbe realised.
+\subsection{Stretching forces}
 
 
 
-\paragraph{Blowing forces}A pressurised gas can be exploited to produce nanoscale fibres, startingeither with a polymer solution in a technique known as solution blowingor from a molten polymer source (melt blowing). The experimentalapparatus used is similar to electrospinning, in that a polymer solution(or melt) is expelled through a needle (spinneret) at a controlled rate.The spinneret is surrounded by an outer nozzle which applies pressuredgas to the fluid being expelled, as illustrated in [TODO: draw an apparatus used for solution blow spinning or melt blowing]. [26]
+\subsubsection{Electric Field}
 
-A few studies have explored solution blowing in drug delivery,with the first such work being from Oliveira et al. in 2013. [27] These authors prepared poly(lactic acid) (PLA) fibres loaded with the hormone progesterone, which can be used to regulate the reproductivecycle in livestock. Fibres were produced from solutions with 6\% w/vPLA and between 0 and 8\% w/v progesterone. The PLAis semi-crystalline both before and after processing, while the drug isamorphous post-spinning. The fibres behave very similarly in termsof their release behaviour, regardless of the amount of drug loaded.
 
-A study comparing electrospun and solution-blown fibres of poly(3-hydroxybutyrate-co-3-hydroxyvalerate) loaded with sodium diclofenachas also been reported. [26] The drug-loaded fibres were slightly larger indiameter when generated by electrospinning, and the size uniformitywas higher through solution blowing. In general there was a greateramount of burst release seen with the electrospun fibres, but otherwisethere were no clear trends in the drug release data.
 
-Solution-blown fibres have additionally been created loaded withoil extracted from the medicinal plant Copaifera sp., which is oftenexplored for antimicrobial purposes. [28] These materials were constructedfrom a blend of the polymers PLA and PVP, and were around 1 \ensuremath{\mu}m indiameter. An increased PVP content was found to result in increased antibacterial activity after 24 h.
+\subsubsection{Centrifugal force}The spinning processes require the implementation of a force to break the polymer source into a polymer jet. Centrifugal spinning intends to produce fibers by the use of a rotating polymer source. The centrifugal force generated from typical rotatory speeds above 2000 rpm, results in fiber formation. \unskip~\cite{527120:13535559,527120:13535561}.
 
-The melt blowing process has also received some attention in thepharmaceutical setting, and the fibres produced compared with thosefrom both solution and melt electrospinning. [29] Marosi's team generatedformulations from a vinylpyrrolidone{\textendash}vinyl acetate copolymer, employingpoly(ethylene glycol) (PEG) as a plasticiser and carvedilol as a modeldrug. All three methods led to fibres, with the solution electrospun fibresnarrowest (at 2 \ensuremath{\mu}m in diameter), followed by the melt-blown (10\ensuremath{\mu}m) and melt-spun (50 \ensuremath{\mu}m) products. Carvedilol was rendered into the amorphous physical form by all three processing techniques, and all theformulations were able to accelerate the drug dissolution process. Themelt-blown and melt electrospun systems led to the fastest release, withalmost identical release profiles, while the solution-electrospun fibresfreed their drug cargo somewhat more slowly.
+The centrifugal force technique is applied to polymer solutions and melts. This approach is used in applications were the precise deposition of the fibers is not relevant and production rate is to be maximized \unskip~\cite{527120:13535894}.  Efforts in centrifugal spinning are focused on drug delivery applications. Zander \unskip~\cite{527120:13535977} fabricated polycaprolactone (PCL) fibers using the solution and melt variants of the centrifugal approach. Zander's fibers were produced with rotatory speed between three and 18 thousand revolutions per minute with $10 \mu m $ in diameter. 
+
+On the other hand, PCL and PVP fibers were generated by Amalorpava et al. \unskip~\cite{527120:13536089}.  Amalorpava achieved sub micron/size fiber diameters for drug release purposes and bacteria growth inhibition properties. Literature\unskip~\cite{527120:13536446} has shown that centrifugal approach has a simple setup that promises a large scale fabrication of fibers.
+
+In some cases the centrifugal force implementations and pressurized gyration can be combined with an electric field. The implementation of two stretching forces (centrifugal and electrical forces), can help solvent evaporation\unskip~\cite{527120:13536560}. Centrifugal electrospinning implements the same setup as the standard centrifugal spinning with the addition of a high voltage power supply between the rotating dispensing nozzle and the collector. The combined method has evidence to yield parallel fibers\unskip~\cite{527120:13536841,527120:13536900,527120:13537392,527120:13537393} at a higher rate \unskip~\cite{527120:13536841,527120:13536900} than the standard electrospinning approach.
+
+
+
+\subsubsection{Blowing forces}Nano fibers can be produced with the implementation of pressurized gas with a polymer solution. The setup used for blow spinning is similar to the one used in standard electrospinning, where the polymer precursor is dispensed at a controlled rate. Unlike traditional electrospinning, in the solution blow spinning setup the needle nozzle applies pressurized gas to the polymer solution through an outer spinneret\unskip~\cite{527120:13538056}. 
+
+[TODO: draw an apparatus used for solution blow spinning or melt blowing] \unskip~\cite{527120:13538056}.
+
+A few studies have explored solution blowing in drug delivery, with the first such work being from Oliveira et al. in 2013. [27] These authors prepared poly(lactic acid) (PLA) fibres loaded with the hormone progesterone, which can be used to regulate the reproductivecycle in livestock. Fibres were produced from solutions with 6\% w/vPLA and between 0 and 8\% w/v progesterone. The PLAis semi-crystalline both before and after processing, while the drug isamorphous post-spinning. The fibres behave very similarly in termsof their release behaviour, regardless of the amount of drug loaded.
+
+A study comparing electrospun and solution-blown fibres of poly(3-hydroxybutyrate-co-3-hydroxyvalerate) loaded with sodium diclofenachas also been reported. [26] The drug-loaded fibres were slightly larger in diameter when generated by electrospinning, and the size uniformity was higher through solution blowing. In general there was a greateramount of burst release seen with the electrospun fibres, but otherwisethere were no clear trends in the drug release data.
+
+Solution-blown fibres have additionally been created loaded with oil extracted from the medicinal plant Copaifera sp., which is often explored for antimicrobial purposes. [28] These materials were constructed from a blend of the polymers PLA and PVP, and were around 1 \ensuremath{\mu}m in diameter. An increased PVP content was found to result in increased antibacterial activity after 24 h.
+
+The melt blowing process has also received some attention in thepharmaceutical setting, and the fibres produced compared with thosefrom both solution and melt electrospinning. [29] Marosi's team generatedformulations from a vinylpyrrolidone{\textendash}vinyl acetate copolymer, employingpoly(ethylene glycol) (PEG) as a plasticiser and carvedilol as a modeldrug. All three methods led to fibres, with the solution electrospun fibres narrowest (at 2 \ensuremath{\mu}m in diameter), followed by the melt-blown (10\ensuremath{\mu}m) and melt-spun (50 \ensuremath{\mu}m) products. Carvedilol was rendered into the amorphous physical form by all three processing techniques, and all theformulations were able to accelerate the drug dissolution process. Themelt-blown and melt electrospun systems led to the fastest release, withalmost identical release profiles, while the solution-electrospun fibresfreed their drug cargo somewhat more slowly.
 
 A variant of the solution-blowing technique has been applied tothe processing of living cells (in this setting it has been referred to asbiothreading). [30] Using a pressurised coaxial needle with the exteriorfluid comprising a viscous polydimethylsiloxane solution and an aqueouscell suspension in the core, cells can be processed into scaffolds with nonoticeable loss in viability.
 
@@ -304,33 +306,29 @@ A subsequent study using Eudragit E and itraconazole (anantifungal active pharma
 
 
 
-\paragraph{Electric force}
-
-
-
-\paragraph{Microfluidic forces}Microfluidic spinning is based on the use of micro (sub-millimetre)channels. A large number of these are located in a single microfluidicchip, and the rate and time of liquid expulsion from each channel are precisely controlled by computer. Microfluidic spinning can be coupled withelectrospinning, as described in detail in a recent review by Cheng et al. [51]While the productivity of microfluidic methods is a major challenge inscale-up, the technique offers the ability to generate fibres with a highlevel of complexity not easily achievable by electrospinning. For example,using a digitally programmed microfluidic flow, Kang et al. created functional microfibres with continuous spatiotemporal coding along thelength of the fibre. [52] The fibres contained varied chemical compositionsand topography, and localised bioactive agents.
+\subsubsection{Microfluidic forces}Microfluidic spinning is based on the use of micro (sub-millimetre)channels. A large number of these are located in a single microfluidicchip, and the rate and time of liquid expulsion from each channel are precisely controlled by computer. Microfluidic spinning can be coupled withelectrospinning, as described in detail in a recent review by Cheng et al. [51]While the productivity of microfluidic methods is a major challenge inscale-up, the technique offers the ability to generate fibres with a highlevel of complexity not easily achievable by electrospinning. For example,using a digitally programmed microfluidic flow, Kang et al. created functional microfibres with continuous spatiotemporal coding along thelength of the fibre. [52] The fibres contained varied chemical compositionsand topography, and localised bioactive agents.
 
 Microfluidic spinning therefore has the potential to enable veryprecisely tuneable loading of different drugs into a single fibre, allowingfor programmable release in different parts of the body at differenttimes. The technique is beginning to be explored for drug deliveryapplications. However, the materials used in microfluidics are usuallyhydrogels (crosslinked polymer networks solvated with water). Theseoften have fast degradation rates and as a result can be unsuitable forthe extended release of drugs, particularly small molecules. To helpmitigate this problem, Chae et al. developed a microfluidic spinningmethod using an isopropyl alcohol sheath flow with an aqueousalginate core flow. [53] This innovation resulted in nanofibres made ofhighly ordered alginate molecules. Ahn et al. loaded ampicillin intoalginate fibres prepared in this manner, [54 and found that the orderedstructure delayed fibre degradation, allowing extended-release profileof ampicillin over 7 days.
 
 
 
-\paragraph{Mechanical force}
+\subsubsection{Mechanical force}
 
 
 
-\subsubsection{Dispensing nozzle: Coaxial / Monoaxial: Single nozzle / Multinozzle}
+\subsection{Dispensing nozzle: Coaxial / Monoaxial: Single nozzle / Multinozzle}
 
 
 
-\subsubsection{Nozzle-to-substrate distance}
+\subsection{Nozzle-to-substrate distance}
 
 
 
-\paragraph{Near Field Spinning}Figure~\ref{f-fe28447572e9} describes a typical near-field electrospinning set-up \unskip~\cite{527120:12073538}. Two sub-techniques can be derived from electrospinning depending on the distance between the dispensing electrode and the collector. The process in which the electrospun jet can be controlled near the tip is called NFES or near-field electrospinning \unskip~\cite{527120:12033655}. Moreover, if the distance between the collector and the dispensing needle is greater, the configuration is known as FFES or far-field electrospinning \unskip~\cite{527120:12073581}.
+\subsubsection{Near Field Spinning}Figure~\ref{f-fe28447572e9} describes a typical near-field electrospinning set-up \unskip~\cite{527120:12073538}. Two sub-techniques can be derived from electrospinning depending on the distance between the dispensing electrode and the collector. The process in which the electrospun jet can be controlled near the tip is called NFES or near-field electrospinning \unskip~\cite{527120:12033655}. Moreover, if the distance between the collector and the dispensing needle is greater, the configuration is known as FFES or far-field electrospinning \unskip~\cite{527120:12073581}.
 
 
 
-\paragraph{Far Field Spinning}In  a far field electrospinning the process continues ... Decreasing the jet diameter, the surface charge density increases and the resulting high repulsive forces split the jet into several smaller jets. The jet is seriously elongated by a bending and whipping processes caused by electrostatic repulsion initiated at small bends in the fiber, until it is finally deposited on the collector. Two types of collector may be used, either stationary or rotary collector.
+\subsubsection{Far Field Spinning}In  a far field electrospinning the process continues ... Decreasing the jet diameter, the surface charge density increases and the resulting high repulsive forces split the jet into several smaller jets. The jet is seriously elongated by a bending and whipping processes caused by electrostatic repulsion initiated at small bends in the fiber, until it is finally deposited on the collector. Two types of collector may be used, either stationary or rotary collector.
     
 \section{"Electro - DC - monoaxial - solution - NF - spinning"}
 
@@ -344,6 +342,46 @@ Microfluidic spinning therefore has the potential to enable veryprecisely tuneab
 \end{figure*}
 \egroup
 Near-field electrospinning is considered to be an outstanding technique to fabricate polymer fibers with spatial control and it has suffered several modifications to improve the precision and accuracy of the fiber deposition. This paper intents to collect the NFES variants of electrospunable polymer solutions with spatial control in recent research.
+
+Nanofibers are fibers with diameters in the nanometer range. The development of nanofibers has greatly enhanced the scope for meeting up the modern world challenges. 
+
+Currently there are two types of electrospinning systems available for producing nanofiber: needle based electrospinning and needleless electrospinning. This paper summarizes the basic mechanism of various types of needle based and needleless spinning systems described in various literatures by many researchers.
+
+
+
+\subsection{Low-Voltage NFES (LV NFES) \unskip~\protect\cite{527120:11973130}}Some differences have been discovered between LV-NFES and conventional NFES. Low voltage near field electrospinning produces thinner fibers with lower voltages. Moreover, when implementing a moving stage, the fibers are affected by the mechanical stretching. Bisht et al. \unskip~\cite{527120:11973130} reported that thinner diameters are yield with the increase of the x-y stage velocity, and larger diameters by decreasing the stage velocity.
+
+
+
+\subsection{Scanning Tip Electrospinning \unskip~\protect\cite{527120:11974306}}Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+
+\subsection{3D Electrospinning \unskip~\protect\cite{527120:11974313} \mbox{}\protect\newline Electrohydro-dynamic 3D Print-patterning or Electrohydro-dynamic Jetting \unskip~\protect\cite{527120:11974310}}Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+
+\subsection{Multinozzle NFES \unskip~\protect\cite{527120:11974322,527120:11974323,527120:11974324}}Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+
+\subsection{Electrohydro-dynamic Writing or Mechanoelectrospinning (MES) \unskip~\protect\cite{527120:11974311} \mbox{}\protect\newline Electrohydro-dynamic Direct-Write (EDW) \unskip~\protect\cite{527120:11974328} \mbox{}\protect\newline Mechano-Electrospinning \unskip~\protect\cite{527120:11974304}}Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+
+\subsection{Suspension NFES \unskip~\protect\cite{527120:12033656}}Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+
+\subsection{Helix Electrohydro-dynamic Printing (HE-printing) \unskip~\protect\cite{527120:11974308} \mbox{}\protect\newline Electrohydro-dynamic (EHD) jet printing \unskip~\protect\cite{527120:11974320}}Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+
+\subsection{Airflow-assisted Electrohydro-dynamic Direct-writing (EDW) \unskip~\protect\cite{527120:11974312}}Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+
+\subsection{Tethered Pyro-Electrohydro-dynamic Spinning (TPES) \unskip~\protect\cite{527120:11974307}}Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
     
 \section{Polymer Solution}
 In electrospinning, it is typically agreed that the diameter of the fibers increased with higher concentration due to greater viscosity which withstands stretching. In near field electrospinning, similar observations have been reported where concentration increases, fiber diameter increased\unskip~\cite{527120:11974306,527120:11974329}. However, in separate studies by Pan et al.\unskip~\cite{527120:11974317,527120:12321129} using poly(\ensuremath{\gamma }-benzyl \ensuremath{\alpha }, l-glutamate) and polyvinylidene fluoride (PVDF) reported reduction in fiber diameter with increasing concentration.
@@ -580,49 +618,6 @@ Poly(ethylene oxide) (PEO; MW = 400,000 $g/mol $) &
 \makeatletter\@ifundefined{TwoColDocument}{}{\twocolumn}\makeatother 
 \end{landscape}
 
-    
-\section{NFES Variants}
-[SECTION to be REMOVED]
-
-Nanofibers are fibers with diameters in the nanometer range. The development of nanofibers has greatly enhanced the scope for meeting up the modern world challenges. 
-
-Currently there are two types of electrospinning systems available for producing nanofiber: needle based electrospinning and needleless electrospinning. This paper summarizes the basic mechanism of various types of needle based and needleless spinning systems described in various literatures by many researchers.
-
-
-
-\subsection{Low-Voltage NFES (LV NFES) \unskip~\protect\cite{527120:11973130}}Some differences have been discovered between LV-NFES and conventional NFES. Low voltage near field electrospinning produces thinner fibers with lower voltages. Moreover, when implementing a moving stage, the fibers are affected by the mechanical stretching. Bisht et al. \unskip~\cite{527120:11973130} reported that thinner diameters are yield with the increase of the x-y stage velocity, and larger diameters by decreasing the stage velocity.
-
-
-
-\subsection{Scanning Tip Electrospinning \unskip~\protect\cite{527120:11974306}}Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-
-\subsection{3D Electrospinning \unskip~\protect\cite{527120:11974313} \mbox{}\protect\newline Electrohydro-dynamic 3D Print-patterning or Electrohydro-dynamic Jetting \unskip~\protect\cite{527120:11974310}}Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-
-\subsection{Multinozzle NFES \unskip~\protect\cite{527120:11974322,527120:11974323,527120:11974324}}Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-
-\subsection{Electrohydro-dynamic Writing or Mechanoelectrospinning (MES) \unskip~\protect\cite{527120:11974311} \mbox{}\protect\newline Electrohydro-dynamic Direct-Write (EDW) \unskip~\protect\cite{527120:11974328} \mbox{}\protect\newline Mechano-Electrospinning \unskip~\protect\cite{527120:11974304}}Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-
-\subsection{Suspension NFES \unskip~\protect\cite{527120:12033656}}Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-
-\subsection{Helix Electrohydro-dynamic Printing (HE-printing) \unskip~\protect\cite{527120:11974308} \mbox{}\protect\newline Electrohydro-dynamic (EHD) jet printing \unskip~\protect\cite{527120:11974320}}Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-
-\subsection{Airflow-assisted Electrohydro-dynamic Direct-writing (EDW) \unskip~\protect\cite{527120:11974312}}Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-
-\subsection{Tethered Pyro-Electrohydro-dynamic Spinning (TPES) \unskip~\protect\cite{527120:11974307}}Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
     
 \section{Conclusion}
 
