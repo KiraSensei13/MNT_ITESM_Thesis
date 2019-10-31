@@ -1,4 +1,4 @@
-﻿Polymer,Molecular Weight,Solvent,Solvent Surface Tension,Solvent Dielectric Constant,Solvent Boiling Point,Solvent Density,Solvent Vapour Pressure,NFES Type,Polymer Concentration,Nozzle Diameter,Solution Deposition Rate,Collector Substrate,Nozzle to collector Distance,NFES Applied Voltage,NFES Stage Velocity,Fiber Diameter,Distance Between Fibers,Reference
+﻿Polymer,Polymer Molecular Weight,Solvent,Solvent Surface Tension,Solvent Dielectric Constant,Solvent Boiling Point,Solvent Density,Solvent Vapour Pressure,NFES Type,Polymer Concentration,Nozzle Diameter,Solution Deposition Rate,Collector Substrate,Nozzle to Collector Distance,NFES Applied Voltage,NFES Stage Velocity,Fiber Diameter,Distance Between Fibers,Reference
 Gelatin,NA,AceticAcid,26.5555,6.17,117.971,1.051,1.52,NFES,11,NA,NA,PDMS,1.25,1000.00,NA,2500,40,Xue 2014
 PVDF,534000,Acetone,22.4998,20.9,56.2645,0.7845,24.227,3D ES,17,100,0.84,paper,0.75,1900.00,10,NA,NA,Kim 2018
 POSS-PCU,2000,Butanol,24.1947,17.4849,117.7,0.8098,0.58,EHD jetting,20,750,60,NA,1.25,9000.00,10,27500,250,Gupta 2007
