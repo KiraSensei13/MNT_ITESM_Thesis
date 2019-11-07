@@ -60,9 +60,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.50196078"
      inkscape:pageshadow="2"
-     inkscape:zoom="8"
-     inkscape:cx="736.23202"
-     inkscape:cy="569.61304"
+     inkscape:zoom="2"
+     inkscape:cx="192.98566"
+     inkscape:cy="552.39525"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -18482,5 +18482,59 @@ pPun/er0Gw/48ovoKBy6H//Z
          x="161.62735"
          y="186.33527"
          style="stroke-width:0.08433197">3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.8265605px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.09566401"
+       x="28.044216"
+       y="117.03263"
+       id="text4911"><tspan
+         sodipodi:role="line"
+         id="tspan4909"
+         x="28.044216"
+         y="117.03263"
+         style="stroke-width:0.09566401">Dispensing</tspan><tspan
+         sodipodi:role="line"
+         x="28.044216"
+         y="121.81583"
+         style="stroke-width:0.09566401"
+         id="tspan4913">Nozzle</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.8265605px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.09566401"
+       x="35.288177"
+       y="134.84859"
+       id="text4911-2"><tspan
+         sodipodi:role="line"
+         x="35.288177"
+         y="134.84859"
+         style="stroke-width:0.09566401"
+         id="tspan4913-6">Polymer</tspan><tspan
+         sodipodi:role="line"
+         x="35.288177"
+         y="139.63179"
+         style="stroke-width:0.09566401"
+         id="tspan4938">Droplet</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.8265605px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.09566401"
+       x="17.825678"
+       y="150.59129"
+       id="text4911-9"><tspan
+         sodipodi:role="line"
+         x="17.825678"
+         y="150.59129"
+         style="stroke-width:0.09566401"
+         id="tspan4913-0">Taylor Cone</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.8265605px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.09566401"
+       x="11.343387"
+       y="170.43504"
+       id="text4911-5"><tspan
+         sodipodi:role="line"
+         x="11.343387"
+         y="170.43504"
+         style="stroke-width:0.09566401"
+         id="tspan4913-9">Polymer yielding</tspan></text>
   </g>
 </svg>
