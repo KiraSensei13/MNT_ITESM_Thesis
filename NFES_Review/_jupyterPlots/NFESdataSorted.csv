@@ -1,6 +1,6 @@
 ﻿Polymer,Polymer Molecular Weight,Solvent,Solvent Surface Tension,Solvent Dielectric Constant,Solvent Boiling Point,Solvent Density,Solvent Vapour Pressure,NFES Type,Polymer Concentration,Nozzle Diameter,Solution Deposition Rate,Collector Substrate,Nozzle to Collector Distance,NFES Applied Voltage,NFES Stage Velocity,Fiber Diameter,Distance Between Fibers,Reference,,
 PEO,300000,Water,72.8,80.1,99.974,1,2.3393,Scanning Tip,7,100,0.1,NA,0.5,800,120,61,NA,Chang 2008,,
-MEH-PPV,380000,toluene,28.53,2.38,110.6,0.8623,3.8,typical,0.08,260,50,Si,0.5,1300,500,100,100,Camillo 2013,,
+MEH-PPV,380000,toluene,28.53,2.38,110.6,0.8623,3.8,typical,0.08,260,50,Si,0.5,1300,500,100,100,Camillo2013,,
 MEH-PPV,380000,toluene,28.53,2.38,110.6,0.8623,3.8,typical,0.08,260,50,SiO2,0.5,1300,500,100,100,Camillo 2013,,
 PEO,300000,toluene,28.53,2.38,110.6,0.8623,3.8,typical,0.08,260,50,Si,0.5,1300,500,100,100,Camillo 2013,,
 PEO,300000,toluene,28.53,2.38,110.6,0.8623,3.8,typical,0.08,260,50,SiO2,0.5,1300,500,100,100,Camillo 2013,,
