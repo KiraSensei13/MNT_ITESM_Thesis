@@ -147,9 +147,9 @@ PEO,4000000,NA,NA,NA,NA,NA,NA,NFES,2,150,NA,Si,2,1250,NA,NA,74,Xu2014
 PEO,4000000,NA,NA,NA,NA,NA,NA,AC NFES,2,150,NA,Si,2,1250,NA,NA,20,Xu2014
 PEO,4000000,NA,NA,NA,NA,NA,NA,MultiNozz,2,150,NA,Si,2,1250,NA,NA,7,Xu2014
 ,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,Xue2014
 ,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
+Gelatin,NA,AceticAcid/Ethylacetate,NA,NA,NA,NA,NA,NFES,11,NA,NA,PDMS,1.25,1000,NA,,40,Xue 2014
 ,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,
@@ -188,8 +188,8 @@ PEO,300000,Water,72.8,80.1,99.974,1,2.3393,NFES,8,400,NA,Si,0.5,1100,200,740,20,
 PMMA,NA,Nitromethane,37.48,35.87,101.2,1.1382,3.6,NFES,NA,NA,NA,NA,2.4,1600,60,1540,NA,Fattahi 2017
 PMMA,NA,Nitromethane,37.48,35.87,101.2,1.1382,3.6,NFES,20,NA,50,NA,2,1600,60,1860,NA,Fattahi 2017
 PMMA,NA,Nitromethane,37.48,35.87,101.2,1.1382,3.6,NFES,NA,NA,50,NA,2,1600,60,1860,NA,Fattahi 2017
-Gelatin,NA,AceticAcid,26.5555,6.17,117.971,1.051,1.52,NFES,11,NA,NA,PDMS,1.25,1000,NA,2500,40,Xue 2014
-Gelatin,NA,Ethylacetate,23.17,6.02,77.1,0.902,10,NFES,11,NA,NA,PDMS,1.25,1000,NA,2500,40,Xue 2014
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
 PMMA,NA,Nitromethane,37.48,35.87,101.2,1.1382,3.6,NFES,NA,NA,NA,NA,1.6,1600,60,3810,NA,Fattahi 2017
 PMMA,NA,Nitromethane,37.48,35.87,101.2,1.1382,3.6,NFES,NA,NA,150,NA,2,1600,60,3960,NA,Fattahi 2017
 PMMA,NA,Nitromethane,37.48,35.87,101.2,1.1382,3.6,NFES,26,NA,50,NA,2,1600,60,4730,NA,Fattahi 2017
