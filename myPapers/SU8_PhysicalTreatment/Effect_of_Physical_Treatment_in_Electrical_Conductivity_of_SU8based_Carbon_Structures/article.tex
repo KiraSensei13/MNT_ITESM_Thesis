@@ -1,0 +1,246 @@
+%%
+%% Copyright 2007, 2008, 2009 Elsevier Ltd
+%%
+%% This file is part of the 'Elsarticle Bundle'.
+%% ---------------------------------------------
+%%
+%% It may be distributed under the conditions of the LaTeX Project Public
+%% License, either version 1.2 of this license or (at your option) any
+%% later version.  The latest version of this license is in
+%%    http://www.latex-project.org/lppl.txt
+%% and version 1.2 or later is part of all distributions of LaTeX
+%% version 1999/12/01 or later.
+%%
+%% The list of all files belonging to the 'Elsarticle Bundle' is
+%% given in the file `manifest.txt'.
+%%
+\documentclass[3p,,preprint,12pt]{elsarticle}
+\makeatletter\if@twocolumn\PassOptionsToPackage{switch}{lineno}\else\fi\makeatother
+
+
+\usepackage{tabulary,xcolor}
+\usepackage{amsfonts,amsmath,amssymb}
+\usepackage[T1]{fontenc}
+\makeatletter
+\let\save@ps@pprintTitle\ps@pprintTitle
+\def\ps@pprintTitle{\save@ps@pprintTitle\gdef\@oddfoot{\footnotesize\itshape \null\hfill\today}}
+\def\hlinewd#1{%
+  \noalign{\ifnum0=`}\fi\hrule \@height #1%
+  \futurelet\reserved@a\@xhline}
+\def\tbltoprule{\hlinewd{.8pt}\\[-12pt]}
+\def\tblbottomrule{\noalign{\vspace*{6pt}}\hline\noalign{\vspace*{2pt}}}
+\def\tblmidrule{\noalign{\vspace*{6pt}}\hline\noalign{\vspace*{2pt}}}
+\AtBeginDocument{\ifNAT@numbers \biboptions{sort&compress}\fi}
+\makeatother
+
+  
+
+
+\usepackage{ifluatex}
+\ifluatex
+\usepackage{fontspec}
+\defaultfontfeatures{Ligatures=TeX}
+\usepackage[]{unicode-math}
+\unimathsetup{math-style=TeX}
+\else 
+\usepackage[utf8]{inputenc}
+\fi 
+\ifluatex\else\usepackage{stmaryrd}\fi
+
+  
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Following additional macros are required to function some 
+% functions which are not available in the class used.
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\usepackage{url,multirow,morefloats,floatflt,cancel,tfrupee}
+\makeatletter
+
+
+\AtBeginDocument{\@ifpackageloaded{textcomp}{}{\usepackage{textcomp}}}
+\makeatother
+\usepackage{colortbl}
+\usepackage{xcolor}
+\usepackage{pifont}
+\usepackage[nointegrals]{wasysym}
+\urlstyle{rm}
+\makeatletter
+
+%%%For Table column width calculation.
+\def\mcWidth#1{\csname TY@F#1\endcsname+\tabcolsep}
+
+%%Hacking center and right align for table
+\def\cAlignHack{\rightskip\@flushglue\leftskip\@flushglue\parindent\z@\parfillskip\z@skip}
+\def\rAlignHack{\rightskip\z@skip\leftskip\@flushglue \parindent\z@\parfillskip\z@skip}
+
+%Etal definition in references
+\@ifundefined{etal}{\def\etal{\textit{et~al}}}{}
+
+
+%\if@twocolumn\usepackage{dblfloatfix}\fi
+\usepackage{ifxetex}
+\ifxetex\else\if@twocolumn\@ifpackageloaded{stfloats}{}{\usepackage{dblfloatfix}}\fi\fi
+
+\AtBeginDocument{
+\expandafter\ifx\csname eqalign\endcsname\relax
+\def\eqalign#1{\null\vcenter{\def\\{\cr}\openup\jot\m@th
+  \ialign{\strut$\displaystyle{##}$\hfil&$\displaystyle{{}##}$\hfil
+      \crcr#1\crcr}}\,}
+\fi
+}
+
+%For fixing hardfail when unicode letters appear inside table with endfloat
+\AtBeginDocument{%
+  \@ifpackageloaded{endfloat}%
+   {\renewcommand\efloat@iwrite[1]{\immediate\expandafter\protected@write\csname efloat@post#1\endcsname{}}}{\newif\ifefloat@tables}%
+}%
+
+\def\BreakURLText#1{\@tfor\brk@tempa:=#1\do{\brk@tempa\hskip0pt}}
+\let\lt=<
+\let\gt=>
+\def\processVert{\ifmmode|\else\textbar\fi}
+\let\processvert\processVert
+
+\@ifundefined{subparagraph}{
+\def\subparagraph{\@startsection{paragraph}{5}{2\parindent}{0ex plus 0.1ex minus 0.1ex}%
+{0ex}{\normalfont\small\itshape}}%
+}{}
+
+% These are now gobbled, so won't appear in the PDF.
+\newcommand\role[1]{\unskip}
+\newcommand\aucollab[1]{\unskip}
+  
+\@ifundefined{tsGraphicsScaleX}{\gdef\tsGraphicsScaleX{1}}{}
+\@ifundefined{tsGraphicsScaleY}{\gdef\tsGraphicsScaleY{.9}}{}
+% To automatically resize figures to fit inside the text area
+\def\checkGraphicsWidth{\ifdim\Gin@nat@width>\linewidth
+	\tsGraphicsScaleX\linewidth\else\Gin@nat@width\fi}
+
+\def\checkGraphicsHeight{\ifdim\Gin@nat@height>.9\textheight
+	\tsGraphicsScaleY\textheight\else\Gin@nat@height\fi}
+
+\def\fixFloatSize#1{}%\@ifundefined{processdelayedfloats}{\setbox0=\hbox{\includegraphics{#1}}\ifnum\wd0<\columnwidth\relax\renewenvironment{figure*}{\begin{figure}}{\end{figure}}\fi}{}}
+\let\ts@includegraphics\includegraphics
+
+\def\inlinegraphic[#1]#2{{\edef\@tempa{#1}\edef\baseline@shift{\ifx\@tempa\@empty0\else#1\fi}\edef\tempZ{\the\numexpr(\numexpr(\baseline@shift*\f@size/100))}\protect\raisebox{\tempZ pt}{\ts@includegraphics{#2}}}}
+
+%\renewcommand{\includegraphics}[1]{\ts@includegraphics[width=\checkGraphicsWidth]{#1}}
+\AtBeginDocument{\def\includegraphics{\@ifnextchar[{\ts@includegraphics}{\ts@includegraphics[width=\checkGraphicsWidth,height=\checkGraphicsHeight,keepaspectratio]}}}
+
+\DeclareMathAlphabet{\mathpzc}{OT1}{pzc}{m}{it}
+
+\def\URL#1#2{\@ifundefined{href}{#2}{\href{#1}{#2}}}
+
+%%For url break
+\def\UrlOrds{\do\*\do\-\do\~\do\'\do\"\do\-}%
+\g@addto@macro{\UrlBreaks}{\UrlOrds}
+
+
+
+\edef\fntEncoding{\f@encoding}
+\def\EUoneEnc{EU1}
+\makeatother
+\def\floatpagefraction{0.8} 
+\def\dblfloatpagefraction{0.8}
+\def\style#1#2{#2}
+\def\xxxguillemotleft{\fontencoding{T1}\selectfont\guillemotleft}
+\def\xxxguillemotright{\fontencoding{T1}\selectfont\guillemotright}
+
+\newif\ifmultipleabstract\multipleabstractfalse%
+\newenvironment{typesetAbstractGroup}{}{}%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\emergencystretch 20pt \tolerance = 1500 \def\floatpagefraction{0.8}
+
+
+
+
+\usepackage{float}
+
+\begin{document}
+
+
+
+\begin{frontmatter}
+	
+\title{Effect of Physical Treatment in Electrical Conductivity of SU-8-based Carbon Structures
+}
+    
+\author[a4afda52a866c]{Saeed Beigiborouleni}
+\ead{saeed.beigi@tec.mx}
+\author[a4afda52a866c]{Antonio Osamu Katagiri Tanaka}
+\ead{oskatagiri@gmail.com}
+    
+\address[a4afda52a866c]{
+    ITESM MTY\unskip, Av. Eugenio Garza Sada Sur\unskip, Monterrey\unskip, 2501\unskip, N.L.\unskip, Mexico}
+  
+
+\begin{abstract}
+[TODO: Re-write when the other sections are completed ...]
+
+The effects of physical treatment in electrical conductivity of SU-8 films are investigated. SU-8 films were fabricated through mechanical treatment and stabilization followed by pyrolyzation and characterized by four-point-probe method. Based on previous evidence, it is expected that the induced stress to increase the electrical conductivity of the carbon films. However, the SU-8 carbon films amendment after pyrolysis is mainly due to degassing losses, rather than strain induced forces, hence the small to none differences between the stress-induced and control samples. [AGREE?]
+\end{abstract}
+\end{frontmatter}
+    
+\section{Introduction}
+Nanostructures and nanostructured materials such as nanotubes, thin films, suspended nanofibers, and nanofiber mats exhibit unique properties that make them suitable as circuitry elements, structural materials and analytical sensors within micro-mechanical systems. Carbon-based nanostructures have been of interest due to their low reactivity, good electrical and thermal properties with electrochemical stability\unskip~\cite{708527:16798890}. One technique to fabricate carbon structures is through heat treatment/carbonization of organic materials. Organic materials decompose into simpler compounds when exposed to high temperatures in an inert atmosphere or vaccum\unskip~\cite{708527:16798894}; this process is known as pyrolysis. SU-8 is a well-known negative high transparency UV photoresist (see Figure~\ref{f-d9067a619988}) used as a carbon precursor in recent works\unskip~\cite{708527:16798894,708527:16798991,708527:16798990}. 
+
+
+\bgroup
+\fixFloatSize{images/c87f718a-dcb5-4fbe-957b-20a0d5843959-usu8composition.png}
+\begin{figure}[!htbp]
+\centering \makeatletter\IfFileExists{images/c87f718a-dcb5-4fbe-957b-20a0d5843959-usu8composition.png}{\includegraphics{images/c87f718a-dcb5-4fbe-957b-20a0d5843959-usu8composition.png}}{}
+\makeatother 
+\caption{{SU-8 2000 Series Resists Composition. a) photo initiator; b-c) epoxy groups of different SU-8 monomers; d) solvent}}
+\label{f-d9067a619988}
+\end{figure}
+\egroup
+Cardenas-Benitez et al.\unskip~\cite{708527:16798894} studied the pyrolysis-induced shrinkage of photocured SU-8 structures due to the volatilized material/degassing and surface area of the microstructures, where the structures shrank about$70\% $ of their original size. Canton et al.\unskip~\cite{708527:16798990} reported that the shrinkage and elongation of suspended SU-8 fibers during pyrolysis influences the resulting electrical properties. In Canton et al. deposited fibers in supporting walls, as the walls shrink during pyrolysis strain forces elongate the fibers. Evidence states that the electrical conductivity increases when fibers are elongated/stretched with a decrease of their diameter\unskip~\cite{708527:16798990}. 
+
+On the other hand, literature suggest that the electrical conductivity of carbon electrodes is enhanced with the execution of mechanical treatments, as the precursor polymer chains align within the fibers. Recent efforts \unskip~\cite{708527:16799034,708527:16799035} report carbon fibers with superior electrical conductivity, where the polymer chains are aligned with the aid of carbon nanotubes and hydro-electromechanical strain via electrospinning processes.
+
+In this paper, the effects of physical treatment in electrical conductivity of SU-8 films. SU-8 films were fabricated through mechanical treatment and stabilization followed by pyrolyzation and characterized by the four-point-probe method. Based on previous evidence, it is expected that the induced stress to increase the electrical conductivity of the carbon films.
+    
+\section{Materials and Methods}
+[TODO: List used materials and their origin]
+
+[TODO: Detailed preparation of the photoresist films]
+
+
+\bgroup
+\fixFloatSize{images/8b20b7c4-6432-49d6-aeab-5f61950533fe-umethod.png}
+\begin{figure*}[!htbp]
+\centering \makeatletter\IfFileExists{images/8b20b7c4-6432-49d6-aeab-5f61950533fe-umethod.png}{\includegraphics{images/8b20b7c4-6432-49d6-aeab-5f61950533fe-umethod.png}}{}
+\makeatother 
+\caption{{Schematic diagram of the SU-8 carbon film fabrication process. a) . b) . c) . d) . e) . f) . g) . h) . i) . j) . k) . l) . }}
+\label{f-471d296f0590}
+\end{figure*}
+\egroup
+
+    
+\section{Results and discussion}
+[TODO: Depict the characterization evidence]
+    
+\section{Nomenclature}
+[TODO: Add used acronyms and their meaning]
+\begin{table}[!htbp]
+\def\arraystretch{1}
+\ignorespaces 
+\centering 
+\begin{tabulary}{\linewidth}{LL}
+\tbltoprule 
+ &
+  \\
+\tblbottomrule 
+\end{tabulary}\par 
+\end{table}
+
+\section*{Acknowledgments} [TODO: Don't know if this is required ...]
+    
+
+
+
+\bibliographystyle{elsarticle-num}
+
+\bibliography{\jobname}
+
+\end{document}
