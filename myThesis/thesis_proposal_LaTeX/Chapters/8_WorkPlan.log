@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.6960 64-bit) (preloaded format=pdflatex 2019.2.1)  10 MAY 2019 18:14
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.6960 64-bit) (preloaded format=pdflatex 2019.2.1)  25 MAR 2020 07:31
 entering extended mode
 **./8_WorkPlan.tex
 (8_WorkPlan.tex
@@ -882,7 +882,7 @@ Missing character: There is no 0 in font nullfont!
 Missing character: There is no 0 in font nullfont!
 ! Undefined control sequence.
 l.61 \ganttbar
-              {Fabrication of Carbon Nano-wires @MTY}{0}{3}
+              {Fabrication of Carbon Nano-wires @MTY}{2}{3}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -922,11 +922,11 @@ Missing character: There is no @ in font nullfont!
 Missing character: There is no M in font nullfont!
 Missing character: There is no T in font nullfont!
 Missing character: There is no Y in font nullfont!
-Missing character: There is no 0 in font nullfont!
+Missing character: There is no 2 in font nullfont!
 Missing character: There is no 3 in font nullfont!
 ! Undefined control sequence.
 l.62 \ganttbarcon
-                 {Data Collection @MTY}{3}{3}
+                 {Data Collection @MTY}{5}{3}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -951,11 +951,11 @@ Missing character: There is no @ in font nullfont!
 Missing character: There is no M in font nullfont!
 Missing character: There is no T in font nullfont!
 Missing character: There is no Y in font nullfont!
-Missing character: There is no 3 in font nullfont!
+Missing character: There is no 5 in font nullfont!
 Missing character: There is no 3 in font nullfont!
 ! Undefined control sequence.
 l.63 \ganttbarcon
-                 {Analysis of Results @CEM}{6}{2}
+                 {Analysis of Results @CEM}{8}{2}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -983,11 +983,11 @@ Missing character: There is no @ in font nullfont!
 Missing character: There is no C in font nullfont!
 Missing character: There is no E in font nullfont!
 Missing character: There is no M in font nullfont!
-Missing character: There is no 6 in font nullfont!
+Missing character: There is no 8 in font nullfont!
 Missing character: There is no 2 in font nullfont!
 ! Undefined control sequence.
 l.64 \ganttbarcon
-                 {Submit Thesis \& Defend @CEM}{8}{4}
+                 {Submit Thesis \& Defend @CEM}{10}{2}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -1017,8 +1017,9 @@ Missing character: There is no @ in font nullfont!
 Missing character: There is no C in font nullfont!
 Missing character: There is no E in font nullfont!
 Missing character: There is no M in font nullfont!
-Missing character: There is no 8 in font nullfont!
-Missing character: There is no 4 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 2 in font nullfont!
 
 Overfull \hbox (20.0pt too wide) in paragraph at lines 58--65
 []
@@ -1396,7 +1397,7 @@ Overfull \hbox (5.00002pt too wide) in paragraph at lines 71--72
  
 Here is how much of TeX's memory you used:
  21 strings out of 492946
- 509 string characters out of 3126267
+ 527 string characters out of 3126267
  57009 words of memory out of 3000000
  4015 multiletter control sequences out of 15000+200000
  3986 words of font info for 15 fonts, out of 3000000 for 9000
