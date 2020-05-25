@@ -25,12 +25,14 @@
 %	CLASS DEFINITION AND PARAMETERS
 %----------------------------------------------------------------------------------------
 
-\NeedsTeXFormat{LaTeX2e}[1996/12/01]
+%\NeedsTeXFormat{LaTeX2e}[1996/12/01]
 \newcommand{\classname}{MastersDoctoralThesis}
 \ProvidesClass{\classname}[2017/08/27 v1.6 LaTeXTemplates.com]
 \providecommand{\baseclass}{book}
+
 \RequirePackage{etoolbox}
 \RequirePackage{xparse}
+
 \newbool{nolistspace}
 \newbool{chapteroneline}
 \newbool{listtoc}
@@ -214,10 +216,12 @@
 }
 \DeclareDocumentCommand{\author}{m}{\newcommand{\authorname}{#1}\renewcommand{\@author}{#1}}
 \NewDocumentCommand{\supervisor}{m}{\newcommand{\supname}{#1}}
+\NewDocumentCommand{\cosupervisor}{m}{\newcommand{\cosupname}{#1}}
 \NewDocumentCommand{\examiner}{m}{\newcommand{\examname}{#1}}
 \NewDocumentCommand{\degree}{m}{\newcommand{\degreename}{#1}}
 \NewDocumentCommand{\addresses}{m}{\newcommand{\addressname}{#1}}
 \NewDocumentCommand{\university}{m}{\newcommand{\univname}{#1}}
+\NewDocumentCommand{\campus}{m}{\newcommand{\campusname}{#1}}
 \NewDocumentCommand{\department}{m}{\newcommand{\deptname}{#1}}
 \NewDocumentCommand{\group}{m}{\newcommand{\groupname}{#1}}
 \NewDocumentCommand{\faculty}{m}{\newcommand{\facname}{#1}}
@@ -451,6 +455,33 @@ KOMA-script documentation for details.}]{fancyhdr}
 		\thispagestyle{plain}
 		\null\vfil
 		{\noindent\huge\bfseries\authorshipname\par\vspace{10pt}}
+	}{}
+}
+
+%----------------------------------------------------------------------------------------
+%	COMMITTEE'S PAGE DESIGN
+%----------------------------------------------------------------------------------------
+
+\newcommand{\supervisingcommittee}{Supervising Committee}
+\providecaptionname{american,australian,british,canadian,english,newzealand,UKenglish,USenglish}{\supervisingcommittee}{Supervising Committee} % Supervising Committee text for English countries
+\providecaptionname{german,ngerman,austrian,naustrian}{\supervisingcommittee}{Überwachungsausschuss\"arung} % Declaration of Authorship text for Germanic countries
+
+\ifbool{consistentlayout}{
+	\DeclareDocumentEnvironment{committee}{}{
+		\addchap*{\supervisingcommittee}
+		}{}%
+}{
+	\DeclareDocumentEnvironment{committee}{}{
+		\checktoopen
+		\tttypeout{\supervisingcommittee}
+		\thispagestyle{plain}
+		\begin{center}
+			{\normalsize \MakeUppercase{\univname} \par}% University name in capitals
+			\campusname
+			\bigskip
+		\end{center}
+		\null\vfil
+		{\noindent\huge\bfseries\supervisingcommittee\par\vspace{10pt}}
 	}{}
 }
 

@@ -1,0 +1,402 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Masters/Doctoral Thesis 
+% LaTeX Template
+% Version 2.5 (27/8/17)
+%
+% This template was downloaded from:
+% http://www.LaTeXTemplates.com
+%
+% Version 2.x major modifications by:
+% Vel (vel@latextemplates.com)
+%
+% This template is based on a template by:
+% Steve Gunn (http://users.ecs.soton.ac.uk/srg/softwaretools/document/templates/)
+% Sunil Patel (http://www.sunilpatel.co.uk/thesis-template/)
+%
+% Template license:
+% CC BY-NC-SA 3.0 (http://creativecommons.org/licenses/by-nc-sa/3.0/)
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%----------------------------------------------------------------------------------------
+%	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
+%----------------------------------------------------------------------------------------
+
+\documentclass[
+% The default document font size, options: 10pt, 11pt, 12pt
+11pt, 
+% Two side (alternating margins) for binding by default, uncomment to switch to one side
+%oneside,
+% ngerman for German
+english,
+% Single line spacing, alternatives: onehalfspacing or doublespacing
+singlespacing,
+% Uncomment to enable draft mode (no pictures, no links, overfull hboxes indicated)
+%draft,
+% If the document is onehalfspacing or doublespacing, uncomment this to set spacing in lists to single
+%nolistspacing,
+% Uncomment to add the list of figures/tables/etc to the table of contents
+%liststotoc,
+% Uncomment to add the main table of contents to the table of contents
+%toctotoc,
+% Uncomment to add space between paragraphs
+%parskip,
+% Uncomment to not load the hyperref package
+%nohyperref,
+% Uncomment to get a line under the header
+headsepline,
+% Uncomment to place the chapter title next to the number on one line
+%chapterinoneline,
+% Uncomment to change the layout of the declaration, abstract and acknowledgements pages to match the default layout
+%consistentlayout,
+% The class file specifying the document structure
+]{MastersDoctoralThesis}
+
+% Required for inputting international characters
+\usepackage[utf8]{inputenc}
+
+% Output font encoding for international characters
+\usepackage[T1]{fontenc}
+
+% Use the Palatino font by default
+\usepackage{mathpazo}
+
+% Use the bibtex backend with the authoryear citation style (which resembles APA)
+\usepackage[backend=bibtex,style=authoryear,natbib=true]{biblatex}
+
+% The filename of the bibliography
+\addbibresource{example.bib}
+
+% Required to generate language-dependent quotes in the bibliography
+\usepackage[autostyle=true]{csquotes} 
+
+%----------------------------------------------------------------------------------------
+%	MARGIN SETTINGS
+%----------------------------------------------------------------------------------------
+
+\geometry{
+	paper=a4paper,      % Change to letterpaper for US letter
+	inner=2.5cm,        % Inner margin
+	outer=3.8cm,        % Outer margin
+	bindingoffset=.5cm, % Binding offset
+	top=1.5cm,          % Top margin
+	bottom=1.5cm,       % Bottom margin
+	%showframe,         % Uncomment to show how the type block is set on the page
+}
+
+%----------------------------------------------------------------------------------------
+%	THESIS INFORMATION
+%----------------------------------------------------------------------------------------
+
+% Your thesis title, this is used in the title and abstract, print it elsewhere with \ttitle
+\thesistitle{Thesis Title}
+
+% Your supervisor's name, this is used in the title page, print it elsewhere with \supname
+\supervisor{PhD. firstName \textsc{lastName}}
+
+% Your examiner's name, this is not currently used anywhere in the template, print it elsewhere with \examname
+\examiner{}
+
+% Your degree name, this is used in the title page and abstract, print it elsewhere with \degreename
+\degree{Master in Nanotechnology (MNT)}
+
+% Your name, this is used in the title page and abstract, print it elsewhere with \authorname
+\author{firstName \textsc{lastName}}
+
+% Your address, this is not currently used anywhere in the template, print it elsewhere with \addressname
+\addresses{Campo Grande 1341, Residencial El Refugio, CP 76146, Santiago de Querétaro, Qro.}
+
+% Your subject area, this is not currently used anywhere in the template, print it elsewhere with \subjectname
+\subject{Nanotechnology}
+
+% Keywords for your thesis, this is not currently used anywhere in the template, print it elsewhere with \keywordnames
+\keywords{tec, de, monterrey}
+
+% Your university's name and URL, this is used in the title page and abstract, print it elsewhere with \univname
+\university{\href{https://tec.mx/}{Instituto Tecnonólogico y de Estudios Superiores de Monterrey}}
+
+% Your department's name and URL, this is used in the title page and abstract, print it elsewhere with \deptname
+\department{\href{https://tec.mx/}{School of Engineering and Sciences}}
+
+% Your research group's name and URL, this is used in the title page, print it elsewhere with \groupname
+\group{\href{https://tec.mx/es/estado-de-mexico}{ITESM Campus Estado de México}}
+
+% Your faculty's name and URL, this is used in the title page and abstract, print it elsewhere with \facname
+\faculty{\href{https://samp.itesm.mx/Programas/VistaPrograma?clave=MNT16&modoVista=Default&idioma=ES&cols=0}{Faculty: Nanotechnology}}
+
+\AtBeginDocument{
+\hypersetup{pdftitle=\ttitle}          % Set the PDF's title to your title
+\hypersetup{pdfauthor=\authorname}     % Set the PDF's author to your name
+\hypersetup{pdfkeywords=\keywordnames} % Set the PDF's keywords to your keywords
+}
+
+\begin{document}
+
+% Use roman page numbering style (i, ii, iii, iv...) for the pre-content pages
+\frontmatter
+
+% Default to the plain heading style until the thesis style is called for the body content
+\pagestyle{plain} 
+
+%----------------------------------------------------------------------------------------
+%	TITLE PAGE
+%----------------------------------------------------------------------------------------
+
+\begin{titlepage}
+\begin{center}
+
+\vspace*{.06\textheight}
+{\scshape\LARGE \univname\par}\vspace{1.5cm} % University name
+\textsc{\Large Masters Thesis}\\[0.5cm]      % Thesis type
+
+\HRule \\[0.4cm]                            % Horizontal line
+{\huge \bfseries \ttitle\par}\vspace{0.4cm} % Thesis title
+\HRule \\[1.5cm]                            % Horizontal line
+ 
+\begin{minipage}[t]{0.4\textwidth}
+\begin{flushleft} \large
+\emph{Author:}\\
+
+% Author name - remove the \href bracket to remove the link
+%\href{http://www.osamukatagiri.com}{\authorname}
+\authorname
+\end{flushleft}
+\end{minipage}
+\begin{minipage}[t]{0.4\textwidth}
+\begin{flushright} \large
+\emph{Supervisor:} \\
+
+% Supervisor name - remove the \href bracket to remove the link
+%\href{http://www.doramedina.com}{\supname}
+\supname
+\end{flushright}
+\end{minipage}\\[3cm]
+ 
+\vfill
+
+\large \textit{A thesis submitted in fulfillment of the requirements\\ for the degree of
+% University requirement text
+\degreename}\\[0.3cm]
+\textit{in}\\[0.4cm]
+% Research group name and department name
+\groupname\\\deptname\\[2cm]
+ 
+\vfill
+
+% Date
+{\large \today}\\[4cm]
+% University/department logo - uncomment to place it
+%\includegraphics{./Figures/uniLogo.png}
+ 
+\vfill
+\end{center}
+\end{titlepage}
+
+%----------------------------------------------------------------------------------------
+%	DECLARATION PAGE
+%----------------------------------------------------------------------------------------
+
+\begin{declaration}
+\addchaptertocentry{\authorshipname} % Add the declaration to the table of contents
+\noindent I, \authorname, declare that this thesis titled, \enquote{\ttitle} and the work presented in it are my own. I confirm that:
+
+\begin{itemize} 
+\item This work was done wholly or mainly while in candidature for a research degree at this University.
+\item Where any part of this thesis has previously been submitted for a degree or any other qualification at this University or any other institution, this has been clearly stated.
+\item Where I have consulted the published work of others, this is always clearly attributed.
+\item Where I have quoted from the work of others, the source is always given. With the exception of such quotations, this thesis is entirely my own work.
+\item I have acknowledged all main sources of help.
+\item Where the thesis is based on work done by myself jointly with others, I have made clear exactly what was done by others and what I have contributed myself.\\
+\end{itemize}
+ 
+\noindent Signed:\\
+\rule[0.5em]{25em}{0.5pt} % This prints a line for the signature
+ 
+\noindent Date:\\
+\rule[0.5em]{25em}{0.5pt} % This prints a line to write the date
+\end{declaration}
+
+\cleardoublepage
+
+%----------------------------------------------------------------------------------------
+%	QUOTATION PAGE
+%----------------------------------------------------------------------------------------
+
+\vspace*{0.2\textheight}
+
+\noindent\enquote{\itshape Thanks to my solid academic training, today I can write hundreds of words on virtually any topic without possessing a shred of information, which is how I got a good job in journalism.}\bigbreak
+
+\hfill Dave Barry
+
+%----------------------------------------------------------------------------------------
+%	ABSTRACT PAGE
+%----------------------------------------------------------------------------------------
+
+\begin{abstract}
+\addchaptertocentry{\abstractname} % Add the abstract to the table of contents
+
+The Thesis Abstract is written here (and usually kept to just this page). The page is kept centered vertically so can expand into the blank space above the title too\ldots \\
+
+\noindent
+\textbf{keywords:} \keywordnames
+\end{abstract}
+
+%----------------------------------------------------------------------------------------
+%	ACKNOWLEDGEMENTS
+%----------------------------------------------------------------------------------------
+
+\begin{acknowledgements}
+\addchaptertocentry{\acknowledgementname} % Add the acknowledgements to the table of contents
+There are a number of people without whom this thesis might not have been written,
+and to whom I am greatly indebted.\\
+
+To my mother, Helena, who continues to learn, grow and develop and who has been a
+source of encouragement and inspiration to me throughout my life, a very special
+thank you for providing a ‘writing space’ and for nurturing me through the months of
+writing. And also for the myriad of ways in which, throughout my life, you have
+actively supported me in my determination to find and realise my potential, and to
+make this contribution to our world.\\
+
+To my mother-in-law, Maryam, known only briefly but loved and missed, who
+represented to me ‘living proof’ of Black women’s ability to redefine and recreate our
+lives despite, and maybe even because of, the tremendously constraining, oppressive
+and repressive situations in which we often exist.\\
+
+To my dear husband, Bala who remains willing to engage with the struggle, and
+ensuing discomfort, of having a partner who refuses to accept the given role of the
+"Black woman" and is actively engaged in redefining and redesigning that role. A
+very special thank you for your practical and emotional support as I added the roles of
+wife and then mother, to the competing demands of business, work, study and
+personal development.\\
+
+Thanks to dear Kamal and Azaria, for being so supportive - even when being ‘without
+Mum’ was hard, and for your help with the bibliography and diagrams. This work is
+for, and because of you and all the generations to come. It is dedicated to all our
+journeys in learning to thrive.\\
+
+It is also dedicated to Josephine - friend, ‘sister’, colleague, ‘co- traveller’ and
+researcher - who knowingly and unknowingly- led me to an understanding of some of
+the more subtle challenges to our ability to thrive. If our attempts to claim our right to
+speak our truth, and to unravel and follow the threads through which our oppression is
+maintained, and are instrumental in helping one other Black woman from ‘going over
+the edge’ - in which sight we continuously live our lives - perhaps, it might be seen
+that your invaluable contribution to the attainment of many of the insights gained was
+worth it. It is also written in honour of all our my grandmothers, and their mothers,
+and grandmothers, and to all our and mothers and grandmothers, who though not
+marked by history struggled so heroically to resist the definitions attributed to them
+by the dominant system and communicate messages of hope and expectation.
+I am also very grateful to Maya Angelou, for the inspiration she has been to methrough her writings, poetry readings and as a living representation of a woman
+thriving. Thanks to Mary Washington, Alice Walker, Jackie Kay, Buchi Emecheta,
+Toni Cade, Lauretta Ngobo, bell hooks, and other Black women writers of the 1980’s,
+who in telling stories for and about us validated me and my experiences in ways I
+cannot begin to explain here.\\
+
+Loving thanks to my friends / learning partners, Agnes, Susan, Ulana and Namonya,
+who played such important roles along the journey, as we mutually engaged in
+making sense of the various challenges we faced and in providing encouragement to
+each other at those times when it seemed impossible to continue. I offer my gratitude
+and appreciation to my supervisors, Judi Marshall and Peter Reason, for the deft ways
+in which you lovingly challenged and supported me through out the whole of this
+work - knowing when to push and when to let up. I offer special thanks to those who
+supported me in the mechanics of producing this thesis. Rosemary, for reading and rereading drafts; Rajwant for editing and proofing; Susan for help with typing and for
+helping me get ‘unstuck’ with this thesis on many occasions; and Peter and Trevor for
+‘rescuing’ me at those times when I was almost defeated by the technology. Most of
+all thanks to God the Divine who continues to make the impossible possible.
+
+\end{acknowledgements}
+
+%----------------------------------------------------------------------------------------
+%	LIST OF CONTENTS/FIGURES/TABLES PAGES
+%----------------------------------------------------------------------------------------
+
+\tableofcontents % Prints the main table of contents
+
+\listoffigures % Prints the list of figures
+
+\listoftables % Prints the list of tables
+
+%----------------------------------------------------------------------------------------
+%	ABBREVIATIONS
+%----------------------------------------------------------------------------------------
+
+\begin{abbreviations}{ll} % Include a list of abbreviations (a table of two columns)
+
+\textbf{ITESM} & \textbf{I}nstituto \textbf{T}ecnonólogico y de \textbf{E}studios \textbf{S}uperiores de \textbf{M}onterrey\\
+
+\end{abbreviations}
+
+%----------------------------------------------------------------------------------------
+%	PHYSICAL CONSTANTS/OTHER DEFINITIONS
+%----------------------------------------------------------------------------------------
+
+\begin{constants}{lr@{${}={}$}l} % The list of physical constants is a three column table
+
+% The \SI{}{} command is provided by the siunitx package, see its documentation for instructions on how to use it
+
+Speed of Light & $c_{0}$ & \SI{2.99792458e8}{\meter\per\second} (exact)\\
+%Constant Name & $Symbol$ & $Constant Value$ with units\\
+
+\end{constants}
+
+%----------------------------------------------------------------------------------------
+%	SYMBOLS
+%----------------------------------------------------------------------------------------
+
+\begin{symbols}{lll} % Include a list of Symbols (a three column table)
+
+$a$ & distance & \si{\meter} \\
+$P$ & power & \si{\watt} (\si{\joule\per\second}) \\
+%Symbol & Name & Unit \\
+
+\addlinespace % Gap to separate the Roman symbols from the Greek
+
+$\omega$ & angular frequency & \si{\radian} \\
+
+\end{symbols}
+
+%----------------------------------------------------------------------------------------
+%	DEDICATION
+%----------------------------------------------------------------------------------------
+
+\dedicatory{Dedicated to}
+This thesis work is dedicated to my parents, William and Karen Ryan, who have always loved me unconditionally and whose good examples have taught me to work hard for the things that I aspire to achieve. They have been a constant source of support and encouragement during the challenges of graduate school and life. I am truly thankful for having you in my life.
+
+%----------------------------------------------------------------------------------------
+%	THESIS CONTENT - CHAPTERS
+%----------------------------------------------------------------------------------------
+
+\mainmatter % Begin numeric (1,2,3...) page numbering
+
+\pagestyle{thesis} % Return the page headers back to the "thesis" style
+
+% Include the chapters of the thesis as separate files from the Chapters folder
+% Uncomment the lines as you write the chapters
+
+\include{Chapters/Chapter1}
+%\include{Chapters/Chapter2} 
+%\include{Chapters/Chapter3}
+%\include{Chapters/Chapter4} 
+%\include{Chapters/Chapter5} 
+
+%----------------------------------------------------------------------------------------
+%	THESIS CONTENT - APPENDICES
+%----------------------------------------------------------------------------------------
+
+\appendix % Cue to tell LaTeX that the following "chapters" are Appendices
+
+% Include the appendices of the thesis as separate files from the Appendices folder
+% Uncomment the lines as you write the Appendices
+
+\include{Appendices/AppendixA}
+%\include{Appendices/AppendixB}
+%\include{Appendices/AppendixC}
+
+%----------------------------------------------------------------------------------------
+%	BIBLIOGRAPHY
+%----------------------------------------------------------------------------------------
+
+\printbibliography[heading=bibintoc]
+
+%----------------------------------------------------------------------------------------
+
+\end{document}  
