@@ -2,8 +2,8 @@
 \babel@toc {english}{}
 \contentsline {chapter}{Supervising Committee}{i}{section*.1}% 
 \contentsline {chapter}{Declaration of Authorship}{ii}{section*.2}% 
-\contentsline {chapter}{Abstract}{iii}{section*.3}% 
-\contentsline {chapter}{Acknowledgements}{iv}{section*.4}% 
+\contentsline {chapter}{Abstract}{iv}{section*.3}% 
+\contentsline {chapter}{Acknowledgements}{v}{section*.4}% 
 \contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.12}% 
 \contentsline {section}{\numberline {1.1}Problem definition and motivation}{2}{section.14}% 
 \contentsline {section}{\numberline {1.2}Hypothesis}{4}{section.15}% 
