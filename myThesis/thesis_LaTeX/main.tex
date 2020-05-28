@@ -46,9 +46,9 @@ parskip,
 % Uncomment to get a line under the header
 headsepline,
 % Uncomment to place the chapter title next to the number on one line
-chapterinoneline,
+%chapterinoneline,
 % Uncomment to change the layout of the declaration, abstract and acknowledgements pages to match the default layout
-consistentlayout,
+%consistentlayout,
 % The class file specifying the document structure
 ]{MastersDoctoralThesis}
 
@@ -66,12 +66,12 @@ consistentlayout,
 \usepackage{ragged2e}
 
 % Use the bibtex backend with the authoryear citation style (which resembles APA)
-\usepackage[backend=biber,natbib=true]{biblatex}
+%\usepackage[backend=biber,natbib=true]{biblatex}
 % MLA, APA, or IEEE? - https://www.overleaf.com/learn/latex/Biblatex_citation_styles
 %\usepackage[style=apa, backend=biber]{biblatex}
 
 % The filename of the bibliography
-\addbibresource{mainBiblio.bib}
+%\addbibresource{mainBiblio.bib}
 
 % Required to generate language-dependent quotes in the bibliography
 \usepackage[autostyle=true]{csquotes}
@@ -95,6 +95,11 @@ consistentlayout,
 
 % include other pdf pages
 \usepackage{pdfpages}
+
+% stop all hyphenation
+%\raggedright
+\sloppy
+\usepackage[none]{hyphenat}
 
 %----------------------------------------------------------------------------------------
 %	MARGIN SETTINGS
@@ -337,16 +342,6 @@ School of Engineering and Sciences\\
 \cleardoublepage
 
 %----------------------------------------------------------------------------------------
-%	LIST OF CONTENTS/FIGURES/TABLES PAGES
-%----------------------------------------------------------------------------------------
-
-\tableofcontents % Prints the main table of contents
-
-\listoffigures % Prints the list of figures
-
-\listoftables % Prints the list of tables
-
-%----------------------------------------------------------------------------------------
 %	ABSTRACT PAGE
 %----------------------------------------------------------------------------------------
 
@@ -422,6 +417,16 @@ helping me get ‘unstuck’ with this thesis on many occasions; and Peter and T
 all thanks to God the Divine who continues to make the impossible possible.
 
 \end{acknowledgements}
+
+%----------------------------------------------------------------------------------------
+%	LIST OF CONTENTS/FIGURES/TABLES PAGES
+%----------------------------------------------------------------------------------------
+
+\tableofcontents % Prints the main table of contents
+
+\listoffigures % Prints the list of figures
+
+\listoftables % Prints the list of tables
 
 %----------------------------------------------------------------------------------------
 %	ABBREVIATIONS
@@ -517,7 +522,11 @@ $\omega$ & angular frequency & \si{\radian} \\
 %	BIBLIOGRAPHY
 %----------------------------------------------------------------------------------------
 
-\printbibliography[title={References}]
+%\printbibliography[title={References}]
+% abbrv, acm, alpha, apalike, ieeetr, plain, siam, unsrt
+\bibliographystyle{plain}
+\renewcommand\bibname{References}
+\bibliography{mainBiblio}
 
 %----------------------------------------------------------------------------------------
 %	THESIS CONTENT - APPENDICES
