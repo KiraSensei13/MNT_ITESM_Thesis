@@ -7,6 +7,9 @@ A level-1 auxiliary file: ./Chapters/5.aux
 A level-1 auxiliary file: ./Chapters/6.aux
 A level-1 auxiliary file: ./Chapters/7.aux
 The style file: plain.bst
-I found no \citation commands---while reading file main.aux
 Database file #1: mainBiblio.bib
-(There was 1 error message)
+Warning--can't use both author and editor fields in Boer2014
+Warning--empty journal in Cardenas2017
+Warning--empty journal in Flores2017
+Warning--can't use both author and editor fields in Landis2011
+(There were 4 warnings)
