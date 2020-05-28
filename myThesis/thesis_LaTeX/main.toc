@@ -1,3 +1,4 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
 \babel@toc {english}{}
 \contentsline {chapter}{Supervising Committee}{i}{section*.1}% 
 \contentsline {chapter}{Declaration of Authorship}{ii}{section*.2}% 

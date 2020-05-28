@@ -66,12 +66,12 @@ headsepline,
 \usepackage{ragged2e}
 
 % Use the bibtex backend with the authoryear citation style (which resembles APA)
-%\usepackage[backend=biber,natbib=true]{biblatex}
+\usepackage[backend=biber,natbib=true]{biblatex}
 % MLA, APA, or IEEE? - https://www.overleaf.com/learn/latex/Biblatex_citation_styles
 %\usepackage[style=apa, backend=biber]{biblatex}
 
 % The filename of the bibliography
-%\addbibresource{mainBiblio.bib}
+\addbibresource{mainBiblio.bib}
 
 % Required to generate language-dependent quotes in the bibliography
 \usepackage[autostyle=true]{csquotes}
@@ -522,11 +522,13 @@ $\omega$ & angular frequency & \si{\radian} \\
 %	BIBLIOGRAPHY
 %----------------------------------------------------------------------------------------
 
-%\printbibliography[title={References}]
-% abbrv, acm, alpha, apalike, ieeetr, plain, siam, unsrt
-\bibliographystyle{plain}
-\renewcommand\bibname{References}
-\bibliography{mainBiblio}
+\printbibliography[title={References}]
+
+%% https://www.overleaf.com/learn/latex/bibtex_bibliography_styles
+%% abbrv, acm, alpha, apalike, ieeetr, plain, siam, unsrt
+%\bibliographystyle{plain}
+%\renewcommand\bibname{References}
+%\bibliography{mainBiblio}
 
 %----------------------------------------------------------------------------------------
 %	THESIS CONTENT - APPENDICES

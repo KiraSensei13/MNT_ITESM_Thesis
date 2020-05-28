@@ -1,15 +1,19 @@
-This is BibTeX, Version 0.99dThe top-level auxiliary file: main.aux
-A level-1 auxiliary file: ./Chapters/1.aux
-A level-1 auxiliary file: ./Chapters/2.aux
-A level-1 auxiliary file: ./Chapters/3.aux
-A level-1 auxiliary file: ./Chapters/4.aux
-A level-1 auxiliary file: ./Chapters/5.aux
-A level-1 auxiliary file: ./Chapters/6.aux
-A level-1 auxiliary file: ./Chapters/7.aux
-The style file: plain.bst
-Database file #1: mainBiblio.bib
-Warning--can't use both author and editor fields in Boer2014
-Warning--empty journal in Cardenas2017
-Warning--empty journal in Flores2017
-Warning--can't use both author and editor fields in Landis2011
-(There were 4 warnings)
+[0] Config.pm:304> INFO - This is Biber 2.12
+[0] Config.pm:307> INFO - Logfile is 'main.blg'
+[27] biber-MSWIN64:315> INFO - === 
+[57] Biber.pm:371> INFO - Reading 'main.bcf'
+[152] Biber.pm:889> INFO - Found 7 citekeys in bib section 0
+[164] Biber.pm:4093> INFO - Processing section 0
+[176] Biber.pm:4254> INFO - Looking for bibtex format file 'mainBiblio.bib' for section 0
+[189] bibtex.pm:1523> INFO - LaTeX decoding ...
+[1125] bibtex.pm:1340> INFO - Found BibTeX data source 'mainBiblio.bib'
+[1141] Utils.pm:193> WARN - month field 'feb' in entry 'Siddiqui2019' is not an integer - this will probably not sort properly.
+[1173] Utils.pm:193> WARN - month field 'jan' in entry 'Hribar2014' is not an integer - this will probably not sort properly.
+[1198] Utils.pm:193> WARN - month field 'feb' in entry 'Landis2011' is not an integer - this will probably not sort properly.
+[1237] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1239] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1242] Biber.pm:3921> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'en-US'
+[1245] Biber.pm:3927> INFO - No sort tailoring available for locale 'en-US'
+[1292] bbl.pm:636> INFO - Writing 'main.bbl' with encoding 'UTF-8'
+[1299] bbl.pm:739> INFO - Output to main.bbl
+[1308] Biber.pm:110> INFO - WARNINGS: 3
