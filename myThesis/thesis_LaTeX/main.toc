@@ -12,17 +12,25 @@
 \contentsline {subsection}{\numberline {1.4.1}General objective}{5}{subsection.18}% 
 \contentsline {subsection}{\numberline {1.4.2}Specific objectives}{5}{subsection.19}% 
 \contentsline {section}{\numberline {1.5}Dissertation Outline}{5}{section.20}% 
-\contentsline {chapter}{\numberline {2}Carbon Nanowires Research Developments in Terms of Published Papers, Synthesis and Production}{6}{chapter.21}% 
-\contentsline {section}{\numberline {2.1}}{6}{section.22}% 
-\contentsline {chapter}{\numberline {3}Near-Field Electrospinning as an Affordable Way to Gain Spatial Control}{7}{chapter.23}% 
-\contentsline {section}{\numberline {3.1}Review of Polymer Solutions for NFES with Spatial Control}{7}{section.24}% 
-\contentsline {chapter}{\numberline {4}Compatible Polymer-Solvent Combinations for Near-Field Electrospinning and Pyrolysis}{8}{chapter.25}% 
-\contentsline {section}{\numberline {4.1}Design and Selection of Candidate Spunable Polymer Solutions}{8}{section.26}% 
-\contentsline {subsection}{\numberline {4.1.1}Rheology of candidate polymer solutions}{8}{subsection.27}% 
-\contentsline {section}{\numberline {4.2}Effect of aromatic groups in oxygen-free polymers in NFES and Pyrolysis}{8}{section.28}% 
-\contentsline {chapter}{\numberline {5}Fabrication of Polymeric Fibers through Near-Field Electrospinning and Photopolymerization}{9}{chapter.29}% 
-\contentsline {section}{\numberline {5.1}}{9}{section.30}% 
-\contentsline {chapter}{\numberline {6}Fabrication of Conductive Carbon nanofibers by Pyrolysis of Polymeric Fibers}{10}{chapter.31}% 
-\contentsline {section}{\numberline {6.1}}{10}{section.32}% 
-\contentsline {chapter}{\numberline {7}Comparison of the Carbon Fibers Obtained Against SU8-based Carbon Fibers}{11}{chapter.33}% 
-\contentsline {section}{\numberline {7.1}Fabrication and Characterization of Legacy SU-8 carbon fibers}{11}{section.34}% 
+\contentsline {chapter}{\numberline {2}Carbon Nanowires Research Developments in Terms of Published Papers, Synthesis and Fabrication}{6}{chapter.21}% 
+\contentsline {section}{\numberline {2.1}Carbon and carbon-based nanomaterials}{7}{section.22}% 
+\contentsline {section}{\numberline {2.2}Carbon nanowires}{8}{section.23}% 
+\contentsline {section}{\numberline {2.3}Nanowires synthesis}{11}{section.24}% 
+\contentsline {subsection}{\numberline {2.3.1}Synthesis of conducting polymer nanowires}{11}{subsection.25}% 
+\contentsline {section}{\numberline {2.4}\emph {conclude that NFES is the way to go}}{11}{section.26}% 
+\contentsline {chapter}{\numberline {3}Near-Field Electrospinning as an Affordable Way to Gain Spatial Control}{12}{chapter.27}% 
+\contentsline {section}{\numberline {3.1}Review of Polymer Solutions for NFES with Spatial Control}{12}{section.28}% 
+\contentsline {section}{\numberline {3.2}\emph {conclude with a NFES fabrication parameter baseline to yield the desired fibres}}{12}{section.29}% 
+\contentsline {chapter}{\numberline {4}Compatible Polymer-Solvent Combinations for Near-Field Electrospinning and Pyrolysis}{13}{chapter.30}% 
+\contentsline {section}{\numberline {4.1}Design and Selection of Candidate Spunable Polymer Solutions}{13}{section.31}% 
+\contentsline {subsection}{\numberline {4.1.1}Rheology of candidate polymer solutions}{13}{subsection.32}% 
+\contentsline {section}{\numberline {4.2}Effect of aromatic groups in oxygen-free polymers in NFES and Pyrolysis}{13}{section.33}% 
+\contentsline {section}{\numberline {4.3}\emph {conclude with a collection of potential spunable polymer solutions}}{13}{section.34}% 
+\contentsline {chapter}{\numberline {5}Fabrication of Polymeric Fibers through Near-Field Electrospinning and Photopolymerization}{14}{chapter.35}% 
+\contentsline {section}{\numberline {5.1}}{14}{section.36}% 
+\contentsline {section}{\numberline {5.2}\emph {conclude with polymeric fibre morphology and best polymerization process}}{14}{section.37}% 
+\contentsline {chapter}{\numberline {6}Fabrication of Conductive Carbon nanofibers by Pyrolysis of Polymeric Fibers}{15}{chapter.38}% 
+\contentsline {section}{\numberline {6.1}}{15}{section.39}% 
+\contentsline {section}{\numberline {6.2}\emph {conclude with carbon fibre morphology and best pyrolysis process}}{15}{section.40}% 
+\contentsline {chapter}{\numberline {7}Comparison of the Carbon Fibers Obtained Against SU8-based Carbon Fibers and Potential Applications}{16}{chapter.41}% 
+\contentsline {section}{\numberline {7.1}Fabrication and Characterization of Legacy SU-8 carbon fibers}{16}{section.42}% 
