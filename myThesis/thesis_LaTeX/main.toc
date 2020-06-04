@@ -5,32 +5,32 @@
 \contentsline {chapter}{Abstract}{iv}{section*.3}% 
 \contentsline {chapter}{Acknowledgements}{v}{section*.4}% 
 \contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.12}% 
-\contentsline {section}{\numberline {1.1}Problem definition and motivation}{2}{section.14}% 
-\contentsline {section}{\numberline {1.2}Hypothesis}{4}{section.15}% 
-\contentsline {section}{\numberline {1.3}Research Questions}{4}{section.16}% 
-\contentsline {section}{\numberline {1.4}Objectives}{5}{section.17}% 
-\contentsline {subsection}{\numberline {1.4.1}General objective}{5}{subsection.18}% 
-\contentsline {subsection}{\numberline {1.4.2}Specific objectives}{5}{subsection.19}% 
-\contentsline {section}{\numberline {1.5}Dissertation Outline}{5}{section.20}% 
-\contentsline {chapter}{\numberline {2}Carbon Nanowires Research Developments in Terms of Published Papers, Synthesis and Fabrication}{6}{chapter.21}% 
-\contentsline {section}{\numberline {2.1}Carbon and carbon-based nanomaterials}{7}{section.22}% 
-\contentsline {section}{\numberline {2.2}Carbon nanowires}{8}{section.23}% 
-\contentsline {section}{\numberline {2.3}Nanowires synthesis}{11}{section.24}% 
-\contentsline {subsection}{\numberline {2.3.1}Synthesis of conducting polymer nanowires}{11}{subsection.25}% 
-\contentsline {section}{\numberline {2.4}\emph {conclude that NFES is the way to go}}{11}{section.26}% 
-\contentsline {chapter}{\numberline {3}Near-Field Electrospinning as an Affordable Way to Gain Spatial Control}{12}{chapter.27}% 
-\contentsline {section}{\numberline {3.1}Review of Polymer Solutions for NFES with Spatial Control}{12}{section.28}% 
-\contentsline {section}{\numberline {3.2}\emph {conclude with a NFES fabrication parameter baseline to yield the desired fibres}}{12}{section.29}% 
-\contentsline {chapter}{\numberline {4}Compatible Polymer-Solvent Combinations for Near-Field Electrospinning and Pyrolysis}{13}{chapter.30}% 
-\contentsline {section}{\numberline {4.1}Design and Selection of Candidate Spunable Polymer Solutions}{13}{section.31}% 
-\contentsline {subsection}{\numberline {4.1.1}Rheology of candidate polymer solutions}{13}{subsection.32}% 
-\contentsline {section}{\numberline {4.2}Effect of aromatic groups in oxygen-free polymers in NFES and Pyrolysis}{13}{section.33}% 
-\contentsline {section}{\numberline {4.3}\emph {conclude with a collection of potential spunable polymer solutions}}{13}{section.34}% 
-\contentsline {chapter}{\numberline {5}Fabrication of Polymeric Fibers through Near-Field Electrospinning and Photopolymerization}{14}{chapter.35}% 
-\contentsline {section}{\numberline {5.1}}{14}{section.36}% 
-\contentsline {section}{\numberline {5.2}\emph {conclude with polymeric fibre morphology and best polymerization process}}{14}{section.37}% 
-\contentsline {chapter}{\numberline {6}Fabrication of Conductive Carbon nanofibers by Pyrolysis of Polymeric Fibers}{15}{chapter.38}% 
-\contentsline {section}{\numberline {6.1}}{15}{section.39}% 
-\contentsline {section}{\numberline {6.2}\emph {conclude with carbon fibre morphology and best pyrolysis process}}{15}{section.40}% 
-\contentsline {chapter}{\numberline {7}Comparison of the Carbon Fibers Obtained Against SU8-based Carbon Fibers and Potential Applications}{16}{chapter.41}% 
-\contentsline {section}{\numberline {7.1}Fabrication and Characterization of Legacy SU-8 carbon fibers}{16}{section.42}% 
+\contentsline {section}{\numberline {1.1}Carbon Nanowires Research Developments in Terms of Published Papers, Synthesis and Fabrication}{2}{section.14}% 
+\contentsline {subsection}{\numberline {1.1.1}Carbon and carbon-based nanomaterials}{3}{subsection.15}% 
+\contentsline {subsection}{\numberline {1.1.2}Carbon nanowires}{4}{subsection.16}% 
+\contentsline {subsection}{\numberline {1.1.3}Nanowires synthesis}{7}{subsection.17}% 
+\contentsline {subsubsection}{Synthesis of conducting polymer nanowires}{8}{section*.18}% 
+\contentsline {subsection}{\numberline {1.1.4}\emph {conclude that NFES is the way to go}}{8}{subsection.19}% 
+\contentsline {section}{\numberline {1.2}Problem definition and motivation}{8}{section.20}% 
+\contentsline {section}{\numberline {1.3}Hypothesis}{9}{section.21}% 
+\contentsline {section}{\numberline {1.4}Research Questions}{9}{section.22}% 
+\contentsline {section}{\numberline {1.5}Objectives}{10}{section.23}% 
+\contentsline {subsection}{\numberline {1.5.1}General objective}{10}{subsection.24}% 
+\contentsline {subsection}{\numberline {1.5.2}Specific objectives}{10}{subsection.25}% 
+\contentsline {section}{\numberline {1.6}Dissertation Outline}{10}{section.26}% 
+\contentsline {chapter}{\numberline {2}Near-Field Electrospinning as an Affordable Way to Gain Spatial Control}{11}{chapter.27}% 
+\contentsline {section}{\numberline {2.1}Review of Polymer Solutions for NFES with Spatial Control}{11}{section.28}% 
+\contentsline {section}{\numberline {2.2}\emph {conclude with a NFES fabrication parameter baseline to yield the desired fibres}}{11}{section.29}% 
+\contentsline {chapter}{\numberline {3}Compatible Polymer-Solvent Combinations for Near-Field Electrospinning and Pyrolysis}{12}{chapter.30}% 
+\contentsline {section}{\numberline {3.1}Design and Selection of Candidate Spunable Polymer Solutions}{12}{section.31}% 
+\contentsline {subsection}{\numberline {3.1.1}Rheology of candidate polymer solutions}{12}{subsection.32}% 
+\contentsline {section}{\numberline {3.2}Effect of aromatic groups in oxygen-free polymers in NFES and Pyrolysis}{12}{section.33}% 
+\contentsline {section}{\numberline {3.3}\emph {conclude with a collection of potential spunable polymer solutions}}{12}{section.34}% 
+\contentsline {chapter}{\numberline {4}Fabrication of Polymeric Fibers through Near-Field Electrospinning, Photopolymerization and Pyrolysis of Polymeric Fibers}{13}{chapter.35}% 
+\contentsline {section}{\numberline {4.1}}{13}{section.36}% 
+\contentsline {section}{\numberline {4.2}}{13}{section.37}% 
+\contentsline {section}{\numberline {4.3}Fabrication and Characterization of Legacy SU-8 carbon fibers}{13}{section.38}% 
+\contentsline {section}{\numberline {4.4}\emph {conclude with fibre morphology before and after pyrolysis. determine best pyrolysis process}}{13}{section.39}% 
+\contentsline {chapter}{\numberline {5}Concluding Remarks}{14}{chapter.40}% 
+\contentsline {section}{\numberline {5.1}}{14}{section.41}% 
+\contentsline {section}{\numberline {5.2}Future work}{14}{section.42}% 
