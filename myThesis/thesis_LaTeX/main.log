@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.6960 64-bit) (preloaded format=pdflatex 2019.2.1)  3 JUN 2020 15:57
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.6960 64-bit) (preloaded format=pdflatex 2019.2.1)  7 JUN 2020 15:40
 entering extended mode
 **./main.tex
 (main.tex
@@ -1802,9 +1802,9 @@ sal by An-to-nio
  Declaration of Authorship
 --------------------
 
-Underfull \hbox (badness 1968) in paragraph at lines 324--325
-\T1/ppl/m/n/10.95 of graphitic-carbon sus-pended nanowires through mecha-no-ele
-c-tro-spin-ning of
+Underfull \hbox (badness 10000) in paragraph at lines 324--325
+\T1/ppl/m/n/10.95 of Graphitic-Carbon Sus-pended Nanowires Through Mechano-Near
+-Field
  []
 
 LaTeX Font Info:    Try loading font information for TS1+ppl on input line 327.
@@ -2206,24 +2206,24 @@ Chapter 5.
 
 
 ]
-LaTeX Font Info:    Try loading font information for T1+cmtt on input line 505.
+LaTeX Font Info:    Try loading font information for T1+cmtt on input line 506.
 
  ("C:\Users\oskat\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\t1cmtt.fd"
 File: t1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-Underfull \hbox (badness 3323) in paragraph at lines 505--505
+Underfull \hbox (badness 3323) in paragraph at lines 506--506
 []\T1/ppl/m/n/10.95 Domingo Ri-cardo Flo-res.   Role of rhe-o-log-i-cal prop-e
 r-ties in near field
  []
 
 
-Underfull \hbox (badness 7740) in paragraph at lines 505--505
+Underfull \hbox (badness 7740) in paragraph at lines 506--506
 []\T1/ppl/m/n/10.95 Kolin C. Hribar et al.   Light-assisted direct-write of 3D
  func-tional
  []
 
 
-Underfull \hbox (badness 2790) in paragraph at lines 505--505
+Underfull \hbox (badness 2790) in paragraph at lines 506--506
 []\T1/ppl/m/n/10.95 Marc J. Madou et al.   Con-trolled Con-tin-u-ous Pat-tern-
 ing of Poly-meric
  []
@@ -2233,14 +2233,24 @@ ing of Poly-meric
 
 
 ]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 528.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 528.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 529.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 529.
  (main.aux (Chapters/1.aux) (Chapters/2.aux) (Chapters/3.aux)
 (Chapters/4.aux) (Chapters/5.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 528.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 528.
-Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 4FF5EBDD467591C233662D8A65EBF937;8605.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 529.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 529.
+
+
+Package rerunfilecheck Warning: File `main.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `main.out':
+(rerunfilecheck)             Before: 4FF5EBDD467591C233662D8A65EBF937;8605
+(rerunfilecheck)             After:  7667216050D8315767756035618542EC;8615.
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
@@ -2248,7 +2258,7 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 Here is how much of TeX's memory you used:
  47269 strings out of 492946
  974864 string characters out of 3126267
- 1338809 words of memory out of 3000000
+ 1338845 words of memory out of 3000000
  50437 multiletter control sequences out of 15000+200000
  590790 words of font info for 126 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -2263,7 +2273,7 @@ ase/8r.enc}<C:/Users/oskat/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public
 Programs/MiKTeX 2.9/fonts/type1/urw/palatino/uplr8a.pfb><C:/Users/oskat/AppData
 /Local/Programs/MiKTeX 2.9/fonts/type1/urw/palatino/uplr8a.pfb><C:/Users/oskat/
 AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on main.pdf (27 pages, 269431 bytes).
+Output written on main.pdf (27 pages, 269527 bytes).
 PDF statistics:
  478 PDF objects out of 1000 (max. 8388607)
  78 named destinations out of 1000 (max. 500000)
