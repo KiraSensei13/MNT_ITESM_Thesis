@@ -540,7 +540,23 @@ PCL,80000,DCM/Methanol,traditional,17,337,1020,Al,NA,20000,NA,1081.531226,NA,str
 PCL,80000,DCM/Methanol,traditional,17,337,1020,Al,NA,20000,NA,691.1923002,NA,straight,cross aligned,Beachley2011
 PCL,80000,DCM/Methanol,traditional,17,337,1020,Al,NA,20000,NA,485.4417184,NA,straight,cross aligned,Beachley2011
 PU,NA,THF/DMF,xy stage,10,NA,NA,acrylic,NA,2000,100,9320.69625,52.21169167,straight,aligned,Choi2017
-PEO,300000,Water/Ethanol,xy stage,20,40,,Si,1,1700,350,,NA,straight,single,GaofengZheng2010
-PEO,300000,Water/Ethanol,xy stage,20,40,,Si,1,1700,250,,NA,meander,single,GaofengZheng2010
-PEO,300000,Water/Ethanol,xy stage,20,40,,Si,1,1700,150,,NA,coil,single,GaofengZheng2010
-PEO,300000,Water/Ethanol,xy stage,20,40,,Si,1,1700,50,,NA,coil,single,GaofengZheng2010
+PEO,300000,Water/Ethanol,xy stage,20,40,NA,Si,1,1700,350,1891.69,NA,straight,single,GaofengZheng2010
+PEO,300000,Water/Ethanol,xy stage,20,40,NA,Si,1,1700,250,2815.059091,NA,meander,single,GaofengZheng2010
+PEO,300000,Water/Ethanol,xy stage,20,40,NA,Si,1,1700,150,2452.5875,NA,coil,single,GaofengZheng2010
+PEO,300000,Water/Ethanol,xy stage,20,40,NA,Si,1,1700,50,816.4271429,NA,coil,single,GaofengZheng2010
+PEO,2000000,Water,ACP,4,160,NA,Si,4,0,5,7061.07,NA,straight,aligned discontinuous,Zhu2016
+PEO,2000000,Water,ACP,4,160,NA,Si,4,1250,5,7339.463636,NA,mender,single,Zhu2016
+PEO,2000000,Water,ACP,4,160,NA,Si,4,2500,5,12733.61455,NA,mender,single,Zhu2016
+PEO,2000000,Water,ACP,4,160,NA,Si,4,3750,5,12484.08214,NA,mender,single,Zhu2016
+PEO,2000000,Water,ACP,4,160,NA,Si,4,5000,5,13590.05167,NA,mender,single,Zhu2016
+PEO,2000000,Water,multinozzle xy stage,5,180,NA,SST,4,2500,20,6232.193333,25200.32,straight,aligned,Wang2018a
+PAN,150000,DMF,hollow cylindrical,11,159,NA,Si,NA,400,NA,506.5693294,NA,straight,aligned,George2020
+PAN,150000,DMF,hollow cylindrical,11,159,NA,Si,NA,500,NA,895.0359861,NA,straight,aligned,George2020
+PAN,150000,DMF,hollow cylindrical,11,159,NA,Si,NA,600,NA,899.0422461,NA,straight,aligned,George2020
+PAN,150000,DMF,hollow cylindrical,11,159,NA,Si,NA,700,NA,871.0921393,NA,straight,aligned,George2020
+PAN,150000,DMF,hollow cylindrical,11,159,NA,Si,NA,800,NA,1383.940286,NA,straight,aligned,George2020
+PAN,150000,DMF,hollow cylindrical,11,159,NA,Si,NA,900,NA,2529.590096,NA,straight,aligned,George2020
+PAN,150000,DMF,hollow cylindrical,11,159,NA,Si,0.7,NA,NA,839.16566,NA,straight,aligned,George2020
+PAN,150000,DMF,hollow cylindrical,11,159,NA,Si,2.5,NA,NA,632.4619473,NA,straight,aligned,George2020
+PAN,150000,DMF,hollow cylindrical,11,159,NA,Si,4.5,NA,NA,558.6212451,NA,straight,aligned,George2020
+PAN,150000,DMF,hollow cylindrical,11,159,NA,Si,10,NA,NA,409.1423049,NA,straight,aligned,George2020
