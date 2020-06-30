@@ -560,3 +560,11 @@ PAN,150000,DMF,hollow cylindrical,11,159,NA,Si,0.7,NA,NA,839.16566,NA,straight,a
 PAN,150000,DMF,hollow cylindrical,11,159,NA,Si,2.5,NA,NA,632.4619473,NA,straight,aligned,George2020
 PAN,150000,DMF,hollow cylindrical,11,159,NA,Si,4.5,NA,NA,558.6212451,NA,straight,aligned,George2020
 PAN,150000,DMF,hollow cylindrical,11,159,NA,Si,10,NA,NA,409.1423049,NA,straight,aligned,George2020
+PCL,80000,CF,xy stage,8.8,200,100,Si,70,25000,2,NA,NA,coil,single,Lee2012
+PCL,80000,CF,xy stage,8.8,200,100,Si,70,25000,10,NA,NA,NA,single,Lee2012
+PCL,80000,CF,xy stage,8.8,200,100,Si,70,25000,25,NA,NA,coil,single,Lee2012
+PCL,80000,CF,xy stage,8.8,200,100,Si,70,25000,50,NA,NA,NA,single,Lee2012
+PCL,80000,CF,xy stage,8.8,200,100,Si,70,25000,100,NA,NA,coil,single,Lee2012
+PCL,80000,CF,xy stage,8.8,200,100,Si,70,25000,200,NA,NA,coil,single,Lee2012
+PCL,80000,CF,xy stage,8.8,200,100,Si,70,25000,500,641,NA,mender,single,Lee2012
+PVDF,440000,DMF/Acetone,xy stage,,,,PDMS-on-Ecoflex,,,,,,,,
