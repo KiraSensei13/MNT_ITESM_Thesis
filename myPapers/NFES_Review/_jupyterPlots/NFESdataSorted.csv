@@ -567,4 +567,15 @@ PCL,80000,CF,xy stage,8.8,200,100,Si,70,25000,50,NA,NA,NA,single,Lee2012
 PCL,80000,CF,xy stage,8.8,200,100,Si,70,25000,100,NA,NA,coil,single,Lee2012
 PCL,80000,CF,xy stage,8.8,200,100,Si,70,25000,200,NA,NA,coil,single,Lee2012
 PCL,80000,CF,xy stage,8.8,200,100,Si,70,25000,500,641,NA,mender,single,Lee2012
-PVDF,440000,DMF/Acetone,xy stage,,,,PDMS-on-Ecoflex,,,,,,,,
+PVDF/PVA/SWCNT,534000,DMSO/Acetone,xy stage,21,159,NA,paper,1,1500,50,3988.456667,100,straight,aligned,Luo2016
+PVDF/PVA/SWCNT,534000,DMSO/Acetone,xy stage,21,159,NA,paper,1,1500,30,9519.72,100,straight,aligned,Luo2016
+PVDF/PVA/SWCNT,534000,DMSO/Acetone,xy stage,21,159,NA,paper,1,1500,10,11482.77964,100,straight,aligned,Luo2016
+PVDF/PVA/SWCNT,534000,DMSO/Acetone,xy stage,21,159,NA,paper,1,1500,30,11035.50747,100,straight,aligned,Luo2016
+PVDF/PVA/SWCNT,534000,DMSO/Acetone,xy stage,21,159,NA,paper,1,1500,50,9687.595245,100,straight,aligned,Luo2016
+PVDF/PVA/SWCNT,534000,DMSO/Acetone,xy stage,21,159,NA,paper,1,1500,70,10382.50533,100,straight,aligned,Luo2016
+PVDF/PVA/SWCNT,534000,DMSO/Acetone,xy stage,21,159,NA,paper,1,1500,90,11338.00671,100,straight,aligned,Luo2016
+PVDF/PVA/SWCNT,534000,DMSO/Acetone,xy stage,21,159,NA,paper,1,1000,50,5767.468832,100,straight,aligned,Luo2016
+PVDF/PVA/SWCNT,534000,DMSO/Acetone,xy stage,21,159,NA,paper,1,1200,50,5569.150478,100,straight,aligned,Luo2016
+PVDF/PVA/SWCNT,534000,DMSO/Acetone,xy stage,21,159,NA,paper,1,1400,50,5668.309655,100,straight,aligned,Luo2016
+PVDF/PVA/SWCNT,534000,DMSO/Acetone,xy stage,21,159,NA,paper,1,1600,50,5767.468832,100,straight,aligned,Luo2016
+PVDF/PVA/SWCNT,534000,DMSO/Acetone,xy stage,21,159,NA,paper,1,1800,50,5538.996811,100,straight,aligned,Luo2016
