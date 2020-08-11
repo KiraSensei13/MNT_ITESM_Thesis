@@ -26,12 +26,12 @@
 \contentsline {subsection}{\numberline {3.1.1}Rheology of candidate polymer solutions}{12}{subsection.32}% 
 \contentsline {section}{\numberline {3.2}Effect of aromatic groups in oxygen-free polymers in NFES and Pyrolysis}{12}{section.33}% 
 \contentsline {section}{\numberline {3.3}\emph {conclude with a collection of potential spunable polymer solutions}}{12}{section.34}% 
-\contentsline {chapter}{\numberline {4}Fabrication of Polymeric Fibers through Near-Field Electrospinning, Photopolymerization and Pyrolysis of Polymeric Fibers}{13}{chapter.35}% 
+\contentsline {chapter}{\numberline {4}Fabrication of Polymeric Fibers through Near-Field Electrospinning, and Forward-thinking on Photopolymerization and Pyrolysis}{13}{chapter.35}% 
 \contentsline {section}{\numberline {4.1}}{13}{section.36}% 
 \contentsline {section}{\numberline {4.2}}{13}{section.37}% 
 \contentsline {section}{\numberline {4.3}Fabrication and Characterization of Legacy SU-8 carbon fibers}{13}{section.38}% 
 \contentsline {section}{\numberline {4.4}\emph {conclude with fibre morphology before and after pyrolysis. determine best pyrolysis process}}{13}{section.39}% 
-\contentsline {chapter}{\numberline {5}Comparison of the Obtained Carbon Fibres Against SU8-based Carbon Fibres and Potential Applications}{14}{chapter.40}% 
+\contentsline {chapter}{\numberline {5}Comparison of the Obtained Polymer Fibres Against SU8-based Carbon Fibres and Potential Applications}{14}{chapter.40}% 
 \contentsline {section}{\numberline {5.1}Characterization \& Reproducibility}{14}{section.41}% 
 \contentsline {chapter}{\numberline {6}Concluding Remarks}{15}{chapter.42}% 
 \contentsline {section}{\numberline {6.1}}{15}{section.43}% 
