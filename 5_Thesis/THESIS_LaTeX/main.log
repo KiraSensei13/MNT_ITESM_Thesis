@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.6960 64-bit) (preloaded format=pdflatex 2019.2.1)  11 AUG 2020 15:47
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.6960 64-bit) (preloaded format=pdflatex 2019.2.1)  1 SEP 2020 07:20
 entering extended mode
 **./main.tex
 (main.tex
@@ -1582,7 +1582,7 @@ File: english.lbx 2018/11/02 v3.12 biblatex localization (PK/MW)
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
  (main.aux (Chapters/1.aux) (Chapters/2.aux) (Chapters/3.aux)
-(Chapters/4.aux) (Chapters/5.aux) (Chapters/6.aux))
+(Chapters/4.aux) (Chapters/5.aux))
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 168.
@@ -1772,7 +1772,7 @@ LaTeX Font Info:    Try loading font information for OT1+zplm on input line 168
 File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
 )
 1: section
-<./Figures/uniLogo.png, id=151, 401.5pt x 401.5pt>
+<./Figures/uniLogo.png, id=147, 401.5pt x 401.5pt>
 File: ./Figures/uniLogo.png Graphic file (type png)
 <use ./Figures/uniLogo.png>
 Package pdftex.def Info: ./Figures/uniLogo.png  used on input line 187.
@@ -1815,7 +1815,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 332--333
 
 
 ]
-<./Figures/quote.png, id=180, 759.58781pt x 909.3975pt>
+<./Figures/quote.png, id=176, 759.58781pt x 909.3975pt>
 File: ./Figures/quote.png Graphic file (type png)
 <use ./Figures/quote.png>
 Package pdftex.def Info: ./Figures/quote.png  used on input line 351.
@@ -1849,10 +1849,21 @@ Underfull \hbox (badness 10000) in paragraph at lines 382--384
 [5
 
 ] (main.toc
+Underfull \hbox (badness 3713) in paragraph at lines 29--29
+ \T1/ppl/b/n/10.95 Elec-tro-spin-ning, and Forward-thinking on Pho-topoly-mer-i
+za-tion and 
+ []
+
 1: section
 [6
 
-])
+]
+Underfull \hbox (badness 1092) in paragraph at lines 33--33
+ [][] [][][]\T1/ppl/m/n/10.95 Comparison of the Ob-tained Poly-mer Fi-bres Agai
+nst SU8-based 
+ []
+
+)
 \tf@toc=\write6
 \openout6 = `main.toc'.
 
@@ -1912,7 +1923,7 @@ Underfull \hbox (badness 1102) in paragraph at lines 9--10
 e been de-vel-oped for
  []
 
-<./Figures/FabricationProcess2.png, id=280, 1447.65843pt x 356.83313pt>
+<./Figures/FabricationProcess2.png, id=276, 1447.65843pt x 356.83313pt>
 File: ./Figures/FabricationProcess2.png Graphic file (type png)
 <use ./Figures/FabricationProcess2.png>
 Package pdftex.def Info: ./Figures/FabricationProcess2.png  used on input line 
@@ -2186,61 +2197,50 @@ Chapter 5.
 
 
 ]
-\openout2 = `./Chapters/6.aux'.
-
- (Chapters/6.tex
-Chapter 6.
-)
-1: section
-[15
-
-
-
-]
-LaTeX Font Info:    Try loading font information for T1+cmtt on input line 491.
+LaTeX Font Info:    Try loading font information for T1+cmtt on input line 489.
 
  ("C:\Users\oskat\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\t1cmtt.fd"
 File: t1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-Underfull \hbox (badness 3323) in paragraph at lines 491--491
+Underfull \hbox (badness 3323) in paragraph at lines 489--489
 []\T1/ppl/m/n/10.95 Domingo Ri-cardo Flo-res.   Role of rhe-o-log-i-cal prop-e
 r-ties in near field
  []
 
 
-Underfull \hbox (badness 7740) in paragraph at lines 491--491
+Underfull \hbox (badness 7740) in paragraph at lines 489--489
 []\T1/ppl/m/n/10.95 Kolin C. Hribar et al.   Light-assisted direct-write of 3D
  func-tional
  []
 
 
-Underfull \hbox (badness 2790) in paragraph at lines 491--491
+Underfull \hbox (badness 2790) in paragraph at lines 489--489
 []\T1/ppl/m/n/10.95 Marc J. Madou et al.   Con-trolled Con-tin-u-ous Pat-tern-
 ing of Poly-meric
  []
 
 1: section
-[16
+[15
 
 
 ]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 514.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 514.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 512.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 512.
  (main.aux (Chapters/1.aux) (Chapters/2.aux) (Chapters/3.aux)
-(Chapters/4.aux) (Chapters/5.aux) (Chapters/6.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 514.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 514.
+(Chapters/4.aux) (Chapters/5.aux))
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 512.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 512.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 69D5ABE98FDED3CA4E84F43AFED7EA7C;9452.
+(rerunfilecheck)             Checksum: F5A6854B18AB196EF22495CCA7A7FAFC;9338.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 47280 strings out of 492946
- 975404 string characters out of 3126267
- 1341533 words of memory out of 3000000
- 50439 multiletter control sequences out of 15000+200000
+ 47267 strings out of 492946
+ 974836 string characters out of 3126267
+ 1338930 words of memory out of 3000000
+ 50435 multiletter control sequences out of 15000+200000
  588410 words of font info for 123 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  64i,20n,79p,2093b,2437s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -2254,9 +2254,9 @@ ase/8r.enc}<C:/Users/oskat/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public
 Programs/MiKTeX 2.9/fonts/type1/urw/palatino/uplr8a.pfb><C:/Users/oskat/AppData
 /Local/Programs/MiKTeX 2.9/fonts/type1/urw/palatino/uplr8a.pfb><C:/Users/oskat/
 AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on main.pdf (28 pages, 314894 bytes).
+Output written on main.pdf (27 pages, 313474 bytes).
 PDF statistics:
- 494 PDF objects out of 1000 (max. 8388607)
- 81 named destinations out of 1000 (max. 500000)
- 316 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 486 PDF objects out of 1000 (max. 8388607)
+ 79 named destinations out of 1000 (max. 500000)
+ 308 words of extra memory for PDF output out of 10000 (max. 10000000)
 
