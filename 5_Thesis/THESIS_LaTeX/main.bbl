@@ -18,293 +18,7 @@
 
 
 \refsection{0}
-  \datalist[entry]{nty/global//global/global}
-    \entry{Boer2014}{book}{}
-      \name{author}{2}{}{%
-        {{hash=6ee0b9d745395aec58364116f478ad83}{%
-           family={Boer},
-           familyi={B\bibinitperiod},
-           given={Jan},
-           giveni={J\bibinitperiod}}}%
-        {{hash=3a6129b009480e2b48357c084952ac5f}{%
-           family={Blitterswijk},
-           familyi={B\bibinitperiod},
-           given={Clemens},
-           giveni={C\bibinitperiod}}}%
-      }
-      \name{editor}{1}{}{%
-        {{hash=c17ecddc870b4029c785f761dfae3d5f}{%
-           family={AP},
-           familyi={A\bibinitperiod},
-           given={Academic\bibnamedelimb Press\bibnamedelimb of\bibnamedelima Elsevier},
-           giveni={A\bibinitperiod\bibinitdelim P\bibinitperiod\bibinitdelim o\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {Safary O Reilly}%
-      }
-      \strng{namehash}{56066dd29791c1c4d49497e2eb2a825a}
-      \strng{fullhash}{56066dd29791c1c4d49497e2eb2a825a}
-      \strng{bibnamehash}{56066dd29791c1c4d49497e2eb2a825a}
-      \strng{authorbibnamehash}{56066dd29791c1c4d49497e2eb2a825a}
-      \strng{authornamehash}{56066dd29791c1c4d49497e2eb2a825a}
-      \strng{authorfullhash}{56066dd29791c1c4d49497e2eb2a825a}
-      \strng{editorbibnamehash}{c17ecddc870b4029c785f761dfae3d5f}
-      \strng{editornamehash}{c17ecddc870b4029c785f761dfae3d5f}
-      \strng{editorfullhash}{c17ecddc870b4029c785f761dfae3d5f}
-      \field{sortinit}{B}
-      \field{sortinithash}{276475738cc058478c1677046f857703}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{edition}{2nd}
-      \field{title}{{Tissue Engineering}}
-      \field{year}{2014}
-      \verb{file}
-      \verb :C$\backslash$:/Users/oskat/OneDrive - Instituto Tecnologico y de Estudios Superiores de Monterrey/Documents/MNT{\_}ITESM{\_}Thesis/relatedArticles/{\_}TissueEngineering/ch007-B9780124201453000018.mhtml:mhtml
-      \endverb
-      \verb{urlraw}
-      \verb https://learning.oreilly.com/library/view/tissue-engineering-2nd/9780124201453/XHTML/B9780124201453000109/B9780124201453000109.xhtml
-      \endverb
-      \verb{url}
-      \verb https://learning.oreilly.com/library/view/tissue-engineering-2nd/9780124201453/XHTML/B9780124201453000109/B9780124201453000109.xhtml
-      \endverb
-      \keyw{is{\_}book}
-    \endentry
-    \entry{Cardenas2017}{article}{}
-      \name{author}{1}{}{%
-        {{hash=8d4ac068a71a022961deb3984c42740c}{%
-           family={C{á}rdenas},
-           familyi={C\bibinitperiod},
-           given={Braulio},
-           giveni={B\bibinitperiod}}}%
-      }
-      \strng{namehash}{8d4ac068a71a022961deb3984c42740c}
-      \strng{fullhash}{8d4ac068a71a022961deb3984c42740c}
-      \strng{bibnamehash}{8d4ac068a71a022961deb3984c42740c}
-      \strng{authorbibnamehash}{8d4ac068a71a022961deb3984c42740c}
-      \strng{authornamehash}{8d4ac068a71a022961deb3984c42740c}
-      \strng{authorfullhash}{8d4ac068a71a022961deb3984c42740c}
-      \field{sortinit}{C}
-      \field{sortinithash}{963e9d84a3da2344e8833203de5aed05}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{Over the last couple of decades, Carbon Nanowires (CNWs) have found important applications in the field of rapid label-free biosensing platforms for their excellent electrical, thermal and chemical properties. Despite the growing interest in incorporating these materials into sensitive analytical devices, there has been limited research efforts that explore the realistic incorporation of these structures into broader microsystems. The present dissertation explores two Advanced Additive Manufacturing (AdAM) techniques for the fabrication of CNWs with promising characteristics for sensing applications. The first technique, Electro-Mechanical Spinning (EMS) is a relatively new method for the production of CNWs with highly-oriented patterning capabilities, and is assessed in terms of the minimum feature sizes that it can attain reproducibly. The second method, Multiple Photon Polymerization (MPP) is a mature laser manufacturing technique that offers high repeatability, yet it has remained largely unexplored in the field of carbon materials. This work presents a study of how MPP can be used to create CNWs in terms of micro-fabrication parameters like laser power and scanning velocity. A thorough review study of the surface properties required for carbon materials to become eligible candidates in biosensing is also included in this dissertation. Lastly, an application of CNWs is presented, in which a Joule Heating technique is used to induce controlled breaking of the wires to produce nano-scale separated carbon electrodes, which hold potential for micro/nano particle manipulation in microfluidics.}
-      \field{title}{{Advanced Manufacturing Techniques for the Fabrication and Surface Modification of Carbon Nanowires}}
-      \field{year}{2017}
-      \field{pages}{160}
-      \range{pages}{1}
-      \verb{file}
-      \verb :C$\backslash$:/Users/oskat/OneDrive - Instituto Tecnologico y de Estudios Superiores de Monterrey/Documents/MNT{\_}ITESM{\_}Thesis/relatedArticles/AMTFTFASMOCN.pdf:pdf
-      \endverb
-      \keyw{NFES}
-    \endentry
-    \entry{Flores2017}{article}{}
-      \name{author}{1}{}{%
-        {{hash=b5ca5c0bb6f5ade62c2f39a5b4a33ae0}{%
-           family={Flores},
-           familyi={F\bibinitperiod},
-           given={Domingo\bibnamedelima Ricardo},
-           giveni={D\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
-      }
-      \strng{namehash}{b5ca5c0bb6f5ade62c2f39a5b4a33ae0}
-      \strng{fullhash}{b5ca5c0bb6f5ade62c2f39a5b4a33ae0}
-      \strng{bibnamehash}{b5ca5c0bb6f5ade62c2f39a5b4a33ae0}
-      \strng{authorbibnamehash}{b5ca5c0bb6f5ade62c2f39a5b4a33ae0}
-      \strng{authornamehash}{b5ca5c0bb6f5ade62c2f39a5b4a33ae0}
-      \strng{authorfullhash}{b5ca5c0bb6f5ade62c2f39a5b4a33ae0}
-      \field{sortinit}{F}
-      \field{sortinithash}{669c706c6f1fbf3b5a83d26f1d9e9e72}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{In electrospinning process, polymer nanofibers are formed with diameters in the submicron scale when a drop of viscoelastic polymer solution is subjected to a high voltage electrostatic field, when the charge force overcomes the surface tension of the solution, a beam is projected onto a collector. Among other parameters, the rheological properties of the polymer solution can significantly influence fiber formation during the electrospinning process, although this is well known, there is still no clear understanding of the effect of these properties to form fibers with morphology and structure consistent and controlled. The study was conducted for a system of SU-8 2002 (an epoxy-based negative photoresist) dissolved in cyclopentanone with poly(ethylene) oxide, PEO, and tetrabutylammonium tetrafluoroborate, TBATFB, as additives. The fibers were electrospun in an Electro Mechanical Spinning, EMS, platform. The rheological properties of the polymer solution were studied under shear conditions and combined with oscillatory data to get uniaxial deformation behavior using the Wagner constitutive equation. The elongational viscosity in the projected beam is estimated by using data from oscillatory tests. For this purpose, solutions of SU-8 2002 were tested and then electrospun systematically over a range of concentrations. It was found that the variation in concentration of the additives modifies the viscoelastic properties of the solutions and, therefore, the electrospinnability. As PEO concentration is increased the complex, elongational and shear viscosity also increases. For concentrations of TBATFB, the variation of the viscosities has not a clear behavior pattern. The most regular and thinnest fibers were those obtained from a concentration of 99.5, 0.25 and 0.25 wt percent. of SU-8 2002, PEO and TBATFB respectively. With the acquired information, process variables for the EMS such as fabrication velocity, voltage and tip-to-collector distance were improved.}
-      \field{title}{{Role of rheological properties in near field electrospun fibers morphology}}
-      \field{year}{2017}
-      \field{pages}{130}
-      \range{pages}{1}
-      \verb{file}
-      \verb :C$\backslash$:/Users/oskat/OneDrive - Instituto Tecnologico y de Estudios Superiores de Monterrey/Documents/MNT{\_}ITESM{\_}Thesis/relatedArticles/RORPINFESFM.pdf:pdf
-      \endverb
-      \keyw{NFES}
-    \endentry
-    \entry{Hribar2014}{article}{}
-      \name{author}{5}{}{%
-        {{hash=f8092cdc5a30cb27847be6ce9b798482}{%
-           family={Hribar},
-           familyi={H\bibinitperiod},
-           given={Kolin\bibnamedelima C.},
-           giveni={K\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
-        {{hash=d567830ceb1be13d5ab51e30c76dde85}{%
-           family={Soman},
-           familyi={S\bibinitperiod},
-           given={Pranav},
-           giveni={P\bibinitperiod}}}%
-        {{hash=4ce4567e85bc1e8d7872330f4a781156}{%
-           family={Warner},
-           familyi={W\bibinitperiod},
-           given={John},
-           giveni={J\bibinitperiod}}}%
-        {{hash=ba8bed9cfabe738efd07854f60013792}{%
-           family={Chung},
-           familyi={C\bibinitperiod},
-           given={Peter},
-           giveni={P\bibinitperiod}}}%
-        {{hash=f9096e59822a721d1e88394e3b911e43}{%
-           family={Chen},
-           familyi={C\bibinitperiod},
-           given={Shaochen},
-           giveni={S\bibinitperiod}}}%
-      }
-      \strng{namehash}{a751cfdf4add1d875f11fdf1a52150fb}
-      \strng{fullhash}{4729a0a65aeeb7f0a66e4b47f95c1306}
-      \strng{bibnamehash}{a751cfdf4add1d875f11fdf1a52150fb}
-      \strng{authorbibnamehash}{a751cfdf4add1d875f11fdf1a52150fb}
-      \strng{authornamehash}{a751cfdf4add1d875f11fdf1a52150fb}
-      \strng{authorfullhash}{4729a0a65aeeb7f0a66e4b47f95c1306}
-      \field{sortinit}{H}
-      \field{sortinithash}{5f15a7bc777ad49ff15aa4d2831b1681}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{Light-assisted 3D direct-printing of biomaterials and cellular-scaffolds has the potential to develop novel lab-on-a-chip devices (LOCs) for a variety of biomedical applications, from drug discovery and diagnostic testing to in vitro tissue engineering and regeneration. Direct-writing describes a broad family of fabrication methods that typically employ computer-controlled translational stages to manufacture structures at multi-length scales. This review focuses on light-assisted direct-write fabrication for generating 3D functional scaffolds with precise micro- and nano-architecture, using both synthetic as well as naturally derived biomaterials. Two bioprinting approaches are discussed in detail - projection printing and laser-based systems - where each method is capable of modulating multiple scaffold parameters, such as 3D architecture, mechanical properties (e.g. stiffness), Poisson's ratio, chemical gradients, biological cell distributions, and porosity. The light-assisted direct-writing techniques described in this review provide the reader with alternative approaches to fabricate 3D biomaterials for utility in LOCs.}
-      \field{issn}{1473-0197}
-      \field{journaltitle}{Lab Chip}
-      \field{month}{1}
-      \field{number}{2}
-      \field{title}{{Light-assisted direct-write of 3D functional biomaterials}}
-      \field{volume}{14}
-      \field{year}{2014}
-      \field{pages}{268\bibrangedash 275}
-      \range{pages}{8}
-      \verb{doi}
-      \verb 10.1039/C3LC50634G
-      \endverb
-      \verb{file}
-      \verb :C$\backslash$:/Users/oskat/OneDrive - Instituto Tecnologico y de Estudios Superiores de Monterrey/Documents/MNT{\_}ITESM{\_}Thesis/relatedArticles/LADWO3DFB.pdf:pdf
-      \endverb
-      \verb{urlraw}
-      \verb http://www.ncbi.nlm.nih.gov/pubmed/24257507 http://xlink.rsc.org/?DOI=C3LC50634G
-      \endverb
-      \verb{url}
-      \verb http://www.ncbi.nlm.nih.gov/pubmed/24257507%20http://xlink.rsc.org/?DOI=C3LC50634G
-      \endverb
-    \endentry
-    \entry{Landis2011}{book}{}
-      \name{author}{1}{}{%
-        {{hash=242eca1f846e4d24d346782fb85498a7}{%
-           family={Landis},
-           familyi={L\bibinitperiod},
-           given={Stefan.},
-           giveni={S\bibinitperiod}}}%
-      }
-      \name{editor}{1}{}{%
-        {{hash=242eca1f846e4d24d346782fb85498a7}{%
-           family={Landis},
-           familyi={L\bibinitperiod},
-           given={Stefan},
-           giveni={S\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {Hoboken, NJ USA}%
-      }
-      \list{publisher}{1}{%
-        {John Wiley {\&} Sons, Inc.}%
-      }
-      \strng{namehash}{242eca1f846e4d24d346782fb85498a7}
-      \strng{fullhash}{242eca1f846e4d24d346782fb85498a7}
-      \strng{bibnamehash}{242eca1f846e4d24d346782fb85498a7}
-      \strng{authorbibnamehash}{242eca1f846e4d24d346782fb85498a7}
-      \strng{authornamehash}{242eca1f846e4d24d346782fb85498a7}
-      \strng{authorfullhash}{242eca1f846e4d24d346782fb85498a7}
-      \strng{editorbibnamehash}{242eca1f846e4d24d346782fb85498a7}
-      \strng{editornamehash}{242eca1f846e4d24d346782fb85498a7}
-      \strng{editorfullhash}{242eca1f846e4d24d346782fb85498a7}
-      \field{sortinit}{L}
-      \field{sortinithash}{2c7981aaabc885868aba60f0c09ee20f}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{Ch. 1. X-ray lithography : fundamentals and applications -- ch. 2. NanoImprint lithography -- ch. 3. Lithography techniques using scanning probe microscopy -- ch. 4. Lithography and manipulation based on the optical properties of metal nanostructures -- ch. 5. Patterning with self-assembling block copolymers -- ch. 6. Metrology for lithography.}
-      \field{isbn}{9781118622582}
-      \field{month}{2}
-      \field{title}{{Nano-Lithography}}
-      \field{year}{2013}
-      \field{pages}{325}
-      \range{pages}{1}
-      \verb{doi}
-      \verb 10.1002/9781118622582
-      \endverb
-      \verb{file}
-      \verb :C$\backslash$:/Users/oskat/OneDrive - Instituto Tecnologico y de Estudios Superiores de Monterrey/Documents/MNT{\_}ITESM{\_}Thesis/relatedArticles/{\_}NanoLithography/ch006-006{\_}9781118621707{\_}chapter{\_}1.mhtml:mhtml
-      \endverb
-      \verb{urlraw}
-      \verb https://learning.oreilly.com/library/view/nano-lithography/9781118621707/ http://doi.wiley.com/10.1002/9781118622582
-      \endverb
-      \verb{url}
-      \verb https://learning.oreilly.com/library/view/nano-lithography/9781118621707/%20http://doi.wiley.com/10.1002/9781118622582
-      \endverb
-      \keyw{is{\_}book}
-    \endentry
-    \entry{Madou2011}{article}{}
-      \name{author}{7}{}{%
-        {{hash=1c627bd3627cfed92c3976ee507d3e9a}{%
-           family={Madou},
-           familyi={M\bibinitperiod},
-           given={Marc\bibnamedelima J.},
-           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
-        {{hash=1fe8f84cbd3730a48607da84842bf29a}{%
-           family={Dunn-Rankin},
-           familyi={D\bibinithyphendelim R\bibinitperiod},
-           given={Derek},
-           giveni={D\bibinitperiod}}}%
-        {{hash=532fb7b2d56c6987f531c7011fba711d}{%
-           family={Kulinsky},
-           familyi={K\bibinitperiod},
-           given={Lawrence},
-           giveni={L\bibinitperiod}}}%
-        {{hash=487b12b0e7311b5fc437905a1d2cad8c}{%
-           family={Mirsepassi},
-           familyi={M\bibinitperiod},
-           given={Alireza},
-           giveni={A\bibinitperiod}}}%
-        {{hash=2a47f0ccd5d0ad49fe37dc1963091066}{%
-           family={Bisht},
-           familyi={B\bibinitperiod},
-           given={Gobind\bibnamedelima S.},
-           giveni={G\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
-        {{hash=e8da3fab5a42de1611a1e649b315bb81}{%
-           family={Oh},
-           familyi={O\bibinitperiod},
-           given={Seajin},
-           giveni={S\bibinitperiod}}}%
-        {{hash=b4b3d6cf92a245cdd708e6429b7f6b30}{%
-           family={Canton},
-           familyi={C\bibinitperiod},
-           given={Giulia},
-           giveni={G\bibinitperiod}}}%
-      }
-      \strng{namehash}{4820380c60a55471204d1b06046ba4fa}
-      \strng{fullhash}{14f526a1b36bff72e2058aa0bb58009c}
-      \strng{bibnamehash}{4820380c60a55471204d1b06046ba4fa}
-      \strng{authorbibnamehash}{4820380c60a55471204d1b06046ba4fa}
-      \strng{authornamehash}{4820380c60a55471204d1b06046ba4fa}
-      \strng{authorfullhash}{14f526a1b36bff72e2058aa0bb58009c}
-      \field{sortinit}{M}
-      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{issn}{1530-6984}
-      \field{journaltitle}{Nano Letters}
-      \field{number}{4}
-      \field{title}{{Controlled Continuous Patterning of Polymeric Nanofibers on Three-Dimensional Substrates Using Low-Voltage Near-Field Electrospinning}}
-      \field{volume}{11}
-      \field{year}{2011}
-      \field{pages}{1831\bibrangedash 1837}
-      \range{pages}{7}
-      \verb{doi}
-      \verb 10.1021/nl2006164
-      \endverb
-      \verb{file}
-      \verb :C$\backslash$:/Users/oskat/OneDrive - Instituto Tecnologico y de Estudios Superiores de Monterrey/Documents/MNT{\_}ITESM{\_}Thesis/relatedArticles/CCPPNTDSULVNFE.pdf:pdf
-      \endverb
-      \keyw{NFES,abrication of polymeric nano,attention from researchers due,considerable,electrospinning,fi bers has attracted,mems,micro,microelectromechanical systems,microfabrication,nanopatterning,of applica-,polymeric nano fi ber,suspended nano fi bers,to a wide variety}
-    \endentry
+  \datalist[entry]{none/global//global/global}
     \entry{Siddiqui2019}{article}{}
       \name{author}{10}{}{%
         {{hash=11e5b2cfd8046da7de373eb40d8abdb7}{%
@@ -361,14 +75,14 @@
       \list{publisher}{1}{%
         {Elsevier}%
       }
-      \strng{namehash}{5111eb4aef67a8e3c9e04e3820d72909}
+      \strng{namehash}{ca62871fef4642a524418fb818485fb9}
       \strng{fullhash}{ca62871fef4642a524418fb818485fb9}
-      \strng{bibnamehash}{5111eb4aef67a8e3c9e04e3820d72909}
-      \strng{authorbibnamehash}{5111eb4aef67a8e3c9e04e3820d72909}
-      \strng{authornamehash}{5111eb4aef67a8e3c9e04e3820d72909}
+      \strng{bibnamehash}{ca62871fef4642a524418fb818485fb9}
+      \strng{authorbibnamehash}{ca62871fef4642a524418fb818485fb9}
+      \strng{authornamehash}{ca62871fef4642a524418fb818485fb9}
       \strng{authorfullhash}{ca62871fef4642a524418fb818485fb9}
-      \field{sortinit}{S}
-      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Novel magnetic carbon nano-materials have attracted great interest in recent years due to their potential applications in many areas that exploit the combined advantage of magnetic with nano-scale properties. These materials are suitable for the catalysis, adsorption, carbon capture, energy and hydrogen storage, drug delivery, bio-sensing and cancer detection. This is due to some of amazing properties that allow them to be utilized multiple functionalities including high porosity, distinguished structures, uniform morphologies, high stability, high magnetic properties and high conductivity. This paper provides a comprehensive summary of promising methods for synthesis of magnetic carbon nano-materials and their applications.}
@@ -393,6 +107,897 @@
       \verb{url}
       \verb https://0-www-sciencedirect-com.millenium.itesm.mx/science/article/pii/S2213343718307358%20https://linkinghub.elsevier.com/retrieve/pii/S2213343718307358
       \endverb
+    \endentry
+    \entry{McCreery2008}{article}{}
+      \name{author}{1}{}{%
+        {{hash=d4ae0cab5df78f90f35d2b1886e8079c}{%
+           family={McCreery},
+           familyi={M\bibinitperiod},
+           given={Richard\bibnamedelima L.},
+           giveni={R\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \strng{namehash}{d4ae0cab5df78f90f35d2b1886e8079c}
+      \strng{fullhash}{d4ae0cab5df78f90f35d2b1886e8079c}
+      \strng{bibnamehash}{d4ae0cab5df78f90f35d2b1886e8079c}
+      \strng{authorbibnamehash}{d4ae0cab5df78f90f35d2b1886e8079c}
+      \strng{authornamehash}{d4ae0cab5df78f90f35d2b1886e8079c}
+      \strng{authorfullhash}{d4ae0cab5df78f90f35d2b1886e8079c}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0009-2665}
+      \field{journaltitle}{Chemical Reviews}
+      \field{month}{7}
+      \field{number}{7}
+      \field{title}{{Advanced Carbon Electrode Materials for Molecular Electrochemistry}}
+      \field{volume}{108}
+      \field{year}{2008}
+      \field{pages}{2646\bibrangedash 2687}
+      \range{pages}{42}
+      \verb{doi}
+      \verb 10.1021/cr068076m
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/oskat/OneDrive - Instituto Tecnologico y de Estudios Superiores de Monterrey/Documents/MNT{\_}ITESM{\_}courses/0.References/ACEMFME.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://pubs.acs.org/doi/10.1021/cr068076m
+      \endverb
+      \verb{url}
+      \verb https://pubs.acs.org/doi/10.1021/cr068076m
+      \endverb
+      \keyw{SU8,carbon,conductivity}
+    \endentry
+    \entry{Geim2011}{article}{}
+      \name{author}{1}{}{%
+        {{hash=ef560f39abdb26f8914e69f5699efa90}{%
+           family={Geim},
+           familyi={G\bibinitperiod},
+           given={Andre\bibnamedelima K.},
+           giveni={A\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+      }
+      \strng{namehash}{ef560f39abdb26f8914e69f5699efa90}
+      \strng{fullhash}{ef560f39abdb26f8914e69f5699efa90}
+      \strng{bibnamehash}{ef560f39abdb26f8914e69f5699efa90}
+      \strng{authorbibnamehash}{ef560f39abdb26f8914e69f5699efa90}
+      \strng{authornamehash}{ef560f39abdb26f8914e69f5699efa90}
+      \strng{authorfullhash}{ef560f39abdb26f8914e69f5699efa90}
+      \field{extraname}{1}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{There can be only one: In their Nobel Reviews, the laureates tell the story about the ever changing, exciting scientific pathways that eventually-for example, with the aid of simple adhesive tape-led them to the discovery of graphene. Graphene is a carbon monolayer with almost magical abilities, including exceptional strength, stability, and electronic properties, with massless Dirac fermions as charge carriers. Copyright {©} 2011 WILEY-VCH Verlag GmbH {\&} Co. KGaA, Weinheim.}
+      \field{issn}{14337851}
+      \field{journaltitle}{Angewandte Chemie International Edition}
+      \field{month}{7}
+      \field{number}{31}
+      \field{title}{{Random Walk to Graphene (Nobel Lecture)}}
+      \field{volume}{50}
+      \field{year}{2011}
+      \field{pages}{6966\bibrangedash 6985}
+      \range{pages}{20}
+      \verb{doi}
+      \verb 10.1002/anie.201101174
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/oskat/OneDrive - Instituto Tecnologico y de Estudios Superiores de Monterrey/Documents/MNT{\_}ITESM{\_}Thesis/0{\_}References/RWTGNL.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://doi.wiley.com/10.1002/anie.201101174
+      \endverb
+      \verb{url}
+      \verb http://doi.wiley.com/10.1002/anie.201101174
+      \endverb
+      \keyw{Nobel lectures,SU8,carbon,conductivity,graphene,materials science,monolayers}
+    \endentry
+    \entry{Zhu2010}{article}{}
+      \name{author}{7}{}{%
+        {{hash=d92d5470eec5ef403607c992135d64e0}{%
+           family={Zhu},
+           familyi={Z\bibinitperiod},
+           given={Yanwu},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=8775f04f648390246eaa5a97c3a3d7d7}{%
+           family={Murali},
+           familyi={M\bibinitperiod},
+           given={Shanthi},
+           giveni={S\bibinitperiod}}}%
+        {{hash=4c3492d3e614de77c03ddd4b66dc0d6b}{%
+           family={Cai},
+           familyi={C\bibinitperiod},
+           given={Weiwei},
+           giveni={W\bibinitperiod}}}%
+        {{hash=1ccc8fd434d01612c5aed5121ae0f5a4}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Xuesong},
+           giveni={X\bibinitperiod}}}%
+        {{hash=187abc121c5391f90d0138f24f0b65ab}{%
+           family={Suk},
+           familyi={S\bibinitperiod},
+           given={Ji\bibnamedelima Won},
+           giveni={J\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=55ecd4e870df0304426682a2c4257a2d}{%
+           family={Potts},
+           familyi={P\bibinitperiod},
+           given={Jeffrey\bibnamedelima R.},
+           giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=3d03969fce3863e7a18147988755510a}{%
+           family={Ruoff},
+           familyi={R\bibinitperiod},
+           given={Rodney\bibnamedelima S.},
+           giveni={R\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \strng{namehash}{89077f63e9ba1c677a64d5e826031923}
+      \strng{fullhash}{89077f63e9ba1c677a64d5e826031923}
+      \strng{bibnamehash}{89077f63e9ba1c677a64d5e826031923}
+      \strng{authorbibnamehash}{89077f63e9ba1c677a64d5e826031923}
+      \strng{authornamehash}{89077f63e9ba1c677a64d5e826031923}
+      \strng{authorfullhash}{89077f63e9ba1c677a64d5e826031923}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{There is intense interest in graphene in fields such as physics, chemistry, and materials science, among others. Interest in graphene's exceptional physical properties, chemical tunability, and potential for applications has generated thousands of publications and an accelerating pace of research, making review of such research timely. Here is an overview of the synthesis, properties, and applications of graphene and related materials (primarily, graphite oxide and its colloidal suspensions and materials made from them), from a materials science perspective. {©} 2010 WILEY-VCH Verlag GmbH {\&} Co. KGaA.}
+      \field{issn}{09359648}
+      \field{journaltitle}{Advanced Materials}
+      \field{month}{9}
+      \field{number}{35}
+      \field{title}{{Graphene and Graphene Oxide: Synthesis, Properties, and Applications}}
+      \field{volume}{22}
+      \field{year}{2010}
+      \field{pages}{3906\bibrangedash 3924}
+      \range{pages}{19}
+      \verb{doi}
+      \verb 10.1002/adma.201001068
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/oskat/OneDrive - Instituto Tecnologico y de Estudios Superiores de Monterrey/Documents/MNT{\_}ITESM{\_}Thesis/0{\_}References/GAGOSPAA.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://doi.wiley.com/10.1002/adma.201001068
+      \endverb
+      \verb{url}
+      \verb http://doi.wiley.com/10.1002/adma.201001068
+      \endverb
+      \keyw{SU8,conductivity}
+    \endentry
+    \entry{Katsnelson2008}{article}{}
+      \name{author}{2}{}{%
+        {{hash=6aa228cd0d48130d3025aad1d59b087d}{%
+           family={Katsnelson},
+           familyi={K\bibinitperiod},
+           given={M.I},
+           giveni={M\bibinitperiod}}}%
+        {{hash=40f0ba5816a970378fff1e96ae8538f7}{%
+           family={Geim},
+           familyi={G\bibinitperiod},
+           given={A.K},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{8a5e4ff48ffaa007d4843f97a030c49d}
+      \strng{fullhash}{8a5e4ff48ffaa007d4843f97a030c49d}
+      \strng{bibnamehash}{8a5e4ff48ffaa007d4843f97a030c49d}
+      \strng{authorbibnamehash}{8a5e4ff48ffaa007d4843f97a030c49d}
+      \strng{authornamehash}{8a5e4ff48ffaa007d4843f97a030c49d}
+      \strng{authorfullhash}{8a5e4ff48ffaa007d4843f97a030c49d}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{We discuss various scattering mechanisms for Dirac fermions in single-layer graphene. It is shown that scattering on a short-range potential (e.g. due to neutral impurities) is mostly irrelevant for electronic quality of graphene, which is likely to be controlled by charged impurities and ripples (microscopic corrugations of a graphene sheet). The latter are an inherent feature of graphene due to its two-dimensional nature and can also be an important factor in defining the electron mean-free path. We show that certain types of ripples create a long-range scattering potential, similar to Coulomb scatterers, and result in charge-carrier mobility practically independent of carrier concentration, in agreement with experimental observations. {©} 2007 The Royal Society.}
+      \field{issn}{1364-503X}
+      \field{journaltitle}{Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences}
+      \field{month}{1}
+      \field{number}{1863}
+      \field{title}{{Electron scattering on microscopic corrugations in graphene}}
+      \field{volume}{366}
+      \field{year}{2008}
+      \field{pages}{195\bibrangedash 204}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1098/rsta.2007.2157
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/oskat/OneDrive - Instituto Tecnologico y de Estudios Superiores de Monterrey/Documents/MNT{\_}ITESM{\_}Thesis/0{\_}References/ESOMCIG.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://royalsocietypublishing.org/doi/10.1098/rsta.2007.2157
+      \endverb
+      \verb{url}
+      \verb https://royalsocietypublishing.org/doi/10.1098/rsta.2007.2157
+      \endverb
+      \keyw{Electron transport,Graphene,SU8,Scattering mechanisms,Two-dimensional crystals,conductivity}
+    \endentry
+    \entry{Li2008}{article}{}
+      \name{author}{2}{}{%
+        {{hash=fc63986540b002fd74244549ce74082f}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Dan},
+           giveni={D\bibinitperiod}}}%
+        {{hash=1e17bd5cd6f5c51fc87692fecb8f300d}{%
+           family={Kaner},
+           familyi={K\bibinitperiod},
+           given={Richard\bibnamedelima B.},
+           giveni={R\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+      }
+      \strng{namehash}{e4229baab5b08e2b453d788f4af42a91}
+      \strng{fullhash}{e4229baab5b08e2b453d788f4af42a91}
+      \strng{bibnamehash}{e4229baab5b08e2b453d788f4af42a91}
+      \strng{authorbibnamehash}{e4229baab5b08e2b453d788f4af42a91}
+      \strng{authornamehash}{e4229baab5b08e2b453d788f4af42a91}
+      \strng{authorfullhash}{e4229baab5b08e2b453d788f4af42a91}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Advances in synthesizing graphene offer opportunities for making novel materials for nanoelectronics and many other applications.}
+      \field{issn}{0036-8075}
+      \field{journaltitle}{Science}
+      \field{month}{5}
+      \field{number}{5880}
+      \field{title}{{MATERIALS SCIENCE: Graphene-Based Materials}}
+      \field{volume}{320}
+      \field{year}{2008}
+      \field{pages}{1170\bibrangedash 1171}
+      \range{pages}{2}
+      \verb{doi}
+      \verb 10.1126/science.1158180
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/oskat/OneDrive - Instituto Tecnologico y de Estudios Superiores de Monterrey/Documents/MNT{\_}ITESM{\_}Thesis/0{\_}References/GBM.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencemag.org/lookup/doi/10.1126/science.1158180
+      \endverb
+      \verb{url}
+      \verb https://www.sciencemag.org/lookup/doi/10.1126/science.1158180
+      \endverb
+      \keyw{SU8,conductivity}
+    \endentry
+    \entry{Geim2007}{article}{}
+      \name{author}{2}{}{%
+        {{hash=40f0ba5816a970378fff1e96ae8538f7}{%
+           family={Geim},
+           familyi={G\bibinitperiod},
+           given={A.\bibnamedelimi K.},
+           giveni={A\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=edc496cb40fecf35de2f2957fb7a20ac}{%
+           family={Novoselov},
+           familyi={N\bibinitperiod},
+           given={K.\bibnamedelimi S.},
+           giveni={K\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \strng{namehash}{e19ba104a56a580a0b3561b249ec8e4f}
+      \strng{fullhash}{e19ba104a56a580a0b3561b249ec8e4f}
+      \strng{bibnamehash}{e19ba104a56a580a0b3561b249ec8e4f}
+      \strng{authorbibnamehash}{e19ba104a56a580a0b3561b249ec8e4f}
+      \strng{authornamehash}{e19ba104a56a580a0b3561b249ec8e4f}
+      \strng{authorfullhash}{e19ba104a56a580a0b3561b249ec8e4f}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The Rise of Victimhood Culture offers a framework for understanding recent moral conflicts at U.S. universities, which have bled into society at large. These are not the familiar clashes between liberals and conservatives or the religious and the secular: instead, they are clashes between a new moral culture-victimhood culture-and a more traditional culture of dignity. Even as students increasingly demand trigger warnings and “safe spaces,” many young people are quick to police the words and deeds of others, who in turn claim that political correctness has run amok. Interestingly, members of both camps often consider themselves victims of the other. In tracking the rise of victimhood culture, Bradley Campbell and Jason Manning help to decode an often dizzying cultural milieu, from campus riots over conservative speakers and debates around free speech to the election of Donald Trump.}
+      \field{isbn}{9783319703299}
+      \field{issn}{1476-1122}
+      \field{journaltitle}{Nature Materials}
+      \field{month}{3}
+      \field{number}{3}
+      \field{title}{{The rise of graphene}}
+      \field{volume}{6}
+      \field{year}{2007}
+      \field{pages}{183\bibrangedash 191}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1038/nmat1849
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/oskat/OneDrive - Instituto Tecnologico y de Estudios Superiores de Monterrey/Documents/MNT{\_}ITESM{\_}Thesis/0{\_}References/TROG.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://www.nature.com/articles/nmat1849
+      \endverb
+      \verb{url}
+      \verb http://www.nature.com/articles/nmat1849
+      \endverb
+      \keyw{SU8,conductivity}
+    \endentry
+    \entry{Geim2009}{article}{}
+      \name{author}{1}{}{%
+        {{hash=40f0ba5816a970378fff1e96ae8538f7}{%
+           family={Geim},
+           familyi={G\bibinitperiod},
+           given={A\bibnamedelima K},
+           giveni={A\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+      }
+      \strng{namehash}{40f0ba5816a970378fff1e96ae8538f7}
+      \strng{fullhash}{40f0ba5816a970378fff1e96ae8538f7}
+      \strng{bibnamehash}{40f0ba5816a970378fff1e96ae8538f7}
+      \strng{authorbibnamehash}{40f0ba5816a970378fff1e96ae8538f7}
+      \strng{authornamehash}{40f0ba5816a970378fff1e96ae8538f7}
+      \strng{authorfullhash}{40f0ba5816a970378fff1e96ae8538f7}
+      \field{extraname}{2}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0036-8075}
+      \field{journaltitle}{Science}
+      \field{month}{6}
+      \field{number}{5934}
+      \field{title}{{Graphene: Status and Prospects}}
+      \field{volume}{324}
+      \field{year}{2009}
+      \field{pages}{1530\bibrangedash 1534}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1126/science.1158877
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/oskat/OneDrive - Instituto Tecnologico y de Estudios Superiores de Monterrey/Documents/MNT{\_}ITESM{\_}Thesis/0{\_}References/GSAP.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencemag.org/lookup/doi/10.1126/science.1158877
+      \endverb
+      \verb{url}
+      \verb https://www.sciencemag.org/lookup/doi/10.1126/science.1158877
+      \endverb
+      \keyw{SU8,conductivity}
+    \endentry
+    \entry{Cardenas2017}{article}{}
+      \name{author}{1}{}{%
+        {{hash=8d4ac068a71a022961deb3984c42740c}{%
+           family={C{á}rdenas},
+           familyi={C\bibinitperiod},
+           given={Braulio},
+           giveni={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{8d4ac068a71a022961deb3984c42740c}
+      \strng{fullhash}{8d4ac068a71a022961deb3984c42740c}
+      \strng{bibnamehash}{8d4ac068a71a022961deb3984c42740c}
+      \strng{authorbibnamehash}{8d4ac068a71a022961deb3984c42740c}
+      \strng{authornamehash}{8d4ac068a71a022961deb3984c42740c}
+      \strng{authorfullhash}{8d4ac068a71a022961deb3984c42740c}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Over the last couple of decades, Carbon Nanowires (CNWs) have found important applications in the field of rapid label-free biosensing platforms for their excellent electrical, thermal and chemical properties. Despite the growing interest in incorporating these materials into sensitive analytical devices, there has been limited research efforts that explore the realistic incorporation of these structures into broader microsystems. The present dissertation explores two Advanced Additive Manufacturing (AdAM) techniques for the fabrication of CNWs with promising characteristics for sensing applications. The first technique, Electro-Mechanical Spinning (EMS) is a relatively new method for the production of CNWs with highly-oriented patterning capabilities, and is assessed in terms of the minimum feature sizes that it can attain reproducibly. The second method, Multiple Photon Polymerization (MPP) is a mature laser manufacturing technique that offers high repeatability, yet it has remained largely unexplored in the field of carbon materials. This work presents a study of how MPP can be used to create CNWs in terms of micro-fabrication parameters like laser power and scanning velocity. A thorough review study of the surface properties required for carbon materials to become eligible candidates in biosensing is also included in this dissertation. Lastly, an application of CNWs is presented, in which a Joule Heating technique is used to induce controlled breaking of the wires to produce nano-scale separated carbon electrodes, which hold potential for micro/nano particle manipulation in microfluidics.}
+      \field{title}{{Advanced Manufacturing Techniques for the Fabrication and Surface Modification of Carbon Nanowires}}
+      \field{year}{2017}
+      \field{pages}{160}
+      \range{pages}{1}
+      \verb{file}
+      \verb :C$\backslash$:/Users/oskat/OneDrive - Instituto Tecnologico y de Estudios Superiores de Monterrey/Documents/MNT{\_}ITESM{\_}Thesis/relatedArticles/AMTFTFASMOCN.pdf:pdf
+      \endverb
+      \keyw{NFES}
+    \endentry
+    \entry{Madou2011}{article}{}
+      \name{author}{7}{}{%
+        {{hash=1c627bd3627cfed92c3976ee507d3e9a}{%
+           family={Madou},
+           familyi={M\bibinitperiod},
+           given={Marc\bibnamedelima J.},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=1fe8f84cbd3730a48607da84842bf29a}{%
+           family={Dunn-Rankin},
+           familyi={D\bibinithyphendelim R\bibinitperiod},
+           given={Derek},
+           giveni={D\bibinitperiod}}}%
+        {{hash=532fb7b2d56c6987f531c7011fba711d}{%
+           family={Kulinsky},
+           familyi={K\bibinitperiod},
+           given={Lawrence},
+           giveni={L\bibinitperiod}}}%
+        {{hash=487b12b0e7311b5fc437905a1d2cad8c}{%
+           family={Mirsepassi},
+           familyi={M\bibinitperiod},
+           given={Alireza},
+           giveni={A\bibinitperiod}}}%
+        {{hash=2a47f0ccd5d0ad49fe37dc1963091066}{%
+           family={Bisht},
+           familyi={B\bibinitperiod},
+           given={Gobind\bibnamedelima S.},
+           giveni={G\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=e8da3fab5a42de1611a1e649b315bb81}{%
+           family={Oh},
+           familyi={O\bibinitperiod},
+           given={Seajin},
+           giveni={S\bibinitperiod}}}%
+        {{hash=b4b3d6cf92a245cdd708e6429b7f6b30}{%
+           family={Canton},
+           familyi={C\bibinitperiod},
+           given={Giulia},
+           giveni={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{14f526a1b36bff72e2058aa0bb58009c}
+      \strng{fullhash}{14f526a1b36bff72e2058aa0bb58009c}
+      \strng{bibnamehash}{14f526a1b36bff72e2058aa0bb58009c}
+      \strng{authorbibnamehash}{14f526a1b36bff72e2058aa0bb58009c}
+      \strng{authornamehash}{14f526a1b36bff72e2058aa0bb58009c}
+      \strng{authorfullhash}{14f526a1b36bff72e2058aa0bb58009c}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1530-6984}
+      \field{journaltitle}{Nano Letters}
+      \field{number}{4}
+      \field{title}{{Controlled Continuous Patterning of Polymeric Nanofibers on Three-Dimensional Substrates Using Low-Voltage Near-Field Electrospinning}}
+      \field{volume}{11}
+      \field{year}{2011}
+      \field{pages}{1831\bibrangedash 1837}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1021/nl2006164
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/oskat/OneDrive - Instituto Tecnologico y de Estudios Superiores de Monterrey/Documents/MNT{\_}ITESM{\_}Thesis/relatedArticles/CCPPNTDSULVNFE.pdf:pdf
+      \endverb
+      \keyw{NFES,abrication of polymeric nano,attention from researchers due,considerable,electrospinning,fi bers has attracted,mems,micro,microelectromechanical systems,microfabrication,nanopatterning,of applica-,polymeric nano fi ber,suspended nano fi bers,to a wide variety}
+    \endentry
+    \entry{Flores2017}{article}{}
+      \name{author}{1}{}{%
+        {{hash=b5ca5c0bb6f5ade62c2f39a5b4a33ae0}{%
+           family={Flores},
+           familyi={F\bibinitperiod},
+           given={Domingo\bibnamedelima Ricardo},
+           giveni={D\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \strng{namehash}{b5ca5c0bb6f5ade62c2f39a5b4a33ae0}
+      \strng{fullhash}{b5ca5c0bb6f5ade62c2f39a5b4a33ae0}
+      \strng{bibnamehash}{b5ca5c0bb6f5ade62c2f39a5b4a33ae0}
+      \strng{authorbibnamehash}{b5ca5c0bb6f5ade62c2f39a5b4a33ae0}
+      \strng{authornamehash}{b5ca5c0bb6f5ade62c2f39a5b4a33ae0}
+      \strng{authorfullhash}{b5ca5c0bb6f5ade62c2f39a5b4a33ae0}
+      \field{sortinit}{5}
+      \field{sortinithash}{3c19c3776b658b3558e9e2e4840c01e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In electrospinning process, polymer nanofibers are formed with diameters in the submicron scale when a drop of viscoelastic polymer solution is subjected to a high voltage electrostatic field, when the charge force overcomes the surface tension of the solution, a beam is projected onto a collector. Among other parameters, the rheological properties of the polymer solution can significantly influence fiber formation during the electrospinning process, although this is well known, there is still no clear understanding of the effect of these properties to form fibers with morphology and structure consistent and controlled. The study was conducted for a system of SU-8 2002 (an epoxy-based negative photoresist) dissolved in cyclopentanone with poly(ethylene) oxide, PEO, and tetrabutylammonium tetrafluoroborate, TBATFB, as additives. The fibers were electrospun in an Electro Mechanical Spinning, EMS, platform. The rheological properties of the polymer solution were studied under shear conditions and combined with oscillatory data to get uniaxial deformation behavior using the Wagner constitutive equation. The elongational viscosity in the projected beam is estimated by using data from oscillatory tests. For this purpose, solutions of SU-8 2002 were tested and then electrospun systematically over a range of concentrations. It was found that the variation in concentration of the additives modifies the viscoelastic properties of the solutions and, therefore, the electrospinnability. As PEO concentration is increased the complex, elongational and shear viscosity also increases. For concentrations of TBATFB, the variation of the viscosities has not a clear behavior pattern. The most regular and thinnest fibers were those obtained from a concentration of 99.5, 0.25 and 0.25 wt percent. of SU-8 2002, PEO and TBATFB respectively. With the acquired information, process variables for the EMS such as fabrication velocity, voltage and tip-to-collector distance were improved.}
+      \field{title}{{Role of rheological properties in near field electrospun fibers morphology}}
+      \field{year}{2017}
+      \field{pages}{130}
+      \range{pages}{1}
+      \verb{file}
+      \verb :C$\backslash$:/Users/oskat/OneDrive - Instituto Tecnologico y de Estudios Superiores de Monterrey/Documents/MNT{\_}ITESM{\_}Thesis/relatedArticles/RORPINFESFM.pdf:pdf
+      \endverb
+      \keyw{NFES}
+    \endentry
+    \entry{Posthuma-Trumpie2012}{article}{}
+      \name{author}{5}{}{%
+        {{hash=ce1ef47c179e33a12e97540b90b68509}{%
+           family={Posthuma-Trumpie},
+           familyi={P\bibinithyphendelim T\bibinitperiod},
+           given={Geertruida\bibnamedelima A.},
+           giveni={G\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=00cdab1914cf827112be0d4801a1c281}{%
+           family={Wichers},
+           familyi={W\bibinitperiod},
+           given={Jan\bibnamedelima H.},
+           giveni={J\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=d47b00dd59cb227503da419cadfe7a30}{%
+           family={Koets},
+           familyi={K\bibinitperiod},
+           given={Marjo},
+           giveni={M\bibinitperiod}}}%
+        {{hash=31aec758f5bf11f88d296977de01a08b}{%
+           family={Berendsen},
+           familyi={B\bibinitperiod},
+           given={Luci{ë}nne\bibnamedelimb B.\bibnamedelimi J.\bibnamedelimi M.},
+           giveni={L\bibinitperiod\bibinitdelim B\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=ebf5af54daa7f60513912e12e64d57b0}{%
+           family={Amerongen},
+           familyi={A\bibinitperiod},
+           given={Aart},
+           giveni={A\bibinitperiod},
+           prefix={van},
+           prefixi={v\bibinitperiod}}}%
+      }
+      \strng{namehash}{afd06b700638aad98c38b7162a4ba5f4}
+      \strng{fullhash}{afd06b700638aad98c38b7162a4ba5f4}
+      \strng{bibnamehash}{afd06b700638aad98c38b7162a4ba5f4}
+      \strng{authorbibnamehash}{afd06b700638aad98c38b7162a4ba5f4}
+      \strng{authornamehash}{afd06b700638aad98c38b7162a4ba5f4}
+      \strng{authorfullhash}{afd06b700638aad98c38b7162a4ba5f4}
+      \field{sortinit}{9}
+      \field{sortinithash}{1dd72ab054147731c9d824b49aba0534}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Carbon nanoparticles (CNPs) labeled with reporter molecules can serve as signaling labels in rapid diagnostic assays as an alternative to gold, colored latex, silica, quantum dots, or up-converting phosphor nanoparticles. Detailed here is the preparation of biomolecule-labeled CNPs and examples of their use as a versatile label. CNPs can be loaded with a range of biomolecules, such as DNA, antibodies, and proteins (e.g., neutravidin or a fusion protein of neutravidin with an enzyme), and the resulting conjugates can be used to detect analytes of high or low molecular mass. [Figure not available: see fulltext.] {©} 2011 The Author(s).}
+      \field{issn}{1618-2642}
+      \field{journaltitle}{Analytical and Bioanalytical Chemistry}
+      \field{month}{1}
+      \field{number}{2}
+      \field{title}{{Amorphous carbon nanoparticles: a versatile label for rapid diagnostic (immuno)assays}}
+      \field{volume}{402}
+      \field{year}{2012}
+      \field{pages}{593\bibrangedash 600}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1007/s00216-011-5340-5
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/oskat/OneDrive - Instituto Tecnologico y de Estudios Superiores de Monterrey/Documents/MNT{\_}ITESM{\_}Thesis/0{\_}References/ACNAVLFRDIA.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://link.springer.com/10.1007/s00216-011-5340-5
+      \endverb
+      \verb{url}
+      \verb http://link.springer.com/10.1007/s00216-011-5340-5
+      \endverb
+      \keyw{Carbon nanoparticles,Diagnostics,Immunochemical assays,Lateral flow assays,Nucleic acid immunoassays (DNA/RNA),Protein microarray-based assays}
+    \endentry
+    \entry{Zhang2009}{article}{}
+      \name{author}{4}{}{%
+        {{hash=da9f7c9885c62f90094bae30cd44886c}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Lu},
+           giveni={L\bibinitperiod}}}%
+        {{hash=685d97480ebafb5a158e7c3dfdcb69a8}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Li},
+           giveni={L\bibinitperiod}}}%
+        {{hash=6b9ec3e445305ad4c9079755ed210e2d}{%
+           family={Wells},
+           familyi={W\bibinitperiod},
+           given={Torquil},
+           giveni={T\bibinitperiod}}}%
+        {{hash=b5dec094f2bdf2d6a740c7669ddc782d}{%
+           family={El-Gomati},
+           familyi={E\bibinithyphendelim G\bibinitperiod},
+           given={Mohamed},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{af876b5255de92e50bb86d5fe190dd1c}
+      \strng{fullhash}{af876b5255de92e50bb86d5fe190dd1c}
+      \strng{bibnamehash}{af876b5255de92e50bb86d5fe190dd1c}
+      \strng{authorbibnamehash}{af876b5255de92e50bb86d5fe190dd1c}
+      \strng{authornamehash}{af876b5255de92e50bb86d5fe190dd1c}
+      \strng{authorfullhash}{af876b5255de92e50bb86d5fe190dd1c}
+      \field{sortinit}{9}
+      \field{sortinithash}{1dd72ab054147731c9d824b49aba0534}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Carbon nanotubes with different structures were catalytically synthesized on Ni coated SiO 2/Si substrate in a Direct Current Plasma Enhanced Chemical Vapour Deposition system, in which C 2H 2 acted as the carbon source and NH 3 as the etchant gas. A Scanning Electron Microscope study showed that carbon nanotubes were all vertically aligned with respect to the substrate, with diameters ranging from 10 nm to 200 nm. Different sizes of Ni catalyst particles were observed on the tips of carbon nanotubes. Transmission Electron Microscopy was used to study the morphology of the grown tubes and the results obtained show that the diameters and structures of these carbon nanotubes were closely correlated to the sizes and structures of the Ni nanoparticies. Two main structures namely bamboo shaped carbon nanotubes and herringbone shaped carbon nanofibres were found on the same sample. It is suggested that by controlling the pre-growth condition, desired structure of carbon nanotubes or carbon nanofibres could be produced for practical applications. Copyright {©} 2009 American Scientific Publishers All rights reserved.}
+      \field{issn}{15334880}
+      \field{journaltitle}{Journal of Nanoscience and Nanotechnology}
+      \field{month}{7}
+      \field{number}{7}
+      \field{title}{{Bamboo and Herringbone Shaped Carbon Nanotubes and Carbon Nanofibres Synthesized in Direct Current-Plasma Enhanced Chemical Vapour Deposition}}
+      \field{volume}{9}
+      \field{year}{2009}
+      \field{pages}{4502\bibrangedash 4506}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1166/jnn.2009.M84
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/oskat/OneDrive - Instituto Tecnologico y de Estudios Superiores de Monterrey/Documents/MNT{\_}ITESM{\_}Thesis/0{\_}References/BAHSCNACNSIDCPECVD.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://openurl.ingenta.com/content/xref?genre=article{\&}issn=1533-4880{\&}volume=9{\&}issue=7{\&}spage=4502
+      \endverb
+      \verb{url}
+      \verb http://openurl.ingenta.com/content/xref?genre=article%7B%5C&%7Dissn=1533-4880%7B%5C&%7Dvolume=9%7B%5C&%7Dissue=7%7B%5C&%7Dspage=4502
+      \endverb
+      \keyw{Carbon nanofibres (CNFs),Carbon nanotubes (CNTs),PECVD,SEM,TEM}
+    \endentry
+    \entry{DeVolder2011}{article}{}
+      \name{author}{6}{}{%
+        {{hash=c9a65ec9b58769b6751282571afd3ab0}{%
+           family={{De Volder}},
+           familyi={D\bibinitperiod},
+           given={Micha{ë}l\bibnamedelimb F.\bibnamedelimi L.},
+           giveni={M\bibinitperiod\bibinitdelim F\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=0c86602a27a99eba6ca4718873324f60}{%
+           family={Vansweevelt},
+           familyi={V\bibinitperiod},
+           given={Rob},
+           giveni={R\bibinitperiod}}}%
+        {{hash=2b4d1481056664d032d804bbca79e198}{%
+           family={Wagner},
+           familyi={W\bibinitperiod},
+           given={Patrick},
+           giveni={P\bibinitperiod}}}%
+        {{hash=5692ee98f253f72dc8b8b8ee33595e7b}{%
+           family={Reynaerts},
+           familyi={R\bibinitperiod},
+           given={Dominiek},
+           giveni={D\bibinitperiod}}}%
+        {{hash=277555e428c0c92963a47b38fb6a2e63}{%
+           family={{Van Hoof}},
+           familyi={V\bibinitperiod},
+           given={Chris},
+           giveni={C\bibinitperiod}}}%
+        {{hash=50eb21325661fd1f1af6f2b0159af25d}{%
+           family={Hart},
+           familyi={H\bibinitperiod},
+           given={A.\bibnamedelimi John},
+           giveni={A\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \strng{namehash}{bf21fe8af520eded2f31ba9632923201}
+      \strng{fullhash}{bf21fe8af520eded2f31ba9632923201}
+      \strng{bibnamehash}{bf21fe8af520eded2f31ba9632923201}
+      \strng{authorbibnamehash}{bf21fe8af520eded2f31ba9632923201}
+      \strng{authornamehash}{bf21fe8af520eded2f31ba9632923201}
+      \strng{authorfullhash}{bf21fe8af520eded2f31ba9632923201}
+      \field{sortinit}{9}
+      \field{sortinithash}{1dd72ab054147731c9d824b49aba0534}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{We present a new approach for the fabrication and integration of vertically aligned forests of amorphous carbon nanowires (CNWs), using only standard lithography, oxygen plasma treatment, and thermal processing. The simplicity and scalability of this process, as well as the hierarchical organization of CNWs, provides a potential alternative to the use of carbon nanotubes and graphene for applications in microsystems and high surface area materials. The CNWs are highly branched at the nanoscale, and novel hierarchical microstructures with CNWs connected to a solid amorphous core are made by controlling the plasma treatment time. By multilayer processing we demonstrate deterministic joining of CNW micropillars into 3D sensing networks. Finally we show that these networks can be chemically functionalized and used for measurement of DNA binding with increased sensitivity. {©} 2011 American Chemical Society.}
+      \field{issn}{1936-0851}
+      \field{journaltitle}{ACS Nano}
+      \field{month}{8}
+      \field{number}{8}
+      \field{title}{{Hierarchical Carbon Nanowire Microarchitectures Made by Plasma-Assisted Pyrolysis of Photoresist}}
+      \field{volume}{5}
+      \field{year}{2011}
+      \field{pages}{6593\bibrangedash 6600}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1021/nn201976d
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/oskat/OneDrive - Instituto Tecnologico y de Estudios Superiores de Monterrey/Documents/MNT{\_}ITESM{\_}Thesis/0{\_}References/HCNMMBPAPOP.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://pubs.acs.org/doi/10.1021/nn201976d
+      \endverb
+      \verb{url}
+      \verb https://pubs.acs.org/doi/10.1021/nn201976d
+      \endverb
+      \keyw{3D nanostructures,amorphous carbon,biosensors,carbon nanofibers,hierarchical,pyrolysis}
+    \endentry
+    \entry{Cao2011}{article}{}
+      \name{author}{8}{}{%
+        {{hash=a59fc4ec5daacd6246541e19a99c9310}{%
+           family={Cao},
+           familyi={C\bibinitperiod},
+           given={Xiehong},
+           giveni={X\bibinitperiod}}}%
+        {{hash=7a8d8fecaa4ca5628b7a30aeb3817e3d}{%
+           family={He},
+           familyi={H\bibinitperiod},
+           given={Qiyuan},
+           giveni={Q\bibinitperiod}}}%
+        {{hash=4dcb06d3723fa5b127959242df3ce80f}{%
+           family={Shi},
+           familyi={S\bibinitperiod},
+           given={Wenhui},
+           giveni={W\bibinitperiod}}}%
+        {{hash=5eb4c3e75d14d3af4ceb7f957e07f41c}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Bing},
+           giveni={B\bibinitperiod}}}%
+        {{hash=4cdfa3914e557dc32c60d015d79dcfd5}{%
+           family={Zeng},
+           familyi={Z\bibinitperiod},
+           given={Zhiyuan},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=79c6e1aa226b189bf644d1e11dc6d950}{%
+           family={Shi},
+           familyi={S\bibinitperiod},
+           given={Yumeng},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=1c5141884027e9747b07733ba726456a}{%
+           family={Yan},
+           familyi={Y\bibinitperiod},
+           given={Qingyu},
+           giveni={Q\bibinitperiod}}}%
+        {{hash=4563929dd9bf330936657a202afad07a}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Hua},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{b206755a9518ab1c3ae8510fa30f2a8b}
+      \strng{fullhash}{b206755a9518ab1c3ae8510fa30f2a8b}
+      \strng{bibnamehash}{b206755a9518ab1c3ae8510fa30f2a8b}
+      \strng{authorbibnamehash}{b206755a9518ab1c3ae8510fa30f2a8b}
+      \strng{authornamehash}{b206755a9518ab1c3ae8510fa30f2a8b}
+      \strng{authorfullhash}{b206755a9518ab1c3ae8510fa30f2a8b}
+      \field{sortinit}{9}
+      \field{sortinithash}{1dd72ab054147731c9d824b49aba0534}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{A simple method for the controlled growth of novel reduced graphene oxide/carbon nanowire (rGO/CNW) composites is developed. Without any additional carbon precursor, the graphene oxide itself serves as the only carbon source. As a proof-of-concept, the chemical sensor based on the parallel rGO/CNW micropatterns is demonstrated, which exhibits the excellent detection of dopamine. {©} 2011 WILEY-VCH Verlag GmbH {\&} Co. KGaA, Weinheim.}
+      \field{issn}{16136810}
+      \field{journaltitle}{Small}
+      \field{month}{5}
+      \field{number}{9}
+      \field{title}{{Graphene Oxide as a Carbon Source for Controlled Growth of Carbon Nanowires}}
+      \field{volume}{7}
+      \field{year}{2011}
+      \field{pages}{1199\bibrangedash 1202}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.1002/smll.201100071
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/oskat/OneDrive - Instituto Tecnologico y de Estudios Superiores de Monterrey/Documents/MNT{\_}ITESM{\_}Thesis/0{\_}References/GOAACSFCGOCN.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://doi.wiley.com/10.1002/smll.201100071
+      \endverb
+      \verb{url}
+      \verb http://doi.wiley.com/10.1002/smll.201100071
+      \endverb
+      \keyw{carbon nanowires,carbon sources,chemical sensors,graphene oxide}
+    \endentry
+    \entry{Boer2014}{book}{}
+      \name{author}{2}{}{%
+        {{hash=6ee0b9d745395aec58364116f478ad83}{%
+           family={Boer},
+           familyi={B\bibinitperiod},
+           given={Jan},
+           giveni={J\bibinitperiod}}}%
+        {{hash=3a6129b009480e2b48357c084952ac5f}{%
+           family={Blitterswijk},
+           familyi={B\bibinitperiod},
+           given={Clemens},
+           giveni={C\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=c17ecddc870b4029c785f761dfae3d5f}{%
+           family={AP},
+           familyi={A\bibinitperiod},
+           given={Academic\bibnamedelimb Press\bibnamedelimb of\bibnamedelima Elsevier},
+           giveni={A\bibinitperiod\bibinitdelim P\bibinitperiod\bibinitdelim o\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Safary O Reilly}%
+      }
+      \strng{namehash}{56066dd29791c1c4d49497e2eb2a825a}
+      \strng{fullhash}{56066dd29791c1c4d49497e2eb2a825a}
+      \strng{bibnamehash}{56066dd29791c1c4d49497e2eb2a825a}
+      \strng{authorbibnamehash}{56066dd29791c1c4d49497e2eb2a825a}
+      \strng{authornamehash}{56066dd29791c1c4d49497e2eb2a825a}
+      \strng{authorfullhash}{56066dd29791c1c4d49497e2eb2a825a}
+      \strng{editorbibnamehash}{c17ecddc870b4029c785f761dfae3d5f}
+      \strng{editornamehash}{c17ecddc870b4029c785f761dfae3d5f}
+      \strng{editorfullhash}{c17ecddc870b4029c785f761dfae3d5f}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{2nd}
+      \field{title}{{Tissue Engineering}}
+      \field{year}{2014}
+      \verb{file}
+      \verb :C$\backslash$:/Users/oskat/OneDrive - Instituto Tecnologico y de Estudios Superiores de Monterrey/Documents/MNT{\_}ITESM{\_}Thesis/relatedArticles/{\_}TissueEngineering/ch007-B9780124201453000018.mhtml:mhtml
+      \endverb
+      \verb{urlraw}
+      \verb https://learning.oreilly.com/library/view/tissue-engineering-2nd/9780124201453/XHTML/B9780124201453000109/B9780124201453000109.xhtml
+      \endverb
+      \verb{url}
+      \verb https://learning.oreilly.com/library/view/tissue-engineering-2nd/9780124201453/XHTML/B9780124201453000109/B9780124201453000109.xhtml
+      \endverb
+      \keyw{is{\_}book}
+    \endentry
+    \entry{Hribar2014}{article}{}
+      \name{author}{5}{}{%
+        {{hash=f8092cdc5a30cb27847be6ce9b798482}{%
+           family={Hribar},
+           familyi={H\bibinitperiod},
+           given={Kolin\bibnamedelima C.},
+           giveni={K\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=d567830ceb1be13d5ab51e30c76dde85}{%
+           family={Soman},
+           familyi={S\bibinitperiod},
+           given={Pranav},
+           giveni={P\bibinitperiod}}}%
+        {{hash=4ce4567e85bc1e8d7872330f4a781156}{%
+           family={Warner},
+           familyi={W\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod}}}%
+        {{hash=ba8bed9cfabe738efd07854f60013792}{%
+           family={Chung},
+           familyi={C\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod}}}%
+        {{hash=f9096e59822a721d1e88394e3b911e43}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Shaochen},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{4729a0a65aeeb7f0a66e4b47f95c1306}
+      \strng{fullhash}{4729a0a65aeeb7f0a66e4b47f95c1306}
+      \strng{bibnamehash}{4729a0a65aeeb7f0a66e4b47f95c1306}
+      \strng{authorbibnamehash}{4729a0a65aeeb7f0a66e4b47f95c1306}
+      \strng{authornamehash}{4729a0a65aeeb7f0a66e4b47f95c1306}
+      \strng{authorfullhash}{4729a0a65aeeb7f0a66e4b47f95c1306}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Light-assisted 3D direct-printing of biomaterials and cellular-scaffolds has the potential to develop novel lab-on-a-chip devices (LOCs) for a variety of biomedical applications, from drug discovery and diagnostic testing to in vitro tissue engineering and regeneration. Direct-writing describes a broad family of fabrication methods that typically employ computer-controlled translational stages to manufacture structures at multi-length scales. This review focuses on light-assisted direct-write fabrication for generating 3D functional scaffolds with precise micro- and nano-architecture, using both synthetic as well as naturally derived biomaterials. Two bioprinting approaches are discussed in detail - projection printing and laser-based systems - where each method is capable of modulating multiple scaffold parameters, such as 3D architecture, mechanical properties (e.g. stiffness), Poisson's ratio, chemical gradients, biological cell distributions, and porosity. The light-assisted direct-writing techniques described in this review provide the reader with alternative approaches to fabricate 3D biomaterials for utility in LOCs.}
+      \field{issn}{1473-0197}
+      \field{journaltitle}{Lab Chip}
+      \field{month}{1}
+      \field{number}{2}
+      \field{title}{{Light-assisted direct-write of 3D functional biomaterials}}
+      \field{volume}{14}
+      \field{year}{2014}
+      \field{pages}{268\bibrangedash 275}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1039/C3LC50634G
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/oskat/OneDrive - Instituto Tecnologico y de Estudios Superiores de Monterrey/Documents/MNT{\_}ITESM{\_}Thesis/relatedArticles/LADWO3DFB.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://www.ncbi.nlm.nih.gov/pubmed/24257507 http://xlink.rsc.org/?DOI=C3LC50634G
+      \endverb
+      \verb{url}
+      \verb http://www.ncbi.nlm.nih.gov/pubmed/24257507%20http://xlink.rsc.org/?DOI=C3LC50634G
+      \endverb
+    \endentry
+    \entry{Landis2011}{book}{}
+      \name{author}{1}{}{%
+        {{hash=242eca1f846e4d24d346782fb85498a7}{%
+           family={Landis},
+           familyi={L\bibinitperiod},
+           given={Stefan.},
+           giveni={S\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=242eca1f846e4d24d346782fb85498a7}{%
+           family={Landis},
+           familyi={L\bibinitperiod},
+           given={Stefan},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Hoboken, NJ USA}%
+      }
+      \list{publisher}{1}{%
+        {John Wiley {\&} Sons, Inc.}%
+      }
+      \strng{namehash}{242eca1f846e4d24d346782fb85498a7}
+      \strng{fullhash}{242eca1f846e4d24d346782fb85498a7}
+      \strng{bibnamehash}{242eca1f846e4d24d346782fb85498a7}
+      \strng{authorbibnamehash}{242eca1f846e4d24d346782fb85498a7}
+      \strng{authornamehash}{242eca1f846e4d24d346782fb85498a7}
+      \strng{authorfullhash}{242eca1f846e4d24d346782fb85498a7}
+      \strng{editorbibnamehash}{242eca1f846e4d24d346782fb85498a7}
+      \strng{editornamehash}{242eca1f846e4d24d346782fb85498a7}
+      \strng{editorfullhash}{242eca1f846e4d24d346782fb85498a7}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Ch. 1. X-ray lithography : fundamentals and applications -- ch. 2. NanoImprint lithography -- ch. 3. Lithography techniques using scanning probe microscopy -- ch. 4. Lithography and manipulation based on the optical properties of metal nanostructures -- ch. 5. Patterning with self-assembling block copolymers -- ch. 6. Metrology for lithography.}
+      \field{isbn}{9781118622582}
+      \field{month}{2}
+      \field{title}{{Nano-Lithography}}
+      \field{year}{2013}
+      \field{pages}{325}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1002/9781118622582
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/oskat/OneDrive - Instituto Tecnologico y de Estudios Superiores de Monterrey/Documents/MNT{\_}ITESM{\_}Thesis/relatedArticles/{\_}NanoLithography/ch006-006{\_}9781118621707{\_}chapter{\_}1.mhtml:mhtml
+      \endverb
+      \verb{urlraw}
+      \verb https://learning.oreilly.com/library/view/nano-lithography/9781118621707/ http://doi.wiley.com/10.1002/9781118622582
+      \endverb
+      \verb{url}
+      \verb https://learning.oreilly.com/library/view/nano-lithography/9781118621707/%20http://doi.wiley.com/10.1002/9781118622582
+      \endverb
+      \keyw{is{\_}book}
     \endentry
   \enddatalist
 \endrefsection

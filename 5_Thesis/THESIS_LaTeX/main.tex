@@ -65,10 +65,15 @@ headsepline,
 % Use tu justify paragraphs
 \usepackage{ragged2e}
 
-% Use the bibtex backend with the authoryear citation style (which resembles APA)
-\usepackage[backend=biber,natbib=true]{biblatex}
-% MLA, APA, or IEEE? - https://www.overleaf.com/learn/latex/Biblatex_citation_styles
-%\usepackage[style=apa, backend=biber]{biblatex}
+% Import references handler
+\usepackage[
+    style     = ieee,         % references format style
+    backend   = biber,        % choose the processing program
+    natbib    = true,         % enable additional reference formats
+    citestyle = numeric-comp, % enable multiple citations
+    sortcites = true,         % sort references in multiple citations
+    sorting   = none          % sort the reference table
+]{biblatex}
 
 % The filename of the bibliography
 \addbibresource{mainBiblio.bib}
