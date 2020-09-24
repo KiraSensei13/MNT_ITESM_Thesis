@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.6960 64-bit) (preloaded format=pdflatex 2019.2.1)  24 SEP 2020 10:12
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.6960 64-bit) (preloaded format=pdflatex 2019.2.1)  24 SEP 2020 14:00
 entering extended mode
 **./main.tex
 (main.tex
@@ -1939,12 +1939,12 @@ Underfull \hbox (badness 1102) in paragraph at lines 9--10
 e been de-vel-oped for
  []
 
-<./Figures/FabricationProcess2.png, id=275, 1447.65843pt x 356.83313pt>
-File: ./Figures/FabricationProcess2.png Graphic file (type png)
-<use ./Figures/FabricationProcess2.png>
-Package pdftex.def Info: ./Figures/FabricationProcess2.png  used on input line 
-13.
-(pdftex.def)             Requested size: 404.02908pt x 99.58589pt.
+<./Figures/FabricationProcess.png, id=275, 510.2262pt x 100.6962pt>
+File: ./Figures/FabricationProcess.png Graphic file (type png)
+<use ./Figures/FabricationProcess.png>
+Package pdftex.def Info: ./Figures/FabricationProcess.png  used on input line 1
+3.
+(pdftex.def)             Requested size: 404.02908pt x 79.7381pt.
 
 Underfull \hbox (badness 1490) in paragraph at lines 19--20
 []\T1/ppl/m/n/12 Nanotechnology has led to the study of dif-fer-ent poly-mer pa
@@ -1982,7 +1982,7 @@ Underfull \hbox (badness 1163) in paragraph at lines 32--33
 n the ap-pli-ca-tions at
  []
 
-[2 <./Figures/FabricationProcess2.png>]
+[2 <./Figures/FabricationProcess.png>]
 LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <12> not available
 (Font)              Font shape `T1/ppl/b/n' tried instead on input line 34.
 
@@ -2038,13 +2038,13 @@ Underfull \hbox (badness 1122) in paragraph at lines 58--59
 on through neu-ral
  []
 
-[5]
+
 Underfull \hbox (badness 1742) in paragraph at lines 62--63
 \T1/ppl/m/n/12 probe with CNFs com-pos-ites as record-ing elec-trodes via the t
 her-mal
  []
 
-
+[5]
 Underfull \hbox (badness 10000) in paragraph at lines 65--66
 []\T1/ppl/m/n/12 Nanostructured ma-te-ri-als are par-tic-u-larly good for su-pe
 r-ca-pac-i-tor
@@ -2276,7 +2276,7 @@ Package logreq Info: Writing requests to 'main.run.xml'.
  ) 
 Here is how much of TeX's memory you used:
  47408 strings out of 492946
- 978607 string characters out of 3126267
+ 978602 string characters out of 3126267
  1346428 words of memory out of 3000000
  50555 multiletter control sequences out of 15000+200000
  588410 words of font info for 123 fonts, out of 3000000 for 9000
@@ -2292,7 +2292,7 @@ ase/8r.enc}<C:/Users/oskat/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public
 Programs/MiKTeX 2.9/fonts/type1/urw/palatino/uplr8a.pfb><C:/Users/oskat/AppData
 /Local/Programs/MiKTeX 2.9/fonts/type1/urw/palatino/uplr8a.pfb><C:/Users/oskat/
 AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on main.pdf (29 pages, 330950 bytes).
+Output written on main.pdf (29 pages, 288943 bytes).
 PDF statistics:
  547 PDF objects out of 1000 (max. 8388607)
  92 named destinations out of 1000 (max. 500000)
