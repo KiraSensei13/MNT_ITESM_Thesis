@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.6960 64-bit) (preloaded format=pdflatex 2019.2.1)  24 SEP 2020 23:08
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.6960 64-bit) (preloaded format=pdflatex 2019.2.1)  24 SEP 2020 23:37
 entering extended mode
 **./main.tex
 (main.tex
@@ -1939,7 +1939,7 @@ Underfull \hbox (badness 1102) in paragraph at lines 9--10
 e been de-vel-oped for
  []
 
-<./Figures/FabricationProcess.png, id=275, 510.2262pt x 100.6962pt>
+<./Figures/FabricationProcess.png, id=277, 510.2262pt x 100.6962pt>
 File: ./Figures/FabricationProcess.png Graphic file (type png)
 <use ./Figures/FabricationProcess.png>
 Package pdftex.def Info: ./Figures/FabricationProcess.png  used on input line 1
@@ -1985,187 +1985,195 @@ n the ap-pli-ca-tions at
 [2 <./Figures/FabricationProcess.png>]
 LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <12> not available
 (Font)              Font shape `T1/ppl/b/n' tried instead on input line 34.
+<./Figures/carbonAllotropes.png, id=307, 1082.54437pt x 758.835pt>
+File: ./Figures/carbonAllotropes.png Graphic file (type png)
+<use ./Figures/carbonAllotropes.png>
+Package pdftex.def Info: ./Figures/carbonAllotropes.png  used on input line 43.
 
+(pdftex.def)             Requested size: 404.02908pt x 283.2077pt.
 
-LaTeX Warning: Reference `fig:carbonAllotropes' on page 3 undefined on input li
-ne 36.
+Underfull \hbox (badness 2828) in paragraph at lines 45--45
+ []\T1/ppl/m/sc/10 Figure 1.2: |\T1/ppl/m/n/10 Three car-bon al-lotropes (di-a-
+mond, car-byne and 
+ []
 
-
-Underfull \hbox (badness 1642) in paragraph at lines 44--45
+[3 <./Figures/carbonAllotropes.png>]
+Underfull \hbox (badness 1642) in paragraph at lines 52--53
 \T1/ppl/m/n/12 ex-cel-lent me-chan-i-cal strength, elec-tri-cal and ther-mal co
 n-duc-tiv-ity and
  []
 
-[3]
-Underfull \hbox (badness 3849) in paragraph at lines 51--52
+[4]
+Underfull \hbox (badness 3849) in paragraph at lines 59--60
 \T1/ppl/m/n/12 Carbon nanofibers (CNFs) have been clas-si-fied as lin-ear, sp2-
 based
  []
 
 
-Underfull \hbox (badness 2142) in paragraph at lines 51--52
+Underfull \hbox (badness 2142) in paragraph at lines 59--60
 \T1/ppl/m/n/12 CNFs have even been clas-si-fied as stacked (graphene lay-ers st
 acked
  []
 
 
-Underfull \hbox (badness 1831) in paragraph at lines 54--55
+Underfull \hbox (badness 1831) in paragraph at lines 62--63
 \T1/ppl/m/n/12 and large in surface-to-volume ra-tio. These char-ac-ter-is-tics
  con-fer to
  []
 
 
-Underfull \hbox (badness 2376) in paragraph at lines 54--55
+Underfull \hbox (badness 2376) in paragraph at lines 62--63
 \T1/ppl/m/n/12 and di-men-sion-al-ity ma-te-ri-als, such as elec-tri-cal, op-ti
 -cal ther-mal and
  []
 
 
-Underfull \hbox (badness 1019) in paragraph at lines 54--55
+Underfull \hbox (badness 1019) in paragraph at lines 62--63
 \T1/ppl/m/n/12 con-di-tions are a cru-cial fac-tor to ob-tain re-pro-ducible an
 d high-quality
  []
 
-[4]
-Underfull \hbox (badness 1275) in paragraph at lines 56--57
+
+Underfull \hbox (badness 1275) in paragraph at lines 64--65
 \T1/ppl/m/n/12 for sig-nal de-tec-tion [4], they can be man-u-fac-tured into 3D
  struc-tures
  []
 
 
-Underfull \hbox (badness 1122) in paragraph at lines 58--59
+Underfull \hbox (badness 1122) in paragraph at lines 66--67
 \T1/ppl/m/n/12 scaf-folds for neu-ral tis-sues to fa-cil-i-tate com-mu-ni-ca-ti
 on through neu-ral
  []
 
-
-Underfull \hbox (badness 1742) in paragraph at lines 62--63
+[5]
+Underfull \hbox (badness 1742) in paragraph at lines 70--71
 \T1/ppl/m/n/12 probe with CNFs com-pos-ites as record-ing elec-trodes via the t
 her-mal
  []
 
-[5]
-Underfull \hbox (badness 10000) in paragraph at lines 65--66
+
+Underfull \hbox (badness 10000) in paragraph at lines 73--74
 []\T1/ppl/m/n/12 Nanostructured ma-te-ri-als are par-tic-u-larly good for su-pe
 r-ca-pac-i-tor
  []
 
-
-Underfull \hbox (badness 1210) in paragraph at lines 68--69
+[6]
+Underfull \hbox (badness 1210) in paragraph at lines 76--77
 \T1/ppl/m/n/12 their at-trac-tive char-ac-ter-is-tic, such as, me-chan-i-cal pr
 op-er-ties, elec-tri-cal
  []
 
 
-Underfull \hbox (badness 1092) in paragraph at lines 68--69
+Underfull \hbox (badness 1092) in paragraph at lines 76--77
 \T1/ppl/m/n/12 con-duc-tiv-ity, low cost, easy pro-cess-ing, high sur-face area
  and unique
  []
 
 
-Underfull \hbox (badness 1394) in paragraph at lines 68--69
+Underfull \hbox (badness 1394) in paragraph at lines 76--77
 \T1/ppl/m/n/12 the elec-trolyte in the poly-mer back-bone that could re-sult in
  swelling
  []
 
 
-Underfull \hbox (badness 1028) in paragraph at lines 71--72
+Underfull \hbox (badness 1028) in paragraph at lines 79--80
 \T1/ppl/m/n/12 metal ox-ides ma-te-ri-als in a nanowire ar-chi-tec-ture are a g
 ood strat-egy
  []
 
 
-Underfull \hbox (badness 2478) in paragraph at lines 71--72
+Underfull \hbox (badness 2478) in paragraph at lines 79--80
 \T1/ppl/m/n/12 to de-velop high-performance de-vices due to the com-bi-na-tion 
 of the
  []
 
 
-Underfull \hbox (badness 1077) in paragraph at lines 71--72
+Underfull \hbox (badness 1077) in paragraph at lines 79--80
 \T1/ppl/m/n/12 elec-tro-chem-i-cal prop-er-ties of the poly-mer and/or com-pos-
 ites with the
  []
 
-[6]
-Underfull \hbox (badness 6493) in paragraph at lines 76--77
+
+Underfull \hbox (badness 6493) in paragraph at lines 84--85
 \T1/ppl/m/n/12 syn-the-sis [30], vaporliquid-solid (VLS) [31], elec-trode-po-s
 i-tion [32],
  []
 
 
-Underfull \hbox (badness 2221) in paragraph at lines 76--77
+Underfull \hbox (badness 2221) in paragraph at lines 84--85
 \T1/ppl/m/n/12 elec-tro-spin-ning [33], hy-drother-mal [34], also hi-er-ar-chi-
 cal ar-range-ment
  []
 
+[7]
 LaTeX Font Info:    Font shape `T1/ppl/bx/it' in size <12> not available
-(Font)              Font shape `T1/ppl/b/it' tried instead on input line 82.
+(Font)              Font shape `T1/ppl/b/it' tried instead on input line 90.
 
-Underfull \hbox (badness 10000) in paragraph at lines 98--101
+Underfull \hbox (badness 10000) in paragraph at lines 106--109
 \T1/ppl/m/n/12 Carbon nanowires have been fab-ri-cated with a pho-tore-sist by
  []
 
 
-Underfull \hbox (badness 2600) in paragraph at lines 98--101
+Underfull \hbox (badness 2600) in paragraph at lines 106--109
 \T1/ppl/m/n/12 pat-tern-ing res-o-lu-tions with nano-scale tol-er-ances through
  two-photon
  []
 
-[7]
-Underfull \hbox (badness 2932) in paragraph at lines 104--105
+
+Underfull \hbox (badness 2932) in paragraph at lines 112--113
 \T1/ppl/m/n/12 pho-topoly-mer-ized and py-rolyzed into con-duct-ing car-bon nan
 o-wires.
  []
 
 
-Underfull \hbox (badness 2293) in paragraph at lines 104--105
+Underfull \hbox (badness 2293) in paragraph at lines 112--113
 \T1/ppl/m/n/12 prop-er-ties. [[][]1[][]] Car-bon nano-materials are suit-able f
 or the catal-y-sis,
  []
 
-
-Underfull \hbox (badness 2103) in paragraph at lines 111--112
+[8]
+Underfull \hbox (badness 2103) in paragraph at lines 119--120
 \T1/ppl/m/n/12 The rhe-o-log-i-cal prop-er-ties of poly-mer so-lu-tions along w
 ith syn-the-sis
  []
 
 
-Underfull \hbox (badness 3803) in paragraph at lines 111--112
+Underfull \hbox (badness 3803) in paragraph at lines 119--120
 \T1/ppl/m/n/12 pa-ram-e-ters (stage ve-loc-ity, volt-age, dis-pense rate) can b
 e amended
  []
 
 
-Underfull \hbox (badness 1237) in paragraph at lines 111--112
+Underfull \hbox (badness 1237) in paragraph at lines 119--120
 \T1/ppl/m/n/12 through rhe-o-log-i-cal anal-y-ses to ob-tain a low volt-age ele
 ctrospun-able,
  []
 
-[8]
-Underfull \hbox (badness 1189) in paragraph at lines 120--122
+
+Underfull \hbox (badness 1189) in paragraph at lines 128--130
 []\T1/ppl/m/n/12 Is there any ev-i-dence of con-duc-tive car-bon nano-wire fab-
 ri-ca-tion
  []
 
-
-Underfull \hbox (badness 4792) in paragraph at lines 145--146
+[9]
+Underfull \hbox (badness 4792) in paragraph at lines 153--154
 \T1/ppl/m/n/12 Study the prac-tice and fea-si-bil-ity of a new fab-ri-ca-tion p
 ro-cess to
  []
 
 
-Underfull \hbox (badness 3364) in paragraph at lines 145--146
+Underfull \hbox (badness 3364) in paragraph at lines 153--154
 \T1/ppl/m/n/12 con-tin-u-ous, sim-ple and re-pro-ducible man-ner; by the in-te-
 gra-tion of
  []
 
 
-Underfull \hbox (badness 8000) in paragraph at lines 151--153
+Underfull \hbox (badness 8000) in paragraph at lines 159--161
 []\T1/ppl/m/n/12 Design poly-mer so-lu-tions that can be elec-tro-spun by NFES,
 
  []
 
-[9]) [10]
+) [10]
 \openout2 = `./Chapters/2.aux'.
 
  (Chapters/2.tex
@@ -2265,23 +2273,19 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 517.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 517.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 517.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: F5A6854B18AB196EF22495CCA7A7FAFC;9338.
-
-
-LaTeX Warning: There were undefined references.
-
+(rerunfilecheck)             Checksum: 6AC76CE790CEC4D230955500B53A06D7;9338.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 47408 strings out of 492946
- 978602 string characters out of 3126267
- 1345428 words of memory out of 3000000
- 50555 multiletter control sequences out of 15000+200000
+ 47414 strings out of 492946
+ 978778 string characters out of 3126267
+ 1345478 words of memory out of 3000000
+ 50559 multiletter control sequences out of 15000+200000
  588410 words of font info for 123 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 64i,20n,82p,2094b,3025s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 64i,20n,83p,2094b,3025s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\oskat\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\
 ectt1095.pk>{C:/Users/oskat/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/b
 ase/8r.enc}<C:/Users/oskat/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public
@@ -2292,9 +2296,9 @@ ase/8r.enc}<C:/Users/oskat/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public
 Programs/MiKTeX 2.9/fonts/type1/urw/palatino/uplr8a.pfb><C:/Users/oskat/AppData
 /Local/Programs/MiKTeX 2.9/fonts/type1/urw/palatino/uplr8a.pfb><C:/Users/oskat/
 AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on main.pdf (29 pages, 288996 bytes).
+Output written on main.pdf (29 pages, 486328 bytes).
 PDF statistics:
- 547 PDF objects out of 1000 (max. 8388607)
- 92 named destinations out of 1000 (max. 500000)
- 308 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 552 PDF objects out of 1000 (max. 8388607)
+ 93 named destinations out of 1000 (max. 500000)
+ 313 words of extra memory for PDF output out of 10000 (max. 10000000)
 
