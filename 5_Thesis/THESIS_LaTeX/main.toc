@@ -12,10 +12,10 @@
 \contentsline {subsubsection}{Synthesis of conducting polymer nanowires}{7}{section*.18}% 
 \contentsline {subsection}{\numberline {1.1.4}\emph {conclude that NFES is the way to go}}{7}{subsection.19}% 
 \contentsline {section}{\numberline {1.2}Problem definition and motivation}{7}{section.20}% 
-\contentsline {section}{\numberline {1.3}Hypothesis}{9}{section.21}% 
+\contentsline {section}{\numberline {1.3}Hypothesis}{8}{section.21}% 
 \contentsline {section}{\numberline {1.4}Research Questions}{9}{section.22}% 
-\contentsline {section}{\numberline {1.5}Objectives}{10}{section.23}% 
-\contentsline {subsection}{\numberline {1.5.1}General objective}{10}{subsection.24}% 
+\contentsline {section}{\numberline {1.5}Objectives}{9}{section.23}% 
+\contentsline {subsection}{\numberline {1.5.1}General objective}{9}{subsection.24}% 
 \contentsline {subsection}{\numberline {1.5.2}Specific objectives}{10}{subsection.25}% 
 \contentsline {section}{\numberline {1.6}Dissertation Outline}{10}{section.26}% 
 \contentsline {chapter}{\numberline {2}Near-Field Electrospinning as an Affordable Way to Gain Spatial Control}{11}{chapter.27}% 

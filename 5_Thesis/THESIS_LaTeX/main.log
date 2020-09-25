@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.6960 64-bit) (preloaded format=pdflatex 2019.2.1)  24 SEP 2020 14:00
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.6960 64-bit) (preloaded format=pdflatex 2019.2.1)  24 SEP 2020 23:08
 entering extended mode
 **./main.tex
 (main.tex
@@ -2159,13 +2159,13 @@ Underfull \hbox (badness 3364) in paragraph at lines 145--146
 gra-tion of
  []
 
-[9]
+
 Underfull \hbox (badness 8000) in paragraph at lines 151--153
 []\T1/ppl/m/n/12 Design poly-mer so-lu-tions that can be elec-tro-spun by NFES,
 
  []
 
-) [10]
+[9]) [10]
 \openout2 = `./Chapters/2.aux'.
 
  (Chapters/2.tex
@@ -2277,7 +2277,7 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 Here is how much of TeX's memory you used:
  47408 strings out of 492946
  978602 string characters out of 3126267
- 1346428 words of memory out of 3000000
+ 1345428 words of memory out of 3000000
  50555 multiletter control sequences out of 15000+200000
  588410 words of font info for 123 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -2292,7 +2292,7 @@ ase/8r.enc}<C:/Users/oskat/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public
 Programs/MiKTeX 2.9/fonts/type1/urw/palatino/uplr8a.pfb><C:/Users/oskat/AppData
 /Local/Programs/MiKTeX 2.9/fonts/type1/urw/palatino/uplr8a.pfb><C:/Users/oskat/
 AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on main.pdf (29 pages, 288943 bytes).
+Output written on main.pdf (29 pages, 288996 bytes).
 PDF statistics:
  547 PDF objects out of 1000 (max. 8388607)
  92 named destinations out of 1000 (max. 500000)
