@@ -1,0 +1,21 @@
+[CornRows]
+{Startpos}
+X(mm)	Y(mm)	Z(mm)
+0.000000	0.000000	0.000000	0.000000
+{Layers}
+Orientation	Layers	Separation(mm)	ShortPathds?
+XY	1	0.010000	TRUE
+{CornRows}
+CountLength(mm)	Separation(mm)	Horizontal?	Centered?
+30	0.020000	0.001000	FALSE	FALSE
+[CornRows]
+{StartPos}
+{Startpos}
+X(mm)	Y(mm)	Z(mm)
+0.000000	0.000000	0.000000	0.000000
+{Layers}
+Orientation	Layers	Separation(mm)	ShortPathds?
+XY	1	0.010000	TRUE
+{CornRows}
+CountLength(mm)	Separation(mm)	Horizontal?	Centered?
+25	0.015000	0.002000 TRUE	FALSE

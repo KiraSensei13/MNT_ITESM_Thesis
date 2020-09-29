@@ -4,7 +4,7 @@
 
 \label{Chapter:1}
 
-Carbon nano-materials are subjected to great interest for research purposes due to their various potential applications in diverse areas that take advantage of the nano-scale properties. Carbon nano-materials are suitable for catalysis, adsorption, carbon capture, energy and hydrogen storage, drug delivery, bio-sensing, and cancer detection. Some matchless properties that allow carbon nano-materials to be utilized within multiple functionalities include high porosity, distinguished structures, uniform morphologies, high stability, high magnetic properties, and high conductivity. \cite{Siddiqui2019, McCreery2008, Geim2011, Zhu2010, Katsnelson2008, Li2008, Geim2007, Geim2009}
+Carbon nano-materials are subjected to great interest for research purposes due to their various potential applications in diverse areas that take advantage of the nano-scale properties. Carbon nano-materials are suitable for catalysis, adsorption, carbon capture, energy and hydrogen storage, drug delivery, bio-sensing, and cancer detection. Some matchless properties that allow carbon nano-materials to be utilized within multiple functionalities include high porosity, distinguished structures, uniform morphologies, high stability, high magnetic properties, and high conductivity. \cite{McCreery2008, Geim2011, Zhu2010, Katsnelson2008, Li2008, Geim2007, Geim2009, Siddiqui2019}
 
 This document bestows a thesis project to perform research to engineer a polymer solution to achieve mass scale manufacturing of high conductive carbon nano-wires with a reduced diameter in an inexpensive, continuous, simple and reproducible manner. The research intends to involve several manufacturing processes such as near field electrospinning, photo-polymerization, pyrolization, and carbonization, as they have shown to be promising methods for the fabrication of carbon nano-materials. \cite{Cardenas2017} See Figure \ref{fig:fabricationFlowChart}. A number of processes have been developed for specific purposes of polymeric nano-fibres, some include surface deposition, composites, and chemical adjustments. Polymeric nano-fibers must be also pyrolyzed to generate carbon nano-wires with conductive capabilities \cite{Madou2011} for electrochemical sensing and energy storage purposes.
 
@@ -33,21 +33,30 @@ Nanotechnology ability to control and piece together materials at the nano-scale
 
 \subsection{Carbon and carbon-based nanomaterials}
 
-Carbon is a versatile element capable to form a number of bonds with other elements or with itself. Furthermore, carbon orbitals have the ability to hybridize in sp1, sp2 and sp3 configurations, hence the existence of different types of allotropes, see Figure \ref{fig:carbonAllotropes}. Currently, the three carbon allotropes (diamond, amorphous carbon and graphite), have been joined by additional ones deriving from synthetic processes (such as graphene, carbon nano-tubes, fullerenes, carbon nanohorns, nanodiamonds) [ [12]; Fig. 1].
+\begin{figure}[th]
+\centering
+\includegraphics[scale=0.40]{./Figures/CBNfingerprint.png}
+\decoRule
+\caption[CBN Fingerprint]{Molecular to mesoscale structural features of synthetic polymers influence the emergence of specific microstructural features in polymer-derived carbon materials after pyrolysis.}
+\label{fig:CBNfingerprint}
+\end{figure}
 
-The interest in CBNs has increased exponentially in the last
-decades, first with the discovery offullerenes (1985), then with that of carbon nanotubes (CNTs; 1991) and finally with the synthesis of graphene (GR) (2004).
+Carbon is a versatile element capable to form a number of bonds with other elements or with itself. Cabon-based nano-materials (CBNs) exist in diverse forms, depending on the precise values of each degree of freedom that specify the material proclivity at multiple scales. Hybridization, crystallization, percolation, anisotropy, porosity, impurities and imperfections are some of the relevant features that determine the CBN set of properties. The combination of these features at the micro- and meso-scale burst a variety of macro-scale properties that comprise the CBN fingerprint (\ref{fig:CBNfingerprint}). The interminable collection of possible CBN fingerprints range from soft, conductive lubricants to very hard, low conductivity solids; and from black colour, bulks to transparent, disordered thin films. \cite{McCreery2008} Figure \ref{fig:carbonAllotropes} shows the existence of different types of allotrope as carbon orbitals have the ability to hybridize in sp1, sp2 and sp3 configurations, assembling different types of allotropes.
 
 \begin{figure}[th]
 \centering
-\includegraphics[width=1.0\textwidth]{./Figures/carbonAllotropes.png}
+\includegraphics[scale=0.40]{./Figures/carbonAllotropes.png}
 \decoRule
 \caption[Carbon Allotropes]{Three carbon allotropes (diamond, carbyne and graphene) are the building blocks of additional deriving carbon types such as fullerenes, porous carbon and glass-like carbon.}
 \label{fig:carbonAllotropes}
 \end{figure}
 
+Due to the versatility and variety of CBNs, CBNs have been fabricated and implemented for various purposes. \cite{Geim2011, Katsnelson2008, Li2008, Geim2007, Geim2009, Siddiqui2019}. For instance, field effect transistors (FET) have been studied by Novoselov \cite{Novoselov2004} and Heersche et. al. \cite{Heersche2007}. Carbon FET devices have reported field-effect mobility one order of magnitude higher than that of silicon FETs. Other literature suggests CBNs to be favourable to detect a variety of gases and biomolecules. \cite{} As molecules are absorbed by the CBN, the carrier density and electrical resistivity of the carbon material changes. 
+
+%% Zhu2010
+
 The properties of these CBNs make them widely used in many
-fields ranging from material science [13], energy production and storage [14], environmental sciences [15,16], biology [17-19] and medicine [20,21]. Table 1 summarizes the main properties of the most common CBNs [22-25]:
+fields ranging from material science [13, McCreery2008], energy production and storage [14], environmental sciences [15,16], biology [17-19] and medicine [20,21]. Table 1 summarizes the main properties of the most common CBNs [22-25]:
 
 Among the many carbon nanomaterials, CNTs and GR are currently the most popular representatives and have been extensively studied for their excellent mechanical strength, electrical and thermal conductivity and optical properties. The Young's modulus and tensile strength of CNTs and GR can reach 1 TPa and 130 GPa respectively [20,21]. Carrier mobility of graphene is around 860 $cm^{2} V^{-1} s^{-1}$ (hole mobility of 844 $cm^{2} V^{-1} s^{-1}$ and carrier mobility of 866 $cm^{2} V^{-1} s^{-1}$), and the current density of metallic CNTs is orders of magnitude higher than those of metals such as copper [26,27]. Thermal conductivities of CNTs and GR are about 3000e3500W/mK and 5000 W/mK respectively [28]. The light absorption ratio of single-layer graphene is limited to 2.5\% [29]. A large amount of the research efforts were focused on exploiting these properties for various applications including electronics, biological engineering, filtration, lightweight/strong composite materials, photovoltaic and energy storage [30-32]. CNTs and GR are naturally good electrical conductors and their biocompatibility can be modulated [33], making them good candidates for improving electrodes for neural interfaces. Electrical recording or stimulation of nerve cells is widely employed in neural prostheses (for hearing, vision, and limb-movement recovery), in clinical therapies (treating Parkinson's disease, dystonia, and chronic pain), as well as in basic neuroscience studies. In all these applications, electrodes of various shapes and dimensions stimulate and/or record neuronal activity to directly modulate behavior or to interface machine. The performance of the electrodes can be significantly improved by implementing the device with nanomaterial-based coatings (such as CBNs), since their high surface area can drastically increase charge injection capacity and decrease the interfacial impedance with neurons [34].
 

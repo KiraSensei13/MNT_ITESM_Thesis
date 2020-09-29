@@ -19,95 +19,6 @@
 
 \refsection{0}
   \datalist[entry]{none/global//global/global}
-    \entry{Siddiqui2019}{article}{}
-      \name{author}{10}{}{%
-        {{hash=11e5b2cfd8046da7de373eb40d8abdb7}{%
-           family={Siddiqui},
-           familyi={S\bibinitperiod},
-           given={M.T.H},
-           giveni={M\bibinitperiod}}}%
-        {{hash=9bdea1c918900788974a4dec9d454115}{%
-           family={Nizamuddin},
-           familyi={N\bibinitperiod},
-           given={Sabzoi},
-           giveni={S\bibinitperiod}}}%
-        {{hash=0b1eabead1255e74424650556da604cf}{%
-           family={Baloch},
-           familyi={B\bibinitperiod},
-           given={Humair\bibnamedelima Ahmed},
-           giveni={H\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
-        {{hash=70fd39c45a48889c7e9585659956eb67}{%
-           family={Mubarak},
-           familyi={M\bibinitperiod},
-           given={N.M.},
-           giveni={N\bibinitperiod}}}%
-        {{hash=ee6cb513087d463b92bf7af2dd5dd721}{%
-           family={Al-Ali},
-           familyi={A\bibinithyphendelim A\bibinitperiod},
-           given={Maha},
-           giveni={M\bibinitperiod}}}%
-        {{hash=e53f9e3e6eb05d11befec306462db336}{%
-           family={Mazari},
-           familyi={M\bibinitperiod},
-           given={Shaukat\bibnamedelima A},
-           giveni={S\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
-        {{hash=08fb64af2352b347a44ef2fa9c13adb4}{%
-           family={Bhutto},
-           familyi={B\bibinitperiod},
-           given={A.W},
-           giveni={A\bibinitperiod}}}%
-        {{hash=1499e6bccdbcdaa7300b93c7c46bf257}{%
-           family={Abro},
-           familyi={A\bibinitperiod},
-           given={Rashid},
-           giveni={R\bibinitperiod}}}%
-        {{hash=a19b8210c518c8da6181140df0aee9dd}{%
-           family={Srinivasan},
-           familyi={S\bibinitperiod},
-           given={Madapusi},
-           giveni={M\bibinitperiod}}}%
-        {{hash=0c276668bd6739ab142e84d4de9000da}{%
-           family={Griffin},
-           familyi={G\bibinitperiod},
-           given={Gregory},
-           giveni={G\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {Elsevier}%
-      }
-      \strng{namehash}{ca62871fef4642a524418fb818485fb9}
-      \strng{fullhash}{ca62871fef4642a524418fb818485fb9}
-      \strng{bibnamehash}{ca62871fef4642a524418fb818485fb9}
-      \strng{authorbibnamehash}{ca62871fef4642a524418fb818485fb9}
-      \strng{authornamehash}{ca62871fef4642a524418fb818485fb9}
-      \strng{authorfullhash}{ca62871fef4642a524418fb818485fb9}
-      \field{sortinit}{1}
-      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{Novel magnetic carbon nano-materials have attracted great interest in recent years due to their potential applications in many areas that exploit the combined advantage of magnetic with nano-scale properties. These materials are suitable for the catalysis, adsorption, carbon capture, energy and hydrogen storage, drug delivery, bio-sensing and cancer detection. This is due to some of amazing properties that allow them to be utilized multiple functionalities including high porosity, distinguished structures, uniform morphologies, high stability, high magnetic properties and high conductivity. This paper provides a comprehensive summary of promising methods for synthesis of magnetic carbon nano-materials and their applications.}
-      \field{issn}{2213-3437}
-      \field{journaltitle}{Journal of Environmental Chemical Engineering}
-      \field{month}{2}
-      \field{number}{1}
-      \field{title}{{Fabrication of advance magnetic carbon nano-materials and their potential applications: A review}}
-      \field{volume}{7}
-      \field{year}{2019}
-      \field{pages}{102812}
-      \range{pages}{1}
-      \verb{doi}
-      \verb 10.1016/J.JECE.2018.102812
-      \endverb
-      \verb{file}
-      \verb :C$\backslash$:/Users/oskat/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Siddiqui et al. - 2019 - Fabrication of advance magnetic carbon nano-materials and their potential applications A review.pdf:pdf
-      \endverb
-      \verb{urlraw}
-      \verb https://0-www-sciencedirect-com.millenium.itesm.mx/science/article/pii/S2213343718307358 https://linkinghub.elsevier.com/retrieve/pii/S2213343718307358
-      \endverb
-      \verb{url}
-      \verb https://0-www-sciencedirect-com.millenium.itesm.mx/science/article/pii/S2213343718307358%20https://linkinghub.elsevier.com/retrieve/pii/S2213343718307358
-      \endverb
-    \endentry
     \entry{McCreery2008}{article}{}
       \name{author}{1}{}{%
         {{hash=d4ae0cab5df78f90f35d2b1886e8079c}{%
@@ -447,6 +358,95 @@
       \verb https://www.sciencemag.org/lookup/doi/10.1126/science.1158877
       \endverb
       \keyw{SU8,conductivity}
+    \endentry
+    \entry{Siddiqui2019}{article}{}
+      \name{author}{10}{}{%
+        {{hash=11e5b2cfd8046da7de373eb40d8abdb7}{%
+           family={Siddiqui},
+           familyi={S\bibinitperiod},
+           given={M.T.H},
+           giveni={M\bibinitperiod}}}%
+        {{hash=9bdea1c918900788974a4dec9d454115}{%
+           family={Nizamuddin},
+           familyi={N\bibinitperiod},
+           given={Sabzoi},
+           giveni={S\bibinitperiod}}}%
+        {{hash=0b1eabead1255e74424650556da604cf}{%
+           family={Baloch},
+           familyi={B\bibinitperiod},
+           given={Humair\bibnamedelima Ahmed},
+           giveni={H\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=70fd39c45a48889c7e9585659956eb67}{%
+           family={Mubarak},
+           familyi={M\bibinitperiod},
+           given={N.M.},
+           giveni={N\bibinitperiod}}}%
+        {{hash=ee6cb513087d463b92bf7af2dd5dd721}{%
+           family={Al-Ali},
+           familyi={A\bibinithyphendelim A\bibinitperiod},
+           given={Maha},
+           giveni={M\bibinitperiod}}}%
+        {{hash=e53f9e3e6eb05d11befec306462db336}{%
+           family={Mazari},
+           familyi={M\bibinitperiod},
+           given={Shaukat\bibnamedelima A},
+           giveni={S\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=08fb64af2352b347a44ef2fa9c13adb4}{%
+           family={Bhutto},
+           familyi={B\bibinitperiod},
+           given={A.W},
+           giveni={A\bibinitperiod}}}%
+        {{hash=1499e6bccdbcdaa7300b93c7c46bf257}{%
+           family={Abro},
+           familyi={A\bibinitperiod},
+           given={Rashid},
+           giveni={R\bibinitperiod}}}%
+        {{hash=a19b8210c518c8da6181140df0aee9dd}{%
+           family={Srinivasan},
+           familyi={S\bibinitperiod},
+           given={Madapusi},
+           giveni={M\bibinitperiod}}}%
+        {{hash=0c276668bd6739ab142e84d4de9000da}{%
+           family={Griffin},
+           familyi={G\bibinitperiod},
+           given={Gregory},
+           giveni={G\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{ca62871fef4642a524418fb818485fb9}
+      \strng{fullhash}{ca62871fef4642a524418fb818485fb9}
+      \strng{bibnamehash}{ca62871fef4642a524418fb818485fb9}
+      \strng{authorbibnamehash}{ca62871fef4642a524418fb818485fb9}
+      \strng{authornamehash}{ca62871fef4642a524418fb818485fb9}
+      \strng{authorfullhash}{ca62871fef4642a524418fb818485fb9}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Novel magnetic carbon nano-materials have attracted great interest in recent years due to their potential applications in many areas that exploit the combined advantage of magnetic with nano-scale properties. These materials are suitable for the catalysis, adsorption, carbon capture, energy and hydrogen storage, drug delivery, bio-sensing and cancer detection. This is due to some of amazing properties that allow them to be utilized multiple functionalities including high porosity, distinguished structures, uniform morphologies, high stability, high magnetic properties and high conductivity. This paper provides a comprehensive summary of promising methods for synthesis of magnetic carbon nano-materials and their applications.}
+      \field{issn}{2213-3437}
+      \field{journaltitle}{Journal of Environmental Chemical Engineering}
+      \field{month}{2}
+      \field{number}{1}
+      \field{title}{{Fabrication of advance magnetic carbon nano-materials and their potential applications: A review}}
+      \field{volume}{7}
+      \field{year}{2019}
+      \field{pages}{102812}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/J.JECE.2018.102812
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/oskat/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Siddiqui et al. - 2019 - Fabrication of advance magnetic carbon nano-materials and their potential applications A review.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://0-www-sciencedirect-com.millenium.itesm.mx/science/article/pii/S2213343718307358 https://linkinghub.elsevier.com/retrieve/pii/S2213343718307358
+      \endverb
+      \verb{url}
+      \verb https://0-www-sciencedirect-com.millenium.itesm.mx/science/article/pii/S2213343718307358%20https://linkinghub.elsevier.com/retrieve/pii/S2213343718307358
+      \endverb
     \endentry
     \entry{Cardenas2017}{article}{}
       \name{author}{1}{}{%
@@ -833,6 +833,106 @@
       \endverb
       \keyw{carbon nanowires,carbon sources,chemical sensors,graphene oxide}
     \endentry
+    \entry{Novoselov2004}{article}{}
+      \name{author}{1}{}{%
+        {{hash=edc496cb40fecf35de2f2957fb7a20ac}{%
+           family={Novoselov},
+           familyi={N\bibinitperiod},
+           given={K.\bibnamedelimi S.},
+           giveni={K\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \strng{namehash}{edc496cb40fecf35de2f2957fb7a20ac}
+      \strng{fullhash}{edc496cb40fecf35de2f2957fb7a20ac}
+      \strng{bibnamehash}{edc496cb40fecf35de2f2957fb7a20ac}
+      \strng{authorbibnamehash}{edc496cb40fecf35de2f2957fb7a20ac}
+      \strng{authornamehash}{edc496cb40fecf35de2f2957fb7a20ac}
+      \strng{authorfullhash}{edc496cb40fecf35de2f2957fb7a20ac}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0036-8075}
+      \field{journaltitle}{Science}
+      \field{month}{10}
+      \field{number}{5696}
+      \field{title}{{Electric Field Effect in Atomically Thin Carbon Films}}
+      \field{volume}{306}
+      \field{year}{2004}
+      \field{pages}{666\bibrangedash 669}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.1126/science.1102896
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/oskat/OneDrive - Instituto Tecnologico y de Estudios Superiores de Monterrey/Documents/MNT{\_}ITESM{\_}Thesis/0{\_}References/EFEIATCF.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencemag.org/lookup/doi/10.1126/science.1102896
+      \endverb
+      \verb{url}
+      \verb https://www.sciencemag.org/lookup/doi/10.1126/science.1102896
+      \endverb
+    \endentry
+    \entry{Heersche2007}{article}{}
+      \name{author}{5}{}{%
+        {{hash=196bf54b5355538cd3759a25a854266c}{%
+           family={Heersche},
+           familyi={H\bibinitperiod},
+           given={Hubert\bibnamedelima B},
+           giveni={H\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=104adca655c0c282c6fcedc11db38805}{%
+           family={Jarillo-Herrero},
+           familyi={J\bibinithyphendelim H\bibinitperiod},
+           given={Pablo},
+           giveni={P\bibinitperiod}}}%
+        {{hash=f80a15b3f0dedfaec99e2c90421e5105}{%
+           family={Oostinga},
+           familyi={O\bibinitperiod},
+           given={Jeroen\bibnamedelima B},
+           giveni={J\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=32374120f06a95944f0ca5e62ad87444}{%
+           family={Vandersypen},
+           familyi={V\bibinitperiod},
+           given={Lieven\bibnamedelimb M\bibnamedelima K},
+           giveni={L\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=e44f08e0900ae545a72fe8e7272857b0}{%
+           family={Morpurgo},
+           familyi={M\bibinitperiod},
+           given={Alberto\bibnamedelima F},
+           giveni={A\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+      }
+      \strng{namehash}{2b6a29d4b79efd80bb90c96046b97761}
+      \strng{fullhash}{2b6a29d4b79efd80bb90c96046b97761}
+      \strng{bibnamehash}{2b6a29d4b79efd80bb90c96046b97761}
+      \strng{authorbibnamehash}{2b6a29d4b79efd80bb90c96046b97761}
+      \strng{authornamehash}{2b6a29d4b79efd80bb90c96046b97761}
+      \strng{authorfullhash}{2b6a29d4b79efd80bb90c96046b97761}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0028-0836}
+      \field{journaltitle}{Nature}
+      \field{month}{3}
+      \field{number}{7131}
+      \field{title}{{Bipolar supercurrent in graphene}}
+      \field{volume}{446}
+      \field{year}{2007}
+      \field{pages}{56\bibrangedash 59}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.1038/nature05555
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/oskat/OneDrive - Instituto Tecnologico y de Estudios Superiores de Monterrey/Documents/MNT{\_}ITESM{\_}Thesis/0{\_}References/BSIG.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://www.nature.com/articles/nature05555
+      \endverb
+      \verb{url}
+      \verb http://www.nature.com/articles/nature05555
+      \endverb
+    \endentry
     \entry{Boer2014}{book}{}
       \name{author}{2}{}{%
         {{hash=6ee0b9d745395aec58364116f478ad83}{%
@@ -974,8 +1074,8 @@
       \strng{editorbibnamehash}{242eca1f846e4d24d346782fb85498a7}
       \strng{editornamehash}{242eca1f846e4d24d346782fb85498a7}
       \strng{editorfullhash}{242eca1f846e4d24d346782fb85498a7}
-      \field{sortinit}{1}
-      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Ch. 1. X-ray lithography : fundamentals and applications -- ch. 2. NanoImprint lithography -- ch. 3. Lithography techniques using scanning probe microscopy -- ch. 4. Lithography and manipulation based on the optical properties of metal nanostructures -- ch. 5. Patterning with self-assembling block copolymers -- ch. 6. Metrology for lithography.}
