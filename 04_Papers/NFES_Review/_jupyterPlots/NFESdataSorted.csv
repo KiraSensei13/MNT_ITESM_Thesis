@@ -542,30 +542,30 @@ PS,NA,NA,,,,rotating drum,20,360,36,NA,NA,11000,NA,410,NA,straight,cross aligned
 PIB,NA,NA,,,,rotating drum,15,360,72,NA,NA,12000,NA,420,NA,straight,cross aligned,Sarkar2007
 PEO/PPy,5000000,DMF/Acetone,,,,xy stage,8,25,NA,NA,NA,1000,NA,400,265,straight,aligned,Shen2016
 PEO/PPy,5000000,DMF/Acetone,,,,xy stage,8,25,NA,NA,NA,1000,NA,700,265,straight,aligned,Shen2016
-PEO,40000000,Water,,,,,1.5,110,NA,NA,1.2,NA,NA,93.97435897,NA,,,Shin2019
-PEO,40000000,Water,,,,,1.5,110,NA,NA,1.1,NA,NA,95,NA,,,Shin2019
-PEO,40000000,Water,,,,,1.5,110,NA,NA,1,NA,NA,96.34615385,NA,,,Shin2019
-PEO,40000000,Water,,,,,1.5,110,NA,NA,0.85,NA,NA,96.98717949,NA,,,Shin2019
-PEO,40000000,Water,,,,,1.5,110,NA,NA,0.8,NA,NA,97.43589744,NA,,,Shin2019
+PEO,40000000,Water,,,,xy stage,1.5,110,NA,NA,1.2,NA,NA,93.97435897,NA,meander,single,Shin2019
+PEO,40000000,Water,,,,xy stage,1.5,110,NA,NA,1.1,NA,NA,95,NA,meander,single,Shin2019
+PEO,40000000,Water,,,,xy stage,1.5,110,NA,NA,1,NA,NA,96.34615385,NA,meander,single,Shin2019
+PEO,40000000,Water,,,,xy stage,1.5,110,NA,NA,0.85,NA,NA,96.98717949,NA,meander,single,Shin2019
+PEO,40000000,Water,,,,xy stage,1.5,110,NA,NA,0.8,NA,NA,97.43589744,NA,meander,single,Shin2019
 PEO,4000000,Water,,,,xy stage,1.5,108,NA,NA,NA,650,0.2,435.8883333,NA,coil,single,Shin2019
 PEO,4000000,Water,,,,xy stage,1.5,108,NA,NA,NA,650,0.2,499.9582609,NA,coil,single,Shin2019
 PEO,4000000,Water,,,,xy stage,1.5,108,NA,NA,NA,650,0.5,583.9275,NA,coil,single,Shin2019
 PEO,4000000,Water,,,,xy stage,1.5,108,NA,NA,NA,650,0.5,672.8255556,NA,coil,single,Shin2019
 PEO,4000000,Water,,,,xy stage,1.5,108,NA,NA,NA,650,0.8,814.7683333,NA,meander,single,Shin2019
 PEO,4000000,Water,,,,xy stage,1.5,108,NA,NA,NA,650,0.8,933.2333333,NA,meander,single,Shin2019
-PS,NA,"1,2,4-trichlorobenzene TCB",,,,,5,2,NA,Si,0.02,500,2,57.32,NA,,,Song2015
-PS,NA,"1,2,4-trichlorobenzene TCB",,,,,NA,2,NA,Si,0.02,500,2,57.32,NA,,,Song2015
-PS,NA,"1,2,4-trichlorobenzene TCB",,,,,1,2,NA,Si,0.03,475,2,61.74,NA,,,Song2015
-PS,NA,"1,2,4-trichlorobenzene TCB",,,,,5,2,NA,Si,0.02,475,2,68.11,NA,,,Song2015
-PS,NA,"1,2,4-trichlorobenzene TCB",,,,,2,2,NA,Si,0.03,475,2,69.93,NA,,,Song2015
-PS,NA,"1,2,4-trichlorobenzene TCB",,,,,3,2,NA,Si,0.03,475,2,79.31,NA,,,Song2015
-PS,NA,"1,2,4-trichlorobenzene TCB",,,,,5,2,NA,Si,0.02,450,2,99.99,NA,,,Song2015
-PS,NA,"1,2,4-trichlorobenzene TCB",,,,,NA,2,NA,Si,0.03,500,2,112.2,NA,,,Song2015
-PS,NA,"1,2,4-trichlorobenzene TCB",,,,,4,2,NA,Si,0.03,475,2,113.3,NA,,,Song2015
-PS,NA,"1,2,4-trichlorobenzene TCB",,,,,5,2,NA,Si,0.02,425,2,117.68,NA,,,Song2015
-PS,NA,"1,2,4-trichlorobenzene TCB",,,,,5,2,NA,Si,0.03,475,2,138.99,NA,,,Song2015
-PS,NA,"1,2,4-trichlorobenzene TCB",,,,,NA,2,NA,Si,0.04,500,2,163.99,NA,,,Song2015
-PS,NA,"1,2,4-trichlorobenzene TCB",,,,,5,2,NA,Si,0.02,400,2,167.49,NA,,,Song2015
+PS,NA,"1,2,4-trichlorobenzene TCB",,,,xy stage,5,2,NA,Si,0.02,500,2,57.32,NA,straight,single,Song2015
+PS,NA,"1,2,4-trichlorobenzene TCB",,,,xy stage,NA,2,NA,Si,0.02,500,2,57.32,NA,straight,single,Song2015
+PS,NA,"1,2,4-trichlorobenzene TCB",,,,xy stage,1,2,NA,Si,0.03,475,2,61.74,NA,straight,single,Song2015
+PS,NA,"1,2,4-trichlorobenzene TCB",,,,xy stage,5,2,NA,Si,0.02,475,2,68.11,NA,straight,single,Song2015
+PS,NA,"1,2,4-trichlorobenzene TCB",,,,xy stage,2,2,NA,Si,0.03,475,2,69.93,NA,straight,single,Song2015
+PS,NA,"1,2,4-trichlorobenzene TCB",,,,xy stage,3,2,NA,Si,0.03,475,2,79.31,NA,straight,single,Song2015
+PS,NA,"1,2,4-trichlorobenzene TCB",,,,xy stage,5,2,NA,Si,0.02,450,2,99.99,NA,straight,single,Song2015
+PS,NA,"1,2,4-trichlorobenzene TCB",,,,xy stage,NA,2,NA,Si,0.03,500,2,112.2,NA,straight,single,Song2015
+PS,NA,"1,2,4-trichlorobenzene TCB",,,,xy stage,4,2,NA,Si,0.03,475,2,113.3,NA,straight,single,Song2015
+PS,NA,"1,2,4-trichlorobenzene TCB",,,,xy stage,5,2,NA,Si,0.02,425,2,117.68,NA,straight,single,Song2015
+PS,NA,"1,2,4-trichlorobenzene TCB",,,,xy stage,5,2,NA,Si,0.03,475,2,138.99,NA,straight,single,Song2015
+PS,NA,"1,2,4-trichlorobenzene TCB",,,,xy stage,NA,2,NA,Si,0.04,500,2,163.99,NA,straight,single,Song2015
+PS,NA,"1,2,4-trichlorobenzene TCB",,,,xy stage,5,2,NA,Si,0.02,400,2,167.49,NA,straight,single,Song2015
 PEO,NA,"1,4-dioxane",,,,touch spinning,0.5,NA,300,NA,NA,NA,NA,298,NA,straight,cross aligned,Strauss2019
 PEO/NT,NA,"1,4-dioxane",,,,touch spinning,0.5,NA,300,NA,NA,NA,NA,320,NA,straight,cross aligned,Strauss2019
 PCL,NA,Chloroform,,,,touch spinning,8,NA,300,NA,NA,NA,NA,326,NA,straight,cross aligned,Strauss2019
@@ -778,3 +778,4 @@ PEO/TiO2,300000,CH3CN,,,,xy stage,5.44,NA,20,Si3N4,0.5,1100,NA,500,40,straight,a
 PEO,400000,Water,,,,xy stage,10,108,NA,NA,0.75,900,15,150,NA,coil,single,Shin2018
 PEO,400000,Water,,,,xy stage,10,108,NA,NA,0.75,700,15,130,NA,meander,single,Shin2018
 PEO,400000,Water,,,,xy stage,10,108,NA,NA,0.75,500,15,220,NA,straight,single,Shin2018
+PCL,80000,Chloroform/DMF,,,,aligned needles,10,337,500,Si,60,15000,NA,120.8,NA,straight,randomly distributed,Sonntag2020
