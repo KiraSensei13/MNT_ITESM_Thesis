@@ -570,86 +570,86 @@ PEO,NA,"1,4-dioxane",,,,touch spinning,0.5,NA,300,NA,NA,NA,NA,298,NA,straight,cr
 PEO/NT,NA,"1,4-dioxane",,,,touch spinning,0.5,NA,300,NA,NA,NA,NA,320,NA,straight,cross aligned,Strauss2019
 PCL,NA,Chloroform,,,,touch spinning,8,NA,300,NA,NA,NA,NA,326,NA,straight,cross aligned,Strauss2019
 PEU,NA,HFIP,,,,touch spinning,5,NA,300,NA,NA,NA,NA,328,NA,straight,cross aligned,Strauss2019
-PEO,300000,NA,,,,,3,NA,NA,Si,0.5,1000,200,300,25,,,Sun2006a
-PEO,300000,NA,,,,,3,NA,NA,Si,0.5,598,200,NA,25,,,Sun2006a
-PEO,300000,NA,,,,,3,NA,NA,Si,1,699,200,NA,25,,,Sun2006a
-PEO,300000,NA,,,,,3,NA,NA,Si,2,902,200,NA,25,,,Sun2006a
-PEO,300000,NA,,,,,3,NA,NA,Si,3,1204,200,NA,25,,,Sun2006a
-PEO,300000,NA,,,,,3,NA,NA,SiO2,0.5,608,200,NA,25,,,Sun2006a
-PEO,300000,NA,,,,,3,NA,NA,SiO2,1,729,200,NA,25,,,Sun2006a
-PEO,300000,NA,,,,,3,NA,NA,SiO2,2,919,200,NA,25,,,Sun2006a
-PEO,300000,NA,,,,,3,NA,NA,SiO2,3,1255,200,NA,25,,,Sun2006a
-PEO,300000,NA,,,,,5,NA,NA,Si,0.5,789,200,NA,25,,,Sun2006a
-PEO,300000,NA,,,,,5,NA,NA,Si,1,994,200,NA,25,,,Sun2006a
-PEO,300000,NA,,,,,5,NA,NA,Si,2,1190,200,NA,25,,,Sun2006a
-PEO,300000,NA,,,,,5,NA,NA,Si,3,1593,200,NA,25,,,Sun2006a
-PEO,300000,NA,,,,,5,NA,NA,SiO2,0.5,814,200,NA,25,,,Sun2006a
-PEO,300000,NA,,,,,5,NA,NA,SiO2,1,1008,200,NA,25,,,Sun2006a
-PEO,300000,NA,,,,,5,NA,NA,SiO2,2,1211,200,NA,25,,,Sun2006a
-PEO,300000,NA,,,,,5,NA,NA,SiO2,3,1614,200,NA,25,,,Sun2006a
-PEO,2000000,Water,,,,,5,NA,120,NA,NA,NA,NA,5470,,,,Wang2015
-PEO,2000000,Water,,,,,5,NA,NA,NA,2,NA,NA,NA,4113,,,Wang2015
-PEO,2000000,Water,,,,,5,NA,NA,NA,3,NA,NA,NA,4676,,,Wang2015
-PEO,2000000,Water,,,,,5,NA,NA,NA,4,NA,NA,NA,5368,,,Wang2015
-PEO,2000000,Water,,,,,5,NA,NA,NA,5,NA,NA,NA,5773,,,Wang2015
-PEO,2000000,Water,,,,,5,NA,NA,NA,6,NA,NA,NA,6659,,,Wang2015
-PEO,2000000,Water,,,,,5,NA,NA,NA,2,NA,NA,NA,3546,,,Wang2015
-PEO,2000000,Water,,,,,5,NA,NA,NA,3,NA,NA,NA,4052,,,Wang2015
-PEO,2000000,Water,,,,,5,NA,NA,NA,4,NA,NA,NA,4357,,,Wang2015
-PEO,2000000,Water,,,,,5,NA,NA,NA,5,NA,NA,NA,5113,,,Wang2015
-PEO,2000000,Water,,,,,5,NA,NA,NA,6,NA,NA,NA,5676,,,Wang2015
-PEO,2000000,Water,,,,,5,NA,NA,NA,2,NA,NA,NA,3023,,,Wang2015
-PEO,2000000,Water,,,,,5,NA,NA,NA,3,NA,NA,NA,3335,,,Wang2015
-PEO,2000000,Water,,,,,5,NA,NA,NA,4,NA,NA,NA,3582,,,Wang2015
-PEO,2000000,Water,,,,,5,NA,NA,NA,5,NA,NA,NA,4138,,,Wang2015
-PEO,2000000,Water,,,,,5,NA,NA,NA,6,NA,NA,NA,4421,,,Wang2015
-PEO,2000000,Water,,,,,5,NA,NA,NA,NA,1700,NA,NA,4551,,,Wang2015
-PEO,2000000,Water,,,,,5,NA,NA,NA,NA,1900,NA,NA,4710,,,Wang2015
-PEO,2000000,Water,,,,,5,NA,NA,NA,NA,2100,NA,NA,4654,,,Wang2015
-PEO,2000000,Water,,,,,5,NA,NA,NA,NA,2300,NA,NA,4729,,,Wang2015
-PEO,2000000,Water,,,,,5,NA,NA,NA,NA,2500,NA,NA,4799,,,Wang2015
-PEO,2000000,Water,,,,,5,NA,NA,NA,NA,2700,NA,NA,4915,,,Wang2015
-PEO,2000000,Water,,,,,5,NA,NA,NA,NA,1700,NA,NA,3946,,,Wang2015
-PEO,2000000,Water,,,,,5,NA,NA,NA,NA,1900,NA,NA,4047,,,Wang2015
-PEO,2000000,Water,,,,,5,NA,NA,NA,NA,2100,NA,NA,4070,,,Wang2015
-PEO,2000000,Water,,,,,5,NA,NA,NA,NA,2300,NA,NA,4197,,,Wang2015
-PEO,2000000,Water,,,,,5,NA,NA,NA,NA,2500,NA,NA,4256,,,Wang2015
-PEO,2000000,Water,,,,,5,NA,NA,NA,NA,2700,NA,NA,4315,,,Wang2015
-PEO,2000000,Water,,,,,5,NA,NA,NA,NA,1700,NA,NA,3314,,,Wang2015
-PEO,2000000,Water,,,,,5,NA,NA,NA,NA,1900,NA,NA,3457,,,Wang2015
-PEO,2000000,Water,,,,,5,NA,NA,NA,NA,2100,NA,NA,3553,,,Wang2015
-PEO,2000000,Water,,,,,5,NA,NA,NA,NA,2300,NA,NA,3659,,,Wang2015
-PEO,2000000,Water,,,,,5,NA,NA,NA,NA,2500,NA,NA,3869,,,Wang2015
-PEO,2000000,Water,,,,,5,NA,NA,NA,NA,2700,NA,NA,3903,,,Wang2015
-PEO,2000000,Water,,,,,5,180,12,NA,4,2300,20,NA,3034,,,Wang2017
-PEO,2000000,Water,,,,,5,180,12,NA,4,2400,20,NA,3034,,,Wang2017
-PEO,2000000,Water,,,,,5,180,12,NA,4,2500,20,NA,3078,,,Wang2017
-PEO,2000000,Water,,,,,5,180,12,NA,4,2600,20,NA,3092,,,Wang2017
-PEO,2000000,Water,,,,,5,180,12,NA,4,2700,20,NA,3087,,,Wang2017
-PEO,2000000,Water,,,,,5,180,12,NA,4,2800,20,NA,3105,,,Wang2017
-PEO,2000000,Water,,,,,5,180,12,NA,4,2300,20,NA,2798,,,Wang2017
-PEO,2000000,Water,,,,,5,180,12,NA,4,2400,20,NA,2810,,,Wang2017
-PEO,2000000,Water,,,,,5,180,12,NA,4,2500,20,NA,2836,,,Wang2017
-PEO,2000000,Water,,,,,5,180,12,NA,4,2600,20,NA,2825,,,Wang2017
-PEO,2000000,Water,,,,,5,180,12,NA,4,2700,20,NA,2812,,,Wang2017
-PEO,2000000,Water,,,,,5,180,12,NA,4,2800,20,NA,2819,,,Wang2017
-PEO,2000000,Water,,,,,5,180,12,NA,4,2300,20,NA,2718,,,Wang2017
-PEO,2000000,Water,,,,,5,180,12,NA,4,2400,20,NA,2766,,,Wang2017
-PEO,2000000,Water,,,,,5,180,12,NA,4,2500,20,NA,2726,,,Wang2017
-PEO,2000000,Water,,,,,5,180,12,NA,4,2600,20,NA,2771,,,Wang2017
-PEO,2000000,Water,,,,,5,180,12,NA,4,2700,20,NA,2753,,,Wang2017
-PEO,2000000,Water,,,,,5,180,12,NA,4,2800,20,NA,2779,,,Wang2017
-PEO,2000000,Water,,,,,5,180,12,NA,3,2500,20,NA,2475,,,Wang2017
-PEO,2000000,Water,,,,,5,180,12,NA,3.2,2500,20,NA,2515,,,Wang2017
-PEO,2000000,Water,,,,,5,180,12,NA,3.4,2500,20,NA,2565,,,Wang2017
-PEO,2000000,Water,,,,,5,180,12,NA,3.6,2500,20,NA,2589,,,Wang2017
-PEO,2000000,Water,,,,,5,180,12,NA,3.8,2500,20,NA,2648,,,Wang2017
-PEO,2000000,Water,,,,,5,180,12,NA,4,2500,20,NA,2724,,,Wang2017
-PEO,2000000,Water,,,,,5,180,12,NA,4.2,2500,20,NA,2765,,,Wang2017
-PEO,2000000,Water,,,,,5,180,12,NA,4.4,2500,20,NA,2864,,,Wang2017
-PEO,2000000,Water,,,,,5,180,12,NA,4.6,2500,20,NA,2913,,,Wang2017
-PEO,2000000,Water,,,,,5,180,12,NA,4.8,2500,20,NA,2980,,,Wang2017
-PEO,2000000,Water,,,,,5,180,12,NA,5,2500,20,NA,3051,,,Wang2017
+PEO,300000,NA,,,,xy stage,3,NA,NA,Si,0.5,1000,200,300,25,meander,single,Sun2006a
+PEO,300000,NA,,,,xy stage,3,NA,NA,Si,0.5,598,200,NA,25,meander,single,Sun2006a
+PEO,300000,NA,,,,xy stage,3,NA,NA,Si,1,699,200,NA,25,meander,single,Sun2006a
+PEO,300000,NA,,,,xy stage,3,NA,NA,Si,2,902,200,NA,25,meander,single,Sun2006a
+PEO,300000,NA,,,,xy stage,3,NA,NA,Si,3,1204,200,NA,25,meander,single,Sun2006a
+PEO,300000,NA,,,,xy stage,3,NA,NA,SiO2,0.5,608,200,NA,25,meander,single,Sun2006a
+PEO,300000,NA,,,,xy stage,3,NA,NA,SiO2,1,729,200,NA,25,meander,single,Sun2006a
+PEO,300000,NA,,,,xy stage,3,NA,NA,SiO2,2,919,200,NA,25,meander,single,Sun2006a
+PEO,300000,NA,,,,xy stage,3,NA,NA,SiO2,3,1255,200,NA,25,meander,single,Sun2006a
+PEO,300000,NA,,,,xy stage,5,NA,NA,Si,0.5,789,200,NA,25,meander,single,Sun2006a
+PEO,300000,NA,,,,xy stage,5,NA,NA,Si,1,994,200,NA,25,meander,single,Sun2006a
+PEO,300000,NA,,,,xy stage,5,NA,NA,Si,2,1190,200,NA,25,meander,single,Sun2006a
+PEO,300000,NA,,,,xy stage,5,NA,NA,Si,3,1593,200,NA,25,meander,single,Sun2006a
+PEO,300000,NA,,,,xy stage,5,NA,NA,SiO2,0.5,814,200,NA,25,meander,single,Sun2006a
+PEO,300000,NA,,,,xy stage,5,NA,NA,SiO2,1,1008,200,NA,25,meander,single,Sun2006a
+PEO,300000,NA,,,,xy stage,5,NA,NA,SiO2,2,1211,200,NA,25,meander,single,Sun2006a
+PEO,300000,NA,,,,xy stage,5,NA,NA,SiO2,3,1614,200,NA,25,meander,single,Sun2006a
+PEO,2000000,Water,,,,multinozzle xy stage,5,NA,120,NA,NA,NA,NA,NA,5470,straight,aligned,Wang2015
+PEO,2000000,Water,,,,multinozzle xy stage,5,NA,NA,NA,2,NA,NA,NA,4113,straight,aligned,Wang2015
+PEO,2000000,Water,,,,multinozzle xy stage,5,NA,NA,NA,3,NA,NA,NA,4676,straight,aligned,Wang2015
+PEO,2000000,Water,,,,multinozzle xy stage,5,NA,NA,NA,4,NA,NA,NA,5368,straight,aligned,Wang2015
+PEO,2000000,Water,,,,multinozzle xy stage,5,NA,NA,NA,5,NA,NA,NA,5773,straight,aligned,Wang2015
+PEO,2000000,Water,,,,multinozzle xy stage,5,NA,NA,NA,6,NA,NA,NA,6659,straight,aligned,Wang2015
+PEO,2000000,Water,,,,multinozzle xy stage,5,NA,NA,NA,2,NA,NA,NA,3546,straight,aligned,Wang2015
+PEO,2000000,Water,,,,multinozzle xy stage,5,NA,NA,NA,3,NA,NA,NA,4052,straight,aligned,Wang2015
+PEO,2000000,Water,,,,multinozzle xy stage,5,NA,NA,NA,4,NA,NA,NA,4357,straight,aligned,Wang2015
+PEO,2000000,Water,,,,multinozzle xy stage,5,NA,NA,NA,5,NA,NA,NA,5113,straight,aligned,Wang2015
+PEO,2000000,Water,,,,multinozzle xy stage,5,NA,NA,NA,6,NA,NA,NA,5676,straight,aligned,Wang2015
+PEO,2000000,Water,,,,multinozzle xy stage,5,NA,NA,NA,2,NA,NA,NA,3023,straight,aligned,Wang2015
+PEO,2000000,Water,,,,multinozzle xy stage,5,NA,NA,NA,3,NA,NA,NA,3335,straight,aligned,Wang2015
+PEO,2000000,Water,,,,multinozzle xy stage,5,NA,NA,NA,4,NA,NA,NA,3582,straight,aligned,Wang2015
+PEO,2000000,Water,,,,multinozzle xy stage,5,NA,NA,NA,5,NA,NA,NA,4138,straight,aligned,Wang2015
+PEO,2000000,Water,,,,multinozzle xy stage,5,NA,NA,NA,6,NA,NA,NA,4421,straight,aligned,Wang2015
+PEO,2000000,Water,,,,multinozzle xy stage,5,NA,NA,NA,NA,1700,NA,NA,4551,straight,aligned,Wang2015
+PEO,2000000,Water,,,,multinozzle xy stage,5,NA,NA,NA,NA,1900,NA,NA,4710,straight,aligned,Wang2015
+PEO,2000000,Water,,,,multinozzle xy stage,5,NA,NA,NA,NA,2100,NA,NA,4654,straight,aligned,Wang2015
+PEO,2000000,Water,,,,multinozzle xy stage,5,NA,NA,NA,NA,2300,NA,NA,4729,straight,aligned,Wang2015
+PEO,2000000,Water,,,,multinozzle xy stage,5,NA,NA,NA,NA,2500,NA,NA,4799,straight,aligned,Wang2015
+PEO,2000000,Water,,,,multinozzle xy stage,5,NA,NA,NA,NA,2700,NA,NA,4915,straight,aligned,Wang2015
+PEO,2000000,Water,,,,multinozzle xy stage,5,NA,NA,NA,NA,1700,NA,NA,3946,straight,aligned,Wang2015
+PEO,2000000,Water,,,,multinozzle xy stage,5,NA,NA,NA,NA,1900,NA,NA,4047,straight,aligned,Wang2015
+PEO,2000000,Water,,,,multinozzle xy stage,5,NA,NA,NA,NA,2100,NA,NA,4070,straight,aligned,Wang2015
+PEO,2000000,Water,,,,multinozzle xy stage,5,NA,NA,NA,NA,2300,NA,NA,4197,straight,aligned,Wang2015
+PEO,2000000,Water,,,,multinozzle xy stage,5,NA,NA,NA,NA,2500,NA,NA,4256,straight,aligned,Wang2015
+PEO,2000000,Water,,,,multinozzle xy stage,5,NA,NA,NA,NA,2700,NA,NA,4315,straight,aligned,Wang2015
+PEO,2000000,Water,,,,multinozzle xy stage,5,NA,NA,NA,NA,1700,NA,NA,3314,straight,aligned,Wang2015
+PEO,2000000,Water,,,,multinozzle xy stage,5,NA,NA,NA,NA,1900,NA,NA,3457,straight,aligned,Wang2015
+PEO,2000000,Water,,,,multinozzle xy stage,5,NA,NA,NA,NA,2100,NA,NA,3553,straight,aligned,Wang2015
+PEO,2000000,Water,,,,multinozzle xy stage,5,NA,NA,NA,NA,2300,NA,NA,3659,straight,aligned,Wang2015
+PEO,2000000,Water,,,,multinozzle xy stage,5,NA,NA,NA,NA,2500,NA,NA,3869,straight,aligned,Wang2015
+PEO,2000000,Water,,,,multinozzle xy stage,5,NA,NA,NA,NA,2700,NA,NA,3903,straight,aligned,Wang2015
+PEO,2000000,Water,,,,multinozzle xy stage,5,180,12,NA,4,2300,20,NA,3034,straight,aligned,Wang2017
+PEO,2000000,Water,,,,multinozzle xy stage,5,180,12,NA,4,2400,20,NA,3034,straight,aligned,Wang2017
+PEO,2000000,Water,,,,multinozzle xy stage,5,180,12,NA,4,2500,20,NA,3078,straight,aligned,Wang2017
+PEO,2000000,Water,,,,multinozzle xy stage,5,180,12,NA,4,2600,20,NA,3092,straight,aligned,Wang2017
+PEO,2000000,Water,,,,multinozzle xy stage,5,180,12,NA,4,2700,20,NA,3087,straight,aligned,Wang2017
+PEO,2000000,Water,,,,multinozzle xy stage,5,180,12,NA,4,2800,20,NA,3105,straight,aligned,Wang2017
+PEO,2000000,Water,,,,multinozzle xy stage,5,180,12,NA,4,2300,20,NA,2798,straight,aligned,Wang2017
+PEO,2000000,Water,,,,multinozzle xy stage,5,180,12,NA,4,2400,20,NA,2810,straight,aligned,Wang2017
+PEO,2000000,Water,,,,multinozzle xy stage,5,180,12,NA,4,2500,20,NA,2836,straight,aligned,Wang2017
+PEO,2000000,Water,,,,multinozzle xy stage,5,180,12,NA,4,2600,20,NA,2825,straight,aligned,Wang2017
+PEO,2000000,Water,,,,multinozzle xy stage,5,180,12,NA,4,2700,20,NA,2812,straight,aligned,Wang2017
+PEO,2000000,Water,,,,multinozzle xy stage,5,180,12,NA,4,2800,20,NA,2819,straight,aligned,Wang2017
+PEO,2000000,Water,,,,multinozzle xy stage,5,180,12,NA,4,2300,20,NA,2718,straight,aligned,Wang2017
+PEO,2000000,Water,,,,multinozzle xy stage,5,180,12,NA,4,2400,20,NA,2766,straight,aligned,Wang2017
+PEO,2000000,Water,,,,multinozzle xy stage,5,180,12,NA,4,2500,20,NA,2726,straight,aligned,Wang2017
+PEO,2000000,Water,,,,multinozzle xy stage,5,180,12,NA,4,2600,20,NA,2771,straight,aligned,Wang2017
+PEO,2000000,Water,,,,multinozzle xy stage,5,180,12,NA,4,2700,20,NA,2753,straight,aligned,Wang2017
+PEO,2000000,Water,,,,multinozzle xy stage,5,180,12,NA,4,2800,20,NA,2779,straight,aligned,Wang2017
+PEO,2000000,Water,,,,multinozzle xy stage,5,180,12,NA,3,2500,20,NA,2475,straight,aligned,Wang2017
+PEO,2000000,Water,,,,multinozzle xy stage,5,180,12,NA,3.2,2500,20,NA,2515,straight,aligned,Wang2017
+PEO,2000000,Water,,,,multinozzle xy stage,5,180,12,NA,3.4,2500,20,NA,2565,straight,aligned,Wang2017
+PEO,2000000,Water,,,,multinozzle xy stage,5,180,12,NA,3.6,2500,20,NA,2589,straight,aligned,Wang2017
+PEO,2000000,Water,,,,multinozzle xy stage,5,180,12,NA,3.8,2500,20,NA,2648,straight,aligned,Wang2017
+PEO,2000000,Water,,,,multinozzle xy stage,5,180,12,NA,4,2500,20,NA,2724,straight,aligned,Wang2017
+PEO,2000000,Water,,,,multinozzle xy stage,5,180,12,NA,4.2,2500,20,NA,2765,straight,aligned,Wang2017
+PEO,2000000,Water,,,,multinozzle xy stage,5,180,12,NA,4.4,2500,20,NA,2864,straight,aligned,Wang2017
+PEO,2000000,Water,,,,multinozzle xy stage,5,180,12,NA,4.6,2500,20,NA,2913,straight,aligned,Wang2017
+PEO,2000000,Water,,,,multinozzle xy stage,5,180,12,NA,4.8,2500,20,NA,2980,straight,aligned,Wang2017
+PEO,2000000,Water,,,,multinozzle xy stage,5,180,12,NA,5,2500,20,NA,3051,straight,aligned,Wang2017
 PEO,2000000,Water,,,,multinozzle xy stage,5,180,NA,SST,4,2500,20,6232.193333,25200.32,straight,aligned,Wang2018a
 PEO,4000000,NA,,,,,2,150,NA,Si,2,1250,NA,343.1963636,NA,,,Xu2014
 PEO,4000000,NA,,,,,2,150,NA,Si,2,1250,NA,NA,74,,,Xu2014
