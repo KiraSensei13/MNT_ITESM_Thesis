@@ -1,703 +1,614 @@
 ﻿Polymer,Mw,Solvent,\eta_0 [Pa s],K [S/m],\gamma [N/m],rho [Kg/m^3],NFES Type,C_{polymer} [wt\%],D_{nozzle} [m],Q [m^3/s],Substrate,L [m],\Phi_0 [V],v_{stage} [m/s],D_{fiber} [m],FiberGap [m],FiberMorphology,FiberStructure,Reference
-PS,NA,TCB,,,,,xy stage,5,0.000002,NA,Si,0.00002,500,0.002,5.732E-08,NA,straight,single,Song2015
-PS,NA,TCB,,,,,xy stage,NA,0.000002,NA,Si,0.00002,500,0.002,5.732E-08,NA,straight,single,Song2015
-PS,NA,TCB,,,,,xy stage,1,0.000002,NA,Si,0.00003,475,0.002,6.174E-08,NA,straight,single,Song2015
-PS,NA,TCB,,,,,xy stage,5,0.000002,NA,Si,0.00002,475,0.002,6.811E-08,NA,straight,single,Song2015
-PS,NA,TCB,,,,,xy stage,2,0.000002,NA,Si,0.00003,475,0.002,6.993E-08,NA,straight,single,Song2015
-PS,NA,TCB,,,,,xy stage,3,0.000002,NA,Si,0.00003,475,0.002,7.931E-08,NA,straight,single,Song2015
-PS,NA,TCB,,,,,xy stage,5,0.000002,NA,Si,0.00002,450,0.002,9.999E-08,NA,straight,single,Song2015
-PS,NA,TCB,,,,,xy stage,NA,0.000002,NA,Si,0.00003,500,0.002,1.122E-07,NA,straight,single,Song2015
-PS,NA,TCB,,,,,xy stage,4,0.000002,NA,Si,0.00003,475,0.002,1.133E-07,NA,straight,single,Song2015
-PS,NA,TCB,,,,,xy stage,5,0.000002,NA,Si,0.00002,425,0.002,1.1768E-07,NA,straight,single,Song2015
-PS,NA,TCB,,,,,xy stage,5,0.000002,NA,Si,0.00003,475,0.002,1.3899E-07,NA,straight,single,Song2015
-PS,NA,TCB,,,,,xy stage,NA,0.000002,NA,Si,0.00004,500,0.002,1.6399E-07,NA,straight,single,Song2015
-PS,NA,TCB,,,,,xy stage,5,0.000002,NA,Si,0.00002,400,0.002,1.6749E-07,NA,straight,single,Song2015
-PEO/PPy,5000000,DMF/Acetone,,,,,xy stage,8,0.000025,NA,NA,NA,1000,NA,0.0000004,0.000265,straight,aligned,Shen2016
-PEO/PPy,5000000,DMF/Acetone,,,,,xy stage,8,0.000025,NA,NA,NA,1000,NA,0.0000007,0.000265,straight,aligned,Shen2016
-PEO,300000,Water/Ethanol,0.056,0.14715,25,1215.525,xy stage,20,0.00004,NA,Si,0.001,1700,0.05,8.16427E-07,NA,coil,single,GaofengZheng2010
-PEO,300000,Water/Ethanol,0.056,0.0981,25,1215.525,xy stage,20,0.00004,NA,Si,0.001,1700,0.35,1.89169E-06,NA,straight,single,GaofengZheng2010
-PEO,300000,Water/Ethanol,0.056,0.073575,25,1215.525,xy stage,20,0.00004,NA,Si,0.001,1700,0.15,2.45259E-06,NA,coil,single,GaofengZheng2010
-PEO,300000,Water/Ethanol,0.056,0.04905,25,1215.525,xy stage,20,0.00004,NA,Si,0.001,1700,0.25,2.81506E-06,NA,meander,single,GaofengZheng2010
-PEO,300000,Water/Ethanol,0.056,0.1962,25,1215.525,xy stage,18,0.00004,NA,Si,0.001,1700,0.36,4.894E-07,NA,coil,single,Zheng2010
-PEO,300000,Water,0.056,0.0981,25,1215.525,xy stage,7,0.0001,2.8E-14,NA,0.0005,600,0.12,2.88E-08,NA,straight,mesh,Chang2008
-PEO,300000,Water,0.056,0.0981,25,1215.525,xy stage,3,0.0001,2.8E-14,NA,0.001,500,0.12,3.75E-08,NA,straight,mesh,Chang2008
-PEO,300000,Water,0.056,0.0981,25,1215.525,xy stage,7,0.0001,2.8E-14,NA,0.0015,800,0.12,4.87E-08,NA,straight,mesh,Chang2008
-PEO,300000,Water,0.056,0.0981,25,1215.525,xy stage,7,0.0001,2.8E-14,NA,0.001,800,0.12,5.58E-08,NA,straight,mesh,Chang2008
-PEO,300000,Water,0.056,0.0981,25,1215.525,xy stage,5,0.0001,2.8E-14,NA,0.001,500,0.12,5.76E-08,NA,straight,mesh,Chang2008
-PEO,300000,Water,0.056,0.0981,25,1215.525,xy stage,7,0.0001,2.8E-14,NA,0.0005,800,0.12,5.97E-08,NA,straight,mesh,Chang2008
-PEO,300000,Water,0.056,0.0981,25,1215.525,xy stage,7,0.0001,2.8E-14,NA,0.0005,800,0.12,7.34E-08,NA,straight,mesh,Chang2008
-PEO,300000,Water,0.056,0.0981,25,1215.525,xy stage,7,0.0001,2.8E-14,NA,0.001,500,0.12,7.45E-08,NA,straight,mesh,Chang2008
-PEO,300000,Water,0.056,0.0981,25,1215.525,xy stage,9,0.0001,2.8E-14,NA,0.001,500,0.12,1.187E-07,NA,straight,mesh,Chang2008
-PEO,300000,Water,0.056,0.0981,25,1215.525,xy stage,7,0.0001,2.8E-14,NA,0.0005,1000,0.12,9.947E-07,NA,straight,mesh,Chang2008
-PEO,300000,Water,0.056,0.0981,25,1215.525,xy stage,7,0.0001,2.8E-14,NA,0.0005,1200,0.12,2.3058E-06,NA,straight,mesh,Chang2008
-PVDF,534000,Acetone/DMSO,,,,,auxiliary electrodes,17,0.0001,3.889E-12,Paper,0.00075,1900,0.01,NA,NA,meander,single,Kim2018
-PVK,1100000,Styrene,0.056,0.0981,25,1215.525,xy stage,3.96,0.0001,8.334E-12,Si/SiO2,0.0025,3500,0.133,0.000000065,NA,straight,aligned,Min2013
-PVK,1100000,Styrene,0.056,0.07848,25,1215.525,xy stage,3.96,0.0001,8.334E-12,Si/SiO2,0.0025,3500,0.133,2.821E-07,NA,straight,aligned,Min2013
-PVK,1100000,Styrene,0.056,0.05886,25,1215.525,xy stage,3.96,0.0001,8.334E-12,Si/SiO2,0.0025,3500,0.133,7.066E-07,NA,straight,aligned,Min2013
-PVK,1100000,Styrene,,,,,xy stage,3.96,0.0001,8.334E-12,Si/SiO2,0.0025,3500,0.133,NA,0.00005,straight,aligned,Min2013
-PEO/SU8,4000000,Cyclopentanote,0.056,0.00981,25,1215.525,xy stage,0.25,0.000108,NA,Si,0.0001,200,0.06,0.00000408,NA,straight,single,Cardenas2017
-PEO,400000,Water,0.056,0.0981,25,1215.525,xy stage,10,0.000108,NA,NA,0.00075,900,0.015,0.00000015,NA,coil,single,Shin2018
-PEO,400000,Water,0.112,0.0981,25,1215.525,xy stage,10,0.000108,NA,NA,0.00075,700,0.015,0.00000013,NA,meander,single,Shin2018
-PEO,400000,Water,0.028,0.00981,25,1215.525,xy stage,10,0.000108,NA,NA,0.00075,500,0.015,0.00000022,NA,straight,single,Shin2018
-PEO,4000000,Water,,,,,xy stage,1.5,0.000108,NA,NA,NA,650,0.0002,4.35888E-07,NA,coil,single,Shin2019
-PEO,4000000,Water,,,,,xy stage,1.5,0.000108,NA,NA,NA,650,0.0002,4.99958E-07,NA,coil,single,Shin2019
-PEO,4000000,Water,,,,,xy stage,1.5,0.000108,NA,NA,NA,650,0.0005,5.83928E-07,NA,coil,single,Shin2019
-PEO,4000000,Water,,,,,xy stage,1.5,0.000108,NA,NA,NA,650,0.0005,6.72826E-07,NA,coil,single,Shin2019
-PEO,4000000,Water,,,,,xy stage,1.5,0.000108,NA,NA,NA,650,0.0008,8.14768E-07,NA,meander,single,Shin2019
-PEO,4000000,Water,,,,,xy stage,1.5,0.000108,NA,NA,NA,650,0.0008,9.33233E-07,NA,meander,single,Shin2019
-PEO,40000000,Water,,,,,xy stage,1.5,0.00011,NA,NA,0.0012,NA,NA,9.3974E-08,NA,meander,single,Shin2019
-PEO,40000000,Water,,,,,xy stage,1.5,0.00011,NA,NA,0.0011,NA,NA,0.000000095,NA,meander,single,Shin2019
-PEO,40000000,Water,,,,,xy stage,1.5,0.00011,NA,NA,0.001,NA,NA,9.6346E-08,NA,meander,single,Shin2019
-PEO,40000000,Water,,,,,xy stage,1.5,0.00011,NA,NA,0.00085,NA,NA,9.6987E-08,NA,meander,single,Shin2019
-PEO,40000000,Water,,,,,xy stage,1.5,0.00011,NA,NA,0.0008,NA,NA,9.7436E-08,NA,meander,single,Shin2019
-PEO,900000,Water,0.056,0.034335,25,1215.525,xy stage,5,0.00011,1.667E-12,PS,0.001,1000,0.166854679,6.70732E-07,NA,straight,aligned,Yang2019
-PEO,900000,Water,0.056,0.03310875,25,1215.525,xy stage,5,0.00011,1.667E-12,PS,0.001,1000,0.150226664,7.86585E-07,NA,straight,aligned,Yang2019
-PEO,900000,Water,0.056,0.00981,25,1215.525,xy stage,5,0.00011,1.667E-12,PS,0.002,1000,0.06667,7.87353E-07,NA,straight,aligned,Yang2019
-PEO,900000,Water,0.056,0.0318825,25,1215.525,xy stage,5,0.00011,8.33E-13,PS,0.001,1000,0.06667,8.24504E-07,NA,straight,aligned,Yang2019
-PEO,900000,Water,0.056,0.03065625,25,1215.525,xy stage,5,0.00011,1.304E-12,PS,0.001,1000,0.06667,8.63128E-07,NA,straight,aligned,Yang2019
-PEO,900000,Water,0.056,0.02943,25,1215.525,xy stage,5,0.00011,1.631E-12,PS,0.001,1000,0.06667,1.01018E-06,NA,straight,aligned,Yang2019
-PEO,900000,Water,0.056,0.02820375,25,1215.525,xy stage,5,0.00011,8.334E-12,PS,0.001,1000,0.06667,1.24562E-06,NA,straight,aligned,Yang2019
-PEO,900000,Water,0.056,0.0269775,25,1215.525,xy stage,5,0.00011,1.667E-12,PS,0.001,1000,0.133742279,1.29878E-06,NA,straight,aligned,Yang2019
-PEO,900000,Water,0.056,0.02575125,25,1215.525,xy stage,5,0.00011,1.667E-12,PS,0.001,1000,0.117083327,1.32927E-06,NA,straight,aligned,Yang2019
-PEO,900000,Water,0.056,0.024525,25,1215.525,xy stage,5,0.00011,1.667E-12,PS,0.001,1000,0.008774731,1.45732E-06,NA,straight,aligned,Yang2019
-PEO,900000,Water,0.056,0.02329875,25,1215.525,xy stage,5,0.00011,1.667E-12,PS,0.001,1000,0.10046415,1.46951E-06,NA,straight,aligned,Yang2019
-PEO,900000,Water,0.056,0.0220725,25,1215.525,xy stage,5,0.00011,1.667E-12,PS,0.001,1000,0.017140667,1.54268E-06,NA,straight,aligned,Yang2019
-PEO,900000,Water,0.056,0.02084625,25,1215.525,xy stage,5,0.00011,1.667E-12,PS,0.001,1000,0.083847183,1.61585E-06,NA,straight,aligned,Yang2019
-PEO,900000,Water,0.056,0.01962,25,1215.525,xy stage,5,0.00011,1.667E-12,PS,0.001,1000,0.06667,1.85792E-06,NA,straight,aligned,Yang2019
-PEO,900000,Water,0.056,0.00981,25,1215.525,xy stage,5,0.00011,1.667E-12,PS,0.0015,1000,0.06667,1.98983E-06,NA,straight,aligned,Yang2019
-PEO,900000,Water,0.056,0.01839375,25,1215.525,xy stage,5,0.00011,1.667E-12,PS,0.001,1000,0.067353959,2.10366E-06,NA,straight,aligned,Yang2019
-PEO,900000,Water,0.056,0.0171675,25,1215.525,xy stage,5,0.00011,1.3334E-11,PS,0.001,1000,0.06667,2.10484E-06,NA,straight,aligned,Yang2019
-PEO,900000,Water,0.056,0.01594125,25,1215.525,xy stage,5,0.00011,1.667E-12,PS,0.001,1000,0.050743621,2.26829E-06,NA,straight,aligned,Yang2019
-PEO,900000,Water,0.056,0.014715,25,1215.525,xy stage,5,0.00011,1.667E-12,PS,0.001,1000,0.034117815,2.39024E-06,NA,straight,aligned,Yang2019
-PEO,900000,Water,0.056,0.01348875,25,1215.525,xy stage,5,0.00011,1.667E-12,PS,0.001,1000,0.06667,2.78254E-06,NA,straight,aligned,Yang2019
-PEO,900000,Water,0.056,0.04905,25,1215.525,xy stage,5,0.00011,1.667E-12,PS,0.0005,1000,0.06667,3.11427E-06,NA,straight,aligned,Yang2019
-PEO,900000,Water,0.056,0.00981,25,1215.525,xy stage,5,0.00011,1.6668E-11,PS,0.001,1000,0.06667,4.36455E-06,NA,straight,aligned,Yang2019
-PEO,900000,Water,0.056,0.00981,25,1215.525,xy stage,5,0.00011,1.667E-12,PS,0.001,1100,0.06667,6.3388E-06,NA,straight,aligned,Yang2019
-PEO,900000,Water,0.056,0.00981,25,1215.525,xy stage,5,0.00011,1.667E-12,PS,0.001,1200,0.06667,9.89071E-06,NA,straight,aligned,Yang2019
-PEO,900000,Water,0.056,0.00981,25,1215.525,xy stage,5,0.00011,1.667E-12,PS,0.001,1300,0.06667,1.99454E-05,NA,straight,aligned,Yang2019
-PVDF,534000,Acetone/DMSO,,,,,xy stage,18,0.00015,NA,NA,NA,900,0.06,2.53615E-06,NA,straight,aligned,Liu2013
-PVDF,534000,Acetone/DMSO,,,,,xy stage,18,0.00015,NA,NA,NA,900,0.06,4.60877E-06,NA,straight,aligned,Liu2013
-PVDF,534000,Acetone/DMSO,,,,,xy stage,18,0.00015,NA,NA,NA,900,0.06,1.05305E-05,NA,straight,aligned,Liu2013
-PEO,4000000,NA,0.056,0.00981,25,1215.525,xy stage,2,0.00015,NA,Si,0.002,1250,NA,3.43196E-07,NA,meander,aligned,Xu2014
-PEO,4000000,NA,,,,,xy stage,2,0.00015,NA,Si,0.002,1250,NA,NA,0.000074,meander,aligned,Xu2014
-PEO,4000000,NA,,,,,xy stage,2,0.00015,NA,Si,0.002,1250,NA,NA,0.00002,meander,aligned,Xu2014
-PEO,4000000,NA,,,,,xy stage,2,0.00015,NA,Si,0.002,1250,NA,NA,0.000007,meander,aligned,Xu2014
-PAN,150000,DMF,,,,,rotating drum,11,0.000159,NA,Si,0.01,NA,NA,4.09142E-07,NA,straight,aligned,George2020
-PAN,150000,DMF,,,,,rotating drum,11,0.000159,NA,Si,NA,400,NA,5.06569E-07,NA,straight,aligned,George2020
-PAN,150000,DMF,,,,,rotating drum,11,0.000159,NA,Si,0.0045,NA,NA,5.58621E-07,NA,straight,aligned,George2020
-PAN,150000,DMF,,,,,rotating drum,11,0.000159,NA,Si,0.0025,NA,NA,6.32462E-07,NA,straight,aligned,George2020
-PAN,150000,DMF,,,,,rotating drum,11,0.000159,NA,Si,0.0007,NA,NA,8.39166E-07,NA,straight,aligned,George2020
-PAN,150000,DMF,,,,,rotating drum,11,0.000159,NA,Si,NA,700,NA,8.71092E-07,NA,straight,aligned,George2020
-PAN,150000,DMF,,,,,rotating drum,11,0.000159,NA,Si,NA,500,NA,8.95036E-07,NA,straight,aligned,George2020
-PAN,150000,DMF,,,,,rotating drum,11,0.000159,NA,Si,NA,600,NA,8.99042E-07,NA,straight,aligned,George2020
-PAN,150000,DMF,,,,,rotating drum,11,0.000159,NA,Si,NA,800,NA,1.38394E-06,NA,straight,aligned,George2020
-PAN,150000,DMF,,,,,rotating drum,11,0.000159,NA,Si,NA,900,NA,2.52959E-06,NA,straight,aligned,George2020
-PVDF/PVA/SWCNT,534000,DMSO/Acetone,0.056,0.00981,25,1215.525,xy stage,21,0.000159,NA,paper,0.001,1500,0.05,3.98846E-06,0.0001,straight,aligned,Luo2016
-PVDF/PVA/SWCNT,534000,DMSO/Acetone,0.056,0.00981,25,1215.525,xy stage,21,0.000159,NA,paper,0.001,1800,0.05,0.000005539,0.0001,straight,aligned,Luo2016
-PVDF/PVA/SWCNT,534000,DMSO/Acetone,0.056,0.00981,25,1215.525,xy stage,21,0.000159,NA,paper,0.001,1200,0.05,5.56915E-06,0.0001,straight,aligned,Luo2016
-PVDF/PVA/SWCNT,534000,DMSO/Acetone,0.056,0.00981,25,1215.525,xy stage,21,0.000159,NA,paper,0.001,1400,0.05,5.66831E-06,0.0001,straight,aligned,Luo2016
-PVDF/PVA/SWCNT,534000,DMSO/Acetone,0.056,0.00981,25,1215.525,xy stage,21,0.000159,NA,paper,0.001,1000,0.05,5.76747E-06,0.0001,straight,aligned,Luo2016
-PVDF/PVA/SWCNT,534000,DMSO/Acetone,0.056,0.00981,25,1215.525,xy stage,21,0.000159,NA,paper,0.001,1600,0.05,5.76747E-06,0.0001,straight,aligned,Luo2016
-PVDF/PVA/SWCNT,534000,DMSO/Acetone,0.056,0.00981,25,1215.525,xy stage,21,0.000159,NA,paper,0.001,1500,0.03,9.51972E-06,0.0001,straight,aligned,Luo2016
-PVDF/PVA/SWCNT,534000,DMSO/Acetone,0.056,0.00981,25,1215.525,xy stage,21,0.000159,NA,paper,0.001,1500,0.05,9.6876E-06,0.0001,straight,aligned,Luo2016
-PVDF/PVA/SWCNT,534000,DMSO/Acetone,0.056,0.00981,25,1215.525,xy stage,21,0.000159,NA,paper,0.001,1500,0.07,1.03825E-05,0.0001,straight,aligned,Luo2016
-PVDF/PVA/SWCNT,534000,DMSO/Acetone,0.056,0.00981,25,1215.525,xy stage,21,0.000159,NA,paper,0.001,1500,0.03,1.10355E-05,0.0001,straight,aligned,Luo2016
-PVDF/PVA/SWCNT,534000,DMSO/Acetone,0.056,0.00981,25,1215.525,xy stage,21,0.000159,NA,paper,0.001,1500,0.09,0.000011338,0.0001,straight,aligned,Luo2016
-PVDF/PVA/SWCNT,534000,DMSO/Acetone,0.056,0.00981,25,1215.525,xy stage,21,0.000159,NA,paper,0.001,1500,0.01,1.14828E-05,0.0001,straight,aligned,Luo2016
-PEO,300000,Water,0.056,0.00981,15,415.525,xy stage,3,0.00016,8.33E-13,Si,0.005,1000,0.4,2.139E-07,4.91E-05,straight,single,Bu2012
-PEO,300000,Water,0.056,0.008829,15,415.525,xy stage,3,0.00016,8.33E-13,Si,0.005,1000,0.2,2.896E-07,4.21E-05,straight,single,Bu2012
-PEO,300000,Water,0.056,0.007848,15,415.525,xy stage,3,0.00016,8.33E-13,Si,0.005,1000,0.1,0.000000307,NA,meander,single,Bu2012
+PEO/SU8,4000000,Cyclopentanote,0.2,0.01184,25,1318.828571,xy stage,1,0.000108,NA,Si,0.0001,200,NA,0.000003494,NA,straight,single,Aguirre2020
+PEO/SU8,4000000,Cyclopentanote,0.08,0.010825,25,1267.176786,xy stage,0.75,0.000108,NA,Si,0.0001,200,NA,0.00000216,NA,,,Aguirre2020
+PEO/SU8,4000000,Cyclopentanote,0.056,0.00981,25,1215.525,xy stage,0.5,0.000108,NA,Si,0.0001,200,NA,0.00000209,NA,,,Aguirre2020
+PEO/SU8,4000000,Cyclopentanote,0.032,0.0088,25,1149.1,xy stage,0.25,0.000108,NA,Si,0.0001,200,NA,0.0000012,NA,,,Aguirre2020
+PCL,80000,DCM/Methanol,,,,,xy stage,20,0.000337,2.83356E-10,Al,NA,10000,NA,1.32589E-06,NA,straight,cross aligned,Beachley2011
+PCL,80000,DCM/Methanol,,,,,xy stage,20,0.000337,2.83356E-10,Al,NA,15000,NA,1.29619E-06,NA,straight,cross aligned,Beachley2011
+PCL,80000,DCM/Methanol,,,,,xy stage,20,0.000337,2.83356E-10,Al,NA,10000,NA,1.22407E-06,NA,straight,cross aligned,Beachley2011
+PCL,80000,DCM/Methanol,,,,,xy stage,14,0.000337,2.83356E-10,Al,NA,10000,NA,1.2211E-06,NA,straight,cross aligned,Beachley2011
+PCL,80000,DCM/Methanol,,,,,xy stage,17,0.000337,2.83356E-10,Al,NA,20000,NA,1.08153E-06,NA,straight,cross aligned,Beachley2011
+PCL,80000,DCM/Methanol,,,,,xy stage,17,0.000337,2.83356E-10,Al,NA,10000,NA,1.03272E-06,NA,straight,cross aligned,Beachley2011
+PCL,80000,DCM/Methanol,,,,,xy stage,20,0.000337,2.83356E-10,Al,NA,15000,NA,1.01406E-06,NA,straight,cross aligned,Beachley2011
+PCL,80000,DCM/Methanol,,,,,xy stage,17,0.000337,2.83356E-10,Al,NA,10000,NA,9.83934E-07,NA,straight,cross aligned,Beachley2011
+PCL,80000,DCM/Methanol,,,,,xy stage,20,0.000337,2.83356E-10,Al,NA,10000,NA,9.16476E-07,NA,straight,cross aligned,Beachley2011
+PCL,80000,DCM/Methanol,,,,,xy stage,14,0.000337,2.83356E-10,Al,NA,10000,NA,8.64716E-07,NA,straight,cross aligned,Beachley2011
+PCL,80000,DCM/Methanol,,,,,xy stage,17,0.000337,2.83356E-10,Al,NA,10000,NA,7.71819E-07,NA,straight,cross aligned,Beachley2011
+PCL,80000,DCM/Methanol,,,,,xy stage,8,0.000337,2.83356E-10,Al,NA,10000,NA,7.5568E-07,NA,straight,cross aligned,Beachley2011
+PCL,80000,DCM/Methanol,,,,,xy stage,17,0.000337,2.83356E-10,Al,NA,15000,NA,7.23012E-07,NA,straight,cross aligned,Beachley2011
+PCL,80000,DCM/Methanol,,,,,xy stage,17,0.000337,2.83356E-10,Al,NA,20000,NA,6.91192E-07,NA,straight,cross aligned,Beachley2011
+PCL,80000,DCM/Methanol,,,,,xy stage,14,0.000337,2.83356E-10,Al,NA,10000,NA,6.27129E-07,NA,straight,cross aligned,Beachley2011
+PCL,80000,DCM/Methanol,,,,,xy stage,14,0.000337,2.83356E-10,Al,NA,15000,NA,6.01673E-07,NA,straight,cross aligned,Beachley2011
+PCL,80000,DCM/Methanol,,,,,xy stage,17,0.000337,2.83356E-10,Al,NA,15000,NA,5.97854E-07,NA,straight,cross aligned,Beachley2011
+PCL,80000,DCM/Methanol,,,,,xy stage,14,0.000337,2.83356E-10,Al,NA,20000,NA,5.88945E-07,NA,straight,cross aligned,Beachley2011
+PCL,80000,DCM/Methanol,,,,,xy stage,14,0.000337,2.83356E-10,Al,NA,15000,NA,5.57125E-07,NA,straight,cross aligned,Beachley2011
+PCL,80000,DCM/Methanol,,,,,xy stage,14,0.000337,2.83356E-10,Al,NA,20000,NA,5.42276E-07,NA,straight,cross aligned,Beachley2011
+PCL,80000,DCM/Methanol,,,,,xy stage,8,0.000337,2.83356E-10,Al,NA,10000,NA,5.39306E-07,NA,straight,cross aligned,Beachley2011
+PCL,80000,DCM/Methanol,,,,,xy stage,11,0.000337,2.83356E-10,Al,NA,10000,NA,5.24881E-07,NA,straight,cross aligned,Beachley2011
+PCL,80000,DCM/Methanol,,,,,xy stage,11,0.000337,2.83356E-10,Al,NA,10000,NA,5.05789E-07,NA,straight,cross aligned,Beachley2011
+PCL,80000,DCM/Methanol,,,,,xy stage,11,0.000337,2.83356E-10,Al,NA,20000,NA,4.95183E-07,NA,straight,cross aligned,Beachley2011
+PCL,80000,DCM/Methanol,,,,,xy stage,17,0.000337,2.83356E-10,Al,NA,20000,NA,4.85442E-07,NA,straight,cross aligned,Beachley2011
+PCL,80000,DCM/Methanol,,,,,xy stage,11,0.000337,2.83356E-10,Al,NA,15000,NA,4.67606E-07,NA,straight,cross aligned,Beachley2011
+PCL,80000,DCM/Methanol,,,,,xy stage,11,0.000337,2.83356E-10,Al,NA,15000,NA,4.37907E-07,NA,straight,cross aligned,Beachley2011
+PCL,80000,DCM/Methanol,,,,,xy stage,8,0.000337,2.83356E-10,Al,NA,10000,NA,4.26876E-07,NA,straight,cross aligned,Beachley2011
+PCL,80000,DCM/Methanol,,,,,xy stage,11,0.000337,2.83356E-10,Al,NA,15000,NA,4.08209E-07,NA,straight,cross aligned,Beachley2011
+PCL,80000,DCM/Methanol,,,,,xy stage,11,0.000337,2.83356E-10,Al,NA,20000,NA,3.9336E-07,NA,straight,cross aligned,Beachley2011
+PCL,80000,DCM/Methanol,,,,,xy stage,11,0.000337,2.83356E-10,Al,NA,20000,NA,3.74268E-07,NA,straight,cross aligned,Beachley2011
+PCL,80000,DCM/Methanol,,,,,xy stage,8,0.000337,2.83356E-10,Al,NA,15000,NA,3.65358E-07,NA,straight,cross aligned,Beachley2011
+PCL,80000,DCM/Methanol,,,,,xy stage,8,0.000337,2.83356E-10,Al,NA,15000,NA,3.37781E-07,NA,straight,cross aligned,Beachley2011
+PCL,80000,DCM/Methanol,,,,,xy stage,8,0.000337,2.83356E-10,Al,NA,20000,NA,2.84748E-07,NA,straight,cross aligned,Beachley2011
+PCL,80000,DCM/Methanol,,,,,xy stage,8,0.000337,2.83356E-10,Al,NA,20000,NA,2.69899E-07,NA,straight,cross aligned,Beachley2011
+PCL,50000,CF/DMF,,,,,melt,NA,0.000514,1.389E-11,NA,0.03,12000,0.0001,4.64533E-05,NA,coil,single,Brown2011
+PCL,50000,CF/DMF,,,,,melt,NA,0.000514,1.389E-11,NA,0.03,12000,0.0001,4.44073E-05,NA,coil,single,Brown2011
+PCL,50000,CF/DMF,,,,,melt,NA,0.000514,1.389E-12,NA,0.03,12000,0.0001,3.76704E-05,NA,coil,single,Brown2011
+PCL,50000,CF/DMF,,,,,melt,NA,0.000514,1.389E-11,NA,0.03,12000,0.0002,3.64314E-05,NA,coil,single,Brown2011
+PCL,50000,CF/DMF,,,,,melt,NA,0.000514,1.389E-12,NA,0.03,12000,0.0001,3.61234E-05,NA,coil,single,Brown2011
+PCL,50000,CF/DMF,,,,,melt,NA,0.000514,1.389E-11,NA,0.03,12000,0.0002,3.51839E-05,NA,coil,single,Brown2011
+PCL,50000,CF/DMF,,,,,melt,NA,0.000514,1.389E-11,NA,0.03,12000,0.0005,3.36621E-05,NA,coil,single,Brown2011
+PCL,50000,CF/DMF,,,,,melt,NA,0.000514,1.389E-11,NA,0.03,12000,0.001,3.22068E-05,NA,straight,single,Brown2011
+PCL,50000,CF/DMF,,,,,melt,NA,0.000514,1.389E-12,NA,0.03,12000,0.0002,3.19402E-05,NA,coil,single,Brown2011
+PCL,50000,CF/DMF,,,,,melt,NA,0.000514,1.389E-12,NA,0.03,12000,0.0002,3.07426E-05,NA,coil,single,Brown2011
+PCL,50000,CF/DMF,,,,,melt,NA,0.000514,1.389E-11,NA,0.03,12000,0.0015,2.98028E-05,NA,straight,single,Brown2011
+PCL,50000,CF/DMF,,,,,melt,NA,0.000514,1.389E-11,NA,0.03,12000,0.0005,2.97697E-05,NA,coil,single,Brown2011
+PCL,50000,CF/DMF,,,,,melt,NA,0.000514,1.389E-11,NA,0.03,12000,0.002,2.86968E-05,NA,straight,single,Brown2011
+PCL,50000,CF/DMF,,,,,melt,NA,0.000514,1.389E-12,NA,0.03,12000,0.0005,0.000028572,NA,coil,single,Brown2011
+PCL,50000,CF/DMF,,,,,melt,NA,0.000514,1.389E-11,NA,0.03,12000,0.001,2.74162E-05,NA,straight,single,Brown2011
+PCL,50000,CF/DMF,,,,,melt,NA,0.000514,1.389E-11,NA,0.03,12000,0.0025,2.64924E-05,NA,straight,single,Brown2011
+PCL,50000,CF/DMF,,,,,melt,NA,0.000514,1.389E-12,NA,0.03,12000,0.0005,2.59272E-05,NA,coil,single,Brown2011
+PCL,50000,CF/DMF,,,,,melt,NA,0.000514,1.389E-12,NA,0.03,12000,0.001,2.59191E-05,NA,straight,single,Brown2011
+PCL,50000,CF/DMF,,,,,melt,NA,0.000514,1.389E-12,NA,0.03,12000,0.0015,2.49622E-05,NA,straight,single,Brown2011
+PCL,50000,CF/DMF,,,,,melt,NA,0.000514,1.389E-11,NA,0.03,12000,0.0015,2.49622E-05,NA,straight,single,Brown2011
+PCL,50000,CF/DMF,,,,,melt,NA,0.000514,1.389E-12,NA,0.03,12000,0.001,2.45717E-05,NA,straight,single,Brown2011
+PCL,50000,CF/DMF,,,,,melt,NA,0.000514,1.389E-11,NA,0.03,12000,0.003,2.44882E-05,NA,straight,single,Brown2011
+PCL,50000,CF/DMF,,,,,melt,NA,0.000514,1.389E-12,NA,0.03,12000,0.0015,2.40141E-05,NA,straight,single,Brown2011
+PCL,50000,CF/DMF,,,,,melt,NA,0.000514,1.389E-12,NA,0.03,12000,0.002,2.38063E-05,NA,straight,single,Brown2011
+PCL,50000,CF/DMF,,,,,melt,NA,0.000514,1.389E-11,NA,0.03,12000,0.0035,2.31826E-05,NA,straight,single,Brown2011
+PCL,50000,CF/DMF,,,,,melt,NA,0.000514,1.389E-11,NA,0.03,12000,0.002,2.31077E-05,NA,straight,single,Brown2011
+PCL,50000,CF/DMF,,,,,melt,NA,0.000514,1.389E-12,NA,0.03,12000,0.0025,2.27996E-05,NA,straight,single,Brown2011
+PCL,50000,CF/DMF,,,,,melt,NA,0.000514,1.389E-11,NA,0.03,12000,0.004,2.15776E-05,NA,straight,single,Brown2011
+PCL,50000,CF/DMF,,,,,melt,NA,0.000514,1.389E-12,NA,0.03,12000,0.003,2.15439E-05,NA,straight,single,Brown2011
+PCL,50000,CF/DMF,,,,,melt,NA,0.000514,1.389E-11,NA,0.03,12000,0.0025,2.14029E-05,NA,straight,single,Brown2011
+PCL,50000,CF/DMF,,,,,melt,NA,0.000514,1.389E-12,NA,0.03,12000,0.0035,2.04379E-05,NA,straight,single,Brown2011
+PCL,50000,CF/DMF,,,,,melt,NA,0.000514,1.389E-11,NA,0.03,12000,0.0001,2.03044E-05,NA,coil,single,Brown2011
+PCL,50000,CF/DMF,,,,,melt,NA,0.000514,1.389E-11,NA,0.03,12000,0.0002,2.00634E-05,NA,coil,single,Brown2011
+PCL,50000,CF/DMF,,,,,melt,NA,0.000514,1.389E-11,NA,0.03,12000,0.003,1.96476E-05,NA,straight,single,Brown2011
+PCL,50000,CF/DMF,,,,,melt,NA,0.000514,1.389E-12,NA,0.03,12000,0.004,1.94318E-05,NA,straight,single,Brown2011
+PCL,50000,CF/DMF,,,,,melt,NA,0.000514,1.389E-11,NA,0.03,12000,0.0005,0.00001939,NA,coil,single,Brown2011
+PCL,50000,CF/DMF,,,,,melt,NA,0.000514,1.389E-11,NA,0.03,12000,0.0015,1.83252E-05,NA,straight,single,Brown2011
+PCL,50000,CF/DMF,,,,,melt,NA,0.000514,1.389E-11,NA,0.03,12000,0.0045,1.82759E-05,NA,straight,single,Brown2011
+PCL,50000,CF/DMF,,,,,melt,NA,0.000514,1.389E-11,NA,0.03,12000,0.001,1.82341E-05,NA,straight,single,Brown2011
+PCL,50000,CF/DMF,,,,,melt,NA,0.000514,1.389E-12,NA,0.03,12000,0.0045,0.000018226,NA,straight,single,Brown2011
+PCL,50000,CF/DMF,,,,,melt,NA,0.000514,1.389E-11,NA,0.03,12000,0.0035,1.77931E-05,NA,straight,single,Brown2011
+PCL,50000,CF/DMF,,,,,melt,NA,0.000514,1.389E-11,NA,0.03,12000,0.002,1.76683E-05,NA,straight,single,Brown2011
+PCL,50000,CF/DMF,,,,,melt,NA,0.000514,1.389E-12,NA,0.03,12000,0.0025,1.76097E-05,NA,straight,single,Brown2011
+PCL,50000,CF/DMF,,,,,melt,NA,0.000514,1.389E-11,NA,0.03,12000,0.005,1.70695E-05,NA,straight,single,Brown2011
+PCL,50000,CF/DMF,,,,,melt,NA,0.000514,1.389E-11,NA,0.03,12000,0.0025,1.70608E-05,NA,straight,single,Brown2011
+PCL,50000,CF/DMF,,,,,melt,NA,0.000514,1.389E-12,NA,0.03,12000,0.005,1.68699E-05,NA,straight,single,Brown2011
+PCL,50000,CF/DMF,,,,,melt,NA,0.000514,1.389E-12,NA,0.03,12000,0.003,1.68531E-05,NA,straight,single,Brown2011
+PCL,50000,CF/DMF,,,,,melt,NA,0.000514,1.389E-11,NA,0.03,12000,0.003,1.62542E-05,NA,straight,single,Brown2011
+PCL,50000,CF/DMF,,,,,melt,NA,0.000514,1.389E-12,NA,0.03,12000,0.0035,1.61463E-05,NA,straight,single,Brown2011
+PCL,50000,CF/DMF,,,,,melt,NA,0.000514,1.389E-11,NA,0.03,12000,0.004,1.57384E-05,NA,straight,single,Brown2011
+PCL,50000,CF/DMF,,,,,melt,NA,0.000514,1.389E-11,NA,0.03,12000,0.0035,0.000015298,NA,straight,single,Brown2011
+PCL,50000,CF/DMF,,,,,melt,NA,0.000514,1.389E-12,NA,0.03,12000,0.004,0.00001519,NA,straight,single,Brown2011
+PCL,50000,CF/DMF,,,,,melt,NA,0.000514,1.389E-12,NA,0.03,12000,0.0001,1.45157E-05,NA,coil,single,Brown2011
+PCL,50000,CF/DMF,,,,,melt,NA,0.000514,1.389E-11,NA,0.03,12000,0.005,1.44746E-05,NA,straight,single,Brown2011
+PCL,50000,CF/DMF,,,,,melt,NA,0.000514,1.389E-11,NA,0.03,12000,0.004,1.43916E-05,NA,straight,single,Brown2011
+PCL,50000,CF/DMF,,,,,melt,NA,0.000514,1.389E-12,NA,0.03,12000,0.0002,1.43745E-05,NA,coil,single,Brown2011
+PCL,50000,CF/DMF,,,,,melt,NA,0.000514,1.389E-12,NA,0.03,12000,0.0045,1.39843E-05,NA,straight,single,Brown2011
+PCL,50000,CF/DMF,,,,,melt,NA,0.000514,1.389E-11,NA,0.03,12000,0.0045,1.39843E-05,NA,straight,single,Brown2011
+PCL,50000,CF/DMF,,,,,melt,NA,0.000514,1.389E-12,NA,0.03,12000,0.0005,1.36512E-05,NA,coil,single,Brown2011
+PCL,50000,CF/DMF,,,,,melt,NA,0.000514,1.389E-12,NA,0.03,12000,0.0015,1.28359E-05,NA,straight,single,Brown2011
+PCL,50000,CF/DMF,,,,,melt,NA,0.000514,1.389E-12,NA,0.03,12000,0.001,1.27448E-05,NA,straight,single,Brown2011
+PCL,50000,CF/DMF,,,,,melt,NA,0.000514,1.389E-12,NA,0.03,12000,0.005,1.20793E-05,NA,straight,single,Brown2011
+PCL,50000,CF/DMF,,,,,melt,NA,0.000514,1.389E-11,NA,0.03,12000,0.0045,1.18384E-05,NA,straight,single,Brown2011
+PCL,50000,CF/DMF,,,,,melt,NA,0.000514,1.389E-12,NA,0.03,12000,0.002,1.14804E-05,NA,straight,single,Brown2011
+PCL,50000,CF/DMF,,,,,melt,NA,0.000514,1.389E-12,NA,0.03,12000,0.0025,1.10725E-05,NA,straight,single,Brown2011
+PCL,50000,CF/DMF,,,,,melt,NA,0.000514,1.389E-12,NA,0.03,12000,0.003,0.000010765,NA,straight,single,Brown2011
+PCL,50000,CF/DMF,,,,,melt,NA,0.000514,1.389E-12,NA,0.03,12000,0.0035,1.06071E-05,NA,straight,single,Brown2011
+PCL,50000,CF/DMF,,,,,melt,NA,0.000514,1.389E-11,NA,0.03,12000,0.005,1.05822E-05,NA,straight,single,Brown2011
+PCL,50000,CF/DMF,,,,,melt,NA,0.000514,1.389E-12,NA,0.03,12000,0.004,9.00213E-06,NA,straight,single,Brown2011
+PCL,50000,CF/DMF,,,,,melt,NA,0.000514,1.389E-12,NA,0.03,12000,0.0045,8.99401E-06,NA,straight,single,Brown2011
+PCL,50000,CF/DMF,,,,,melt,NA,0.000514,1.389E-12,NA,0.03,12000,0.005,8.98531E-06,NA,straight,single,Brown2011
+PCL,80025,CF/DMF,,,,,melt,NA,0.000743,5.556E-12,Al,0.04,6000,NA,3.30063E-05,NA,coil,randomly distributed,Brown2014
+PCL,80021,CF/DMF,,,,,melt,NA,0.000739,5.556E-12,Al,0.03,6000,NA,2.91297E-05,NA,coil,randomly distributed,Brown2014
+PCL,80017,CF/DMF,,,,,melt,NA,0.000735,5.556E-12,Al,0.02,6000,NA,2.65823E-05,NA,coil,randomly distributed,Brown2014
+PCL,80026,CF/DMF,,,,,melt,NA,0.000744,5.556E-12,Al,0.04,8000,NA,2.31487E-05,NA,coil,randomly distributed,Brown2014
+PCL,80018,CF/DMF,,,,,melt,NA,0.000736,5.556E-12,Al,0.02,8000,NA,2.23734E-05,NA,coil,randomly distributed,Brown2014
+PCL,80029,CF/DMF,,,,,melt,NA,0.000747,5.556E-12,Al,0.06,8000,NA,2.20411E-05,NA,coil,randomly distributed,Brown2014
+PCL,80019,CF/DMF,,,,,melt,NA,0.000737,5.556E-12,Al,0.02,10000,NA,2.10443E-05,NA,coil,randomly distributed,Brown2014
+PCL,80022,CF/DMF,,,,,melt,NA,0.00074,5.556E-12,Al,0.03,8000,NA,2.03797E-05,NA,coil,randomly distributed,Brown2014
+PCL,80027,CF/DMF,,,,,melt,NA,0.000745,5.556E-12,Al,0.04,10000,NA,1.99367E-05,NA,coil,randomly distributed,Brown2014
+PCL,80023,CF/DMF,,,,,melt,NA,0.000741,5.556E-12,Al,0.03,10000,NA,1.91614E-05,NA,coil,randomly distributed,Brown2014
+PCL,80020,CF/DMF,,,,,melt,NA,0.000738,5.556E-12,Al,0.02,12000,NA,1.82753E-05,NA,coil,randomly distributed,Brown2014
+PCL,80024,CF/DMF,,,,,melt,NA,0.000742,5.556E-12,Al,0.03,12000,NA,1.81646E-05,NA,coil,randomly distributed,Brown2014
+PCL,80009,CF/DMF,,,,,melt,NA,0.000727,2.778E-12,Al,0.04,6000,NA,1.57278E-05,NA,coil,randomly distributed,Brown2014
+PCL,80005,CF/DMF,,,,,melt,NA,0.000723,2.778E-12,Al,0.03,6000,NA,1.50633E-05,NA,coil,randomly distributed,Brown2014
+PCL,80013,CF/DMF,,,,,melt,NA,0.000731,2.778E-12,Al,0.06,6000,NA,0.000014288,NA,coil,randomly distributed,Brown2014
+PCL,80001,CF/DMF,,,,,melt,NA,0.000719,2.778E-12,Al,0.02,6000,NA,1.39557E-05,NA,coil,randomly distributed,Brown2014
+PCL,80030,CF/DMF,,,,,melt,NA,0.000748,5.556E-12,Al,0.06,10000,NA,1.39557E-05,NA,coil,randomly distributed,Brown2014
+PCL,80010,CF/DMF,,,,,melt,NA,0.000728,2.778E-12,Al,0.04,8000,NA,1.36234E-05,NA,coil,randomly distributed,Brown2014
+PCL,80006,CF/DMF,,,,,melt,NA,0.000724,2.778E-12,Al,0.03,8000,NA,1.30696E-05,NA,coil,randomly distributed,Brown2014
+PCL,80002,CF/DMF,,,,,melt,NA,0.00072,2.778E-12,Al,0.02,8000,NA,1.26266E-05,NA,coil,randomly distributed,Brown2014
+PCL,80014,CF/DMF,,,,,melt,NA,0.000732,2.778E-12,Al,0.06,8000,NA,1.22943E-05,NA,coil,randomly distributed,Brown2014
+PCL,80011,CF/DMF,,,,,melt,NA,0.000729,2.778E-12,Al,0.04,10000,NA,1.21835E-05,NA,coil,randomly distributed,Brown2014
+PCL,80007,CF/DMF,,,,,melt,NA,0.000725,2.778E-12,Al,0.03,10000,NA,1.20728E-05,NA,coil,randomly distributed,Brown2014
+PCL,80012,CF/DMF,,,,,melt,NA,0.00073,2.778E-12,Al,0.04,12000,NA,1.16297E-05,NA,coil,randomly distributed,Brown2014
+PCL,80015,CF/DMF,,,,,melt,NA,0.000733,2.778E-12,Al,0.06,10000,NA,1.16297E-05,NA,coil,randomly distributed,Brown2014
+PCL,80031,CF/DMF,,,,,melt,NA,0.000749,5.556E-12,Al,0.06,12000,NA,1.16297E-05,NA,coil,randomly distributed,Brown2014
+PCL,80016,CF/DMF,,,,,melt,NA,0.000734,2.778E-12,Al,0.06,12000,NA,1.14082E-05,NA,coil,randomly distributed,Brown2014
+PCL,80028,CF/DMF,,,,,melt,NA,0.000746,5.556E-12,Al,0.04,12000,NA,1.12975E-05,NA,coil,randomly distributed,Brown2014
+PCL,80003,CF/DMF,,,,,melt,NA,0.000721,2.778E-12,Al,0.02,10000,NA,1.11867E-05,NA,coil,randomly distributed,Brown2014
+PCL,80008,CF/DMF,,,,,melt,NA,0.000726,2.778E-12,Al,0.03,12000,NA,1.05222E-05,NA,coil,randomly distributed,Brown2014
+PCL,80004,CF/DMF,,,,,melt,NA,0.000722,2.778E-12,Al,0.02,12000,NA,1.04114E-05,NA,coil,randomly distributed,Brown2014
+PCL,80000,CF/DMF,,,,,melt,NA,0.000718,1.389E-12,Al,0.04,4000,NA,9.96835E-06,NA,coil,randomly distributed,Brown2014
+PCL,80000,CF/DMF,,,,,melt,NA,0.000718,1.389E-12,Al,0.03,4000,NA,8.41772E-06,NA,coil,randomly distributed,Brown2014
+PCL,80000,CF/DMF,,,,,melt,NA,0.000718,1.389E-12,Al,0.02,4000,NA,7.97468E-06,NA,coil,randomly distributed,Brown2014
+PCL,80000,CF/DMF,,,,,melt,NA,0.000718,1.389E-12,Al,0.04,6000,NA,7.97468E-06,NA,coil,randomly distributed,Brown2014
+PCL,80000,CF/DMF,,,,,melt,NA,0.000718,1.389E-12,Al,0.03,6000,NA,7.08861E-06,NA,coil,randomly distributed,Brown2014
+PCL,80000,CF/DMF,,,,,melt,NA,0.000718,1.389E-12,Al,0.04,8000,NA,6.86709E-06,NA,coil,randomly distributed,Brown2014
+PCL,80000,CF/DMF,,,,,melt,NA,0.000718,1.389E-12,Al,0.02,6000,NA,6.53481E-06,NA,coil,randomly distributed,Brown2014
+PCL,80000,CF/DMF,,,,,melt,NA,0.000718,1.389E-12,Al,0.04,10000,NA,6.20253E-06,NA,coil,randomly distributed,Brown2014
+PCL,80000,CF/DMF,,,,,melt,NA,0.000718,1.389E-12,Al,0.03,8000,NA,5.87025E-06,NA,coil,randomly distributed,Brown2014
+PCL,80000,CF/DMF,,,,,melt,NA,0.000718,1.389E-12,Al,0.04,12000,NA,5.87025E-06,NA,coil,randomly distributed,Brown2014
+PCL,80000,CF/DMF,,,,,melt,NA,0.000718,1.389E-12,Al,0.03,10000,NA,5.64873E-06,NA,coil,randomly distributed,Brown2014
+PCL,80000,CF/DMF,,,,,melt,NA,0.000718,1.389E-12,Al,0.02,8000,NA,5.53798E-06,NA,coil,randomly distributed,Brown2014
+PCL,80000,CF/DMF,,,,,melt,NA,0.000718,1.389E-12,Al,0.03,12000,NA,5.53798E-06,NA,coil,randomly distributed,Brown2014
+PCL,80000,CF/DMF,,,,,melt,NA,0.000718,1.389E-12,Al,0.02,10000,NA,4.76266E-06,NA,coil,randomly distributed,Brown2014
 PEO,300000,Water,0.056,0.006867,15,415.525,xy stage,3,0.00016,8.33E-13,Si,0.005,1000,0.05,3.439E-07,NA,meander,single,Bu2012
-PEtOx,50000,NA,,,,,melt,NA,0.00016,NA,Al,0.005,5000,0.00333,1.25397E-05,NA,straight,cross aligned,Hochleitner2014
-PEtOx,50000,NA,,,,,melt,NA,0.00016,NA,Al,0.006,5000,0.00333,1.25949E-05,NA,straight,cross aligned,Hochleitner2014
-PEtOx,50000,NA,,,,,melt,NA,0.00016,NA,Al,0.007,5000,0.00333,1.28567E-05,NA,straight,cross aligned,Hochleitner2014
-PEtOx,50000,NA,,,,,melt,NA,0.00016,NA,Al,0.004,5000,0.00333,0.000013325,NA,straight,cross aligned,Hochleitner2014
-PEtOx,50000,NA,,,,,melt,NA,0.00016,NA,Al,0.003,5000,0.00333,0.000013584,NA,straight,cross aligned,Hochleitner2014
-PEtOx,50000,NA,,,,,melt,NA,0.00016,NA,Al,0.005,5000,0.00333,1.40927E-05,NA,straight,cross aligned,Hochleitner2014
-PEtOx,50000,NA,,,,,melt,NA,0.00016,NA,Al,0.005,6000,0.00333,1.60235E-05,NA,straight,cross aligned,Hochleitner2014
-PEtOx,50000,NA,,,,,melt,NA,0.00016,NA,Al,0.005,7000,0.00333,1.81493E-05,NA,straight,cross aligned,Hochleitner2014
-PEtOx,50000,NA,,,,,melt,NA,0.00016,NA,Al,0.005,4000,0.00333,2.03693E-05,NA,straight,cross aligned,Hochleitner2014
-PEtOx,50000,NA,,,,,melt,NA,0.00016,NA,Al,0.005,3000,0.00333,2.11681E-05,NA,straight,cross aligned,Hochleitner2014
-PEO,1000000,Water/Ethanol,0.056,0.00981,25,1215.525,xy stage,4,0.00016,8.334E-11,NA,0.003,1500,NA,0.00000574,NA,straight,mesh,Ru2014
-PEO,1000000,Water/Ethanol,0.056,0.007848,25,1215.525,xy stage,4,0.00016,1.6668E-10,NA,0.003,1500,NA,0.00001,NA,straight,mesh,Ru2014
-PEO,1000000,Water/Ethanol,0.056,0.0063765,25,1215.525,xy stage,4,0.00016,2.5002E-10,NA,0.003,1500,NA,0.00001472,NA,straight,mesh,Ru2014
-PEO,2000000,Water,,,,,auxiliary electrodes,4,0.00016,NA,Si,0.004,0,0.005,7.06107E-06,NA,straight,aligned discontinuous,Zhu2016
-PEO,2000000,Water,0.056,0.004905,4,615.525,auxiliary electrodes,4,0.00016,NA,Si,0.004,1250,0.005,7.33946E-06,NA,meander,single,Zhu2016
-PEO,2000000,Water,0.056,0.00981,18,1015.525,auxiliary electrodes,4,0.00016,NA,Si,0.004,3750,0.005,1.24841E-05,NA,meander,single,Zhu2016
-PEO,2000000,Water,0.056,0.0073575,10,815.525,auxiliary electrodes,4,0.00016,NA,Si,0.004,2500,0.005,1.27336E-05,NA,meander,single,Zhu2016
-PEO,2000000,Water,0.056,0.00981,25,1215.525,auxiliary electrodes,4,0.00016,NA,Si,0.004,5000,0.005,1.35901E-05,NA,meander,single,Zhu2016
+PEO,300000,Water,0.056,0.007848,15,415.525,xy stage,3,0.00016,8.33E-13,Si,0.005,1000,0.1,0.000000307,NA,meander,single,Bu2012
+PEO,300000,Water,0.056,0.008829,15,415.525,xy stage,3,0.00016,8.33E-13,Si,0.005,1000,0.2,2.896E-07,4.21E-05,straight,single,Bu2012
+PEO,300000,Water,0.056,0.00981,15,415.525,xy stage,3,0.00016,8.33E-13,Si,0.005,1000,0.4,2.139E-07,4.91E-05,straight,single,Bu2012
+MEH-PPV/PEO,380000,toluene,0.056,0.00981,45,3215.525,xy stage,0.08,0.00026,1.389E-11,SiO2/Si,0.0005,1300,0.5,1.376E-07,0.0000884,straight,aligned,Camillo2013
+PEO/SU8,4000000,Cyclopentanote,0.056,0.00981,25,1215.525,xy stage,0.25,0.000108,NA,Si,0.0001,200,0.06,0.00000408,NA,straight,single,Cardenas2017
+PEO,300000,Water,0.056,0.0981,25,1215.525,xy stage,7,0.0001,2.8E-14,NA,0.0005,1200,0.12,2.3058E-06,NA,straight,mesh,Chang2008
+PEO,300000,Water,0.056,0.0981,25,1215.525,xy stage,7,0.0001,2.8E-14,NA,0.0005,1000,0.12,9.947E-07,NA,straight,mesh,Chang2008
+PEO,300000,Water,0.056,0.0981,25,1215.525,xy stage,9,0.0001,2.8E-14,NA,0.001,500,0.12,1.187E-07,NA,straight,mesh,Chang2008
+PEO,300000,Water,0.056,0.0981,25,1215.525,xy stage,7,0.0001,2.8E-14,NA,0.001,500,0.12,7.45E-08,NA,straight,mesh,Chang2008
+PEO,300000,Water,0.056,0.0981,25,1215.525,xy stage,7,0.0001,2.8E-14,NA,0.0005,800,0.12,7.34E-08,NA,straight,mesh,Chang2008
+PEO,300000,Water,0.056,0.0981,25,1215.525,xy stage,7,0.0001,2.8E-14,NA,0.0005,800,0.12,5.97E-08,NA,straight,mesh,Chang2008
+PEO,300000,Water,0.056,0.0981,25,1215.525,xy stage,5,0.0001,2.8E-14,NA,0.001,500,0.12,5.76E-08,NA,straight,mesh,Chang2008
+PEO,300000,Water,0.056,0.0981,25,1215.525,xy stage,7,0.0001,2.8E-14,NA,0.001,800,0.12,5.58E-08,NA,straight,mesh,Chang2008
+PEO,300000,Water,0.056,0.0981,25,1215.525,xy stage,7,0.0001,2.8E-14,NA,0.0015,800,0.12,4.87E-08,NA,straight,mesh,Chang2008
+PEO,300000,Water,0.056,0.0981,25,1215.525,xy stage,3,0.0001,2.8E-14,NA,0.001,500,0.12,3.75E-08,NA,straight,mesh,Chang2008
+PEO,300000,Water,0.056,0.0981,25,1215.525,xy stage,7,0.0001,2.8E-14,NA,0.0005,600,0.12,2.88E-08,NA,straight,mesh,Chang2008
+PVDF,534000,CF/DMF,,,,,xy stage,18,NA,NA,NA,0.00035,NA,NA,0.00000216,NA,straight,single,Chang2010
+PVDF,534000,CF/DMF,,,,,xy stage,18,NA,NA,NA,0.00035,NA,NA,0.00000181,NA,straight,single,Chang2010
+PVDF,534000,CF/DMF,,,,,xy stage,18,NA,NA,NA,0.00035,NA,NA,0.00000146,NA,straight,single,Chang2010
+PVDF,534000,CF/DMF,,,,,xy stage,18,NA,NA,NA,0.00035,NA,NA,0.00000107,NA,straight,single,Chang2010
+PVDF,534000,CF/DMF,,,,,xy stage,18,NA,NA,NA,0.00035,NA,NA,0.00000919,NA,straight,aligned,Chang2011
+PVDF,534000,CF/DMF,,,,,xy stage,18,NA,NA,NA,0.00035,NA,NA,0.00000766,NA,straight,aligned,Chang2011
+PVDF,534000,CF/DMF,,,,,xy stage,18,NA,NA,NA,0.00035,NA,NA,0.00000613,NA,straight,aligned,Chang2011
+PU,NA,CF/DMF,,,,,xy stage,10,NA,NA,acrylic,NA,2000,0.1,9.3207E-06,5.22E-05,straight,aligned,Choi2017
+PLGA,NA,CF/DMF,,,,,PYES,NA,NA,NA,PTFE,NA,NA,NA,3.047E-07,NA,straight,aligned,Coppola2014
+PLGA,54000,CF/DMF,,,,,PYES,25,NA,NA,Si,0.001,NA,NA,0.00003,NA,straight,aligned,Coppola2020
+PLGA,54000,CF/DMF,,,,,PYES,25,NA,NA,Si,0.001,NA,NA,0.00001,NA,straight,aligned,Coppola2020
 PCL,83000,NA,,,,,melt,NA,0.00018,NA,Al,0.0015,2900,0.09167,0.000000817,0.0001006,straight,mesh,Dalton2015
-PEO,2000000,Water,,,,,multinozzle xy stage,5,0.00018,3.334E-12,NA,0.004,2300,0.02,NA,0.003034,straight,aligned,Wang2017
-PEO,2000000,Water,,,,,multinozzle xy stage,5,0.00018,3.334E-12,NA,0.004,2400,0.02,NA,0.003034,straight,aligned,Wang2017
-PEO,2000000,Water,,,,,multinozzle xy stage,5,0.00018,3.334E-12,NA,0.004,2500,0.02,NA,0.003078,straight,aligned,Wang2017
-PEO,2000000,Water,,,,,multinozzle xy stage,5,0.00018,3.334E-12,NA,0.004,2600,0.02,NA,0.003092,straight,aligned,Wang2017
-PEO,2000000,Water,,,,,multinozzle xy stage,5,0.00018,3.334E-12,NA,0.004,2700,0.02,NA,0.003087,straight,aligned,Wang2017
-PEO,2000000,Water,,,,,multinozzle xy stage,5,0.00018,3.334E-12,NA,0.004,2800,0.02,NA,0.003105,straight,aligned,Wang2017
-PEO,2000000,Water,,,,,multinozzle xy stage,5,0.00018,3.334E-12,NA,0.004,2300,0.02,NA,0.002798,straight,aligned,Wang2017
-PEO,2000000,Water,,,,,multinozzle xy stage,5,0.00018,3.334E-12,NA,0.004,2400,0.02,NA,0.00281,straight,aligned,Wang2017
-PEO,2000000,Water,,,,,multinozzle xy stage,5,0.00018,3.334E-12,NA,0.004,2500,0.02,NA,0.002836,straight,aligned,Wang2017
-PEO,2000000,Water,,,,,multinozzle xy stage,5,0.00018,3.334E-12,NA,0.004,2600,0.02,NA,0.002825,straight,aligned,Wang2017
-PEO,2000000,Water,,,,,multinozzle xy stage,5,0.00018,3.334E-12,NA,0.004,2700,0.02,NA,0.002812,straight,aligned,Wang2017
-PEO,2000000,Water,,,,,multinozzle xy stage,5,0.00018,3.334E-12,NA,0.004,2800,0.02,NA,0.002819,straight,aligned,Wang2017
-PEO,2000000,Water,,,,,multinozzle xy stage,5,0.00018,3.334E-12,NA,0.004,2300,0.02,NA,0.002718,straight,aligned,Wang2017
-PEO,2000000,Water,,,,,multinozzle xy stage,5,0.00018,3.334E-12,NA,0.004,2400,0.02,NA,0.002766,straight,aligned,Wang2017
-PEO,2000000,Water,,,,,multinozzle xy stage,5,0.00018,3.334E-12,NA,0.004,2500,0.02,NA,0.002726,straight,aligned,Wang2017
-PEO,2000000,Water,,,,,multinozzle xy stage,5,0.00018,3.334E-12,NA,0.004,2600,0.02,NA,0.002771,straight,aligned,Wang2017
-PEO,2000000,Water,,,,,multinozzle xy stage,5,0.00018,3.334E-12,NA,0.004,2700,0.02,NA,0.002753,straight,aligned,Wang2017
-PEO,2000000,Water,,,,,multinozzle xy stage,5,0.00018,3.334E-12,NA,0.004,2800,0.02,NA,0.002779,straight,aligned,Wang2017
-PEO,2000000,Water,,,,,multinozzle xy stage,5,0.00018,3.334E-12,NA,0.003,2500,0.02,NA,0.002475,straight,aligned,Wang2017
-PEO,2000000,Water,,,,,multinozzle xy stage,5,0.00018,3.334E-12,NA,0.0032,2500,0.02,NA,0.002515,straight,aligned,Wang2017
-PEO,2000000,Water,,,,,multinozzle xy stage,5,0.00018,3.334E-12,NA,0.0034,2500,0.02,NA,0.002565,straight,aligned,Wang2017
-PEO,2000000,Water,,,,,multinozzle xy stage,5,0.00018,3.334E-12,NA,0.0036,2500,0.02,NA,0.002589,straight,aligned,Wang2017
-PEO,2000000,Water,,,,,multinozzle xy stage,5,0.00018,3.334E-12,NA,0.0038,2500,0.02,NA,0.002648,straight,aligned,Wang2017
-PEO,2000000,Water,,,,,multinozzle xy stage,5,0.00018,3.334E-12,NA,0.004,2500,0.02,NA,0.002724,straight,aligned,Wang2017
-PEO,2000000,Water,,,,,multinozzle xy stage,5,0.00018,3.334E-12,NA,0.0042,2500,0.02,NA,0.002765,straight,aligned,Wang2017
-PEO,2000000,Water,,,,,multinozzle xy stage,5,0.00018,3.334E-12,NA,0.0044,2500,0.02,NA,0.002864,straight,aligned,Wang2017
-PEO,2000000,Water,,,,,multinozzle xy stage,5,0.00018,3.334E-12,NA,0.0046,2500,0.02,NA,0.002913,straight,aligned,Wang2017
-PEO,2000000,Water,,,,,multinozzle xy stage,5,0.00018,3.334E-12,NA,0.0048,2500,0.02,NA,0.00298,straight,aligned,Wang2017
-PEO,2000000,Water,,,,,multinozzle xy stage,5,0.00018,3.334E-12,NA,0.005,2500,0.02,NA,0.003051,straight,aligned,Wang2017
-PEO,2000000,Water,0.056,0.00981,25,1215.525,multinozzle xy stage,5,0.00018,NA,SST,0.004,2500,0.02,6.23219E-06,0.02520032,straight,aligned,Wang2018a
-PCL,80000,CF,0.056,0.00981,25,1215.525,xy stage,8.8,0.0002,2.778E-11,Si,0.07,25000,0.5,0.000000641,NA,meander,single,Lee2012
+PAN,NA,CF/DMF,,,,,rotating drum,9,NA,NA,Si,0.00185,500,NA,3.49134E-07,NA,straight,aligned,Deng2020
+PAN,NA,CF/DMF,,,,,rotating drum,9,NA,NA,Si,0.00185,300,NA,2.48122E-07,NA,straight,aligned,Deng2020
+PAN,NA,CF/DMF,,,,,rotating drum,9,NA,NA,Si,0.00185,100,NA,1.78092E-07,NA,straight,aligned,Deng2020
+PAN,NA,CF/DMF,,,,,rotating drum,9,NA,NA,Si,0.00185,35,NA,1.30498E-07,NA,straight,aligned,Deng2020
+PDO,NA,CF/DMF,,,,,xy stage,18,0.00084,2.5446E-11,Al,0.0018,1200,0.03,0.000025156,NA,straight,mesh,E.King2019
+PDO,NA,HFP,,,,,xy stage,18,0.00034,4.167E-12,Al,0.0018,1300,0.03,0.000012343,NA,straight,mesh,E.King2019
+PDO,NA,HFP,,,,,xy stage,18,0.00034,2.778E-12,Al,0.0018,1200,0.01,0.000010136,NA,straight,mesh,E.King2019
+PDO,NA,HFP,,,,,xy stage,18,0.00034,4.167E-12,Al,0.002,1300,0.03,0.000008749,NA,straight,mesh,E.King2019
+PDO,NA,HFP,,,,,xy stage,18,0.00034,2.778E-12,Al,0.0018,1200,0.02,0.000008144,NA,straight,mesh,E.King2019
+PDO,NA,HFP,,,,,xy stage,18,0.00034,4.167E-12,Al,0.0024,1300,0.03,0.000008124,NA,straight,mesh,E.King2019
+PDO,NA,CF/DMF,,,,,xy stage,18,0.00051,9.362E-12,Al,0.0018,1200,0.03,0.000007968,NA,straight,mesh,E.King2019
+PDO,NA,HFP,,,,,xy stage,18,0.00034,4.167E-12,Al,0.0022,1300,0.03,0.000007656,NA,straight,mesh,E.King2019
+PDO,NA,HFP,,,,,xy stage,18,0.00034,4.167E-12,Al,0.0026,1300,0.03,0.000007656,NA,straight,mesh,E.King2019
+PDO,NA,HFP,,,,,xy stage,18,0.00034,4.167E-12,Al,0.0028,1300,0.03,0.000007343,NA,straight,mesh,E.King2019
+PDO,NA,HFP,,,,,xy stage,18,0.00034,4.167E-12,Al,0.003,1300,0.03,0.000006718,NA,straight,mesh,E.King2019
+PDO,NA,HFP,,,,,xy stage,18,0.00034,2.778E-12,Al,0.0018,1200,0.03,0.000006621,NA,straight,mesh,E.King2019
+PDO,NA,HFP,,,,,xy stage,18,0.00034,2.778E-12,Al,0.0018,1200,0.04,0.000006152,NA,straight,mesh,E.King2019
+PDO,NA,HFP,,,,,xy stage,18,0.00034,4.167E-12,Al,0.0018,1200,0.03,0.000005937,NA,straight,mesh,E.King2019
+PDO,NA,HFP,,,,,xy stage,22,0.00034,4.167E-12,Al,0.0025,1200,0.03,0.000005781,NA,straight,mesh,E.King2019
+PDO,NA,HFP,,,,,xy stage,16,0.00034,4.167E-12,Al,0.0018,1600,0.03,0.000005505,NA,straight,mesh,E.King2019
+PDO,NA,HFP,,,,,xy stage,16,0.00034,4.167E-12,Al,0.0018,1500,0.03,0.000005353,NA,straight,mesh,E.King2019
+PDO,NA,HFP,,,,,xy stage,18,0.00034,2.778E-12,Al,0.0018,1200,0.05,0.000005214,NA,straight,mesh,E.King2019
+PDO,NA,HFP,,,,,xy stage,16,0.00034,4.167E-12,Al,0.0018,1200,0.03,0.000005171,NA,straight,mesh,E.King2019
+PDO,NA,HFP,,,,,xy stage,16,0.00034,4.167E-12,Al,0.0018,1400,0.03,0.000004927,NA,straight,mesh,E.King2019
+PDO,NA,HFP,,,,,xy stage,20,0.00034,4.167E-12,Al,0.0025,1200,0.03,0.000004812,NA,straight,mesh,E.King2019
+PDO,NA,HFP,,,,,xy stage,16,0.00034,4.167E-12,Al,0.0018,1300,0.03,0.000004623,NA,straight,mesh,E.King2019
+PDO,NA,HFP,,,,,xy stage,16,0.00034,4.167E-12,Al,0.0018,1100,0.03,0.000004562,NA,straight,mesh,E.King2019
+PDO,NA,HFP,,,,,xy stage,18,0.00034,4.167E-12,Al,0.0025,1200,0.03,0.000003875,NA,straight,mesh,E.King2019
+PDO,NA,HFP,,,,,xy stage,16,0.00034,4.167E-12,Al,0.0025,1200,0.03,0.000003812,NA,straight,mesh,E.King2019
+PDO,NA,HFP,,,,,xy stage,18,0.00034,2.778E-12,Al,0.0018,1200,0.1,0.000003632,NA,straight,mesh,E.King2019
+PDO,NA,HFP,,,,,xy stage,14,0.00034,4.167E-12,Al,0.0025,1200,0.03,0.000003187,NA,straight,mesh,E.King2019
+PMMA,NA,CF/DMF,,,,,xy stage,20,NA,1.389E-11,NA,0.002,2400,0.06,0.000005643,NA,straight,mesh,Fattahi2017
+PMMA,NA,CF/DMF,,,,,xy stage,24,NA,1.389E-11,NA,0.002,1600,0.06,0.00000468,NA,straight,mesh,Fattahi2017
+PMMA,NA,CF/DMF,,,,,xy stage,20,NA,4.167E-11,NA,0.002,1600,0.06,0.000003957,NA,straight,mesh,Fattahi2017
+PMMA,NA,CF/DMF,,,,,xy stage,20,NA,1.389E-11,NA,0.0016,1600,0.06,0.000003795,NA,straight,mesh,Fattahi2017
+PMMA,NA,CF/DMF,,,,,xy stage,20,NA,2.778E-11,NA,0.002,1600,0.06,0.000003187,NA,straight,mesh,Fattahi2017
+PMMA,NA,CF/DMF,,,,,xy stage,20,NA,1.389E-11,NA,0.002,2200,0.06,0.00000312,NA,straight,mesh,Fattahi2017
+PMMA,NA,CF/DMF,,,,,xy stage,20,NA,1.389E-11,NA,0.002,2000,0.06,0.000002798,NA,straight,mesh,Fattahi2017
+PMMA,NA,CF/DMF,,,,,xy stage,22,NA,1.389E-11,NA,0.002,1600,0.06,0.000002689,NA,straight,mesh,Fattahi2017
+PMMA,NA,CF/DMF,,,,,xy stage,20,NA,1.389E-11,NA,0.0018,1600,0.06,0.000002591,NA,straight,mesh,Fattahi2017
+PMMA,NA,CF/DMF,,,,,xy stage,20,NA,1.389E-11,NA,0.002,1600,0.06,0.000001844,NA,straight,mesh,Fattahi2017
+PMMA,NA,CF/DMF,,,,,xy stage,20,NA,1.389E-11,NA,0.002,1600,0.06,0.000001839,NA,straight,mesh,Fattahi2017
+PMMA,NA,CF/DMF,,,,,xy stage,20,NA,1.389E-11,NA,0.002,1600,0.06,0.000001822,NA,straight,mesh,Fattahi2017
+PMMA,NA,CF/DMF,,,,,xy stage,20,NA,1.389E-11,NA,0.002,1600,0.06,0.000001818,NA,straight,mesh,Fattahi2017
+PMMA,NA,CF/DMF,,,,,xy stage,20,NA,1.389E-11,NA,0.002,1200,0.06,0.00000176,NA,straight,mesh,Fattahi2017
+PMMA,NA,CF/DMF,,,,,xy stage,20,NA,1.389E-11,NA,0.002,1800,0.06,0.000001732,NA,straight,mesh,Fattahi2017
+PMMA,NA,CF/DMF,,,,,xy stage,18,NA,1.389E-11,NA,0.002,1600,0.06,0.000001583,NA,straight,mesh,Fattahi2017
+PMMA,NA,CF/DMF,,,,,xy stage,20,NA,1.389E-11,NA,0.0024,1600,0.06,0.000001487,NA,straight,mesh,Fattahi2017
+PMMA,NA,CF/DMF,,,,,xy stage,16,NA,1.389E-11,NA,0.002,1600,0.06,0.000001462,NA,straight,mesh,Fattahi2017
+PMMA,NA,CF/DMF,,,,,xy stage,20,NA,1.389E-11,NA,0.002,1400,0.06,0.000001424,NA,straight,mesh,Fattahi2017
+PMMA,NA,CF/DMF,,,,,xy stage,20,NA,1.389E-11,NA,0.0022,1600,0.06,0.000001413,NA,straight,mesh,Fattahi2017
+PEO/SU8,4000000,CF/DMF,,,,,xy stage,0.5,NA,NA,NA,NA,NA,0.06,0.00000598,NA,straight,aligned,Flores2017
+PEO/SU8,4000000,CF/DMF,,,,,xy stage,0.5,NA,NA,NA,NA,NA,0.04,0.00000589,NA,straight,aligned,Flores2017
+PEO/SU8,4000000,CF/DMF,,,,,xy stage,0.5,NA,NA,NA,NA,NA,0.04,0.00000589,NA,straight,aligned,Flores2017
+PEO/SU8,4000000,CF/DMF,,,,,xy stage,0.5,NA,NA,NA,NA,NA,0.04,0.00000548,NA,straight,aligned,Flores2017
+PEO/SU8,4000000,CF/DMF,,,,,xy stage,0.5,NA,NA,NA,NA,NA,0.02,0.00000538,NA,straight,aligned,Flores2017
+PEO/SU8,4000000,CF/DMF,,,,,xy stage,0.5,NA,NA,NA,NA,NA,0.06,0.00000535,NA,straight,aligned,Flores2017
+PEO/SU8,4000000,CF/DMF,,,,,xy stage,0.5,NA,NA,NA,NA,NA,0.04,0.00000535,NA,straight,aligned,Flores2017
+PEO/SU8,4000000,CF/DMF,,,,,xy stage,0.5,NA,NA,NA,NA,NA,0.02,0.00000527,NA,straight,aligned,Flores2017
+PEO,300000,Water,0.028,0.02943,45,1515.525,xy stage,8,0.0004,NA,Si,0.0005,1100,0.2,0.00000074,0.00002,straight,single,Fuh2011
+PEO/Chitosan,900000,DMSO,0.014,0.00981,63,3215.525,xy stage,5,0.0004,2.8E-14,NA,0.0005,1200,NA,7.84928E-07,0.0001,curved,aligned,Fuh2012
+PEO/Chitosan,900000,DMSO,0.014,0.00981,63,3215.525,xy stage,5,0.0004,2.8E-14,NA,0.0005,1000,NA,5.81145E-07,0.0001,curved,aligned,Fuh2012
+PEO/Chitosan,900000,DMSO,0.014,0.00981,63,3215.525,xy stage,5,0.0004,2.8E-14,NA,0.0015,800,NA,4.7148E-07,0.0001,curved,aligned,Fuh2012
+PEO/Chitosan,900000,DMSO,0.014,0.00981,63,3215.525,xy stage,5,0.0004,2.8E-14,NA,0.001,800,NA,4.42403E-07,0.0001,curved,aligned,Fuh2012
+PEO/Chitosan,900000,DMSO,0.014,0.00981,63,3215.525,xy stage,5,0.0004,2.8E-14,NA,0.0005,800,NA,4.15104E-07,0.0001,curved,aligned,Fuh2012
+PEO/Chitosan,900000,DMSO,0.014,0.00981,53,3215.525,xy stage,5,0.0004,2.8E-14,NA,0.0005,600,NA,3.1963E-07,0.0001,curved,aligned,Fuh2012
+PEO/Chitosan,900000,DMSO,0.014,0.00981,63,3215.525,xy stage,5,0.0004,2.8E-14,NA,0.0005,800,NA,2.81873E-07,0.0001,curved,aligned,Fuh2012
+PEO/Chitosan,900000,CF/DMF,,,,,xy stage,5,NA,NA,PPy,0.0005,800,0.2,7.3846E-07,0.0001,straight,mesh,Fuh2013
+PEO/Chitosan,900000,CF/DMF,,,,,xy stage,5,NA,NA,PPy,0.0005,800,0.2,7.2718E-07,0.00002,straight,aligned,Fuh2013
+PEO/Chitosan,900000,CF/DMF,,,,,xy stage,5,NA,NA,PPy,0.0005,800,0.2,7.2718E-07,0.00004,straight,aligned,Fuh2013
+PEO/Chitosan,900000,CF/DMF,,,,,xy stage,5,NA,NA,PPy,0.0005,800,0.2,7.2718E-07,0.0001,straight,aligned,Fuh2013
+PEO/Chitosan,900000,CF/DMF,,,,,xy stage,5,NA,NA,PPy,0.0005,800,0.2,7.2226E-07,0.0001,straight,aligned,Fuh2013
+PEO/Chitosan,900000,CF/DMF,,,,,xy stage,5,NA,NA,PPy,0.0005,800,0.2,7.2031E-07,0.0001,curved,aligned,Fuh2013
+PEO/Chitosan,900000,CF/DMF,,,,,xy stage,5,NA,NA,PPy,0.0005,800,0.2,5.311E-07,NA,meander,randomly distributed,Fuh2013
+PVDF,534000,CF/DMF,,,,,NA,16,NA,NA,NA,0.0012,1440,NA,0.000002909,NA,straight,aligned,Fuh2015
+PVDF,534000,CF/DMF,,,,,NA,16,NA,NA,NA,0.0012,1440,NA,0.000000907,NA,straight,aligned,Fuh2015
+PEO,300000,Water/Ethanol,0.056,0.04905,25,1215.525,xy stage,20,0.00004,NA,Si,0.001,1700,0.25,2.81506E-06,NA,meander,single,GaofengZheng2010
+PEO,300000,Water/Ethanol,0.056,0.073575,25,1215.525,xy stage,20,0.00004,NA,Si,0.001,1700,0.15,2.45259E-06,NA,coil,single,GaofengZheng2010
+PEO,300000,Water/Ethanol,0.056,0.0981,25,1215.525,xy stage,20,0.00004,NA,Si,0.001,1700,0.35,1.89169E-06,NA,straight,single,GaofengZheng2010
+PEO,300000,Water/Ethanol,0.056,0.14715,25,1215.525,xy stage,20,0.00004,NA,Si,0.001,1700,0.05,8.16427E-07,NA,coil,single,GaofengZheng2010
+PAN,150000,DMF,,,,,rotating drum,11,0.000159,NA,Si,NA,900,NA,2.52959E-06,NA,straight,aligned,George2020
+PAN,150000,DMF,,,,,rotating drum,11,0.000159,NA,Si,NA,800,NA,1.38394E-06,NA,straight,aligned,George2020
+PAN,150000,DMF,,,,,rotating drum,11,0.000159,NA,Si,NA,600,NA,8.99042E-07,NA,straight,aligned,George2020
+PAN,150000,DMF,,,,,rotating drum,11,0.000159,NA,Si,NA,500,NA,8.95036E-07,NA,straight,aligned,George2020
+PAN,150000,DMF,,,,,rotating drum,11,0.000159,NA,Si,NA,700,NA,8.71092E-07,NA,straight,aligned,George2020
+PAN,150000,DMF,,,,,rotating drum,11,0.000159,NA,Si,0.0007,NA,NA,8.39166E-07,NA,straight,aligned,George2020
+PAN,150000,DMF,,,,,rotating drum,11,0.000159,NA,Si,0.0025,NA,NA,6.32462E-07,NA,straight,aligned,George2020
+PAN,150000,DMF,,,,,rotating drum,11,0.000159,NA,Si,0.0045,NA,NA,5.58621E-07,NA,straight,aligned,George2020
+PAN,150000,DMF,,,,,rotating drum,11,0.000159,NA,Si,NA,400,NA,5.06569E-07,NA,straight,aligned,George2020
+PAN,150000,DMF,,,,,rotating drum,11,0.000159,NA,Si,0.01,NA,NA,4.09142E-07,NA,straight,aligned,George2020
+POSS-PCL-PCU,2000,CF/DMF,0.056,0.13734,79,2615.525,xy stage,20,0.00075,1.6668E-11,NA,0.0005,9000,0.01,0.000069045,0.00048,meander,mesh,Gupta2007
+POSS-PCU,2000,CF/DMF,0.056,0.13734,79,2615.525,xy stage,20,0.00075,1.6668E-11,NA,0.0005,9000,0.01,0.000018671,0.000352,meander,mesh,Gupta2007
+PCL,80000,CF/DMF,,,,,xy stage,NA,0.000912,NA,NA,0.005,3000,0.05,0.0001505,0.001,straight,mesh,He2018
+PCL,80000,CF/DMF,,,,,xy stage,NA,0.000912,NA,NA,0.005,3000,0.05,0.0001268,0.001,straight,mesh,He2018
+PCL,80000,CF/DMF,,,,,xy stage,NA,0.000912,NA,NA,0.005,3000,0.05,0.0001083,0.001,straight,mesh,He2018
+PEtOx,50000,NA,,,,,melt,NA,0.000337,NA,Al,0.005,4000,0.00333,5.91054E-05,NA,straight,cross aligned,Hochleitner2014
+PEtOx,50000,NA,,,,,melt,NA,0.00026,NA,Al,0.003,5000,0.00333,4.83509E-05,NA,straight,cross aligned,Hochleitner2014
+PEtOx,50000,NA,,,,,melt,NA,0.000337,NA,Al,0.005,5000,0.00333,4.67093E-05,NA,straight,cross aligned,Hochleitner2014
+PEtOx,50000,NA,,,,,melt,NA,0.00026,NA,Al,0.005,6000,0.00333,4.54575E-05,NA,straight,cross aligned,Hochleitner2014
+PEtOx,50000,NA,,,,,melt,NA,0.00026,NA,Al,0.005,6500,0.00333,4.47279E-05,NA,straight,cross aligned,Hochleitner2014
+PEtOx,50000,NA,,,,,melt,NA,0.00026,NA,Al,0.005,5000,0.00333,0.00004447,NA,straight,cross aligned,Hochleitner2014
+PEtOx,50000,NA,,,,,melt,NA,0.00026,NA,Al,0.004,5000,0.00333,4.44267E-05,NA,straight,cross aligned,Hochleitner2014
+PEtOx,50000,NA,,,,,melt,NA,0.00026,NA,Al,0.005,5000,0.00333,4.37461E-05,NA,straight,cross aligned,Hochleitner2014
+PEtOx,50000,NA,,,,,melt,NA,0.00026,NA,Al,0.007,5000,0.00333,4.36442E-05,NA,straight,cross aligned,Hochleitner2014
+PEtOx,50000,NA,,,,,melt,NA,0.00026,NA,Al,0.006,5000,0.00333,4.06597E-05,NA,straight,cross aligned,Hochleitner2014
+PEtOx,50000,NA,,,,,melt,NA,0.00026,NA,Al,0.005,4000,0.00333,4.00863E-05,NA,straight,cross aligned,Hochleitner2014
+PEtOx,50000,NA,,,,,melt,NA,0.00021,NA,Al,0.005,3000,0.00333,0.000038904,NA,straight,cross aligned,Hochleitner2014
+PEtOx,50000,NA,,,,,melt,NA,0.00026,NA,Al,0.005,3000,0.00333,3.77719E-05,NA,straight,cross aligned,Hochleitner2014
+PEtOx,50000,NA,,,,,melt,NA,0.000337,NA,Al,0.005,6000,0.00333,3.09265E-05,NA,straight,cross aligned,Hochleitner2014
+PEtOx,50000,NA,,,,,melt,NA,0.00021,NA,Al,0.005,6000,0.00333,3.04575E-05,NA,straight,cross aligned,Hochleitner2014
+PEtOx,50000,NA,,,,,melt,NA,0.00021,NA,Al,0.005,5000,0.00333,3.02247E-05,NA,straight,cross aligned,Hochleitner2014
+PEtOx,50000,NA,,,,,melt,NA,0.00021,NA,Al,0.005,4000,0.00333,2.85769E-05,NA,straight,cross aligned,Hochleitner2014
+PEtOx,50000,NA,,,,,melt,NA,0.00021,NA,Al,0.006,5000,0.00333,2.84075E-05,NA,straight,cross aligned,Hochleitner2014
+PEtOx,50000,NA,,,,,melt,NA,0.00021,NA,Al,0.005,7000,0.00333,2.83379E-05,NA,straight,cross aligned,Hochleitner2014
+PEtOx,50000,NA,,,,,melt,NA,0.00021,NA,Al,0.003,5000,0.00333,0.00002814,NA,straight,cross aligned,Hochleitner2014
+PEtOx,50000,NA,,,,,melt,NA,0.00021,NA,Al,0.004,5000,0.00333,2.74622E-05,NA,straight,cross aligned,Hochleitner2014
+PEtOx,50000,NA,,,,,melt,NA,0.00021,NA,Al,0.007,5000,0.00333,2.68891E-05,NA,straight,cross aligned,Hochleitner2014
+PEtOx,50000,NA,,,,,melt,NA,0.00021,NA,Al,0.005,5000,0.00333,2.57343E-05,NA,straight,cross aligned,Hochleitner2014
+PEtOx,50000,NA,,,,,melt,NA,0.00016,NA,Al,0.005,3000,0.00333,2.11681E-05,NA,straight,cross aligned,Hochleitner2014
+PEtOx,50000,NA,,,,,melt,NA,0.00016,NA,Al,0.005,4000,0.00333,2.03693E-05,NA,straight,cross aligned,Hochleitner2014
+PEtOx,50000,NA,,,,,melt,NA,0.00016,NA,Al,0.005,7000,0.00333,1.81493E-05,NA,straight,cross aligned,Hochleitner2014
+PEtOx,50000,NA,,,,,melt,NA,0.00016,NA,Al,0.005,6000,0.00333,1.60235E-05,NA,straight,cross aligned,Hochleitner2014
+PEtOx,50000,NA,,,,,melt,NA,0.000337,NA,Al,0.005,7000,0.00333,0.000015016,NA,straight,cross aligned,Hochleitner2014
+PEtOx,50000,NA,,,,,melt,NA,0.00016,NA,Al,0.005,5000,0.00333,1.40927E-05,NA,straight,cross aligned,Hochleitner2014
+PEtOx,50000,NA,,,,,melt,NA,0.00016,NA,Al,0.003,5000,0.00333,0.000013584,NA,straight,cross aligned,Hochleitner2014
+PEtOx,50000,NA,,,,,melt,NA,0.00016,NA,Al,0.004,5000,0.00333,0.000013325,NA,straight,cross aligned,Hochleitner2014
+PEtOx,50000,NA,,,,,melt,NA,0.00016,NA,Al,0.007,5000,0.00333,1.28567E-05,NA,straight,cross aligned,Hochleitner2014
+PEtOx,50000,NA,,,,,melt,NA,0.00016,NA,Al,0.006,5000,0.00333,1.25949E-05,NA,straight,cross aligned,Hochleitner2014
+PEtOx,50000,NA,,,,,melt,NA,0.00016,NA,Al,0.005,5000,0.00333,1.25397E-05,NA,straight,cross aligned,Hochleitner2014
+PLA/PEG,72000,NA,,,,,melt,NA,0.000337,NA,Si,0.0035,4000,0.08333,0.000031,NA,straight,mesh,Hochleitner2017
+PEO,300000,CF/DMF,,,,,xy stage,NA,NA,2.0002E-11,NA,0.0075,NA,0.4,NA,NA,straight,single,Huang2015
+PEO,300000,CF/DMF,0.056,0.00081423,96.25,2321.65275,xy stage,6,NA,NA,NA,0.005,900,0.05,0.000000352,NA,coil,aligned,Huang2015
+PEO,300000,CF/DMF,0.056,0.00081423,96.25,2321.65275,xy stage,6,NA,NA,NA,0.005,900,0.1,0.00000031,NA,meander,aligned,Huang2015
+PEO,300000,CF/DMF,0.056,0.00081423,96.25,2321.65275,xy stage,6,NA,NA,NA,0.005,900,0.2,0.000000287,NA,straight,aligned,Huang2015
+PEO,300000,CF/DMF,0.056,0.00081423,96.25,2321.65275,xy stage,6,NA,NA,NA,0.005,900,0.4,0.000000212,0.000005,straight,aligned,Huang2015
+PLGA,33000,CF/DMF,,,,,xy stage,15,0.00109,8.334E-10,NA,0.2,15000,NA,8.94519E-06,NA,curved,randomly distributed,Husain2016
+PLGA,33000,CF/DMF,,,,,xy stage,10,0.00109,8.334E-10,NA,0.2,15000,NA,5.74416E-06,NA,curved,randomly distributed,Husain2016
+PLGA,33000,CF/DMF,,,,,xy stage,4,0.00109,8.334E-10,NA,0.2,15000,NA,4.56482E-06,NA,curved,randomly distributed,Husain2016
+PLGA,33000,CF/DMF,,,,,xy stage,2,0.00109,8.334E-10,NA,0.2,15000,NA,4.36377E-06,NA,curved,randomly distributed,Husain2016
+PLGA,33000,CF/DMF,,,,,xy stage,25,0.00109,8.334E-10,NA,0.2,15349.31862,NA,3.27073E-06,NA,curved,randomly distributed,Husain2016
+PLGA,33000,CF/DMF,,,,,xy stage,25,0.00109,8.334E-10,NA,0.2,15000,NA,3.23417E-06,NA,curved,randomly distributed,Husain2016
+PLGA,33000,CF/DMF,,,,,xy stage,25,0.00109,8.334E-10,NA,0.2,20327.0367,NA,3.00929E-06,NA,curved,randomly distributed,Husain2016
+PLGA,33000,CF/DMF,,,,,xy stage,25,0.00109,8.334E-10,NA,0.2,25332.23016,NA,2.81426E-06,NA,curved,randomly distributed,Husain2016
+PLGA,33000,CF/DMF,,,,,xy stage,20,0.00109,8.334E-10,NA,0.15,16068.22882,NA,2.5465E-06,NA,curved,randomly distributed,Husain2016
+PLGA,33000,CF/DMF,,,,,xy stage,25,0.00109,8.334E-10,NA,0.15,25289.84823,NA,2.41002E-06,NA,curved,randomly distributed,Husain2016
+PLGA,33000,CF/DMF,,,,,xy stage,20,0.00109,8.334E-10,NA,0.15,20915.81995,NA,2.14291E-06,NA,curved,randomly distributed,Husain2016
+PLGA,33000,CF/DMF,,,,,xy stage,25,0.00109,8.334E-10,NA,0.15,20222.66329,NA,2.01377E-06,NA,curved,randomly distributed,Husain2016
+PLGA,33000,CF/DMF,,,,,xy stage,25,0.00109,8.334E-10,NA,0.15,15210.78663,NA,1.9494E-06,NA,curved,randomly distributed,Husain2016
+PLGA,33000,CF/DMF,,,,,xy stage,20,0.00109,8.334E-10,NA,0.15,23812.25385,NA,1.94621E-06,NA,curved,randomly distributed,Husain2016
+PLGA,33000,CF/DMF,,,,,xy stage,20,0.00109,8.334E-10,NA,0.2,15769.23769,NA,1.80525E-06,NA,curved,randomly distributed,Husain2016
+PLGA,33000,CF/DMF,,,,,xy stage,20,0.00109,8.334E-10,NA,0.2,15000,NA,1.77049E-06,NA,curved,randomly distributed,Husain2016
+PLGA,33000,CF/DMF,,,,,xy stage,20,0.00109,8.334E-10,NA,0.2,20741.56131,NA,1.7109E-06,NA,curved,randomly distributed,Husain2016
+PLGA,33000,CF/DMF,,,,,xy stage,20,0.00109,8.334E-10,NA,0.2,23700.36147,NA,1.66881E-06,NA,curved,randomly distributed,Husain2016
+PEO,30000,Water/Ethanol,0.056,0.00981,25,1215.525,xy stage,8,0.00021,8.334E-12,Si,0.002,2000,0.001,9.7688E-06,NA,meander,aligned,Jiang2018
+PEO,30000,Water/Ethanol,0.056,0.00981,25,1215.525,xy stage,8,0.00021,8.334E-12,Si,0.002,2000,0.005,7.3542E-06,NA,meander,aligned,Jiang2018
+PEO,30000,Water/Ethanol,0.056,0.00981,25,1215.525,xy stage,8,0.00021,8.334E-12,Si,0.002,2000,0.001,5.4769E-06,NA,meander,aligned,Jiang2018
+PEO,30000,Water/Ethanol,0.056,0.00981,25,1215.525,xy stage,8,0.00021,8.334E-12,Si,0.002,2000,0.01,4.8454E-06,NA,meander,aligned,Jiang2018
+PEO,30000,Water/Ethanol,0.056,0.00981,25,1215.525,xy stage,8,0.00021,8.334E-12,Si,0.002,2000,0.005,3.8342E-06,NA,meander,aligned,Jiang2018
+PEO,30000,Water/Ethanol,0.056,0.00981,25,1215.525,xy stage,8,0.00021,8.334E-12,Si,0.002,2000,0.02,3.7185E-06,0.169959875,meander,aligned,Jiang2018
+PEO,30000,Water/Ethanol,0.056,0.00981,25,1215.525,xy stage,8,0.00021,8.334E-12,Si,0.002,2000,0.01,3.2707E-06,NA,meander,aligned,Jiang2018
+PEO,30000,Water/Ethanol,0.056,0.00981,25,1215.525,xy stage,8,0.00021,8.334E-12,Si,0.002,2000,0.02,0.000002823,2.175438595,meander,aligned,Jiang2018
+PEO,100000,CF/DMF,0.056,0.00981,25,1215.525,rotating drum,10,NA,NA,Si,0.007562961,2000,NA,2.00652E-07,NA,straight,aligned,Kameoka2003
+PEO,100000,CF/DMF,0.056,0.00981,25,1215.525,rotating drum,10,NA,NA,Si,0.008546541,2000,NA,1.50978E-07,NA,straight,aligned,Kameoka2003
+PEO,100000,CF/DMF,0.056,0.00981,25,1215.525,rotating drum,10,NA,NA,Si,0.0085,2000,0.872308177,1.22872E-07,NA,straight,aligned,Kameoka2003
+PEO,100000,CF/DMF,0.056,0.00981,25,1215.525,rotating drum,10,NA,NA,Si,0.0085,2000,1.709602411,1.17279E-07,NA,straight,aligned,Kameoka2003
+PEO,100000,CF/DMF,0.056,0.00981,25,1215.525,rotating drum,10,NA,NA,Si,0.0085,2000,0.447063057,1.11961E-07,NA,straight,aligned,Kameoka2003
+PEO,100000,CF/DMF,0.056,0.00981,25,1215.525,rotating drum,10,NA,NA,Si,0.011028499,2000,NA,1.103E-07,NA,straight,aligned,Kameoka2003
+PEO,100000,CF/DMF,0.056,0.00981,25,1215.525,rotating drum,10,NA,NA,Si,0.010033744,2000,NA,1.05997E-07,NA,straight,aligned,Kameoka2003
+PEO,100000,CF/DMF,0.056,0.00981,25,1215.525,rotating drum,10,NA,NA,Si,0.0085,2000,0.110587389,1.04172E-07,NA,straight,aligned,Kameoka2003
+PEO,100000,CF/DMF,0.056,0.00981,25,1215.525,rotating drum,10,NA,NA,Si,0.0085,2000,1.288072322,1.01407E-07,NA,straight,aligned,Kameoka2003
+PEO,100000,CF/DMF,0.056,0.00981,25,1215.525,rotating drum,10,NA,NA,Si,0.012519879,2000,NA,8.8787E-08,NA,straight,aligned,Kameoka2003
+PEO,900000,CF/DMF,,,,,xy stage,30,NA,NA,NA,NA,4500,NA,0.00000115,NA,coil,randomly distributed,Kameoka2003a
+PEO,900000,CF/DMF,,,,,xy stage,20,NA,NA,NA,NA,4500,NA,0.0000004,NA,coil,randomly distributed,Kameoka2003a
+PEO,900000,CF/DMF,,,,,xy stage,10,NA,NA,NA,NA,4500,NA,0.00000025,NA,coil,randomly distributed,Kameoka2003a
+PEO,900000,CF/DMF,,,,,xy stage,5,NA,NA,NA,NA,4500,NA,0.00000015,NA,coil,randomly distributed,Kameoka2003a
+PVDF,534000,Acetone/DMSO,,,,,auxiliary electrodes,17,0.0001,3.889E-12,Paper,0.00075,1900,0.01,NA,NA,meander,single,Kim2018
+PCL,50000,CF,,,,,xy stage,18.34997064,0.00025,NA,NA,NA,6000,0.0075,0.000103,NA,coil,single,Kolan2018
+PCL,50000,CF,,,,,xy stage,18.34997064,0.00025,NA,NA,NA,10000,0.0025,0.0000998,NA,coil,single,Kolan2018
+PCL,50000,CF,,,,,xy stage,18.34997064,0.00025,NA,NA,NA,8000,0.0075,0.0000872,NA,coil,single,Kolan2018
+PCL,50000,CF,,,,,xy stage,18.34997064,0.00025,NA,NA,NA,12000,0.0075,0.0000802,NA,coil,single,Kolan2018
+PCL,50000,CF,,,,,xy stage,18.34997064,0.00025,NA,NA,NA,10000,0.005,0.000048,NA,coil,single,Kolan2018
+PCL,50000,CF,,,,,xy stage,18.34997064,0.00025,NA,NA,NA,10000,0.005,0.0000478,NA,coil,single,Kolan2018
+PCL,50000,CF,,,,,xy stage,18.34997064,0.00025,NA,NA,NA,10000,0.0075,0.0000468,NA,coil,single,Kolan2018
+PCL,50000,CF,,,,,xy stage,18.34997064,0.00025,NA,NA,NA,10000,0.005,0.0000422,NA,coil,single,Kolan2018
+PCL,50000,CF,,,,,xy stage,18.34997064,0.00025,NA,NA,NA,10000,0.005,0.0000334,NA,coil,single,Kolan2018
 PCL,80000,CF,,,,,xy stage,8.8,0.0002,2.778E-11,Si,0.07,25000,0.002,NA,NA,coil,single,Lee2012
 PCL,80000,CF,,,,,xy stage,8.8,0.0002,2.778E-11,Si,0.07,25000,0.01,NA,NA,NA,single,Lee2012
 PCL,80000,CF,,,,,xy stage,8.8,0.0002,2.778E-11,Si,0.07,25000,0.025,NA,NA,coil,single,Lee2012
 PCL,80000,CF,,,,,xy stage,8.8,0.0002,2.778E-11,Si,0.07,25000,0.05,NA,NA,NA,single,Lee2012
 PCL,80000,CF,,,,,xy stage,8.8,0.0002,2.778E-11,Si,0.07,25000,0.1,NA,NA,coil,single,Lee2012
 PCL,80000,CF,,,,,xy stage,8.8,0.0002,2.778E-11,Si,0.07,25000,0.2,NA,NA,coil,single,Lee2012
-PEtOx,50000,NA,,,,,melt,NA,0.00021,NA,Al,0.005,5000,0.00333,2.57343E-05,NA,straight,cross aligned,Hochleitner2014
-PEtOx,50000,NA,,,,,melt,NA,0.00021,NA,Al,0.007,5000,0.00333,2.68891E-05,NA,straight,cross aligned,Hochleitner2014
-PEtOx,50000,NA,,,,,melt,NA,0.00021,NA,Al,0.004,5000,0.00333,2.74622E-05,NA,straight,cross aligned,Hochleitner2014
-PEtOx,50000,NA,,,,,melt,NA,0.00021,NA,Al,0.003,5000,0.00333,0.00002814,NA,straight,cross aligned,Hochleitner2014
-PEtOx,50000,NA,,,,,melt,NA,0.00021,NA,Al,0.005,7000,0.00333,2.83379E-05,NA,straight,cross aligned,Hochleitner2014
-PEtOx,50000,NA,,,,,melt,NA,0.00021,NA,Al,0.006,5000,0.00333,2.84075E-05,NA,straight,cross aligned,Hochleitner2014
-PEtOx,50000,NA,,,,,melt,NA,0.00021,NA,Al,0.005,4000,0.00333,2.85769E-05,NA,straight,cross aligned,Hochleitner2014
-PEtOx,50000,NA,,,,,melt,NA,0.00021,NA,Al,0.005,5000,0.00333,3.02247E-05,NA,straight,cross aligned,Hochleitner2014
-PEtOx,50000,NA,,,,,melt,NA,0.00021,NA,Al,0.005,6000,0.00333,3.04575E-05,NA,straight,cross aligned,Hochleitner2014
-PEtOx,50000,NA,,,,,melt,NA,0.00021,NA,Al,0.005,3000,0.00333,0.000038904,NA,straight,cross aligned,Hochleitner2014
-PEO,30000,Water/Ethanol,,,,,xy stage,8,0.00021,8.334E-12,Si,0.002,2000,0.02,0.000002823,2.175438595,meander,aligned,Jiang2018
-PEO,30000,Water/Ethanol,,,,,xy stage,8,0.00021,8.334E-12,Si,0.002,2000,0.01,3.2707E-06,NA,meander,aligned,Jiang2018
-PEO,30000,Water/Ethanol,,,,,xy stage,8,0.00021,8.334E-12,Si,0.002,2000,0.02,3.7185E-06,0.169959875,meander,aligned,Jiang2018
-PEO,30000,Water/Ethanol,,,,,xy stage,8,0.00021,8.334E-12,Si,0.002,2000,0.005,3.8342E-06,NA,meander,aligned,Jiang2018
-PEO,30000,Water/Ethanol,,,,,xy stage,8,0.00021,8.334E-12,Si,0.002,2000,0.01,4.8454E-06,NA,meander,aligned,Jiang2018
-PEO,30000,Water/Ethanol,,,,,xy stage,8,0.00021,8.334E-12,Si,0.002,2000,0.001,5.4769E-06,NA,meander,aligned,Jiang2018
-PEO,30000,Water/Ethanol,,,,,xy stage,8,0.00021,8.334E-12,Si,0.002,2000,0.005,7.3542E-06,NA,meander,aligned,Jiang2018
-PEO,30000,Water/Ethanol,,,,,xy stage,8,0.00021,8.334E-12,Si,0.002,2000,0.001,9.7688E-06,NA,meander,aligned,Jiang2018
-PEO,4000000,Water,,,,,xy stage,2,0.00021,2.78E-13,C/Si,0.001,200,0.04,5.07E-08,NA,straight,single,Madou2011
-PEO,4000000,Water,,,,,xy stage,2,0.00021,2.78E-13,C/Si,0.001,400,0.08,1.852E-07,NA,straight,aligned,Madou2011
-PEO,4000000,Water,,,,,xy stage,2,0.00021,2.78E-13,C/Si,0.001,300,0.04,1.882E-07,NA,straight,single,Madou2011
-PEO,4000000,Water,,,,,xy stage,2,0.00021,2.78E-13,C/Si,0.001,400,0.06,2.047E-07,NA,straight,aligned,Madou2011
-PEO,4000000,Water,,,,,xy stage,2,0.00021,2.78E-13,C/Si,0.001,400,0.04,3.653E-07,NA,straight,aligned,Madou2011
-PEO,4000000,Water,,,,,xy stage,2,0.00021,2.78E-13,C/Si,0.001,400,0.04,3.665E-07,NA,straight,single,Madou2011
-PEO,4000000,Water,,,,,xy stage,2,0.00021,2.78E-13,C/Si,0.001,400,0.02,4.225E-07,NA,straight,aligned,Madou2011
-PEO,300000,Water/Ethanol,,,,,xy stage,14,0.00021,1.389E-11,PET,0.002,485.5967078,0.02,1.74074E-05,NA,meander,aligned,Zheng2014
-PEO,300000,Water/Ethanol,,,,,xy stage,14,0.00021,1.389E-11,PET,0.002,4000,0.7,0.000020519,0,meander,aligned,Zheng2014
-PEO,300000,Water/Ethanol,,,,,xy stage,14,0.00021,1.389E-11,PET,0.002,3974.670072,0.02,2.13272E-05,NA,meander,aligned,Zheng2014
-PEO,300000,Water/Ethanol,,,,,xy stage,14,0.00021,1.389E-11,PET,0.002,971.8319852,0.02,2.25617E-05,NA,meander,aligned,Zheng2014
-PEO,300000,Water/Ethanol,,,,,xy stage,14,0.00021,1.389E-11,PET,0.002,4000,1.5,0.000022747,0.0002771,meander,aligned,Zheng2014
-PEO,300000,Water/Ethanol,,,,,xy stage,14,0.00021,1.389E-11,PET,0.002,4000,0.2,0.000023861,NA,meander,aligned,Zheng2014
-PEO,300000,Water/Ethanol,,,,,xy stage,14,0.00021,1.389E-11,PET,0.002,3466.723428,0.02,2.39506E-05,NA,meander,aligned,Zheng2014
-PEO,300000,Water/Ethanol,,,,,xy stage,14,0.00021,1.389E-11,PET,0.002,1459.912019,0.02,2.69136E-05,NA,meander,aligned,Zheng2014
-PEO,300000,Water/Ethanol,,,,,xy stage,14,0.00021,1.389E-11,PET,0.002,4000,1,0.000027499,0.0002979,meander,aligned,Zheng2014
-PEO,300000,Water/Ethanol,,,,,xy stage,14,0.00021,1.389E-11,PET,0.002,1956.932028,0.02,2.90432E-05,NA,meander,aligned,Zheng2014
-PEO,300000,Water/Ethanol,,,,,xy stage,14,0.00021,1.389E-11,PET,0.002,2453.526323,0.02,0.000031358,NA,meander,aligned,Zheng2014
-PEO,300000,Water/Ethanol,,,,,xy stage,14,0.00021,1.389E-11,PET,0.002,2941.961118,0.02,3.55556E-05,NA,meander,aligned,Zheng2014
-PEO,300000,Water/Ethanol,,,,,xy stage,14,0.00021,1.389E-11,PET,0.002,4000,0.1,0.000036188,NA,meander,aligned,Zheng2014
-PEO,300000,Water/Ethanol,,,,,xy stage,14,0.00021,1.389E-11,PET,0.002,4000,0.05,0.000065816,NA,meander,aligned,Zheng2014
-PVDF,534000,Acetone/DMSO,,,,,xy stage,20,0.00023,NA,NA,NA,900,0.08,4.15439E-06,NA,straight,aligned,Liu2013
-PVDF,534000,Acetone/DMSO,,,,,xy stage,20,0.00023,NA,NA,NA,900,0.08,5.20805E-06,NA,straight,aligned,Liu2013
-PVDF,534000,Acetone/DMSO,,,,,xy stage,20,0.00023,NA,NA,NA,900,0.08,5.82091E-06,NA,straight,aligned,Liu2013
-PVDF,534000,Acetone/DMSO,,,,,xy stage,18,0.00023,NA,NA,NA,1200,0.09,6.68091E-06,NA,straight,aligned,Liu2013
-PVDF,534000,Acetone/DMSO,,,,,xy stage,18,0.00023,NA,NA,NA,800,0.08,7.43192E-06,NA,straight,aligned,Liu2013
-PVDF,534000,Acetone/DMSO,,,,,xy stage,18,0.00023,NA,NA,NA,800,0.08,0.000008047,NA,straight,aligned,Liu2013
-PVDF,534000,Acetone/DMSO,,,,,xy stage,18,0.00023,NA,NA,NA,1000,0.08,8.68401E-06,NA,straight,aligned,Liu2013
-PVDF,534000,Acetone/DMSO,,,,,xy stage,18,0.00023,NA,NA,NA,1200,0.09,8.78225E-06,NA,straight,aligned,Liu2013
-PVDF,534000,Acetone/DMSO,,,,,xy stage,18,0.00023,NA,NA,NA,800,0.08,9.00301E-06,NA,straight,aligned,Liu2013
-PVDF,534000,Acetone/DMSO,,,,,xy stage,18,0.00023,NA,NA,NA,1000,0.08,9.2303E-06,NA,straight,aligned,Liu2013
-PVDF,534000,Acetone/DMSO,,,,,xy stage,18,0.00023,NA,NA,NA,900,0.08,9.35973E-06,NA,straight,aligned,Liu2013
-PVDF,534000,Acetone/DMSO,,,,,xy stage,18,0.00023,NA,NA,NA,900,0.08,1.01491E-05,NA,straight,aligned,Liu2013
-PVDF,534000,Acetone/DMSO,,,,,xy stage,18,0.00023,NA,NA,NA,1000,0.08,1.03234E-05,NA,straight,aligned,Liu2013
-PVDF,534000,Acetone/DMSO,,,,,xy stage,18,0.00023,NA,NA,NA,1200,0.09,1.06962E-05,NA,straight,aligned,Liu2013
-PVDF,534000,Acetone/DMSO,,,,,xy stage,18,0.00023,NA,NA,NA,900,0.08,0.000010807,NA,straight,aligned,Liu2013
-PVDF,534000,Acetone/DMSO,,,,,xy stage,16,0.00023,NA,NA,NA,900,0.08,1.12748E-05,NA,straight,aligned,Liu2013
-PVDF,534000,Acetone/DMSO,,,,,xy stage,18,0.00023,NA,NA,NA,900,0.06,0.000011655,NA,straight,aligned,Liu2013
-PVDF,534000,Acetone/DMSO,,,,,xy stage,16,0.00023,NA,NA,NA,900,0.08,1.18887E-05,NA,straight,aligned,Liu2013
-PVDF,534000,Acetone/DMSO,,,,,xy stage,18,0.00023,NA,NA,NA,1200,0.08,1.23949E-05,NA,straight,aligned,Liu2013
-PVDF,534000,Acetone/DMSO,,,,,xy stage,18,0.00023,NA,NA,NA,1200,0.08,1.30095E-05,NA,straight,aligned,Liu2013
-PVDF,534000,Acetone/DMSO,,,,,xy stage,18,0.00023,NA,NA,NA,1500,0.08,1.32819E-05,NA,straight,aligned,Liu2013
-PVDF,534000,Acetone/DMSO,,,,,xy stage,16,0.00023,NA,NA,NA,900,0.08,1.42131E-05,NA,straight,aligned,Liu2013
-PVDF,534000,Acetone/DMSO,,,,,xy stage,18,0.00023,NA,NA,NA,1200,0.07,1.43277E-05,NA,straight,aligned,Liu2013
-PVDF,534000,Acetone/DMSO,,,,,xy stage,18,0.00023,NA,NA,NA,1200,0.08,1.46484E-05,NA,straight,aligned,Liu2013
-PVDF,534000,Acetone/DMSO,,,,,xy stage,18,0.00023,NA,NA,NA,1500,0.08,1.57402E-05,NA,straight,aligned,Liu2013
-PVDF,534000,Acetone/DMSO,,,,,xy stage,18,0.00023,NA,NA,NA,1200,0.07,1.69066E-05,NA,straight,aligned,Liu2013
-PVDF,534000,Acetone/DMSO,,,,,xy stage,18,0.00023,NA,NA,NA,1200,0.07,1.81483E-05,NA,straight,aligned,Liu2013
-PVDF,534000,Acetone/DMSO,,,,,xy stage,18,0.00023,NA,NA,NA,900,0.06,2.14259E-05,NA,straight,aligned,Liu2013
-PVDF,534000,Acetone/DMSO,,,,,xy stage,18,0.00023,NA,NA,NA,1200,0.05,0.000021585,NA,straight,aligned,Liu2013
-PVDF,534000,Acetone/DMSO,,,,,xy stage,18,0.00023,NA,NA,NA,1200,0.05,2.31133E-05,NA,straight,aligned,Liu2013
-PVDF,534000,Acetone/DMSO,,,,,xy stage,18,0.00023,NA,NA,NA,1500,0.08,2.33888E-05,NA,straight,aligned,Liu2013
-PVDF,534000,Acetone/DMSO,,,,,xy stage,18,0.00023,NA,NA,NA,1200,0.05,2.51191E-05,NA,straight,aligned,Liu2013
-PVDF,534000,Acetone/DMSO,,,,,xy stage,18,0.00023,NA,NA,NA,1200,0.03,2.60797E-05,NA,straight,aligned,Liu2013
-PVDF,534000,Acetone/DMSO,,,,,xy stage,18,0.00023,NA,NA,NA,1200,0.03,2.92281E-05,NA,straight,aligned,Liu2013
-PVDF,534000,Acetone/DMSO,,,,,xy stage,18,0.00023,NA,NA,NA,900,0.06,3.29788E-05,NA,straight,aligned,Liu2013
+PCL,80000,CF,0.056,0.00981,25,1215.525,xy stage,8.8,0.0002,2.778E-11,Si,0.07,25000,0.5,0.000000641,NA,meander,single,Lee2012
+PVDF,534000,CF/DMF,0.056,0.0001962,25,1215.525,xy stage,12,NA,2.2224E-11,Si,0.005,1200,0.03,6.32622E-05,NA,curved,mesh,Lei2015
+PVDF,534000,CF/DMF,0.056,0.0001962,25,1215.525,xy stage,12,NA,2.2224E-11,Si,0.005,1200,0.03,4.22588E-05,0.00026314,curved,mesh,Lei2015
+PVP,1300000,CF/DMF,0.056,0.0003924,25,1215.525,xy stage,17.4,0.00051,8.334E-11,Si/SiO2,0.001,50,0.8,0.000000176,NA,straight,mesh,Lim2019
+PVP,1300000,CF/DMF,0.056,0.0005886,25,1215.525,xy stage,17.4,0.00051,8.334E-11,Si/SiO2,0.001,50,0.8,0.000000156,NA,straight,mesh,Lim2019
+PVP,1300000,CF/DMF,0.056,0.0002943,25,1215.525,xy stage,17.4,0.00051,8.334E-11,Si/SiO2,0.001,50,0.8,0.000000148,NA,straight,mesh,Lim2019
+PVDF,534000,Acetone/DMSO,,,,,xy stage,18,0.0003,NA,NA,NA,900,0.06,8.95881E-05,NA,straight,aligned,Liu2013
+PVDF,534000,Acetone/DMSO,,,,,xy stage,18,0.0003,NA,NA,NA,900,0.06,7.95212E-05,NA,straight,aligned,Liu2013
+PVDF,534000,Acetone/DMSO,,,,,xy stage,18,0.0003,NA,NA,NA,900,0.06,7.59681E-05,NA,straight,aligned,Liu2013
+PVDF,534000,Acetone/DMSO,,,,,xy stage,18,0.00028,NA,NA,NA,900,0.06,6.70278E-05,NA,straight,aligned,Liu2013
+PVDF,534000,Acetone/DMSO,,,,,xy stage,18,0.00028,NA,NA,NA,900,0.06,6.28826E-05,NA,straight,aligned,Liu2013
+PVDF,534000,Acetone/DMSO,,,,,xy stage,18,0.00028,NA,NA,NA,900,0.06,5.07374E-05,NA,straight,aligned,Liu2013
 PVDF,534000,Acetone/DMSO,,,,,xy stage,18,0.00023,NA,NA,NA,1200,0.03,3.46761E-05,NA,straight,aligned,Liu2013
-PCL,50000,CF,,,,,xy stage,18.34997064,0.00025,NA,NA,NA,10000,0.005,0.0000334,NA,coil,single,Kolan2018
-PCL,50000,CF,,,,,xy stage,18.34997064,0.00025,NA,NA,NA,10000,0.005,0.0000422,NA,coil,single,Kolan2018
-PCL,50000,CF,,,,,xy stage,18.34997064,0.00025,NA,NA,NA,10000,0.0075,0.0000468,NA,coil,single,Kolan2018
-PCL,50000,CF,,,,,xy stage,18.34997064,0.00025,NA,NA,NA,10000,0.005,0.0000478,NA,coil,single,Kolan2018
-PCL,50000,CF,,,,,xy stage,18.34997064,0.00025,NA,NA,NA,10000,0.005,0.000048,NA,coil,single,Kolan2018
-PCL,50000,CF,,,,,xy stage,18.34997064,0.00025,NA,NA,NA,12000,0.0075,0.0000802,NA,coil,single,Kolan2018
-PCL,50000,CF,,,,,xy stage,18.34997064,0.00025,NA,NA,NA,8000,0.0075,0.0000872,NA,coil,single,Kolan2018
-PCL,50000,CF,,,,,xy stage,18.34997064,0.00025,NA,NA,NA,10000,0.0025,0.0000998,NA,coil,single,Kolan2018
-PCL,50000,CF,,,,,xy stage,18.34997064,0.00025,NA,NA,NA,6000,0.0075,0.000103,NA,coil,single,Kolan2018
-PEO,200000,Water/Ethanol,,,,,xy stage,14,0.00025,3E-12,Si,0.00525,1600,0.15,0.0000003,0.0003,meander,aligned,Nagle2019
-MEH-PPV/PEO,380000,toluene,,,,,xy stage,0.08,0.00026,1.389E-11,SiO2/Si,0.0005,1300,0.5,1.376E-07,0.0000884,straight,aligned,Camillo2013
-PEtOx,50000,NA,,,,,melt,NA,0.00026,NA,Al,0.005,3000,0.00333,3.77719E-05,NA,straight,cross aligned,Hochleitner2014
-PEtOx,50000,NA,,,,,melt,NA,0.00026,NA,Al,0.005,4000,0.00333,4.00863E-05,NA,straight,cross aligned,Hochleitner2014
-PEtOx,50000,NA,,,,,melt,NA,0.00026,NA,Al,0.006,5000,0.00333,4.06597E-05,NA,straight,cross aligned,Hochleitner2014
-PEtOx,50000,NA,,,,,melt,NA,0.00026,NA,Al,0.007,5000,0.00333,4.36442E-05,NA,straight,cross aligned,Hochleitner2014
-PEtOx,50000,NA,,,,,melt,NA,0.00026,NA,Al,0.005,5000,0.00333,4.37461E-05,NA,straight,cross aligned,Hochleitner2014
-PEtOx,50000,NA,,,,,melt,NA,0.00026,NA,Al,0.004,5000,0.00333,4.44267E-05,NA,straight,cross aligned,Hochleitner2014
-PEtOx,50000,NA,,,,,melt,NA,0.00026,NA,Al,0.005,5000,0.00333,0.00004447,NA,straight,cross aligned,Hochleitner2014
-PEtOx,50000,NA,,,,,melt,NA,0.00026,NA,Al,0.005,6500,0.00333,4.47279E-05,NA,straight,cross aligned,Hochleitner2014
-PEtOx,50000,NA,,,,,melt,NA,0.00026,NA,Al,0.005,6000,0.00333,4.54575E-05,NA,straight,cross aligned,Hochleitner2014
-PEtOx,50000,NA,,,,,melt,NA,0.00026,NA,Al,0.003,5000,0.00333,4.83509E-05,NA,straight,cross aligned,Hochleitner2014
-PVDF/MWCNT,534000,DMSO/Acetone,,,,,rotating drum,16,0.00026,NA,Si,0.001,NA,NA,0.0000005,NA,straight,cross aligned,Liu2015a
-PVDF,534000,DMSO/Acetone,,,,,rotating drum,20,0.00026,NA,Si,0.001,NA,NA,0.0000007,NA,straight,cross aligned,Liu2015a
-PVDF,534000,DMSO/Acetone,,,,,rotating drum,20,0.00026,NA,Si,0.001,NA,NA,0.000001,NA,straight,cross aligned,Liu2015a
-PVDF,534000,DMSO/Acetone,,,,,rotating drum,18,0.00026,NA,Si,0.001,NA,NA,0.0000012,NA,straight,cross aligned,Liu2015a
-PVDF,534000,DMSO/Acetone,,,,,xy stage,16,0.00026,1.6668E-11,Si,0.001,NA,0.07,0.0000013,NA,straight,cross aligned,Liu2015a
+PVDF,534000,Acetone/DMSO,,,,,xy stage,18,0.00023,NA,NA,NA,900,0.06,3.29788E-05,NA,straight,aligned,Liu2013
+PVDF,534000,Acetone/DMSO,,,,,xy stage,18,0.00023,NA,NA,NA,1200,0.03,2.92281E-05,NA,straight,aligned,Liu2013
+PVDF,534000,Acetone/DMSO,,,,,xy stage,18,0.00023,NA,NA,NA,1200,0.03,2.60797E-05,NA,straight,aligned,Liu2013
+PVDF,534000,Acetone/DMSO,,,,,xy stage,18,0.00023,NA,NA,NA,1200,0.05,2.51191E-05,NA,straight,aligned,Liu2013
+PVDF,534000,Acetone/DMSO,,,,,xy stage,18,0.00023,NA,NA,NA,1500,0.08,2.33888E-05,NA,straight,aligned,Liu2013
+PVDF,534000,Acetone/DMSO,,,,,xy stage,18,0.00023,NA,NA,NA,1200,0.05,2.31133E-05,NA,straight,aligned,Liu2013
+PVDF,534000,Acetone/DMSO,,,,,xy stage,18,0.00023,NA,NA,NA,1200,0.05,0.000021585,NA,straight,aligned,Liu2013
+PVDF,534000,Acetone/DMSO,,,,,xy stage,18,0.00023,NA,NA,NA,900,0.06,2.14259E-05,NA,straight,aligned,Liu2013
+PVDF,534000,Acetone/DMSO,,,,,xy stage,18,0.00023,NA,NA,NA,1200,0.07,1.81483E-05,NA,straight,aligned,Liu2013
+PVDF,534000,Acetone/DMSO,,,,,xy stage,18,0.00023,NA,NA,NA,1200,0.07,1.69066E-05,NA,straight,aligned,Liu2013
+PVDF,534000,Acetone/DMSO,,,,,xy stage,18,0.00023,NA,NA,NA,1500,0.08,1.57402E-05,NA,straight,aligned,Liu2013
+PVDF,534000,Acetone/DMSO,,,,,xy stage,18,0.00023,NA,NA,NA,1200,0.08,1.46484E-05,NA,straight,aligned,Liu2013
+PVDF,534000,Acetone/DMSO,,,,,xy stage,18,0.00023,NA,NA,NA,1200,0.07,1.43277E-05,NA,straight,aligned,Liu2013
+PVDF,534000,Acetone/DMSO,,,,,xy stage,16,0.00023,NA,NA,NA,900,0.08,1.42131E-05,NA,straight,aligned,Liu2013
+PVDF,534000,Acetone/DMSO,,,,,xy stage,18,0.00023,NA,NA,NA,1500,0.08,1.32819E-05,NA,straight,aligned,Liu2013
+PVDF,534000,Acetone/DMSO,,,,,xy stage,18,0.00023,NA,NA,NA,1200,0.08,1.30095E-05,NA,straight,aligned,Liu2013
+PVDF,534000,Acetone/DMSO,,,,,xy stage,18,0.00023,NA,NA,NA,1200,0.08,1.23949E-05,NA,straight,aligned,Liu2013
+PVDF,534000,Acetone/DMSO,,,,,xy stage,16,0.00023,NA,NA,NA,900,0.08,1.18887E-05,NA,straight,aligned,Liu2013
+PVDF,534000,Acetone/DMSO,,,,,xy stage,18,0.00023,NA,NA,NA,900,0.06,0.000011655,NA,straight,aligned,Liu2013
+PVDF,534000,Acetone/DMSO,,,,,xy stage,16,0.00023,NA,NA,NA,900,0.08,1.12748E-05,NA,straight,aligned,Liu2013
+PVDF,534000,Acetone/DMSO,,,,,xy stage,18,0.00023,NA,NA,NA,900,0.08,0.000010807,NA,straight,aligned,Liu2013
+PVDF,534000,Acetone/DMSO,,,,,xy stage,18,0.00023,NA,NA,NA,1200,0.09,1.06962E-05,NA,straight,aligned,Liu2013
+PVDF,534000,Acetone/DMSO,,,,,xy stage,18,0.00015,NA,NA,NA,900,0.06,1.05305E-05,NA,straight,aligned,Liu2013
+PVDF,534000,Acetone/DMSO,,,,,xy stage,18,0.00023,NA,NA,NA,1000,0.08,1.03234E-05,NA,straight,aligned,Liu2013
+PVDF,534000,Acetone/DMSO,,,,,xy stage,18,0.00023,NA,NA,NA,900,0.08,1.01491E-05,NA,straight,aligned,Liu2013
+PVDF,534000,Acetone/DMSO,,,,,xy stage,18,0.00023,NA,NA,NA,900,0.08,9.35973E-06,NA,straight,aligned,Liu2013
+PVDF,534000,Acetone/DMSO,,,,,xy stage,18,0.00023,NA,NA,NA,1000,0.08,9.2303E-06,NA,straight,aligned,Liu2013
+PVDF,534000,Acetone/DMSO,,,,,xy stage,18,0.00023,NA,NA,NA,800,0.08,9.00301E-06,NA,straight,aligned,Liu2013
+PVDF,534000,Acetone/DMSO,,,,,xy stage,18,0.00023,NA,NA,NA,1200,0.09,8.78225E-06,NA,straight,aligned,Liu2013
+PVDF,534000,Acetone/DMSO,,,,,xy stage,18,0.00023,NA,NA,NA,1000,0.08,8.68401E-06,NA,straight,aligned,Liu2013
+PVDF,534000,Acetone/DMSO,,,,,xy stage,18,0.00023,NA,NA,NA,800,0.08,0.000008047,NA,straight,aligned,Liu2013
+PVDF,534000,Acetone/DMSO,,,,,xy stage,18,0.00023,NA,NA,NA,800,0.08,7.43192E-06,NA,straight,aligned,Liu2013
+PVDF,534000,Acetone/DMSO,,,,,xy stage,18,0.00023,NA,NA,NA,1200,0.09,6.68091E-06,NA,straight,aligned,Liu2013
+PVDF,534000,Acetone/DMSO,,,,,xy stage,20,0.00023,NA,NA,NA,900,0.08,5.82091E-06,NA,straight,aligned,Liu2013
+PVDF,534000,Acetone/DMSO,,,,,xy stage,20,0.00023,NA,NA,NA,900,0.08,5.20805E-06,NA,straight,aligned,Liu2013
+PVDF,534000,Acetone/DMSO,,,,,xy stage,18,0.00015,NA,NA,NA,900,0.06,4.60877E-06,NA,straight,aligned,Liu2013
+PVDF,534000,Acetone/DMSO,,,,,xy stage,20,0.00023,NA,NA,NA,900,0.08,4.15439E-06,NA,straight,aligned,Liu2013
+PVDF,534000,Acetone/DMSO,,,,,xy stage,18,0.00015,NA,NA,NA,900,0.06,2.53615E-06,NA,straight,aligned,Liu2013
+PVDF,534000,DMSO/Acetone,,,,,rotating drum,18,0.000381,NA,Si,0.0005,10000,NA,1.45174E-06,NA,straight,cross aligned,Liu2014
+PVDF,534000,DMSO/Acetone,,,,,rotating drum,18,0.000381,NA,Si,0.0005,10000,NA,1.2795E-06,NA,straight,cross aligned,Liu2014
+PVDF,534000,DMSO/Acetone,,,,,rotating drum,18,0.000381,NA,Si,0.0005,12000,NA,1.20218E-06,NA,straight,cross aligned,Liu2014
+PVDF,534000,DMSO/Acetone,,,,,rotating drum,18,0.000381,NA,Si,0.0005,10000,NA,1.19911E-06,NA,straight,cross aligned,Liu2014
+PVDF,534000,DMSO/Acetone,,,,,rotating drum,18,0.000381,NA,Si,0.0005,10000,NA,1.18189E-06,NA,straight,cross aligned,Liu2014
+PVDF,534000,DMSO/Acetone,,,,,rotating drum,18,0.000381,NA,Si,0.0005,12000,NA,1.1639E-06,NA,straight,cross aligned,Liu2014
+PVDF,534000,DMSO/Acetone,,,,,rotating drum,18,0.000381,NA,Si,0.0005,10000,NA,1.10342E-06,NA,straight,cross aligned,Liu2014
+PVDF,534000,DMSO/Acetone,,,,,rotating drum,18,0.000381,NA,Si,0.0005,10000,NA,1.00773E-06,NA,straight,cross aligned,Liu2014
+PVDF,534000,DMSO/Acetone,,,,,rotating drum,18,0.000381,NA,Si,0.0005,12000,NA,1.00122E-06,NA,straight,cross aligned,Liu2014
+PVDF,534000,DMSO/Acetone,,,,,rotating drum,18,0.000381,NA,Si,0.0005,10000,NA,8.92893E-07,NA,straight,cross aligned,Liu2014
+PVDF,534000,DMSO/Acetone,,,,,rotating drum,18,0.000381,NA,Si,0.0005,12000,NA,8.67246E-07,NA,straight,cross aligned,Liu2014
+PVDF,534000,DMSO/Acetone,,,,,rotating drum,18,0.000381,NA,Si,0.0005,12000,NA,7.63896E-07,NA,straight,cross aligned,Liu2014
+PVDF,534000,DMSO/Acetone,,,,,rotating drum,18,0.000381,NA,Si,0.0005,12000,NA,7.33274E-07,NA,straight,cross aligned,Liu2014
+PVDF,534000,DMSO/Acetone,,,,,rotating drum,18,0.000381,NA,Si,0.0005,12000,NA,7.04566E-07,NA,straight,cross aligned,Liu2014
+PVDF,534000,DMSO/Acetone,,,,,rotating drum,18,0.000381,NA,Si,0.0005,14000,NA,6.8658E-07,NA,straight,cross aligned,Liu2014
+PVDF,534000,DMSO/Acetone,,,,,rotating drum,18,0.000381,NA,Si,0.0005,14000,NA,6.57872E-07,NA,straight,cross aligned,Liu2014
+PVDF,534000,DMSO/Acetone,,,,,rotating drum,18,0.000381,NA,Si,0.0005,14000,NA,6.36819E-07,NA,straight,cross aligned,Liu2014
+PVDF,534000,DMSO/Acetone,,,,,rotating drum,18,0.000381,NA,Si,0.0005,14000,NA,6.04283E-07,NA,straight,cross aligned,Liu2014
+PVDF,534000,DMSO/Acetone,,,,,rotating drum,18,0.000381,NA,Si,0.0005,14000,NA,5.25814E-07,NA,straight,cross aligned,Liu2014
+PVDF,534000,DMSO/Acetone,,,,,rotating drum,18,0.000381,NA,Si,0.0005,14000,NA,4.14809E-07,NA,straight,cross aligned,Liu2014
+PVDF,534000,DMSO/Acetone,,,,,rotating drum,18,0.000381,NA,Si,0.0005,16000,NA,3.949E-07,NA,straight,cross aligned,Liu2014
+PVDF,534000,DMSO/Acetone,,,,,rotating drum,18,0.000381,NA,Si,0.0005,16000,NA,3.75761E-07,NA,straight,cross aligned,Liu2014
+PVDF,534000,DMSO/Acetone,,,,,rotating drum,18,0.000381,NA,Si,0.0005,14000,NA,3.68876E-07,NA,straight,cross aligned,Liu2014
+PVDF,534000,DMSO/Acetone,,,,,rotating drum,18,0.000381,NA,Si,0.0005,16000,NA,3.58536E-07,NA,straight,cross aligned,Liu2014
+PVDF,534000,DMSO/Acetone,,,,,rotating drum,18,0.000381,NA,Si,0.0005,16000,NA,3.41311E-07,NA,straight,cross aligned,Liu2014
+PVDF,534000,DMSO/Acetone,,,,,rotating drum,18,0.000381,NA,Si,0.0005,16000,NA,3.24086E-07,NA,straight,cross aligned,Liu2014
+PVDF,534000,DMSO/Acetone,,,,,rotating drum,18,0.000381,NA,Si,0.0005,16000,NA,2.64756E-07,NA,straight,cross aligned,Liu2014
+PVDF,534000,DMSO/Acetone,,,,,rotating drum,18,0.000381,NA,Si,0.0005,16000,NA,2.05429E-07,NA,straight,cross aligned,Liu2014
+PVDF,534000,DMSO/Acetone,,,,,xy stage,18,0.00026,1.6668E-11,Si,0.001,NA,0.07,0.00002,NA,straight,cross aligned,Liu2015a
+PVDF/MWCNT,534000,DMSO/Acetone,,,,,xy stage,16,0.00026,1.6668E-11,Si,0.001,NA,0.07,0.000015,NA,straight,cross aligned,Liu2015a
+PVDF,534000,DMSO/Acetone,,,,,xy stage,18,0.00026,1.6668E-11,Si,0.001,NA,0.07,0.00001,NA,straight,cross aligned,Liu2015a
+PVDF/MWCNT,534000,DMSO/Acetone,,,,,xy stage,16,0.00026,1.6668E-11,Si,0.001,NA,0.07,0.00001,NA,straight,cross aligned,Liu2015a
+PVDF,534000,DMSO/Acetone,,,,,xy stage,20,0.00026,1.6668E-11,Si,0.001,NA,0.07,0.000009,NA,straight,cross aligned,Liu2015a
+PVDF,534000,DMSO/Acetone,,,,,xy stage,20,0.00026,1.6668E-11,Si,0.001,NA,0.07,0.000005,NA,straight,cross aligned,Liu2015a
+PVDF,534000,DMSO/Acetone,,,,,rotating drum,16,0.00026,NA,Si,0.001,NA,NA,0.0000025,NA,straight,cross aligned,Liu2015a
+PVDF/MWCNT,534000,DMSO/Acetone,,,,,rotating drum,16,0.00026,NA,Si,0.001,NA,NA,0.0000025,NA,straight,cross aligned,Liu2015a
 PVDF,534000,DMSO/Acetone,,,,,rotating drum,16,0.00026,NA,Si,0.001,NA,NA,0.000002,NA,straight,cross aligned,Liu2015a
 PVDF,534000,DMSO/Acetone,,,,,rotating drum,18,0.00026,NA,Si,0.001,NA,NA,0.000002,NA,straight,cross aligned,Liu2015a
 PVDF,534000,DMSO/Acetone,,,,,xy stage,16,0.00026,1.6668E-11,Si,0.001,NA,0.07,0.000002,NA,straight,cross aligned,Liu2015a
-PVDF,534000,DMSO/Acetone,,,,,rotating drum,16,0.00026,NA,Si,0.001,NA,NA,0.0000025,NA,straight,cross aligned,Liu2015a
-PVDF/MWCNT,534000,DMSO/Acetone,,,,,rotating drum,16,0.00026,NA,Si,0.001,NA,NA,0.0000025,NA,straight,cross aligned,Liu2015a
-PVDF,534000,DMSO/Acetone,,,,,xy stage,20,0.00026,1.6668E-11,Si,0.001,NA,0.07,0.000005,NA,straight,cross aligned,Liu2015a
-PVDF,534000,DMSO/Acetone,,,,,xy stage,20,0.00026,1.6668E-11,Si,0.001,NA,0.07,0.000009,NA,straight,cross aligned,Liu2015a
-PVDF,534000,DMSO/Acetone,,,,,xy stage,18,0.00026,1.6668E-11,Si,0.001,NA,0.07,0.00001,NA,straight,cross aligned,Liu2015a
-PVDF/MWCNT,534000,DMSO/Acetone,,,,,xy stage,16,0.00026,1.6668E-11,Si,0.001,NA,0.07,0.00001,NA,straight,cross aligned,Liu2015a
-PVDF/MWCNT,534000,DMSO/Acetone,,,,,xy stage,16,0.00026,1.6668E-11,Si,0.001,NA,0.07,0.000015,NA,straight,cross aligned,Liu2015a
-PVDF,534000,DMSO/Acetone,,,,,xy stage,18,0.00026,1.6668E-11,Si,0.001,NA,0.07,0.00002,NA,straight,cross aligned,Liu2015a
-PCL,80000,NA,,,,,xy stage,NA,0.00026,2.778E-12,PE,0.002,3000,NA,0.0000068,NA,meander,aligned,You2017
-PVDF,534000,Acetone/DMSO,,,,,xy stage,18,0.00028,NA,NA,NA,900,0.06,5.07374E-05,NA,straight,aligned,Liu2013
-PVDF,534000,Acetone/DMSO,,,,,xy stage,18,0.00028,NA,NA,NA,900,0.06,6.28826E-05,NA,straight,aligned,Liu2013
-PVDF,534000,Acetone/DMSO,,,,,xy stage,18,0.00028,NA,NA,NA,900,0.06,6.70278E-05,NA,straight,aligned,Liu2013
-PVDF,534000,Acetone/DMSO,,,,,xy stage,18,0.0003,NA,NA,NA,900,0.06,7.59681E-05,NA,straight,aligned,Liu2013
-PVDF,534000,Acetone/DMSO,,,,,xy stage,18,0.0003,NA,NA,NA,900,0.06,7.95212E-05,NA,straight,aligned,Liu2013
-PVDF,534000,Acetone/DMSO,,,,,xy stage,18,0.0003,NA,NA,NA,900,0.06,8.95881E-05,NA,straight,aligned,Liu2013
-PCL,45028,DMF,,,,,xy stage,70,0.00031,1.2101E-09,NA,NA,3900,0.2,0.000058705,NA,straight,single,Parajuli2016
-PCL,45028,DMF,,,,,xy stage,60,0.00031,1.2101E-09,NA,NA,3900,0.2,0.000064901,NA,straight,single,Parajuli2016
-PCL,45028,DMF,,,,,xy stage,50,0.00031,1.2101E-09,NA,NA,3350,0.2,0.000068554,NA,straight,single,Parajuli2016
-PCL,45028,DMF,,,,,xy stage,45,0.00031,0,NA,NA,3350,0.2,0.000070497,NA,straight,single,Parajuli2016
-PCL,45028,DMF,,,,,xy stage,25,0.00031,0,NA,NA,3350,0.2,0.000110404,NA,straight,single,Parajuli2016
-PCL,80000,DCM/Methanol,,,,,xy stage,8,0.000337,2.83356E-10,Al,NA,20000,NA,2.69899E-07,NA,straight,cross aligned,Beachley2011
-PCL,80000,DCM/Methanol,,,,,xy stage,8,0.000337,2.83356E-10,Al,NA,20000,NA,2.84748E-07,NA,straight,cross aligned,Beachley2011
-PCL,80000,DCM/Methanol,,,,,xy stage,8,0.000337,2.83356E-10,Al,NA,15000,NA,3.37781E-07,NA,straight,cross aligned,Beachley2011
-PCL,80000,DCM/Methanol,,,,,xy stage,8,0.000337,2.83356E-10,Al,NA,15000,NA,3.65358E-07,NA,straight,cross aligned,Beachley2011
-PCL,80000,DCM/Methanol,,,,,xy stage,11,0.000337,2.83356E-10,Al,NA,20000,NA,3.74268E-07,NA,straight,cross aligned,Beachley2011
-PCL,80000,DCM/Methanol,,,,,xy stage,11,0.000337,2.83356E-10,Al,NA,20000,NA,3.9336E-07,NA,straight,cross aligned,Beachley2011
-PCL,80000,DCM/Methanol,,,,,xy stage,11,0.000337,2.83356E-10,Al,NA,15000,NA,4.08209E-07,NA,straight,cross aligned,Beachley2011
-PCL,80000,DCM/Methanol,,,,,xy stage,8,0.000337,2.83356E-10,Al,NA,10000,NA,4.26876E-07,NA,straight,cross aligned,Beachley2011
-PCL,80000,DCM/Methanol,,,,,xy stage,11,0.000337,2.83356E-10,Al,NA,15000,NA,4.37907E-07,NA,straight,cross aligned,Beachley2011
-PCL,80000,DCM/Methanol,,,,,xy stage,11,0.000337,2.83356E-10,Al,NA,15000,NA,4.67606E-07,NA,straight,cross aligned,Beachley2011
-PCL,80000,DCM/Methanol,,,,,xy stage,17,0.000337,2.83356E-10,Al,NA,20000,NA,4.85442E-07,NA,straight,cross aligned,Beachley2011
-PCL,80000,DCM/Methanol,,,,,xy stage,11,0.000337,2.83356E-10,Al,NA,20000,NA,4.95183E-07,NA,straight,cross aligned,Beachley2011
-PCL,80000,DCM/Methanol,,,,,xy stage,11,0.000337,2.83356E-10,Al,NA,10000,NA,5.05789E-07,NA,straight,cross aligned,Beachley2011
-PCL,80000,DCM/Methanol,,,,,xy stage,11,0.000337,2.83356E-10,Al,NA,10000,NA,5.24881E-07,NA,straight,cross aligned,Beachley2011
-PCL,80000,DCM/Methanol,,,,,xy stage,8,0.000337,2.83356E-10,Al,NA,10000,NA,5.39306E-07,NA,straight,cross aligned,Beachley2011
-PCL,80000,DCM/Methanol,,,,,xy stage,14,0.000337,2.83356E-10,Al,NA,20000,NA,5.42276E-07,NA,straight,cross aligned,Beachley2011
-PCL,80000,DCM/Methanol,,,,,xy stage,14,0.000337,2.83356E-10,Al,NA,15000,NA,5.57125E-07,NA,straight,cross aligned,Beachley2011
-PCL,80000,DCM/Methanol,,,,,xy stage,14,0.000337,2.83356E-10,Al,NA,20000,NA,5.88945E-07,NA,straight,cross aligned,Beachley2011
-PCL,80000,DCM/Methanol,,,,,xy stage,17,0.000337,2.83356E-10,Al,NA,15000,NA,5.97854E-07,NA,straight,cross aligned,Beachley2011
-PCL,80000,DCM/Methanol,,,,,xy stage,14,0.000337,2.83356E-10,Al,NA,15000,NA,6.01673E-07,NA,straight,cross aligned,Beachley2011
-PCL,80000,DCM/Methanol,,,,,xy stage,14,0.000337,2.83356E-10,Al,NA,10000,NA,6.27129E-07,NA,straight,cross aligned,Beachley2011
-PCL,80000,DCM/Methanol,,,,,xy stage,17,0.000337,2.83356E-10,Al,NA,20000,NA,6.91192E-07,NA,straight,cross aligned,Beachley2011
-PCL,80000,DCM/Methanol,,,,,xy stage,17,0.000337,2.83356E-10,Al,NA,15000,NA,7.23012E-07,NA,straight,cross aligned,Beachley2011
-PCL,80000,DCM/Methanol,,,,,xy stage,8,0.000337,2.83356E-10,Al,NA,10000,NA,7.5568E-07,NA,straight,cross aligned,Beachley2011
-PCL,80000,DCM/Methanol,,,,,xy stage,17,0.000337,2.83356E-10,Al,NA,10000,NA,7.71819E-07,NA,straight,cross aligned,Beachley2011
-PCL,80000,DCM/Methanol,,,,,xy stage,14,0.000337,2.83356E-10,Al,NA,10000,NA,8.64716E-07,NA,straight,cross aligned,Beachley2011
-PCL,80000,DCM/Methanol,,,,,xy stage,20,0.000337,2.83356E-10,Al,NA,10000,NA,9.16476E-07,NA,straight,cross aligned,Beachley2011
-PCL,80000,DCM/Methanol,,,,,xy stage,17,0.000337,2.83356E-10,Al,NA,10000,NA,9.83934E-07,NA,straight,cross aligned,Beachley2011
-PCL,80000,DCM/Methanol,,,,,xy stage,20,0.000337,2.83356E-10,Al,NA,15000,NA,1.01406E-06,NA,straight,cross aligned,Beachley2011
-PCL,80000,DCM/Methanol,,,,,xy stage,17,0.000337,2.83356E-10,Al,NA,10000,NA,1.03272E-06,NA,straight,cross aligned,Beachley2011
-PCL,80000,DCM/Methanol,,,,,xy stage,17,0.000337,2.83356E-10,Al,NA,20000,NA,1.08153E-06,NA,straight,cross aligned,Beachley2011
-PCL,80000,DCM/Methanol,,,,,xy stage,14,0.000337,2.83356E-10,Al,NA,10000,NA,1.2211E-06,NA,straight,cross aligned,Beachley2011
-PCL,80000,DCM/Methanol,,,,,xy stage,20,0.000337,2.83356E-10,Al,NA,10000,NA,1.22407E-06,NA,straight,cross aligned,Beachley2011
-PCL,80000,DCM/Methanol,,,,,xy stage,20,0.000337,2.83356E-10,Al,NA,15000,NA,1.29619E-06,NA,straight,cross aligned,Beachley2011
-PCL,80000,DCM/Methanol,,,,,xy stage,20,0.000337,2.83356E-10,Al,NA,10000,NA,1.32589E-06,NA,straight,cross aligned,Beachley2011
-PEtOx,50000,NA,,,,,melt,NA,0.000337,NA,Al,0.005,7000,0.00333,0.000015016,NA,straight,cross aligned,Hochleitner2014
-PEtOx,50000,NA,,,,,melt,NA,0.000337,NA,Al,0.005,6000,0.00333,3.09265E-05,NA,straight,cross aligned,Hochleitner2014
-PEtOx,50000,NA,,,,,melt,NA,0.000337,NA,Al,0.005,5000,0.00333,4.67093E-05,NA,straight,cross aligned,Hochleitner2014
-PEtOx,50000,NA,,,,,melt,NA,0.000337,NA,Al,0.005,4000,0.00333,5.91054E-05,NA,straight,cross aligned,Hochleitner2014
-PLA/PEG,72000,NA,,,,,melt,NA,0.000337,NA,Si,0.0035,4000,0.08333,0.000031,NA,straight,mesh,Hochleitner2017
-PCL,80000,CF/DMF,,,,,aligned needles,10,0.000337,1.389E-10,Si,0.06,15000,NA,1.208E-07,NA,straight,randomly distributed,Sonntag2020
-PDO,NA,HFP,,,,,xy stage,14,0.00034,4.167E-12,Al,0.0025,1200,0.03,0.000003187,NA,straight,mesh,E.King2019
-PDO,NA,HFP,,,,,xy stage,18,0.00034,2.778E-12,Al,0.0018,1200,0.1,0.000003632,NA,straight,mesh,E.King2019
-PDO,NA,HFP,,,,,xy stage,16,0.00034,4.167E-12,Al,0.0025,1200,0.03,0.000003812,NA,straight,mesh,E.King2019
-PDO,NA,HFP,,,,,xy stage,18,0.00034,4.167E-12,Al,0.0025,1200,0.03,0.000003875,NA,straight,mesh,E.King2019
-PDO,NA,HFP,,,,,xy stage,16,0.00034,4.167E-12,Al,0.0018,1100,0.03,0.000004562,NA,straight,mesh,E.King2019
-PDO,NA,HFP,,,,,xy stage,16,0.00034,4.167E-12,Al,0.0018,1300,0.03,0.000004623,NA,straight,mesh,E.King2019
-PDO,NA,HFP,,,,,xy stage,20,0.00034,4.167E-12,Al,0.0025,1200,0.03,0.000004812,NA,straight,mesh,E.King2019
-PDO,NA,HFP,,,,,xy stage,16,0.00034,4.167E-12,Al,0.0018,1400,0.03,0.000004927,NA,straight,mesh,E.King2019
-PDO,NA,HFP,,,,,xy stage,16,0.00034,4.167E-12,Al,0.0018,1200,0.03,0.000005171,NA,straight,mesh,E.King2019
-PDO,NA,HFP,,,,,xy stage,18,0.00034,2.778E-12,Al,0.0018,1200,0.05,0.000005214,NA,straight,mesh,E.King2019
-PDO,NA,HFP,,,,,xy stage,16,0.00034,4.167E-12,Al,0.0018,1500,0.03,0.000005353,NA,straight,mesh,E.King2019
-PDO,NA,HFP,,,,,xy stage,16,0.00034,4.167E-12,Al,0.0018,1600,0.03,0.000005505,NA,straight,mesh,E.King2019
-PDO,NA,HFP,,,,,xy stage,22,0.00034,4.167E-12,Al,0.0025,1200,0.03,0.000005781,NA,straight,mesh,E.King2019
-PDO,NA,HFP,,,,,xy stage,18,0.00034,4.167E-12,Al,0.0018,1200,0.03,0.000005937,NA,straight,mesh,E.King2019
-PDO,NA,HFP,,,,,xy stage,18,0.00034,2.778E-12,Al,0.0018,1200,0.04,0.000006152,NA,straight,mesh,E.King2019
-PDO,NA,HFP,,,,,xy stage,18,0.00034,2.778E-12,Al,0.0018,1200,0.03,0.000006621,NA,straight,mesh,E.King2019
-PDO,NA,HFP,,,,,xy stage,18,0.00034,4.167E-12,Al,0.003,1300,0.03,0.000006718,NA,straight,mesh,E.King2019
-PDO,NA,HFP,,,,,xy stage,18,0.00034,4.167E-12,Al,0.0028,1300,0.03,0.000007343,NA,straight,mesh,E.King2019
-PDO,NA,HFP,,,,,xy stage,18,0.00034,4.167E-12,Al,0.0022,1300,0.03,0.000007656,NA,straight,mesh,E.King2019
-PDO,NA,HFP,,,,,xy stage,18,0.00034,4.167E-12,Al,0.0026,1300,0.03,0.000007656,NA,straight,mesh,E.King2019
-PDO,NA,HFP,,,,,xy stage,18,0.00034,4.167E-12,Al,0.0024,1300,0.03,0.000008124,NA,straight,mesh,E.King2019
-PDO,NA,HFP,,,,,xy stage,18,0.00034,2.778E-12,Al,0.0018,1200,0.02,0.000008144,NA,straight,mesh,E.King2019
-PDO,NA,HFP,,,,,xy stage,18,0.00034,4.167E-12,Al,0.002,1300,0.03,0.000008749,NA,straight,mesh,E.King2019
-PDO,NA,HFP,,,,,xy stage,18,0.00034,2.778E-12,Al,0.0018,1200,0.01,0.000010136,NA,straight,mesh,E.King2019
-PDO,NA,HFP,,,,,xy stage,18,0.00034,4.167E-12,Al,0.0018,1300,0.03,0.000012343,NA,straight,mesh,E.King2019
-PEO,NA,NA,,,,,rotating drum,8,0.00036,1.3334E-11,NA,NA,9500,NA,0.00000037,NA,straight,cross aligned,Sarkar2007
-PEO/SWCNT,NA,NA,,,,,rotating drum,8,0.00036,1.3334E-11,NA,NA,9300,NA,0.00000038,NA,straight,cross aligned,Sarkar2007
-PEO/Au NP,NA,NA,,,,,rotating drum,10,0.00036,1.6668E-11,NA,NA,9300,NA,0.00000039,NA,straight,cross aligned,Sarkar2007
-PEO/FeAl NP,NA,NA,,,,,rotating drum,6,0.00036,1.1668E-11,NA,NA,9500,NA,0.0000004,NA,straight,cross aligned,Sarkar2007
-PS,NA,NA,,,,,rotating drum,20,0.00036,1.0001E-11,NA,NA,11000,NA,0.00000041,NA,straight,cross aligned,Sarkar2007
-PIB,NA,NA,,,,,rotating drum,15,0.00036,2.0002E-11,NA,NA,12000,NA,0.00000042,NA,straight,cross aligned,Sarkar2007
-PVDF,534000,DMSO/Acetone,,,,,rotating drum,18,0.000381,NA,Si,0.0005,16000,NA,2.05429E-07,NA,straight,cross aligned,Liu2014
-PVDF,534000,DMSO/Acetone,,,,,rotating drum,18,0.000381,NA,Si,0.0005,16000,NA,2.64756E-07,NA,straight,cross aligned,Liu2014
-PVDF,534000,DMSO/Acetone,,,,,rotating drum,18,0.000381,NA,Si,0.0005,16000,NA,3.24086E-07,NA,straight,cross aligned,Liu2014
-PVDF,534000,DMSO/Acetone,,,,,rotating drum,18,0.000381,NA,Si,0.0005,16000,NA,3.41311E-07,NA,straight,cross aligned,Liu2014
-PVDF,534000,DMSO/Acetone,,,,,rotating drum,18,0.000381,NA,Si,0.0005,16000,NA,3.58536E-07,NA,straight,cross aligned,Liu2014
-PVDF,534000,DMSO/Acetone,,,,,rotating drum,18,0.000381,NA,Si,0.0005,14000,NA,3.68876E-07,NA,straight,cross aligned,Liu2014
-PVDF,534000,DMSO/Acetone,,,,,rotating drum,18,0.000381,NA,Si,0.0005,16000,NA,3.75761E-07,NA,straight,cross aligned,Liu2014
-PVDF,534000,DMSO/Acetone,,,,,rotating drum,18,0.000381,NA,Si,0.0005,16000,NA,3.949E-07,NA,straight,cross aligned,Liu2014
-PVDF,534000,DMSO/Acetone,,,,,rotating drum,18,0.000381,NA,Si,0.0005,14000,NA,4.14809E-07,NA,straight,cross aligned,Liu2014
-PVDF,534000,DMSO/Acetone,,,,,rotating drum,18,0.000381,NA,Si,0.0005,14000,NA,5.25814E-07,NA,straight,cross aligned,Liu2014
-PVDF,534000,DMSO/Acetone,,,,,rotating drum,18,0.000381,NA,Si,0.0005,14000,NA,6.04283E-07,NA,straight,cross aligned,Liu2014
-PVDF,534000,DMSO/Acetone,,,,,rotating drum,18,0.000381,NA,Si,0.0005,14000,NA,6.36819E-07,NA,straight,cross aligned,Liu2014
-PVDF,534000,DMSO/Acetone,,,,,rotating drum,18,0.000381,NA,Si,0.0005,14000,NA,6.57872E-07,NA,straight,cross aligned,Liu2014
-PVDF,534000,DMSO/Acetone,,,,,rotating drum,18,0.000381,NA,Si,0.0005,14000,NA,6.8658E-07,NA,straight,cross aligned,Liu2014
-PVDF,534000,DMSO/Acetone,,,,,rotating drum,18,0.000381,NA,Si,0.0005,12000,NA,7.04566E-07,NA,straight,cross aligned,Liu2014
-PVDF,534000,DMSO/Acetone,,,,,rotating drum,18,0.000381,NA,Si,0.0005,12000,NA,7.33274E-07,NA,straight,cross aligned,Liu2014
-PVDF,534000,DMSO/Acetone,,,,,rotating drum,18,0.000381,NA,Si,0.0005,12000,NA,7.63896E-07,NA,straight,cross aligned,Liu2014
-PVDF,534000,DMSO/Acetone,,,,,rotating drum,18,0.000381,NA,Si,0.0005,12000,NA,8.67246E-07,NA,straight,cross aligned,Liu2014
-PVDF,534000,DMSO/Acetone,,,,,rotating drum,18,0.000381,NA,Si,0.0005,10000,NA,8.92893E-07,NA,straight,cross aligned,Liu2014
-PVDF,534000,DMSO/Acetone,,,,,rotating drum,18,0.000381,NA,Si,0.0005,12000,NA,1.00122E-06,NA,straight,cross aligned,Liu2014
-PVDF,534000,DMSO/Acetone,,,,,rotating drum,18,0.000381,NA,Si,0.0005,10000,NA,1.00773E-06,NA,straight,cross aligned,Liu2014
-PVDF,534000,DMSO/Acetone,,,,,rotating drum,18,0.000381,NA,Si,0.0005,10000,NA,1.10342E-06,NA,straight,cross aligned,Liu2014
-PVDF,534000,DMSO/Acetone,,,,,rotating drum,18,0.000381,NA,Si,0.0005,12000,NA,1.1639E-06,NA,straight,cross aligned,Liu2014
-PVDF,534000,DMSO/Acetone,,,,,rotating drum,18,0.000381,NA,Si,0.0005,10000,NA,1.18189E-06,NA,straight,cross aligned,Liu2014
-PVDF,534000,DMSO/Acetone,,,,,rotating drum,18,0.000381,NA,Si,0.0005,10000,NA,1.19911E-06,NA,straight,cross aligned,Liu2014
-PVDF,534000,DMSO/Acetone,,,,,rotating drum,18,0.000381,NA,Si,0.0005,12000,NA,1.20218E-06,NA,straight,cross aligned,Liu2014
-PVDF,534000,DMSO/Acetone,,,,,rotating drum,18,0.000381,NA,Si,0.0005,10000,NA,1.2795E-06,NA,straight,cross aligned,Liu2014
-PVDF,534000,DMSO/Acetone,,,,,rotating drum,18,0.000381,NA,Si,0.0005,10000,NA,1.45174E-06,NA,straight,cross aligned,Liu2014
-PEO,300000,Water,,,,,xy stage,8,0.0004,NA,Si,0.0005,1100,0.2,0.00000074,0.00002,straight,single,Fuh2011
-PEO/Chitosan,900000,DMSO,,,,,xy stage,5,0.0004,2.8E-14,NA,0.0005,800,NA,2.81873E-07,0.0001,curved,aligned,Fuh2012
-PEO/Chitosan,900000,DMSO,,,,,xy stage,5,0.0004,2.8E-14,NA,0.0005,600,NA,3.1963E-07,0.0001,curved,aligned,Fuh2012
-PEO/Chitosan,900000,DMSO,,,,,xy stage,5,0.0004,2.8E-14,NA,0.0005,800,NA,4.15104E-07,0.0001,curved,aligned,Fuh2012
-PEO/Chitosan,900000,DMSO,,,,,xy stage,5,0.0004,2.8E-14,NA,0.001,800,NA,4.42403E-07,0.0001,curved,aligned,Fuh2012
-PEO/Chitosan,900000,DMSO,,,,,xy stage,5,0.0004,2.8E-14,NA,0.0015,800,NA,4.7148E-07,0.0001,curved,aligned,Fuh2012
-PEO/Chitosan,900000,DMSO,,,,,xy stage,5,0.0004,2.8E-14,NA,0.0005,1000,NA,5.81145E-07,0.0001,curved,aligned,Fuh2012
-PEO/Chitosan,900000,DMSO,,,,,xy stage,5,0.0004,2.8E-14,NA,0.0005,1200,NA,7.84928E-07,0.0001,curved,aligned,Fuh2012
-PCL,45028,DMF,,,,,xy stage,70,0.00041,1.2101E-09,NA,NA,3900,0.2,0.000063561,NA,straight,single,Parajuli2016
-PCL,45028,DMF,,,,,xy stage,60,0.00041,1.2101E-09,NA,NA,3900,0.2,0.000071607,NA,straight,single,Parajuli2016
-PCL,45028,DMF,,,,,xy stage,50,0.00041,1.2101E-09,NA,NA,3350,0.2,0.000074335,NA,straight,single,Parajuli2016
-PCL,45028,DMF,,,,,xy stage,45,0.00041,0,NA,NA,3350,0.2,0.00008067,NA,straight,single,Parajuli2016
-PCL,45028,DMF,,,,,xy stage,25,0.00041,0,NA,NA,3350,0.2,0.000124739,NA,straight,single,Parajuli2016
-PCL,90000,CF/DMF,,,,,xy stage,10,0.00041,1.6668E-11,Si/Al,0.001,2000,0.04,0.000007986,NA,straight,single,Zhou2011
-PCL,90000,CF/DMF,,,,,xy stage,10,0.00041,1.6668E-11,Si/Al,0.001,2000,0.045,0.000008054,NA,straight,single,Zhou2011
-PCL,90000,CF/DMF,,,,,xy stage,10,0.00041,8.334E-11,Si/Al,0.002,800,0.03,0.000016206,NA,straight,single,Zhou2011
-PCL,90000,CF/DMF,,,,,xy stage,10,0.00041,8.334E-11,Si/Al,0.003,800,0.03,0.000017283,NA,straight,single,Zhou2011
-PCL,90000,CF/DMF,,,,,xy stage,10,0.00041,1.6668E-11,Si/Al,0.001,2000,0.03,0.000018555,NA,straight,single,Zhou2011
-PCL,90000,CF/DMF,,,,,xy stage,10,0.00041,8.334E-12,Si/Al,0.002,4000,0.03,0.00003285,NA,straight,single,Zhou2011
-PCL,90000,CF/DMF,,,,,xy stage,10,0.00041,1.6668E-11,Si/Al,0.002,4000,0.03,0.000065668,NA,straight,single,Zhou2011
-PCL,90000,CF/DMF,,,,,xy stage,10,0.00041,4.167E-11,Si/Al,0.002,4000,0.03,0.000077595,NA,straight,single,Zhou2011
-PCL,90000,CF/DMF,,,,,xy stage,10,0.00041,5.0004E-11,Si/Al,0.002,4000,0.03,0.000079967,NA,straight,single,Zhou2011
-PCL,90000,CF/DMF,,,,,xy stage,10,0.00041,2.5002E-11,Si/Al,0.002,4000,0.03,0.00008976,NA,straight,single,Zhou2011
-PCL,90000,CF/DMF,,,,,xy stage,10,0.00041,8.334E-11,Si/Al,0.001,800,0.03,0.000091458,NA,straight,single,Zhou2011
-PS,240000,CF/DMF,,,,,xy stage,30,0.000455,0,Au,0.0002,2400,0.015,0.00000781,NA,straight,mesh,Yousefi2019
-PDO,NA,CF/DMF,,,,,xy stage,18,0.00051,9.362E-12,Al,0.0018,1200,0.03,0.000007968,NA,straight,mesh,E.King2019
-PVP,1300000,CF/DMF,,,,,xy stage,17.4,0.00051,8.334E-11,Si/SiO2,0.001,50,0.8,0.000000148,NA,straight,mesh,Lim2019
-PVP,1300000,CF/DMF,,,,,xy stage,17.4,0.00051,8.334E-11,Si/SiO2,0.001,50,0.8,0.000000156,NA,straight,mesh,Lim2019
-PVP,1300000,CF/DMF,,,,,xy stage,17.4,0.00051,8.334E-11,Si/SiO2,0.001,50,0.8,0.000000176,NA,straight,mesh,Lim2019
-PCL,50000,CF/DMF,,,,,melt,NA,0.000514,1.389E-12,NA,0.03,12000,0.005,8.98531E-06,NA,straight,single,Brown2011
-PCL,50000,CF/DMF,,,,,melt,NA,0.000514,1.389E-12,NA,0.03,12000,0.0045,8.99401E-06,NA,straight,single,Brown2011
-PCL,50000,CF/DMF,,,,,melt,NA,0.000514,1.389E-12,NA,0.03,12000,0.004,9.00213E-06,NA,straight,single,Brown2011
-PCL,50000,CF/DMF,,,,,melt,NA,0.000514,1.389E-11,NA,0.03,12000,0.005,1.05822E-05,NA,straight,single,Brown2011
-PCL,50000,CF/DMF,,,,,melt,NA,0.000514,1.389E-12,NA,0.03,12000,0.0035,1.06071E-05,NA,straight,single,Brown2011
-PCL,50000,CF/DMF,,,,,melt,NA,0.000514,1.389E-12,NA,0.03,12000,0.003,0.000010765,NA,straight,single,Brown2011
-PCL,50000,CF/DMF,,,,,melt,NA,0.000514,1.389E-12,NA,0.03,12000,0.0025,1.10725E-05,NA,straight,single,Brown2011
-PCL,50000,CF/DMF,,,,,melt,NA,0.000514,1.389E-12,NA,0.03,12000,0.002,1.14804E-05,NA,straight,single,Brown2011
-PCL,50000,CF/DMF,,,,,melt,NA,0.000514,1.389E-11,NA,0.03,12000,0.0045,1.18384E-05,NA,straight,single,Brown2011
-PCL,50000,CF/DMF,,,,,melt,NA,0.000514,1.389E-12,NA,0.03,12000,0.005,1.20793E-05,NA,straight,single,Brown2011
-PCL,50000,CF/DMF,,,,,melt,NA,0.000514,1.389E-12,NA,0.03,12000,0.001,1.27448E-05,NA,straight,single,Brown2011
-PCL,50000,CF/DMF,,,,,melt,NA,0.000514,1.389E-12,NA,0.03,12000,0.0015,1.28359E-05,NA,straight,single,Brown2011
-PCL,50000,CF/DMF,,,,,melt,NA,0.000514,1.389E-12,NA,0.03,12000,0.0005,1.36512E-05,NA,coil,single,Brown2011
-PCL,50000,CF/DMF,,,,,melt,NA,0.000514,1.389E-12,NA,0.03,12000,0.0045,1.39843E-05,NA,straight,single,Brown2011
-PCL,50000,CF/DMF,,,,,melt,NA,0.000514,1.389E-11,NA,0.03,12000,0.0045,1.39843E-05,NA,straight,single,Brown2011
-PCL,50000,CF/DMF,,,,,melt,NA,0.000514,1.389E-12,NA,0.03,12000,0.0002,1.43745E-05,NA,coil,single,Brown2011
-PCL,50000,CF/DMF,,,,,melt,NA,0.000514,1.389E-11,NA,0.03,12000,0.004,1.43916E-05,NA,straight,single,Brown2011
-PCL,50000,CF/DMF,,,,,melt,NA,0.000514,1.389E-11,NA,0.03,12000,0.005,1.44746E-05,NA,straight,single,Brown2011
-PCL,50000,CF/DMF,,,,,melt,NA,0.000514,1.389E-12,NA,0.03,12000,0.0001,1.45157E-05,NA,coil,single,Brown2011
-PCL,50000,CF/DMF,,,,,melt,NA,0.000514,1.389E-12,NA,0.03,12000,0.004,0.00001519,NA,straight,single,Brown2011
-PCL,50000,CF/DMF,,,,,melt,NA,0.000514,1.389E-11,NA,0.03,12000,0.0035,0.000015298,NA,straight,single,Brown2011
-PCL,50000,CF/DMF,,,,,melt,NA,0.000514,1.389E-11,NA,0.03,12000,0.004,1.57384E-05,NA,straight,single,Brown2011
-PCL,50000,CF/DMF,,,,,melt,NA,0.000514,1.389E-12,NA,0.03,12000,0.0035,1.61463E-05,NA,straight,single,Brown2011
-PCL,50000,CF/DMF,,,,,melt,NA,0.000514,1.389E-11,NA,0.03,12000,0.003,1.62542E-05,NA,straight,single,Brown2011
-PCL,50000,CF/DMF,,,,,melt,NA,0.000514,1.389E-12,NA,0.03,12000,0.003,1.68531E-05,NA,straight,single,Brown2011
-PCL,50000,CF/DMF,,,,,melt,NA,0.000514,1.389E-12,NA,0.03,12000,0.005,1.68699E-05,NA,straight,single,Brown2011
-PCL,50000,CF/DMF,,,,,melt,NA,0.000514,1.389E-11,NA,0.03,12000,0.0025,1.70608E-05,NA,straight,single,Brown2011
-PCL,50000,CF/DMF,,,,,melt,NA,0.000514,1.389E-11,NA,0.03,12000,0.005,1.70695E-05,NA,straight,single,Brown2011
-PCL,50000,CF/DMF,,,,,melt,NA,0.000514,1.389E-12,NA,0.03,12000,0.0025,1.76097E-05,NA,straight,single,Brown2011
-PCL,50000,CF/DMF,,,,,melt,NA,0.000514,1.389E-11,NA,0.03,12000,0.002,1.76683E-05,NA,straight,single,Brown2011
-PCL,50000,CF/DMF,,,,,melt,NA,0.000514,1.389E-11,NA,0.03,12000,0.0035,1.77931E-05,NA,straight,single,Brown2011
-PCL,50000,CF/DMF,,,,,melt,NA,0.000514,1.389E-12,NA,0.03,12000,0.0045,0.000018226,NA,straight,single,Brown2011
-PCL,50000,CF/DMF,,,,,melt,NA,0.000514,1.389E-11,NA,0.03,12000,0.001,1.82341E-05,NA,straight,single,Brown2011
-PCL,50000,CF/DMF,,,,,melt,NA,0.000514,1.389E-11,NA,0.03,12000,0.0045,1.82759E-05,NA,straight,single,Brown2011
-PCL,50000,CF/DMF,,,,,melt,NA,0.000514,1.389E-11,NA,0.03,12000,0.0015,1.83252E-05,NA,straight,single,Brown2011
-PCL,50000,CF/DMF,,,,,melt,NA,0.000514,1.389E-11,NA,0.03,12000,0.0005,0.00001939,NA,coil,single,Brown2011
-PCL,50000,CF/DMF,,,,,melt,NA,0.000514,1.389E-12,NA,0.03,12000,0.004,1.94318E-05,NA,straight,single,Brown2011
-PCL,50000,CF/DMF,,,,,melt,NA,0.000514,1.389E-11,NA,0.03,12000,0.003,1.96476E-05,NA,straight,single,Brown2011
-PCL,50000,CF/DMF,,,,,melt,NA,0.000514,1.389E-11,NA,0.03,12000,0.0002,2.00634E-05,NA,coil,single,Brown2011
-PCL,50000,CF/DMF,,,,,melt,NA,0.000514,1.389E-11,NA,0.03,12000,0.0001,2.03044E-05,NA,coil,single,Brown2011
-PCL,50000,CF/DMF,,,,,melt,NA,0.000514,1.389E-12,NA,0.03,12000,0.0035,2.04379E-05,NA,straight,single,Brown2011
-PCL,50000,CF/DMF,,,,,melt,NA,0.000514,1.389E-11,NA,0.03,12000,0.0025,2.14029E-05,NA,straight,single,Brown2011
-PCL,50000,CF/DMF,,,,,melt,NA,0.000514,1.389E-12,NA,0.03,12000,0.003,2.15439E-05,NA,straight,single,Brown2011
-PCL,50000,CF/DMF,,,,,melt,NA,0.000514,1.389E-11,NA,0.03,12000,0.004,2.15776E-05,NA,straight,single,Brown2011
-PCL,50000,CF/DMF,,,,,melt,NA,0.000514,1.389E-12,NA,0.03,12000,0.0025,2.27996E-05,NA,straight,single,Brown2011
-PCL,50000,CF/DMF,,,,,melt,NA,0.000514,1.389E-11,NA,0.03,12000,0.002,2.31077E-05,NA,straight,single,Brown2011
-PCL,50000,CF/DMF,,,,,melt,NA,0.000514,1.389E-11,NA,0.03,12000,0.0035,2.31826E-05,NA,straight,single,Brown2011
-PCL,50000,CF/DMF,,,,,melt,NA,0.000514,1.389E-12,NA,0.03,12000,0.002,2.38063E-05,NA,straight,single,Brown2011
-PCL,50000,CF/DMF,,,,,melt,NA,0.000514,1.389E-12,NA,0.03,12000,0.0015,2.40141E-05,NA,straight,single,Brown2011
-PCL,50000,CF/DMF,,,,,melt,NA,0.000514,1.389E-11,NA,0.03,12000,0.003,2.44882E-05,NA,straight,single,Brown2011
-PCL,50000,CF/DMF,,,,,melt,NA,0.000514,1.389E-12,NA,0.03,12000,0.001,2.45717E-05,NA,straight,single,Brown2011
-PCL,50000,CF/DMF,,,,,melt,NA,0.000514,1.389E-12,NA,0.03,12000,0.0015,2.49622E-05,NA,straight,single,Brown2011
-PCL,50000,CF/DMF,,,,,melt,NA,0.000514,1.389E-11,NA,0.03,12000,0.0015,2.49622E-05,NA,straight,single,Brown2011
-PCL,50000,CF/DMF,,,,,melt,NA,0.000514,1.389E-12,NA,0.03,12000,0.001,2.59191E-05,NA,straight,single,Brown2011
-PCL,50000,CF/DMF,,,,,melt,NA,0.000514,1.389E-12,NA,0.03,12000,0.0005,2.59272E-05,NA,coil,single,Brown2011
-PCL,50000,CF/DMF,,,,,melt,NA,0.000514,1.389E-11,NA,0.03,12000,0.0025,2.64924E-05,NA,straight,single,Brown2011
-PCL,50000,CF/DMF,,,,,melt,NA,0.000514,1.389E-11,NA,0.03,12000,0.001,2.74162E-05,NA,straight,single,Brown2011
-PCL,50000,CF/DMF,,,,,melt,NA,0.000514,1.389E-12,NA,0.03,12000,0.0005,0.000028572,NA,coil,single,Brown2011
-PCL,50000,CF/DMF,,,,,melt,NA,0.000514,1.389E-11,NA,0.03,12000,0.002,2.86968E-05,NA,straight,single,Brown2011
-PCL,50000,CF/DMF,,,,,melt,NA,0.000514,1.389E-11,NA,0.03,12000,0.0005,2.97697E-05,NA,coil,single,Brown2011
-PCL,50000,CF/DMF,,,,,melt,NA,0.000514,1.389E-11,NA,0.03,12000,0.0015,2.98028E-05,NA,straight,single,Brown2011
-PCL,50000,CF/DMF,,,,,melt,NA,0.000514,1.389E-12,NA,0.03,12000,0.0002,3.07426E-05,NA,coil,single,Brown2011
-PCL,50000,CF/DMF,,,,,melt,NA,0.000514,1.389E-12,NA,0.03,12000,0.0002,3.19402E-05,NA,coil,single,Brown2011
-PCL,50000,CF/DMF,,,,,melt,NA,0.000514,1.389E-11,NA,0.03,12000,0.001,3.22068E-05,NA,straight,single,Brown2011
-PCL,50000,CF/DMF,,,,,melt,NA,0.000514,1.389E-11,NA,0.03,12000,0.0005,3.36621E-05,NA,coil,single,Brown2011
-PCL,50000,CF/DMF,,,,,melt,NA,0.000514,1.389E-11,NA,0.03,12000,0.0002,3.51839E-05,NA,coil,single,Brown2011
-PCL,50000,CF/DMF,,,,,melt,NA,0.000514,1.389E-12,NA,0.03,12000,0.0001,3.61234E-05,NA,coil,single,Brown2011
-PCL,50000,CF/DMF,,,,,melt,NA,0.000514,1.389E-11,NA,0.03,12000,0.0002,3.64314E-05,NA,coil,single,Brown2011
-PCL,50000,CF/DMF,,,,,melt,NA,0.000514,1.389E-12,NA,0.03,12000,0.0001,3.76704E-05,NA,coil,single,Brown2011
-PCL,50000,CF/DMF,,,,,melt,NA,0.000514,1.389E-11,NA,0.03,12000,0.0001,4.44073E-05,NA,coil,single,Brown2011
-PCL,50000,CF/DMF,,,,,melt,NA,0.000514,1.389E-11,NA,0.03,12000,0.0001,4.64533E-05,NA,coil,single,Brown2011
-PCL,45028,CF/DMF,,,,,xy stage,70,0.0006,1.2101E-09,NA,NA,3900,0.2,0.000070497,NA,straight,single,Parajuli2016
-PCL,45028,CF/DMF,,,,,xy stage,60,0.0006,1.2101E-09,NA,NA,3900,0.2,0.000078312,NA,straight,single,Parajuli2016
-PCL,45028,CF/DMF,,,,,xy stage,50,0.0006,1.2101E-09,NA,NA,3350,0.2,0.000085895,NA,straight,single,Parajuli2016
-PCL,45028,CF/DMF,,,,,xy stage,45,0.0006,0,NA,NA,3350,0.2,0.000092231,NA,straight,single,Parajuli2016
-PCL,45028,CF/DMF,,,,,xy stage,25,0.0006,0,NA,NA,3350,0.2,0.000131445,NA,straight,single,Parajuli2016
-PVDF,534000,CF/DMF,,,,,coaxial,15,0.00063,NA,Cu,NA,NA,NA,2.53041E-05,NA,straight,aligned,Pan2015
-PVDF,534000,CF/DMF,,,,,coaxial,16,0.00063,NA,Cu,NA,NA,NA,2.27027E-05,NA,straight,aligned,Pan2015
-PVDF,534000,CF/DMF,,,,,coaxial,17,0.00063,NA,Cu,NA,NA,NA,1.86824E-05,NA,straight,aligned,Pan2015
-PVDF,534000,CF/DMF,,,,,coaxial,18,0.00063,NA,Cu,NA,NA,NA,0.000013125,NA,straight,aligned,Pan2015
-PVDF,534000,CF/DMF,,,,,coaxial,19,0.00063,NA,Cu,NA,NA,NA,1.04054E-05,NA,straight,aligned,Pan2015
-PVDF,534000,CF/DMF,,,,,coaxial,NA,0.00063,NA,Cu,NA,8000,NA,0.000025976,NA,straight,aligned,Pan2015
-PVDF,534000,CF/DMF,,,,,coaxial,NA,0.00063,NA,Cu,NA,10000,NA,2.12886E-05,NA,straight,aligned,Pan2015
-PVDF,534000,CF/DMF,,,,,coaxial,NA,0.00063,NA,Cu,NA,12000,NA,0.000013068,NA,straight,aligned,Pan2015
-PVDF,534000,CF/DMF,,,,,coaxial,NA,0.00063,NA,Cu,NA,14000,NA,1.20696E-05,NA,straight,aligned,Pan2015
-PVDF,534000,CF/DMF,,,,,coaxial,NA,0.00063,NA,Cu,NA,16000,NA,1.08416E-05,NA,straight,aligned,Pan2015
-PVDF,534000,CF/DMF,,,,,coaxial,NA,0.00063,NA,Cu,NA,NA,0.5305702,4.59304E-05,NA,straight,aligned,Pan2015
-PVDF,534000,CF/DMF,,,,,coaxial,NA,0.00063,NA,Cu,NA,NA,1.052856708,2.58114E-05,NA,straight,aligned,Pan2015
-PVDF,534000,CF/DMF,,,,,coaxial,NA,0.00063,NA,Cu,NA,NA,1.572431152,1.25857E-05,NA,straight,aligned,Pan2015
-PVDF,534000,CF/DMF,,,,,coaxial,NA,0.00063,NA,Cu,NA,NA,2.096811183,1.03036E-05,NA,straight,aligned,Pan2015
-PVDF,534000,CF/DMF,,,,,coaxial,NA,0.00063,NA,Cu,NA,NA,2.621381535,9.64296E-06,NA,straight,aligned,Pan2015
-PCL,80000,CF/DMF,,,,,melt,NA,0.000718,1.389E-12,Al,0.02,10000,NA,4.76266E-06,NA,coil,randomly distributed,Brown2014
-PCL,80000,CF/DMF,,,,,melt,NA,0.000718,1.389E-12,Al,0.02,8000,NA,5.53798E-06,NA,coil,randomly distributed,Brown2014
-PCL,80000,CF/DMF,,,,,melt,NA,0.000718,1.389E-12,Al,0.03,12000,NA,5.53798E-06,NA,coil,randomly distributed,Brown2014
-PCL,80000,CF/DMF,,,,,melt,NA,0.000718,1.389E-12,Al,0.03,10000,NA,5.64873E-06,NA,coil,randomly distributed,Brown2014
-PCL,80000,CF/DMF,,,,,melt,NA,0.000718,1.389E-12,Al,0.03,8000,NA,5.87025E-06,NA,coil,randomly distributed,Brown2014
-PCL,80000,CF/DMF,,,,,melt,NA,0.000718,1.389E-12,Al,0.04,12000,NA,5.87025E-06,NA,coil,randomly distributed,Brown2014
-PCL,80000,CF/DMF,,,,,melt,NA,0.000718,1.389E-12,Al,0.04,10000,NA,6.20253E-06,NA,coil,randomly distributed,Brown2014
-PCL,80000,CF/DMF,,,,,melt,NA,0.000718,1.389E-12,Al,0.02,6000,NA,6.53481E-06,NA,coil,randomly distributed,Brown2014
-PCL,80000,CF/DMF,,,,,melt,NA,0.000718,1.389E-12,Al,0.04,8000,NA,6.86709E-06,NA,coil,randomly distributed,Brown2014
-PCL,80000,CF/DMF,,,,,melt,NA,0.000718,1.389E-12,Al,0.03,6000,NA,7.08861E-06,NA,coil,randomly distributed,Brown2014
-PCL,80000,CF/DMF,,,,,melt,NA,0.000718,1.389E-12,Al,0.02,4000,NA,7.97468E-06,NA,coil,randomly distributed,Brown2014
-PCL,80000,CF/DMF,,,,,melt,NA,0.000718,1.389E-12,Al,0.04,6000,NA,7.97468E-06,NA,coil,randomly distributed,Brown2014
-PCL,80000,CF/DMF,,,,,melt,NA,0.000718,1.389E-12,Al,0.03,4000,NA,8.41772E-06,NA,coil,randomly distributed,Brown2014
-PCL,80000,CF/DMF,,,,,melt,NA,0.000718,1.389E-12,Al,0.04,4000,NA,9.96835E-06,NA,coil,randomly distributed,Brown2014
-PCL,80001,CF/DMF,,,,,melt,NA,0.000719,2.778E-12,Al,0.02,6000,NA,1.39557E-05,NA,coil,randomly distributed,Brown2014
-PCL,80002,CF/DMF,,,,,melt,NA,0.00072,2.778E-12,Al,0.02,8000,NA,1.26266E-05,NA,coil,randomly distributed,Brown2014
-PCL,80003,CF/DMF,,,,,melt,NA,0.000721,2.778E-12,Al,0.02,10000,NA,1.11867E-05,NA,coil,randomly distributed,Brown2014
-PCL,80004,CF/DMF,,,,,melt,NA,0.000722,2.778E-12,Al,0.02,12000,NA,1.04114E-05,NA,coil,randomly distributed,Brown2014
-PCL,80005,CF/DMF,,,,,melt,NA,0.000723,2.778E-12,Al,0.03,6000,NA,1.50633E-05,NA,coil,randomly distributed,Brown2014
-PCL,80006,CF/DMF,,,,,melt,NA,0.000724,2.778E-12,Al,0.03,8000,NA,1.30696E-05,NA,coil,randomly distributed,Brown2014
-PCL,80007,CF/DMF,,,,,melt,NA,0.000725,2.778E-12,Al,0.03,10000,NA,1.20728E-05,NA,coil,randomly distributed,Brown2014
-PCL,80008,CF/DMF,,,,,melt,NA,0.000726,2.778E-12,Al,0.03,12000,NA,1.05222E-05,NA,coil,randomly distributed,Brown2014
-PCL,80009,CF/DMF,,,,,melt,NA,0.000727,2.778E-12,Al,0.04,6000,NA,1.57278E-05,NA,coil,randomly distributed,Brown2014
-PCL,80010,CF/DMF,,,,,melt,NA,0.000728,2.778E-12,Al,0.04,8000,NA,1.36234E-05,NA,coil,randomly distributed,Brown2014
-PCL,80011,CF/DMF,,,,,melt,NA,0.000729,2.778E-12,Al,0.04,10000,NA,1.21835E-05,NA,coil,randomly distributed,Brown2014
-PCL,80012,CF/DMF,,,,,melt,NA,0.00073,2.778E-12,Al,0.04,12000,NA,1.16297E-05,NA,coil,randomly distributed,Brown2014
-PCL,80013,CF/DMF,,,,,melt,NA,0.000731,2.778E-12,Al,0.06,6000,NA,0.000014288,NA,coil,randomly distributed,Brown2014
-PCL,80014,CF/DMF,,,,,melt,NA,0.000732,2.778E-12,Al,0.06,8000,NA,1.22943E-05,NA,coil,randomly distributed,Brown2014
-PCL,80015,CF/DMF,,,,,melt,NA,0.000733,2.778E-12,Al,0.06,10000,NA,1.16297E-05,NA,coil,randomly distributed,Brown2014
-PCL,80016,CF/DMF,,,,,melt,NA,0.000734,2.778E-12,Al,0.06,12000,NA,1.14082E-05,NA,coil,randomly distributed,Brown2014
-PCL,80017,CF/DMF,,,,,melt,NA,0.000735,5.556E-12,Al,0.02,6000,NA,2.65823E-05,NA,coil,randomly distributed,Brown2014
-PCL,80018,CF/DMF,,,,,melt,NA,0.000736,5.556E-12,Al,0.02,8000,NA,2.23734E-05,NA,coil,randomly distributed,Brown2014
-PCL,80019,CF/DMF,,,,,melt,NA,0.000737,5.556E-12,Al,0.02,10000,NA,2.10443E-05,NA,coil,randomly distributed,Brown2014
-PCL,80020,CF/DMF,,,,,melt,NA,0.000738,5.556E-12,Al,0.02,12000,NA,1.82753E-05,NA,coil,randomly distributed,Brown2014
-PCL,80021,CF/DMF,,,,,melt,NA,0.000739,5.556E-12,Al,0.03,6000,NA,2.91297E-05,NA,coil,randomly distributed,Brown2014
-PCL,80022,CF/DMF,,,,,melt,NA,0.00074,5.556E-12,Al,0.03,8000,NA,2.03797E-05,NA,coil,randomly distributed,Brown2014
-PCL,80023,CF/DMF,,,,,melt,NA,0.000741,5.556E-12,Al,0.03,10000,NA,1.91614E-05,NA,coil,randomly distributed,Brown2014
-PCL,80024,CF/DMF,,,,,melt,NA,0.000742,5.556E-12,Al,0.03,12000,NA,1.81646E-05,NA,coil,randomly distributed,Brown2014
-PCL,80025,CF/DMF,,,,,melt,NA,0.000743,5.556E-12,Al,0.04,6000,NA,3.30063E-05,NA,coil,randomly distributed,Brown2014
-PCL,80026,CF/DMF,,,,,melt,NA,0.000744,5.556E-12,Al,0.04,8000,NA,2.31487E-05,NA,coil,randomly distributed,Brown2014
-PCL,80027,CF/DMF,,,,,melt,NA,0.000745,5.556E-12,Al,0.04,10000,NA,1.99367E-05,NA,coil,randomly distributed,Brown2014
-PCL,80028,CF/DMF,,,,,melt,NA,0.000746,5.556E-12,Al,0.04,12000,NA,1.12975E-05,NA,coil,randomly distributed,Brown2014
-PCL,80029,CF/DMF,,,,,melt,NA,0.000747,5.556E-12,Al,0.06,8000,NA,2.20411E-05,NA,coil,randomly distributed,Brown2014
-PCL,80030,CF/DMF,,,,,melt,NA,0.000748,5.556E-12,Al,0.06,10000,NA,1.39557E-05,NA,coil,randomly distributed,Brown2014
-PCL,80031,CF/DMF,,,,,melt,NA,0.000749,5.556E-12,Al,0.06,12000,NA,1.16297E-05,NA,coil,randomly distributed,Brown2014
-POSS-PCU,2000,CF/DMF,,,,,xy stage,20,0.00075,1.6668E-11,NA,0.0005,9000,0.01,0.000018671,0.000352,meander,mesh,Gupta2007
-POSS-PCL-PCU,2000,CF/DMF,,,,,xy stage,20,0.00075,1.6668E-11,NA,0.0005,9000,0.01,0.000069045,0.00048,meander,mesh,Gupta2007
-PDO,NA,CF/DMF,,,,,xy stage,18,0.00084,2.5446E-11,Al,0.0018,1200,0.03,0.000025156,NA,straight,mesh,E.King2019
-PCL,80000,CF/DMF,,,,,xy stage,NA,0.000912,NA,NA,0.005,3000,0.05,0.0001083,0.001,straight,mesh,He2018
-PCL,80000,CF/DMF,,,,,xy stage,NA,0.000912,NA,NA,0.005,3000,0.05,0.0001268,0.001,straight,mesh,He2018
-PCL,80000,CF/DMF,,,,,xy stage,NA,0.000912,NA,NA,0.005,3000,0.05,0.0001505,0.001,straight,mesh,He2018
-PLGA,33000,CF/DMF,,,,,xy stage,20,0.00109,8.334E-10,NA,0.2,23700.36147,NA,1.66881E-06,NA,curved,randomly distributed,Husain2016
-PLGA,33000,CF/DMF,,,,,xy stage,20,0.00109,8.334E-10,NA,0.2,20741.56131,NA,1.7109E-06,NA,curved,randomly distributed,Husain2016
-PLGA,33000,CF/DMF,,,,,xy stage,20,0.00109,8.334E-10,NA,0.2,15000,NA,1.77049E-06,NA,curved,randomly distributed,Husain2016
-PLGA,33000,CF/DMF,,,,,xy stage,20,0.00109,8.334E-10,NA,0.2,15769.23769,NA,1.80525E-06,NA,curved,randomly distributed,Husain2016
-PLGA,33000,CF/DMF,,,,,xy stage,20,0.00109,8.334E-10,NA,0.15,23812.25385,NA,1.94621E-06,NA,curved,randomly distributed,Husain2016
-PLGA,33000,CF/DMF,,,,,xy stage,25,0.00109,8.334E-10,NA,0.15,15210.78663,NA,1.9494E-06,NA,curved,randomly distributed,Husain2016
-PLGA,33000,CF/DMF,,,,,xy stage,25,0.00109,8.334E-10,NA,0.15,20222.66329,NA,2.01377E-06,NA,curved,randomly distributed,Husain2016
-PLGA,33000,CF/DMF,,,,,xy stage,20,0.00109,8.334E-10,NA,0.15,20915.81995,NA,2.14291E-06,NA,curved,randomly distributed,Husain2016
-PLGA,33000,CF/DMF,,,,,xy stage,25,0.00109,8.334E-10,NA,0.15,25289.84823,NA,2.41002E-06,NA,curved,randomly distributed,Husain2016
-PLGA,33000,CF/DMF,,,,,xy stage,20,0.00109,8.334E-10,NA,0.15,16068.22882,NA,2.5465E-06,NA,curved,randomly distributed,Husain2016
-PLGA,33000,CF/DMF,,,,,xy stage,25,0.00109,8.334E-10,NA,0.2,25332.23016,NA,2.81426E-06,NA,curved,randomly distributed,Husain2016
-PLGA,33000,CF/DMF,,,,,xy stage,25,0.00109,8.334E-10,NA,0.2,20327.0367,NA,3.00929E-06,NA,curved,randomly distributed,Husain2016
-PLGA,33000,CF/DMF,,,,,xy stage,25,0.00109,8.334E-10,NA,0.2,15000,NA,3.23417E-06,NA,curved,randomly distributed,Husain2016
-PLGA,33000,CF/DMF,,,,,xy stage,25,0.00109,8.334E-10,NA,0.2,15349.31862,NA,3.27073E-06,NA,curved,randomly distributed,Husain2016
-PLGA,33000,CF/DMF,,,,,xy stage,2,0.00109,8.334E-10,NA,0.2,15000,NA,4.36377E-06,NA,curved,randomly distributed,Husain2016
-PLGA,33000,CF/DMF,,,,,xy stage,4,0.00109,8.334E-10,NA,0.2,15000,NA,4.56482E-06,NA,curved,randomly distributed,Husain2016
-PLGA,33000,CF/DMF,,,,,xy stage,10,0.00109,8.334E-10,NA,0.2,15000,NA,5.74416E-06,NA,curved,randomly distributed,Husain2016
-PLGA,33000,CF/DMF,,,,,xy stage,15,0.00109,8.334E-10,NA,0.2,15000,NA,8.94519E-06,NA,curved,randomly distributed,Husain2016
-PVDF,534000,CF/DMF,,,,,xy stage,18,NA,NA,NA,0.00035,NA,NA,0.00000107,NA,straight,single,Chang2010
-PVDF,534000,CF/DMF,,,,,xy stage,18,NA,NA,NA,0.00035,NA,NA,0.00000146,NA,straight,single,Chang2010
-PVDF,534000,CF/DMF,,,,,xy stage,18,NA,NA,NA,0.00035,NA,NA,0.00000181,NA,straight,single,Chang2010
-PVDF,534000,CF/DMF,,,,,xy stage,18,NA,NA,NA,0.00035,NA,NA,0.00000216,NA,straight,single,Chang2010
-PVDF,534000,CF/DMF,,,,,xy stage,18,NA,NA,NA,0.00035,NA,NA,0.00000613,NA,straight,aligned,Chang2011
-PVDF,534000,CF/DMF,,,,,xy stage,18,NA,NA,NA,0.00035,NA,NA,0.00000766,NA,straight,aligned,Chang2011
-PVDF,534000,CF/DMF,,,,,xy stage,18,NA,NA,NA,0.00035,NA,NA,0.00000919,NA,straight,aligned,Chang2011
-PU,NA,CF/DMF,,,,,xy stage,10,NA,NA,acrylic,NA,2000,0.1,9.3207E-06,5.22E-05,straight,aligned,Choi2017
-PLGA,NA,CF/DMF,,,,,PYES,NA,NA,NA,PTFE,NA,NA,NA,3.047E-07,NA,straight,aligned,Coppola2014
-PLGA,54000,CF/DMF,,,,,PYES,25,NA,NA,Si,0.001,NA,NA,0.00001,NA,straight,aligned,Coppola2020
-PLGA,54000,CF/DMF,,,,,PYES,25,NA,NA,Si,0.001,NA,NA,0.00003,NA,straight,aligned,Coppola2020
-PAN,NA,CF/DMF,,,,,rotating drum,9,NA,NA,Si,0.00185,35,NA,1.30498E-07,NA,straight,aligned,Deng2020
-PAN,NA,CF/DMF,,,,,rotating drum,9,NA,NA,Si,0.00185,100,NA,1.78092E-07,NA,straight,aligned,Deng2020
-PAN,NA,CF/DMF,,,,,rotating drum,9,NA,NA,Si,0.00185,300,NA,2.48122E-07,NA,straight,aligned,Deng2020
-PAN,NA,CF/DMF,,,,,rotating drum,9,NA,NA,Si,0.00185,500,NA,3.49134E-07,NA,straight,aligned,Deng2020
-PMMA,NA,CF/DMF,,,,,xy stage,20,NA,1.389E-11,NA,0.0022,1600,0.06,0.000001413,NA,straight,mesh,Fattahi2017
-PMMA,NA,CF/DMF,,,,,xy stage,20,NA,1.389E-11,NA,0.002,1400,0.06,0.000001424,NA,straight,mesh,Fattahi2017
-PMMA,NA,CF/DMF,,,,,xy stage,16,NA,1.389E-11,NA,0.002,1600,0.06,0.000001462,NA,straight,mesh,Fattahi2017
-PMMA,NA,CF/DMF,,,,,xy stage,20,NA,1.389E-11,NA,0.0024,1600,0.06,0.000001487,NA,straight,mesh,Fattahi2017
-PMMA,NA,CF/DMF,,,,,xy stage,18,NA,1.389E-11,NA,0.002,1600,0.06,0.000001583,NA,straight,mesh,Fattahi2017
-PMMA,NA,CF/DMF,,,,,xy stage,20,NA,1.389E-11,NA,0.002,1800,0.06,0.000001732,NA,straight,mesh,Fattahi2017
-PMMA,NA,CF/DMF,,,,,xy stage,20,NA,1.389E-11,NA,0.002,1200,0.06,0.00000176,NA,straight,mesh,Fattahi2017
-PMMA,NA,CF/DMF,,,,,xy stage,20,NA,1.389E-11,NA,0.002,1600,0.06,0.000001818,NA,straight,mesh,Fattahi2017
-PMMA,NA,CF/DMF,,,,,xy stage,20,NA,1.389E-11,NA,0.002,1600,0.06,0.000001822,NA,straight,mesh,Fattahi2017
-PMMA,NA,CF/DMF,,,,,xy stage,20,NA,1.389E-11,NA,0.002,1600,0.06,0.000001839,NA,straight,mesh,Fattahi2017
-PMMA,NA,CF/DMF,,,,,xy stage,20,NA,1.389E-11,NA,0.002,1600,0.06,0.000001844,NA,straight,mesh,Fattahi2017
-PMMA,NA,CF/DMF,,,,,xy stage,20,NA,1.389E-11,NA,0.0018,1600,0.06,0.000002591,NA,straight,mesh,Fattahi2017
-PMMA,NA,CF/DMF,,,,,xy stage,22,NA,1.389E-11,NA,0.002,1600,0.06,0.000002689,NA,straight,mesh,Fattahi2017
-PMMA,NA,CF/DMF,,,,,xy stage,20,NA,1.389E-11,NA,0.002,2000,0.06,0.000002798,NA,straight,mesh,Fattahi2017
-PMMA,NA,CF/DMF,,,,,xy stage,20,NA,1.389E-11,NA,0.002,2200,0.06,0.00000312,NA,straight,mesh,Fattahi2017
-PMMA,NA,CF/DMF,,,,,xy stage,20,NA,2.778E-11,NA,0.002,1600,0.06,0.000003187,NA,straight,mesh,Fattahi2017
-PMMA,NA,CF/DMF,,,,,xy stage,20,NA,1.389E-11,NA,0.0016,1600,0.06,0.000003795,NA,straight,mesh,Fattahi2017
-PMMA,NA,CF/DMF,,,,,xy stage,20,NA,4.167E-11,NA,0.002,1600,0.06,0.000003957,NA,straight,mesh,Fattahi2017
-PMMA,NA,CF/DMF,,,,,xy stage,24,NA,1.389E-11,NA,0.002,1600,0.06,0.00000468,NA,straight,mesh,Fattahi2017
-PMMA,NA,CF/DMF,,,,,xy stage,20,NA,1.389E-11,NA,0.002,2400,0.06,0.000005643,NA,straight,mesh,Fattahi2017
-PEO/SU8,4000000,CF/DMF,,,,,xy stage,0.5,NA,NA,NA,NA,NA,0.02,0.00000527,NA,straight,aligned,Flores2017
-PEO/SU8,4000000,CF/DMF,,,,,xy stage,0.5,NA,NA,NA,NA,NA,0.06,0.00000535,NA,straight,aligned,Flores2017
-PEO/SU8,4000000,CF/DMF,,,,,xy stage,0.5,NA,NA,NA,NA,NA,0.04,0.00000535,NA,straight,aligned,Flores2017
-PEO/SU8,4000000,CF/DMF,,,,,xy stage,0.5,NA,NA,NA,NA,NA,0.02,0.00000538,NA,straight,aligned,Flores2017
-PEO/SU8,4000000,CF/DMF,,,,,xy stage,0.5,NA,NA,NA,NA,NA,0.04,0.00000548,NA,straight,aligned,Flores2017
-PEO/SU8,4000000,CF/DMF,,,,,xy stage,0.5,NA,NA,NA,NA,NA,0.04,0.00000589,NA,straight,aligned,Flores2017
-PEO/SU8,4000000,CF/DMF,,,,,xy stage,0.5,NA,NA,NA,NA,NA,0.04,0.00000589,NA,straight,aligned,Flores2017
-PEO/SU8,4000000,CF/DMF,,,,,xy stage,0.5,NA,NA,NA,NA,NA,0.06,0.00000598,NA,straight,aligned,Flores2017
-PEO/Chitosan,900000,CF/DMF,,,,,xy stage,5,NA,NA,PPy,0.0005,800,0.2,5.311E-07,NA,meander,randomly distributed,Fuh2013
-PEO/Chitosan,900000,CF/DMF,,,,,xy stage,5,NA,NA,PPy,0.0005,800,0.2,7.2031E-07,0.0001,curved,aligned,Fuh2013
-PEO/Chitosan,900000,CF/DMF,,,,,xy stage,5,NA,NA,PPy,0.0005,800,0.2,7.2226E-07,0.0001,straight,aligned,Fuh2013
-PEO/Chitosan,900000,CF/DMF,,,,,xy stage,5,NA,NA,PPy,0.0005,800,0.2,7.2718E-07,0.00002,straight,aligned,Fuh2013
-PEO/Chitosan,900000,CF/DMF,,,,,xy stage,5,NA,NA,PPy,0.0005,800,0.2,7.2718E-07,0.00004,straight,aligned,Fuh2013
-PEO/Chitosan,900000,CF/DMF,,,,,xy stage,5,NA,NA,PPy,0.0005,800,0.2,7.2718E-07,0.0001,straight,aligned,Fuh2013
-PEO/Chitosan,900000,CF/DMF,,,,,xy stage,5,NA,NA,PPy,0.0005,800,0.2,7.3846E-07,0.0001,straight,mesh,Fuh2013
-PVDF,534000,CF/DMF,,,,,NA,16,NA,NA,NA,0.0012,1440,NA,0.000000907,NA,straight,aligned,Fuh2015
-PVDF,534000,CF/DMF,,,,,NA,16,NA,NA,NA,0.0012,1440,NA,0.000002909,NA,straight,aligned,Fuh2015
-PEO,300000,CF/DMF,,,,,xy stage,6,NA,NA,NA,0.005,900,0.4,0.000000212,0.000005,straight,aligned,Huang2015
-PEO,300000,CF/DMF,,,,,xy stage,6,NA,NA,NA,0.005,900,0.2,0.000000287,NA,straight,aligned,Huang2015
-PEO,300000,CF/DMF,,,,,xy stage,6,NA,NA,NA,0.005,900,0.1,0.00000031,NA,meander,aligned,Huang2015
-PEO,300000,CF/DMF,,,,,xy stage,6,NA,NA,NA,0.005,900,0.05,0.000000352,NA,coil,aligned,Huang2015
-PEO,300000,CF/DMF,,,,,xy stage,NA,NA,2.0002E-11,NA,0.0075,NA,0.4,NA,NA,straight,single,Huang2015
-PEO,100000,CF/DMF,,,,,rotating drum,10,NA,NA,Si,0.012519879,2000,NA,8.8787E-08,NA,straight,aligned,Kameoka2003
-PEO,100000,CF/DMF,,,,,rotating drum,10,NA,NA,Si,0.0085,2000,1.288072322,1.01407E-07,NA,straight,aligned,Kameoka2003
-PEO,100000,CF/DMF,,,,,rotating drum,10,NA,NA,Si,0.0085,2000,0.110587389,1.04172E-07,NA,straight,aligned,Kameoka2003
-PEO,100000,CF/DMF,,,,,rotating drum,10,NA,NA,Si,0.010033744,2000,NA,1.05997E-07,NA,straight,aligned,Kameoka2003
-PEO,100000,CF/DMF,,,,,rotating drum,10,NA,NA,Si,0.011028499,2000,NA,1.103E-07,NA,straight,aligned,Kameoka2003
-PEO,100000,CF/DMF,,,,,rotating drum,10,NA,NA,Si,0.0085,2000,0.447063057,1.11961E-07,NA,straight,aligned,Kameoka2003
-PEO,100000,CF/DMF,,,,,rotating drum,10,NA,NA,Si,0.0085,2000,1.709602411,1.17279E-07,NA,straight,aligned,Kameoka2003
-PEO,100000,CF/DMF,,,,,rotating drum,10,NA,NA,Si,0.0085,2000,0.872308177,1.22872E-07,NA,straight,aligned,Kameoka2003
-PEO,100000,CF/DMF,,,,,rotating drum,10,NA,NA,Si,0.008546541,2000,NA,1.50978E-07,NA,straight,aligned,Kameoka2003
-PEO,100000,CF/DMF,,,,,rotating drum,10,NA,NA,Si,0.007562961,2000,NA,2.00652E-07,NA,straight,aligned,Kameoka2003
-PEO,900000,CF/DMF,,,,,xy stage,5,NA,NA,NA,NA,4500,NA,0.00000015,NA,coil,randomly distributed,Kameoka2003a
-PEO,900000,CF/DMF,,,,,xy stage,10,NA,NA,NA,NA,4500,NA,0.00000025,NA,coil,randomly distributed,Kameoka2003a
-PEO,900000,CF/DMF,,,,,xy stage,20,NA,NA,NA,NA,4500,NA,0.0000004,NA,coil,randomly distributed,Kameoka2003a
-PEO,900000,CF/DMF,,,,,xy stage,30,NA,NA,NA,NA,4500,NA,0.00000115,NA,coil,randomly distributed,Kameoka2003a
-PVDF,534000,CF/DMF,,,,,xy stage,12,NA,2.2224E-11,Si,0.005,1200,0.03,4.22588E-05,0.00026314,curved,mesh,Lei2015
-PVDF,534000,CF/DMF,,,,,xy stage,12,NA,2.2224E-11,Si,0.005,1200,0.03,6.32622E-05,NA,curved,mesh,Lei2015
-PVDF,534000,CF/DMF,,,,,rotating drum,10,NA,NA,Cu,NA,NA,NA,4.59434E-05,NA,straight,aligned,Pan2014
-PVDF,534000,CF/DMF,,,,,rotating drum,12,NA,NA,Cu,NA,NA,NA,4.72642E-05,NA,straight,aligned,Pan2014
-PVDF,534000,CF/DMF,,,,,rotating drum,14,NA,NA,Cu,NA,NA,NA,3.90566E-05,NA,straight,aligned,Pan2014
-PVDF,534000,CF/DMF,,,,,rotating drum,16,NA,NA,Cu,NA,NA,NA,4.06604E-05,NA,straight,aligned,Pan2014
-PVDF,534000,CF/DMF,,,,,rotating drum,18,NA,NA,Cu,NA,NA,NA,4.40566E-05,NA,straight,aligned,Pan2014
-PVDF,534000,CF/DMF,,,,,rotating drum,NA,NA,NA,Cu,NA,NA,0.5236,4.68688E-05,NA,straight,aligned,Pan2014
-PVDF,534000,CF/DMF,,,,,rotating drum,NA,NA,NA,Cu,NA,NA,1.0472,0.00003614,NA,straight,aligned,Pan2014
-PVDF,534000,CF/DMF,,,,,rotating drum,NA,NA,NA,Cu,NA,NA,1.5708,3.53499E-05,NA,straight,aligned,Pan2014
-PVDF,534000,CF/DMF,,,,,rotating drum,NA,NA,NA,Cu,NA,NA,1.0944,4.10771E-05,NA,straight,aligned,Pan2014
-PVDF,534000,CF/DMF,,,,,rotating drum,NA,NA,NA,Cu,NA,NA,2.6181,4.34473E-05,NA,straight,aligned,Pan2014
+PVDF,534000,DMSO/Acetone,,,,,xy stage,16,0.00026,1.6668E-11,Si,0.001,NA,0.07,0.0000013,NA,straight,cross aligned,Liu2015a
+PVDF,534000,DMSO/Acetone,,,,,rotating drum,18,0.00026,NA,Si,0.001,NA,NA,0.0000012,NA,straight,cross aligned,Liu2015a
+PVDF,534000,DMSO/Acetone,,,,,rotating drum,20,0.00026,NA,Si,0.001,NA,NA,0.000001,NA,straight,cross aligned,Liu2015a
+PVDF,534000,DMSO/Acetone,,,,,rotating drum,20,0.00026,NA,Si,0.001,NA,NA,0.0000007,NA,straight,cross aligned,Liu2015a
+PVDF/MWCNT,534000,DMSO/Acetone,,,,,rotating drum,16,0.00026,NA,Si,0.001,NA,NA,0.0000005,NA,straight,cross aligned,Liu2015a
+PVDF/PVA/SWCNT,534000,DMSO/Acetone,0.056,0.00981,25,1215.525,xy stage,21,0.000159,NA,paper,0.001,1500,0.01,1.14828E-05,0.0001,straight,aligned,Luo2016
+PVDF/PVA/SWCNT,534000,DMSO/Acetone,0.056,0.00981,25,1215.525,xy stage,21,0.000159,NA,paper,0.001,1500,0.09,0.000011338,0.0001,straight,aligned,Luo2016
+PVDF/PVA/SWCNT,534000,DMSO/Acetone,0.056,0.00981,25,1215.525,xy stage,21,0.000159,NA,paper,0.001,1500,0.03,1.10355E-05,0.0001,straight,aligned,Luo2016
+PVDF/PVA/SWCNT,534000,DMSO/Acetone,0.056,0.00981,25,1215.525,xy stage,21,0.000159,NA,paper,0.001,1500,0.07,1.03825E-05,0.0001,straight,aligned,Luo2016
+PVDF/PVA/SWCNT,534000,DMSO/Acetone,0.056,0.00981,25,1215.525,xy stage,21,0.000159,NA,paper,0.001,1500,0.05,9.6876E-06,0.0001,straight,aligned,Luo2016
+PVDF/PVA/SWCNT,534000,DMSO/Acetone,0.056,0.00981,25,1215.525,xy stage,21,0.000159,NA,paper,0.001,1500,0.03,9.51972E-06,0.0001,straight,aligned,Luo2016
+PVDF/PVA/SWCNT,534000,DMSO/Acetone,0.056,0.00981,25,1215.525,xy stage,21,0.000159,NA,paper,0.001,1000,0.05,5.76747E-06,0.0001,straight,aligned,Luo2016
+PVDF/PVA/SWCNT,534000,DMSO/Acetone,0.056,0.00981,25,1215.525,xy stage,21,0.000159,NA,paper,0.001,1600,0.05,5.76747E-06,0.0001,straight,aligned,Luo2016
+PVDF/PVA/SWCNT,534000,DMSO/Acetone,0.056,0.00981,25,1215.525,xy stage,21,0.000159,NA,paper,0.001,1400,0.05,5.66831E-06,0.0001,straight,aligned,Luo2016
+PVDF/PVA/SWCNT,534000,DMSO/Acetone,0.056,0.00981,25,1215.525,xy stage,21,0.000159,NA,paper,0.001,1200,0.05,5.56915E-06,0.0001,straight,aligned,Luo2016
+PVDF/PVA/SWCNT,534000,DMSO/Acetone,0.056,0.00981,25,1215.525,xy stage,21,0.000159,NA,paper,0.001,1800,0.05,0.000005539,0.0001,straight,aligned,Luo2016
+PVDF/PVA/SWCNT,534000,DMSO/Acetone,0.056,0.00981,25,1215.525,xy stage,21,0.000159,NA,paper,0.001,1500,0.05,3.98846E-06,0.0001,straight,aligned,Luo2016
+PEO,4000000,Water,0.056,0.00981,25,1215.525,xy stage,2,0.00021,2.78E-13,C/Si,0.001,400,0.02,4.225E-07,NA,straight,aligned,Madou2011
+PEO,4000000,Water,0.056,0.00981,25,1215.525,xy stage,2,0.00021,2.78E-13,C/Si,0.001,400,0.04,3.665E-07,NA,straight,single,Madou2011
+PEO,4000000,Water,0.056,0.00981,25,1215.525,xy stage,2,0.00021,2.78E-13,C/Si,0.001,400,0.04,3.653E-07,NA,straight,aligned,Madou2011
+PEO,4000000,Water,0.056,0.00981,25,1215.525,xy stage,2,0.00021,2.78E-13,C/Si,0.001,400,0.06,2.047E-07,NA,straight,aligned,Madou2011
+PEO,4000000,Water,0.056,0.00981,25,1215.525,xy stage,2,0.00021,2.78E-13,C/Si,0.001,300,0.04,1.882E-07,NA,straight,single,Madou2011
+PEO,4000000,Water,0.056,0.00981,25,1215.525,xy stage,2,0.00021,2.78E-13,C/Si,0.001,400,0.08,1.852E-07,NA,straight,aligned,Madou2011
+PEO,4000000,Water,0.056,0.00981,25,1215.525,xy stage,2,0.00021,2.78E-13,C/Si,0.001,200,0.04,5.07E-08,NA,straight,single,Madou2011
+PVK,1100000,Styrene,,,,,xy stage,3.96,0.0001,8.334E-12,Si/SiO2,0.0025,3500,0.133,NA,0.00005,straight,aligned,Min2013
+PVK,1100000,Styrene,0.056,0.05886,25,1215.525,xy stage,3.96,0.0001,8.334E-12,Si/SiO2,0.0025,3500,0.133,7.066E-07,NA,straight,aligned,Min2013
+PVK,1100000,Styrene,0.056,0.07848,25,1215.525,xy stage,3.96,0.0001,8.334E-12,Si/SiO2,0.0025,3500,0.133,2.821E-07,NA,straight,aligned,Min2013
+PVK,1100000,Styrene,0.056,0.0981,25,1215.525,xy stage,3.96,0.0001,8.334E-12,Si/SiO2,0.0025,3500,0.133,0.000000065,NA,straight,aligned,Min2013
+PEO,200000,Water/Ethanol,0.056,0.00981,25,1215.525,xy stage,14,0.00025,3E-12,Si,0.00525,1600,0.15,0.0000003,0.0003,meander,aligned,Nagle2019
 PVDF,534000,CF/DMF,,,,,rotating drum,NA,NA,NA,Cu,NA,2000,NA,5.18805E-05,NA,straight,aligned,Pan2014
 PVDF,534000,CF/DMF,,,,,rotating drum,NA,NA,NA,Cu,NA,5000,NA,4.75085E-05,NA,straight,aligned,Pan2014
+PVDF,534000,CF/DMF,,,,,rotating drum,12,NA,NA,Cu,NA,NA,NA,4.72642E-05,NA,straight,aligned,Pan2014
+PVDF,534000,CF/DMF,,,,,rotating drum,NA,NA,NA,Cu,NA,NA,0.5236,4.68688E-05,NA,straight,aligned,Pan2014
+PVDF,534000,CF/DMF,,,,,rotating drum,10,NA,NA,Cu,NA,NA,NA,4.59434E-05,NA,straight,aligned,Pan2014
 PVDF,534000,CF/DMF,,,,,rotating drum,NA,NA,NA,Cu,NA,6000,NA,4.44319E-05,NA,straight,aligned,Pan2014
+PVDF,534000,CF/DMF,,,,,rotating drum,18,NA,NA,Cu,NA,NA,NA,4.40566E-05,NA,straight,aligned,Pan2014
+PVDF,534000,CF/DMF,,,,,rotating drum,NA,NA,NA,Cu,NA,NA,2.6181,4.34473E-05,NA,straight,aligned,Pan2014
 PVDF,534000,CF/DMF,,,,,rotating drum,NA,NA,NA,Cu,NA,7000,NA,4.11934E-05,NA,straight,aligned,Pan2014
+PVDF,534000,CF/DMF,,,,,rotating drum,NA,NA,NA,Cu,NA,NA,1.0944,4.10771E-05,NA,straight,aligned,Pan2014
+PVDF,534000,CF/DMF,,,,,rotating drum,16,NA,NA,Cu,NA,NA,NA,4.06604E-05,NA,straight,aligned,Pan2014
 PVDF,534000,CF/DMF,,,,,rotating drum,NA,NA,NA,Cu,NA,10000,NA,0.000039736,NA,straight,aligned,Pan2014
-PCL,45028,CF/DMF,,,,,xy stage,70,NA,NA,NA,NA,NA,0.2,0.000070841,NA,straight,single,Parajuli2016
-PCL,45028,CF/DMF,,,,,xy stage,60,NA,NA,NA,NA,NA,0.2,0.000078672,NA,straight,single,Parajuli2016
-PCL,45028,CF/DMF,,,,,xy stage,50,NA,NA,NA,NA,NA,0.2,0.000086505,NA,straight,single,Parajuli2016
-PCL,45028,CF/DMF,,,,,xy stage,70,NA,NA,NA,NA,NA,0.2,0.000090344,NA,straight,single,Parajuli2016
-PCL,45028,CF/DMF,,,,,xy stage,45,NA,NA,NA,NA,NA,0.2,0.000092868,NA,straight,single,Parajuli2016
-PCL,45028,CF/DMF,,,,,xy stage,45,NA,NA,NA,NA,NA,0.2,0.000105517,NA,straight,single,Parajuli2016
-PCL,45028,CF/DMF,,,,,xy stage,60,NA,NA,NA,NA,NA,0.2,0.000109655,NA,straight,single,Parajuli2016
-PCL,45028,CF/DMF,,,,,xy stage,50,NA,NA,NA,NA,NA,0.2,0.000123448,NA,straight,single,Parajuli2016
-PCL,45028,CF/DMF,,,,,xy stage,70,NA,NA,NA,NA,NA,0.2,0.000124482,NA,straight,single,Parajuli2016
-PCL,45028,CF/DMF,,,,,xy stage,NA,NA,NA,NA,0.014,NA,0.2,0.000129797,NA,straight,single,Parajuli2016
-PCL,45028,CF/DMF,,,,,xy stage,NA,NA,NA,NA,0.012,NA,0.2,0.000130858,NA,straight,single,Parajuli2016
-PCL,45028,CF/DMF,,,,,xy stage,60,NA,NA,NA,NA,NA,0.2,0.000131034,NA,straight,single,Parajuli2016
-PCL,45028,CF/DMF,,,,,xy stage,50,NA,NA,NA,NA,NA,0.2,0.000132068,NA,straight,single,Parajuli2016
-PCL,45028,CF/DMF,,,,,xy stage,25,NA,NA,NA,NA,NA,0.2,0.000132309,NA,straight,single,Parajuli2016
-PCL,45028,CF/DMF,,,,,xy stage,45,NA,NA,NA,NA,NA,0.2,0.000135862,NA,straight,single,Parajuli2016
-PCL,45028,CF/DMF,,,,,xy stage,NA,NA,NA,NA,0.01,NA,0.2,0.000148181,NA,straight,single,Parajuli2016
-PCL,45028,CF/DMF,,,,,xy stage,NA,NA,NA,NA,0.008,NA,0.2,0.000156666,NA,straight,single,Parajuli2016
-PCL,45028,CF/DMF,,,,,xy stage,NA,NA,NA,NA,NA,3700,0.2,0.000159649,NA,straight,single,Parajuli2016
-PCL,45028,CF/DMF,,,,,xy stage,NA,NA,NA,NA,0.005,NA,0.2,0.000162323,NA,straight,single,Parajuli2016
+PVDF,534000,CF/DMF,,,,,rotating drum,14,NA,NA,Cu,NA,NA,NA,3.90566E-05,NA,straight,aligned,Pan2014
+PVDF,534000,CF/DMF,,,,,rotating drum,NA,NA,NA,Cu,NA,NA,1.0472,0.00003614,NA,straight,aligned,Pan2014
+PVDF,534000,CF/DMF,,,,,rotating drum,NA,NA,NA,Cu,NA,NA,1.5708,3.53499E-05,NA,straight,aligned,Pan2014
+PVDF,534000,CF/DMF,,,,,coaxial,NA,0.00063,NA,Cu,NA,NA,0.5305702,4.59304E-05,NA,straight,aligned,Pan2015
+PVDF,534000,CF/DMF,,,,,coaxial,NA,0.00063,NA,Cu,NA,8000,NA,0.000025976,NA,straight,aligned,Pan2015
+PVDF,534000,CF/DMF,,,,,coaxial,NA,0.00063,NA,Cu,NA,NA,1.052856708,2.58114E-05,NA,straight,aligned,Pan2015
+PVDF,534000,CF/DMF,,,,,coaxial,15,0.00063,NA,Cu,NA,NA,NA,2.53041E-05,NA,straight,aligned,Pan2015
+PVDF,534000,CF/DMF,,,,,coaxial,16,0.00063,NA,Cu,NA,NA,NA,2.27027E-05,NA,straight,aligned,Pan2015
+PVDF,534000,CF/DMF,,,,,coaxial,NA,0.00063,NA,Cu,NA,10000,NA,2.12886E-05,NA,straight,aligned,Pan2015
+PVDF,534000,CF/DMF,,,,,coaxial,17,0.00063,NA,Cu,NA,NA,NA,1.86824E-05,NA,straight,aligned,Pan2015
+PVDF,534000,CF/DMF,,,,,coaxial,18,0.00063,NA,Cu,NA,NA,NA,0.000013125,NA,straight,aligned,Pan2015
+PVDF,534000,CF/DMF,,,,,coaxial,NA,0.00063,NA,Cu,NA,12000,NA,0.000013068,NA,straight,aligned,Pan2015
+PVDF,534000,CF/DMF,,,,,coaxial,NA,0.00063,NA,Cu,NA,NA,1.572431152,1.25857E-05,NA,straight,aligned,Pan2015
+PVDF,534000,CF/DMF,,,,,coaxial,NA,0.00063,NA,Cu,NA,14000,NA,1.20696E-05,NA,straight,aligned,Pan2015
+PVDF,534000,CF/DMF,,,,,coaxial,NA,0.00063,NA,Cu,NA,16000,NA,1.08416E-05,NA,straight,aligned,Pan2015
+PVDF,534000,CF/DMF,,,,,coaxial,19,0.00063,NA,Cu,NA,NA,NA,1.04054E-05,NA,straight,aligned,Pan2015
+PVDF,534000,CF/DMF,,,,,coaxial,NA,0.00063,NA,Cu,NA,NA,2.096811183,1.03036E-05,NA,straight,aligned,Pan2015
+PVDF,534000,CF/DMF,,,,,coaxial,NA,0.00063,NA,Cu,NA,NA,2.621381535,9.64296E-06,NA,straight,aligned,Pan2015
+PCL,45028,CF/DMF,,,,,xy stage,25,NA,NA,NA,NA,NA,0.2,0.000190689,NA,straight,single,Parajuli2016
+PCL,45028,CF/DMF,,,,,xy stage,NA,NA,NA,NA,NA,3500,0.2,0.000168421,NA,straight,single,Parajuli2016
 PCL,45028,CF/DMF,,,,,xy stage,NA,NA,NA,NA,NA,3200,0.2,0.000162807,NA,straight,single,Parajuli2016
 PCL,45028,CF/DMF,,,,,xy stage,NA,NA,NA,NA,NA,3800,0.2,0.000162807,NA,straight,single,Parajuli2016
-PCL,45028,CF/DMF,,,,,xy stage,NA,NA,NA,NA,NA,3500,0.2,0.000168421,NA,straight,single,Parajuli2016
-PCL,45028,CF/DMF,,,,,xy stage,25,NA,NA,NA,NA,NA,0.2,0.000190689,NA,straight,single,Parajuli2016
-PEO/NaCl,NA,CF/DMF,,,,,xy stage,0.1,NA,NA,NA,NA,NA,NA,0.000000092,NA,straight,aligned,Park2020
-PEO/NaCl,NA,CF/DMF,,,,,xy stage,0.25,NA,NA,NA,NA,NA,NA,0.000000117,NA,straight,aligned,Park2020
-PEO/NaCl,NA,CF/DMF,,,,,xy stage,0.5,NA,NA,NA,NA,NA,NA,0.000000161,NA,straight,aligned,Park2020
+PCL,45028,CF/DMF,,,,,xy stage,NA,NA,NA,NA,0.005,NA,0.2,0.000162323,NA,straight,single,Parajuli2016
+PCL,45028,CF/DMF,,,,,xy stage,NA,NA,NA,NA,NA,3700,0.2,0.000159649,NA,straight,single,Parajuli2016
+PCL,45028,CF/DMF,,,,,xy stage,NA,NA,NA,NA,0.008,NA,0.2,0.000156666,NA,straight,single,Parajuli2016
+PCL,45028,CF/DMF,,,,,xy stage,NA,NA,NA,NA,0.01,NA,0.2,0.000148181,NA,straight,single,Parajuli2016
+PCL,45028,CF/DMF,,,,,xy stage,45,NA,NA,NA,NA,NA,0.2,0.000135862,NA,straight,single,Parajuli2016
+PCL,45028,CF/DMF,,,,,xy stage,25,NA,NA,NA,NA,NA,0.2,0.000132309,NA,straight,single,Parajuli2016
+PCL,45028,CF/DMF,,,,,xy stage,50,NA,NA,NA,NA,NA,0.2,0.000132068,NA,straight,single,Parajuli2016
+PCL,45028,CF/DMF,,,,,xy stage,25,0.0006,0,NA,NA,3350,0.2,0.000131445,NA,straight,single,Parajuli2016
+PCL,45028,CF/DMF,,,,,xy stage,60,NA,NA,NA,NA,NA,0.2,0.000131034,NA,straight,single,Parajuli2016
+PCL,45028,CF/DMF,,,,,xy stage,NA,NA,NA,NA,0.012,NA,0.2,0.000130858,NA,straight,single,Parajuli2016
+PCL,45028,CF/DMF,,,,,xy stage,NA,NA,NA,NA,0.014,NA,0.2,0.000129797,NA,straight,single,Parajuli2016
+PCL,45028,DMF,,,,,xy stage,25,0.00041,0,NA,NA,3350,0.2,0.000124739,NA,straight,single,Parajuli2016
+PCL,45028,CF/DMF,,,,,xy stage,70,NA,NA,NA,NA,NA,0.2,0.000124482,NA,straight,single,Parajuli2016
+PCL,45028,CF/DMF,,,,,xy stage,50,NA,NA,NA,NA,NA,0.2,0.000123448,NA,straight,single,Parajuli2016
+PCL,45028,DMF,,,,,xy stage,25,0.00031,0,NA,NA,3350,0.2,0.000110404,NA,straight,single,Parajuli2016
+PCL,45028,CF/DMF,,,,,xy stage,60,NA,NA,NA,NA,NA,0.2,0.000109655,NA,straight,single,Parajuli2016
+PCL,45028,CF/DMF,,,,,xy stage,45,NA,NA,NA,NA,NA,0.2,0.000105517,NA,straight,single,Parajuli2016
+PCL,45028,CF/DMF,,,,,xy stage,45,NA,NA,NA,NA,NA,0.2,0.000092868,NA,straight,single,Parajuli2016
+PCL,45028,CF/DMF,,,,,xy stage,45,0.0006,0,NA,NA,3350,0.2,0.000092231,NA,straight,single,Parajuli2016
+PCL,45028,CF/DMF,,,,,xy stage,70,NA,NA,NA,NA,NA,0.2,0.000090344,NA,straight,single,Parajuli2016
+PCL,45028,CF/DMF,,,,,xy stage,50,NA,NA,NA,NA,NA,0.2,0.000086505,NA,straight,single,Parajuli2016
+PCL,45028,CF/DMF,,,,,xy stage,50,0.0006,1.2101E-09,NA,NA,3350,0.2,0.000085895,NA,straight,single,Parajuli2016
+PCL,45028,DMF,,,,,xy stage,45,0.00041,0,NA,NA,3350,0.2,0.00008067,NA,straight,single,Parajuli2016
+PCL,45028,CF/DMF,,,,,xy stage,60,NA,NA,NA,NA,NA,0.2,0.000078672,NA,straight,single,Parajuli2016
+PCL,45028,CF/DMF,,,,,xy stage,60,0.0006,1.2101E-09,NA,NA,3900,0.2,0.000078312,NA,straight,single,Parajuli2016
+PCL,45028,DMF,,,,,xy stage,50,0.00041,1.2101E-09,NA,NA,3350,0.2,0.000074335,NA,straight,single,Parajuli2016
+PCL,45028,DMF,,,,,xy stage,60,0.00041,1.2101E-09,NA,NA,3900,0.2,0.000071607,NA,straight,single,Parajuli2016
+PCL,45028,CF/DMF,,,,,xy stage,70,NA,NA,NA,NA,NA,0.2,0.000070841,NA,straight,single,Parajuli2016
+PCL,45028,DMF,,,,,xy stage,45,0.00031,0,NA,NA,3350,0.2,0.000070497,NA,straight,single,Parajuli2016
+PCL,45028,CF/DMF,,,,,xy stage,70,0.0006,1.2101E-09,NA,NA,3900,0.2,0.000070497,NA,straight,single,Parajuli2016
+PCL,45028,DMF,,,,,xy stage,50,0.00031,1.2101E-09,NA,NA,3350,0.2,0.000068554,NA,straight,single,Parajuli2016
+PCL,45028,DMF,,,,,xy stage,60,0.00031,1.2101E-09,NA,NA,3900,0.2,0.000064901,NA,straight,single,Parajuli2016
+PCL,45028,DMF,,,,,xy stage,70,0.00041,1.2101E-09,NA,NA,3900,0.2,0.000063561,NA,straight,single,Parajuli2016
+PCL,45028,DMF,,,,,xy stage,70,0.00031,1.2101E-09,NA,NA,3900,0.2,0.000058705,NA,straight,single,Parajuli2016
 PEO/NaCl,NA,CF/DMF,,,,,xy stage,1,NA,NA,NA,NA,NA,NA,0.000000239,NA,straight,aligned,Park2020
-PEO/TiO2,300000,CF/DMF,,,,,xy stage,5.44,NA,5.556E-12,Si3N4,0.0005,1100,NA,0.0000005,0.00004,straight,aligned,Ruggieri2013
-PEO,NA,CF/DMF,,,,,touch spinning,0.5,NA,8.334E-11,NA,NA,NA,NA,0.000000298,NA,straight,cross aligned,Strauss2019
-PEO/NT,NA,CF/DMF,,,,,touch spinning,0.5,NA,8.334E-11,NA,NA,NA,NA,0.00000032,NA,straight,cross aligned,Strauss2019
-PCL,NA,CF/DMF,,,,,touch spinning,8,NA,8.334E-11,NA,NA,NA,NA,0.000000326,NA,straight,cross aligned,Strauss2019
+PEO/NaCl,NA,CF/DMF,,,,,xy stage,0.5,NA,NA,NA,NA,NA,NA,0.000000161,NA,straight,aligned,Park2020
+PEO/NaCl,NA,CF/DMF,,,,,xy stage,0.25,NA,NA,NA,NA,NA,NA,0.000000117,NA,straight,aligned,Park2020
+PEO/NaCl,NA,CF/DMF,,,,,xy stage,0.1,NA,NA,NA,NA,NA,NA,0.000000092,NA,straight,aligned,Park2020
+PEO,1000000,Water/Ethanol,0.056,0.0063765,25,1215.525,xy stage,4,0.00016,2.5002E-10,NA,0.003,1500,NA,0.00001472,NA,straight,mesh,Ru2014
+PEO,1000000,Water/Ethanol,0.056,0.007848,25,1215.525,xy stage,4,0.00016,1.6668E-10,NA,0.003,1500,NA,0.00001,NA,straight,mesh,Ru2014
+PEO,1000000,Water/Ethanol,0.056,0.00981,25,1215.525,xy stage,4,0.00016,8.334E-11,NA,0.003,1500,NA,0.00000574,NA,straight,mesh,Ru2014
+PEO/TiO2,300000,CF/DMF,0.0224,0.020601,93,4011.2325,xy stage,5.44,NA,5.556E-12,Si3N4,0.0005,1100,NA,0.0000005,0.00004,straight,aligned,Ruggieri2013
+PIB,NA,NA,,,,,rotating drum,15,0.00036,2.0002E-11,NA,NA,12000,NA,0.00000042,NA,straight,cross aligned,Sarkar2007
+PS,NA,NA,,,,,rotating drum,20,0.00036,1.0001E-11,NA,NA,11000,NA,0.00000041,NA,straight,cross aligned,Sarkar2007
+PEO/FeAl NP,NA,NA,,,,,rotating drum,6,0.00036,1.1668E-11,NA,NA,9500,NA,0.0000004,NA,straight,cross aligned,Sarkar2007
+PEO/Au NP,NA,NA,,,,,rotating drum,10,0.00036,1.6668E-11,NA,NA,9300,NA,0.00000039,NA,straight,cross aligned,Sarkar2007
+PEO/SWCNT,NA,NA,,,,,rotating drum,8,0.00036,1.3334E-11,NA,NA,9300,NA,0.00000038,NA,straight,cross aligned,Sarkar2007
+PEO,NA,NA,,,,,rotating drum,8,0.00036,1.3334E-11,NA,NA,9500,NA,0.00000037,NA,straight,cross aligned,Sarkar2007
+PEO/PPy,5000000,DMF/Acetone,,,,,xy stage,8,0.000025,NA,NA,NA,1000,NA,0.0000007,0.000265,straight,aligned,Shen2016
+PEO/PPy,5000000,DMF/Acetone,,,,,xy stage,8,0.000025,NA,NA,NA,1000,NA,0.0000004,0.000265,straight,aligned,Shen2016
+PEO,400000,Water,0.028,0.00981,25,1215.525,xy stage,10,0.000108,NA,NA,0.00075,500,0.015,0.00000022,NA,straight,single,Shin2018
+PEO,400000,Water,0.056,0.0981,25,1215.525,xy stage,10,0.000108,NA,NA,0.00075,900,0.015,0.00000015,NA,coil,single,Shin2018
+PEO,400000,Water,0.112,0.0981,25,1215.525,xy stage,10,0.000108,NA,NA,0.00075,700,0.015,0.00000013,NA,meander,single,Shin2018
+PEO,4000000,Water,,,,,xy stage,1.5,0.000108,NA,NA,NA,650,0.0008,9.33233E-07,NA,meander,single,Shin2019
+PEO,4000000,Water,,,,,xy stage,1.5,0.000108,NA,NA,NA,650,0.0008,8.14768E-07,NA,meander,single,Shin2019
+PEO,4000000,Water,,,,,xy stage,1.5,0.000108,NA,NA,NA,650,0.0005,6.72826E-07,NA,coil,single,Shin2019
+PEO,4000000,Water,,,,,xy stage,1.5,0.000108,NA,NA,NA,650,0.0005,5.83928E-07,NA,coil,single,Shin2019
+PEO,4000000,Water,,,,,xy stage,1.5,0.000108,NA,NA,NA,650,0.0002,4.99958E-07,NA,coil,single,Shin2019
+PEO,4000000,Water,,,,,xy stage,1.5,0.000108,NA,NA,NA,650,0.0002,4.35888E-07,NA,coil,single,Shin2019
+PEO,40000000,Water,,,,,xy stage,1.5,0.00011,NA,NA,0.0008,NA,NA,9.7436E-08,NA,meander,single,Shin2019
+PEO,40000000,Water,,,,,xy stage,1.5,0.00011,NA,NA,0.00085,NA,NA,9.6987E-08,NA,meander,single,Shin2019
+PEO,40000000,Water,,,,,xy stage,1.5,0.00011,NA,NA,0.001,NA,NA,9.6346E-08,NA,meander,single,Shin2019
+PEO,40000000,Water,,,,,xy stage,1.5,0.00011,NA,NA,0.0011,NA,NA,0.000000095,NA,meander,single,Shin2019
+PEO,40000000,Water,,,,,xy stage,1.5,0.00011,NA,NA,0.0012,NA,NA,9.3974E-08,NA,meander,single,Shin2019
+PS,NA,TCB,,,,,xy stage,5,0.000002,NA,Si,0.00002,400,0.002,1.6749E-07,NA,straight,single,Song2015
+PS,NA,TCB,,,,,xy stage,NA,0.000002,NA,Si,0.00004,500,0.002,1.6399E-07,NA,straight,single,Song2015
+PS,NA,TCB,,,,,xy stage,5,0.000002,NA,Si,0.00003,475,0.002,1.3899E-07,NA,straight,single,Song2015
+PS,NA,TCB,,,,,xy stage,5,0.000002,NA,Si,0.00002,425,0.002,1.1768E-07,NA,straight,single,Song2015
+PS,NA,TCB,,,,,xy stage,4,0.000002,NA,Si,0.00003,475,0.002,1.133E-07,NA,straight,single,Song2015
+PS,NA,TCB,,,,,xy stage,NA,0.000002,NA,Si,0.00003,500,0.002,1.122E-07,NA,straight,single,Song2015
+PS,NA,TCB,,,,,xy stage,5,0.000002,NA,Si,0.00002,450,0.002,9.999E-08,NA,straight,single,Song2015
+PS,NA,TCB,,,,,xy stage,3,0.000002,NA,Si,0.00003,475,0.002,7.931E-08,NA,straight,single,Song2015
+PS,NA,TCB,,,,,xy stage,2,0.000002,NA,Si,0.00003,475,0.002,6.993E-08,NA,straight,single,Song2015
+PS,NA,TCB,,,,,xy stage,5,0.000002,NA,Si,0.00002,475,0.002,6.811E-08,NA,straight,single,Song2015
+PS,NA,TCB,,,,,xy stage,1,0.000002,NA,Si,0.00003,475,0.002,6.174E-08,NA,straight,single,Song2015
+PS,NA,TCB,,,,,xy stage,5,0.000002,NA,Si,0.00002,500,0.002,5.732E-08,NA,straight,single,Song2015
+PS,NA,TCB,,,,,xy stage,NA,0.000002,NA,Si,0.00002,500,0.002,5.732E-08,NA,straight,single,Song2015
+PCL,80000,CF/DMF,0.056,0.00981,25,1215.525,aligned needles,10,0.000337,1.389E-10,Si,0.06,15000,NA,1.208E-07,NA,straight,randomly distributed,Sonntag2020
 PEU,NA,CF/DMF,,,,,touch spinning,5,NA,8.334E-11,NA,NA,NA,NA,0.000000328,NA,straight,cross aligned,Strauss2019
-PEO,300000,CF/DMF,,,,,xy stage,3,NA,NA,Si,0.0005,1000,0.2,0.0000003,0.000025,meander,single,Sun2006a
+PCL,NA,CF/DMF,,,,,touch spinning,8,NA,8.334E-11,NA,NA,NA,NA,0.000000326,NA,straight,cross aligned,Strauss2019
+PEO/NT,NA,CF/DMF,,,,,touch spinning,0.5,NA,8.334E-11,NA,NA,NA,NA,0.00000032,NA,straight,cross aligned,Strauss2019
+PEO,NA,CF/DMF,,,,,touch spinning,0.5,NA,8.334E-11,NA,NA,NA,NA,0.000000298,NA,straight,cross aligned,Strauss2019
 PEO,300000,CF/DMF,,,,,xy stage,3,NA,NA,Si,0.0005,598,0.2,NA,0.000025,meander,single,Sun2006a
 PEO,300000,CF/DMF,,,,,xy stage,3,NA,NA,Si,0.001,699,0.2,NA,0.000025,meander,single,Sun2006a
 PEO,300000,CF/DMF,,,,,xy stage,3,NA,NA,Si,0.002,902,0.2,NA,0.000025,meander,single,Sun2006a
@@ -714,7 +625,8 @@ PEO,300000,CF/DMF,,,,,xy stage,5,NA,NA,SiO2,0.0005,814,0.2,NA,0.000025,meander,s
 PEO,300000,CF/DMF,,,,,xy stage,5,NA,NA,SiO2,0.001,1008,0.2,NA,0.000025,meander,single,Sun2006a
 PEO,300000,CF/DMF,,,,,xy stage,5,NA,NA,SiO2,0.002,1211,0.2,NA,0.000025,meander,single,Sun2006a
 PEO,300000,CF/DMF,,,,,xy stage,5,NA,NA,SiO2,0.003,1614,0.2,NA,0.000025,meander,single,Sun2006a
-PEO,2000000,CF/DMF,,,,,multinozzle xy stage,5,NA,3.3336E-11,NA,NA,NA,NA,NA,0.00547,straight,aligned,Wang2015
+PEO,300000,CF/DMF,,,,,xy stage,3,NA,NA,Si,0.0005,1000,0.2,0.0000003,0.000025,meander,single,Sun2006a
+PEO,2000000,CF/DMF,0.056,0.00981,25,1215.525,multinozzle xy stage,5,NA,3.3336E-11,NA,NA,NA,NA,NA,0.00547,straight,aligned,Wang2015
 PEO,2000000,CF/DMF,,,,,multinozzle xy stage,5,NA,NA,NA,0.002,NA,NA,NA,0.004113,straight,aligned,Wang2015
 PEO,2000000,CF/DMF,,,,,multinozzle xy stage,5,NA,NA,NA,0.003,NA,NA,NA,0.004676,straight,aligned,Wang2015
 PEO,2000000,CF/DMF,,,,,multinozzle xy stage,5,NA,NA,NA,0.004,NA,NA,NA,0.005368,straight,aligned,Wang2015
@@ -748,37 +660,125 @@ PEO,2000000,CF/DMF,,,,,multinozzle xy stage,5,NA,NA,NA,NA,2100,NA,NA,0.003553,st
 PEO,2000000,CF/DMF,,,,,multinozzle xy stage,5,NA,NA,NA,NA,2300,NA,NA,0.003659,straight,aligned,Wang2015
 PEO,2000000,CF/DMF,,,,,multinozzle xy stage,5,NA,NA,NA,NA,2500,NA,NA,0.003869,straight,aligned,Wang2015
 PEO,2000000,CF/DMF,,,,,multinozzle xy stage,5,NA,NA,NA,NA,2700,NA,NA,0.003903,straight,aligned,Wang2015
-PEO,2000000,CF/DMF,,,,,xy stage,5,NA,3.334E-12,NA,0.004,NA,0.35,6.95567E-07,NA,meander,aligned,Xu2019
-PEO,2000000,CF/DMF,,,,,xy stage,5,NA,3.334E-12,NA,0.004,NA,0.3,0.000000823,NA,meander,aligned,Xu2019
-PEO,2000000,CF/DMF,,,,,xy stage,5,NA,3.334E-12,NA,0.004,NA,0.25,1.06381E-06,NA,meander,aligned,Xu2019
-PEO,2000000,CF/DMF,,,,,xy stage,5,NA,3.334E-12,NA,0.004,NA,0.2,1.34999E-06,NA,meander,aligned,Xu2019
-PEO,2000000,CF/DMF,,,,,xy stage,5,NA,3.334E-12,NA,0.004,1900,NA,1.41848E-06,NA,meander,aligned,Xu2019
-PEO,2000000,CF/DMF,,,,,xy stage,5,NA,3.334E-12,NA,0.004,NA,0.15,1.69663E-06,NA,meander,aligned,Xu2019
-PEO,2000000,CF/DMF,,,,,xy stage,5,NA,3.334E-12,NA,0.004,2000,NA,1.74457E-06,NA,meander,aligned,Xu2019
-PEO,2000000,CF/DMF,,,,,xy stage,5,NA,3.334E-12,NA,0.004,2100,NA,0.000002125,NA,meander,aligned,Xu2019
-PEO,2000000,CF/DMF,,,,,xy stage,5,NA,3.334E-12,NA,0.0055,2000,NA,2.2379E-06,NA,meander,aligned,Xu2019
-PEO,2000000,CF/DMF,,,,,xy stage,5,NA,3.334E-12,NA,0.004,NA,0.1,2.34188E-06,NA,meander,aligned,Xu2019
-PEO,2000000,CF/DMF,,,,,xy stage,5,NA,3.334E-12,NA,0.005,2000,NA,2.75008E-06,NA,meander,aligned,Xu2019
-PEO,2000000,CF/DMF,,,,,xy stage,5,NA,3.334E-12,NA,0.004,NA,0.05,2.81326E-06,NA,meander,aligned,Xu2019
-PEO,2000000,CF/DMF,,,,,xy stage,5,NA,3.334E-12,NA,0.004,2200,NA,2.94565E-06,NA,meander,aligned,Xu2019
-PEO,2000000,CF/DMF,,,,,xy stage,5,NA,3.334E-12,NA,0.0045,2000,NA,2.96136E-06,NA,meander,aligned,Xu2019
-PEO,2000000,CF/DMF,,,,,xy stage,5,NA,3.334E-12,NA,0.004,2300,NA,3.19022E-06,NA,meander,aligned,Xu2019
-PEO,2000000,CF/DMF,,,,,xy stage,5,NA,3.334E-12,NA,0.004,2400,NA,3.64674E-06,NA,meander,aligned,Xu2019
-PEO,2000000,CF/DMF,,,,,xy stage,5,NA,3.334E-12,NA,0.004,2000,NA,3.70362E-06,NA,meander,aligned,Xu2019
-PEO,2000000,CF/DMF,,,,,xy stage,5,NA,3.334E-12,NA,0.0035,2000,NA,4.21138E-06,NA,meander,aligned,Xu2019
-PEO,2000000,CF/DMF,,,,,xy stage,5,NA,3.334E-12,NA,0.004,2500,NA,4.23913E-06,NA,meander,aligned,Xu2019
-PEO,2000000,CF/DMF,,,,,xy stage,5,NA,3.334E-12,NA,0.003,2000,NA,4.57311E-06,NA,meander,aligned,Xu2019
-PEO,2000000,CF/DMF,,,,,xy stage,5,NA,3.334E-12,NA,0.0025,2000,NA,4.92156E-06,NA,meander,aligned,Xu2019
+PEO,2000000,Water,,,,,multinozzle xy stage,5,0.00018,3.334E-12,NA,0.004,2300,0.02,NA,0.003034,straight,aligned,Wang2017
+PEO,2000000,Water,,,,,multinozzle xy stage,5,0.00018,3.334E-12,NA,0.004,2400,0.02,NA,0.003034,straight,aligned,Wang2017
+PEO,2000000,Water,,,,,multinozzle xy stage,5,0.00018,3.334E-12,NA,0.004,2500,0.02,NA,0.003078,straight,aligned,Wang2017
+PEO,2000000,Water,,,,,multinozzle xy stage,5,0.00018,3.334E-12,NA,0.004,2600,0.02,NA,0.003092,straight,aligned,Wang2017
+PEO,2000000,Water,,,,,multinozzle xy stage,5,0.00018,3.334E-12,NA,0.004,2700,0.02,NA,0.003087,straight,aligned,Wang2017
+PEO,2000000,Water,,,,,multinozzle xy stage,5,0.00018,3.334E-12,NA,0.004,2800,0.02,NA,0.003105,straight,aligned,Wang2017
+PEO,2000000,Water,,,,,multinozzle xy stage,5,0.00018,3.334E-12,NA,0.004,2300,0.02,NA,0.002798,straight,aligned,Wang2017
+PEO,2000000,Water,,,,,multinozzle xy stage,5,0.00018,3.334E-12,NA,0.004,2400,0.02,NA,0.00281,straight,aligned,Wang2017
+PEO,2000000,Water,,,,,multinozzle xy stage,5,0.00018,3.334E-12,NA,0.004,2500,0.02,NA,0.002836,straight,aligned,Wang2017
+PEO,2000000,Water,,,,,multinozzle xy stage,5,0.00018,3.334E-12,NA,0.004,2600,0.02,NA,0.002825,straight,aligned,Wang2017
+PEO,2000000,Water,,,,,multinozzle xy stage,5,0.00018,3.334E-12,NA,0.004,2700,0.02,NA,0.002812,straight,aligned,Wang2017
+PEO,2000000,Water,,,,,multinozzle xy stage,5,0.00018,3.334E-12,NA,0.004,2800,0.02,NA,0.002819,straight,aligned,Wang2017
+PEO,2000000,Water,,,,,multinozzle xy stage,5,0.00018,3.334E-12,NA,0.004,2300,0.02,NA,0.002718,straight,aligned,Wang2017
+PEO,2000000,Water,,,,,multinozzle xy stage,5,0.00018,3.334E-12,NA,0.004,2400,0.02,NA,0.002766,straight,aligned,Wang2017
+PEO,2000000,Water,,,,,multinozzle xy stage,5,0.00018,3.334E-12,NA,0.004,2500,0.02,NA,0.002726,straight,aligned,Wang2017
+PEO,2000000,Water,,,,,multinozzle xy stage,5,0.00018,3.334E-12,NA,0.004,2600,0.02,NA,0.002771,straight,aligned,Wang2017
+PEO,2000000,Water,,,,,multinozzle xy stage,5,0.00018,3.334E-12,NA,0.004,2700,0.02,NA,0.002753,straight,aligned,Wang2017
+PEO,2000000,Water,,,,,multinozzle xy stage,5,0.00018,3.334E-12,NA,0.004,2800,0.02,NA,0.002779,straight,aligned,Wang2017
+PEO,2000000,Water,,,,,multinozzle xy stage,5,0.00018,3.334E-12,NA,0.003,2500,0.02,NA,0.002475,straight,aligned,Wang2017
+PEO,2000000,Water,,,,,multinozzle xy stage,5,0.00018,3.334E-12,NA,0.0032,2500,0.02,NA,0.002515,straight,aligned,Wang2017
+PEO,2000000,Water,,,,,multinozzle xy stage,5,0.00018,3.334E-12,NA,0.0034,2500,0.02,NA,0.002565,straight,aligned,Wang2017
+PEO,2000000,Water,,,,,multinozzle xy stage,5,0.00018,3.334E-12,NA,0.0036,2500,0.02,NA,0.002589,straight,aligned,Wang2017
+PEO,2000000,Water,,,,,multinozzle xy stage,5,0.00018,3.334E-12,NA,0.0038,2500,0.02,NA,0.002648,straight,aligned,Wang2017
+PEO,2000000,Water,,,,,multinozzle xy stage,5,0.00018,3.334E-12,NA,0.004,2500,0.02,NA,0.002724,straight,aligned,Wang2017
+PEO,2000000,Water,,,,,multinozzle xy stage,5,0.00018,3.334E-12,NA,0.0042,2500,0.02,NA,0.002765,straight,aligned,Wang2017
+PEO,2000000,Water,,,,,multinozzle xy stage,5,0.00018,3.334E-12,NA,0.0044,2500,0.02,NA,0.002864,straight,aligned,Wang2017
+PEO,2000000,Water,,,,,multinozzle xy stage,5,0.00018,3.334E-12,NA,0.0046,2500,0.02,NA,0.002913,straight,aligned,Wang2017
+PEO,2000000,Water,,,,,multinozzle xy stage,5,0.00018,3.334E-12,NA,0.0048,2500,0.02,NA,0.00298,straight,aligned,Wang2017
+PEO,2000000,Water,,,,,multinozzle xy stage,5,0.00018,3.334E-12,NA,0.005,2500,0.02,NA,0.003051,straight,aligned,Wang2017
+PEO,2000000,Water,0.056,0.00981,25,1215.525,multinozzle xy stage,5,0.00018,NA,SST,0.004,2500,0.02,6.23219E-06,0.02520032,straight,aligned,Wang2018a
+PEO,4000000,NA,,,,,xy stage,2,0.00015,NA,Si,0.002,1250,NA,NA,0.000074,meander,aligned,Xu2014
+PEO,4000000,NA,,,,,xy stage,2,0.00015,NA,Si,0.002,1250,NA,NA,0.00002,meander,aligned,Xu2014
+PEO,4000000,NA,,,,,xy stage,2,0.00015,NA,Si,0.002,1250,NA,NA,0.000007,meander,aligned,Xu2014
+PEO,4000000,NA,0.056,0.00981,25,1215.525,xy stage,2,0.00015,NA,Si,0.002,1250,NA,3.43196E-07,NA,meander,aligned,Xu2014
 PEO,2000000,CF/DMF,,,,,xy stage,5,NA,3.334E-12,NA,0.004,2700,NA,5.07609E-06,NA,meander,aligned,Xu2019
+PEO,2000000,CF/DMF,,,,,xy stage,5,NA,3.334E-12,NA,0.0025,2000,NA,4.92156E-06,NA,meander,aligned,Xu2019
+PEO,2000000,CF/DMF,,,,,xy stage,5,NA,3.334E-12,NA,0.003,2000,NA,4.57311E-06,NA,meander,aligned,Xu2019
+PEO,2000000,CF/DMF,,,,,xy stage,5,NA,3.334E-12,NA,0.004,2500,NA,4.23913E-06,NA,meander,aligned,Xu2019
+PEO,2000000,CF/DMF,,,,,xy stage,5,NA,3.334E-12,NA,0.0035,2000,NA,4.21138E-06,NA,meander,aligned,Xu2019
+PEO,2000000,CF/DMF,,,,,xy stage,5,NA,3.334E-12,NA,0.004,2000,NA,3.70362E-06,NA,meander,aligned,Xu2019
+PEO,2000000,CF/DMF,,,,,xy stage,5,NA,3.334E-12,NA,0.004,2400,NA,3.64674E-06,NA,meander,aligned,Xu2019
+PEO,2000000,CF/DMF,,,,,xy stage,5,NA,3.334E-12,NA,0.004,2300,NA,3.19022E-06,NA,meander,aligned,Xu2019
+PEO,2000000,CF/DMF,,,,,xy stage,5,NA,3.334E-12,NA,0.0045,2000,NA,2.96136E-06,NA,meander,aligned,Xu2019
+PEO,2000000,CF/DMF,,,,,xy stage,5,NA,3.334E-12,NA,0.004,2200,NA,2.94565E-06,NA,meander,aligned,Xu2019
+PEO,2000000,CF/DMF,,,,,xy stage,5,NA,3.334E-12,NA,0.004,NA,0.05,2.81326E-06,NA,meander,aligned,Xu2019
+PEO,2000000,CF/DMF,,,,,xy stage,5,NA,3.334E-12,NA,0.005,2000,NA,2.75008E-06,NA,meander,aligned,Xu2019
+PEO,2000000,CF/DMF,,,,,xy stage,5,NA,3.334E-12,NA,0.004,NA,0.1,2.34188E-06,NA,meander,aligned,Xu2019
+PEO,2000000,CF/DMF,,,,,xy stage,5,NA,3.334E-12,NA,0.0055,2000,NA,2.2379E-06,NA,meander,aligned,Xu2019
+PEO,2000000,CF/DMF,,,,,xy stage,5,NA,3.334E-12,NA,0.004,2100,NA,0.000002125,NA,meander,aligned,Xu2019
+PEO,2000000,CF/DMF,,,,,xy stage,5,NA,3.334E-12,NA,0.004,2000,NA,1.74457E-06,NA,meander,aligned,Xu2019
+PEO,2000000,CF/DMF,,,,,xy stage,5,NA,3.334E-12,NA,0.004,NA,0.15,1.69663E-06,NA,meander,aligned,Xu2019
+PEO,2000000,CF/DMF,,,,,xy stage,5,NA,3.334E-12,NA,0.004,1900,NA,1.41848E-06,NA,meander,aligned,Xu2019
+PEO,2000000,CF/DMF,,,,,xy stage,5,NA,3.334E-12,NA,0.004,NA,0.2,1.34999E-06,NA,meander,aligned,Xu2019
+PEO,2000000,CF/DMF,,,,,xy stage,5,NA,3.334E-12,NA,0.004,NA,0.25,1.06381E-06,NA,meander,aligned,Xu2019
+PEO,2000000,CF/DMF,,,,,xy stage,5,NA,3.334E-12,NA,0.004,NA,0.3,0.000000823,NA,meander,aligned,Xu2019
+PEO,2000000,CF/DMF,,,,,xy stage,5,NA,3.334E-12,NA,0.004,NA,0.35,6.95567E-07,NA,meander,aligned,Xu2019
 Gelatin,NA,CF/DMF,,,,,xy stage,11,NA,NA,PDMS,0.00125,1000,NA,9.01907E-07,0.00004,straight,aligned,Xue2014
-PEO,2000000,CF/DMF,,,,,multinozzle xy stage,8,NA,NA,NA,0.003,2500,0.08,2.88864E-06,NA,straight,aligned,Zhang2019
-PEO,2000000,CF/DMF,,,,,multinozzle xy stage,8,NA,NA,NA,0.003,2500,0.08,4.41184E-06,NA,straight,aligned,Zhang2019
-PEO,2000000,CF/DMF,,,,,multinozzle xy stage,8,NA,NA,NA,0.003,2500,0.08,6.04195E-06,NA,straight,aligned,Zhang2019
-PEO,2000000,CF/DMF,,,,,multinozzle xy stage,8,NA,NA,NA,0.003,2500,0.08,6.54441E-06,NA,straight,aligned,Zhang2019
-PEO,2000000,CF/DMF,,,,,multinozzle xy stage,8,NA,NA,NA,0.003,2500,0.08,7.21421E-06,0.002281,straight,aligned,Zhang2019
-PEO,2000000,CF/DMF,,,,,multinozzle xy stage,8,NA,NA,NA,0.003,2500,0.08,9.33712E-06,NA,straight,aligned,Zhang2019
-PEO,2000000,CF/DMF,,,,,multinozzle xy stage,8,NA,NA,NA,0.003,2500,0.08,1.00256E-05,0.002061,straight,aligned,Zhang2019
-PEO/SU8,,CF/DMF,0.032,0.0088,25,1149.1,,0.25,,,,0.0001,200,,0.0000012,,,,Aguirre2020
-PEO/SU8,,CF/DMF,0.056,0.00981,25,1215.525,,0.5,,,,0.0001,200,,0.00000209,,,,Aguirre2020
-PEO/SU8,,CF/DMF,0.08,0.010825,25,1267.176786,,0.75,,,,0.0001,200,,0.00000216,,,,Aguirre2020
-PEO/SU8,,CF/DMF,0.2,0.01184,25,1318.828571,,1,,,,0.0001,200,,0.000003494,,,,Aguirre2020
+PEO,900000,Water,0.056,0.00981,25,1215.525,xy stage,5,0.00011,1.667E-12,PS,0.001,1300,0.06667,1.99454E-05,NA,straight,aligned,Yang2019
+PEO,900000,Water,0.056,0.00981,25,1215.525,xy stage,5,0.00011,1.667E-12,PS,0.001,1200,0.06667,9.89071E-06,NA,straight,aligned,Yang2019
+PEO,900000,Water,0.056,0.00981,25,1215.525,xy stage,5,0.00011,1.667E-12,PS,0.001,1100,0.06667,6.3388E-06,NA,straight,aligned,Yang2019
+PEO,900000,Water,0.056,0.00981,25,1215.525,xy stage,5,0.00011,1.6668E-11,PS,0.001,1000,0.06667,4.36455E-06,NA,straight,aligned,Yang2019
+PEO,900000,Water,0.056,0.04905,25,1215.525,xy stage,5,0.00011,1.667E-12,PS,0.0005,1000,0.06667,3.11427E-06,NA,straight,aligned,Yang2019
+PEO,900000,Water,0.056,0.01348875,25,1215.525,xy stage,5,0.00011,1.667E-12,PS,0.001,1000,0.06667,2.78254E-06,NA,straight,aligned,Yang2019
+PEO,900000,Water,0.056,0.014715,25,1215.525,xy stage,5,0.00011,1.667E-12,PS,0.001,1000,0.034117815,2.39024E-06,NA,straight,aligned,Yang2019
+PEO,900000,Water,0.056,0.01594125,25,1215.525,xy stage,5,0.00011,1.667E-12,PS,0.001,1000,0.050743621,2.26829E-06,NA,straight,aligned,Yang2019
+PEO,900000,Water,0.056,0.0171675,25,1215.525,xy stage,5,0.00011,1.3334E-11,PS,0.001,1000,0.06667,2.10484E-06,NA,straight,aligned,Yang2019
+PEO,900000,Water,0.056,0.01839375,25,1215.525,xy stage,5,0.00011,1.667E-12,PS,0.001,1000,0.067353959,2.10366E-06,NA,straight,aligned,Yang2019
+PEO,900000,Water,0.056,0.00981,25,1215.525,xy stage,5,0.00011,1.667E-12,PS,0.0015,1000,0.06667,1.98983E-06,NA,straight,aligned,Yang2019
+PEO,900000,Water,0.056,0.01962,25,1215.525,xy stage,5,0.00011,1.667E-12,PS,0.001,1000,0.06667,1.85792E-06,NA,straight,aligned,Yang2019
+PEO,900000,Water,0.056,0.02084625,25,1215.525,xy stage,5,0.00011,1.667E-12,PS,0.001,1000,0.083847183,1.61585E-06,NA,straight,aligned,Yang2019
+PEO,900000,Water,0.056,0.0220725,25,1215.525,xy stage,5,0.00011,1.667E-12,PS,0.001,1000,0.017140667,1.54268E-06,NA,straight,aligned,Yang2019
+PEO,900000,Water,0.056,0.02329875,25,1215.525,xy stage,5,0.00011,1.667E-12,PS,0.001,1000,0.10046415,1.46951E-06,NA,straight,aligned,Yang2019
+PEO,900000,Water,0.056,0.024525,25,1215.525,xy stage,5,0.00011,1.667E-12,PS,0.001,1000,0.008774731,1.45732E-06,NA,straight,aligned,Yang2019
+PEO,900000,Water,0.056,0.02575125,25,1215.525,xy stage,5,0.00011,1.667E-12,PS,0.001,1000,0.117083327,1.32927E-06,NA,straight,aligned,Yang2019
+PEO,900000,Water,0.056,0.0269775,25,1215.525,xy stage,5,0.00011,1.667E-12,PS,0.001,1000,0.133742279,1.29878E-06,NA,straight,aligned,Yang2019
+PEO,900000,Water,0.056,0.02820375,25,1215.525,xy stage,5,0.00011,8.334E-12,PS,0.001,1000,0.06667,1.24562E-06,NA,straight,aligned,Yang2019
+PEO,900000,Water,0.056,0.02943,25,1215.525,xy stage,5,0.00011,1.631E-12,PS,0.001,1000,0.06667,1.01018E-06,NA,straight,aligned,Yang2019
+PEO,900000,Water,0.056,0.03065625,25,1215.525,xy stage,5,0.00011,1.304E-12,PS,0.001,1000,0.06667,8.63128E-07,NA,straight,aligned,Yang2019
+PEO,900000,Water,0.056,0.0318825,25,1215.525,xy stage,5,0.00011,8.33E-13,PS,0.001,1000,0.06667,8.24504E-07,NA,straight,aligned,Yang2019
+PEO,900000,Water,0.056,0.00981,25,1215.525,xy stage,5,0.00011,1.667E-12,PS,0.002,1000,0.06667,7.87353E-07,NA,straight,aligned,Yang2019
+PEO,900000,Water,0.056,0.03310875,25,1215.525,xy stage,5,0.00011,1.667E-12,PS,0.001,1000,0.150226664,7.86585E-07,NA,straight,aligned,Yang2019
+PEO,900000,Water,0.056,0.034335,25,1215.525,xy stage,5,0.00011,1.667E-12,PS,0.001,1000,0.166854679,6.70732E-07,NA,straight,aligned,Yang2019
+PCL,80000,NA,,,,,xy stage,NA,0.00026,2.778E-12,PE,0.002,3000,NA,0.0000068,NA,meander,aligned,You2017
+PS,240000,CF/DMF,0.0112,0.20601,83,2815.525,xy stage,30,0.000455,0,Au,0.0002,2400,0.015,0.00000781,NA,straight,mesh,Yousefi2019
+PEO,2000000,CF/DMF,0.056,0.00981,25,1215.525,multinozzle xy stage,8,NA,NA,NA,0.003,2500,0.08,1.00256E-05,0.002061,straight,aligned,Zhang2019
+PEO,2000000,CF/DMF,0.056,0.00981,25,1215.525,multinozzle xy stage,8,NA,NA,NA,0.003,2500,0.08,9.33712E-06,NA,straight,aligned,Zhang2019
+PEO,2000000,CF/DMF,0.056,0.00981,25,1215.525,multinozzle xy stage,8,NA,NA,NA,0.003,2500,0.08,7.21421E-06,0.002281,straight,aligned,Zhang2019
+PEO,2000000,CF/DMF,0.056,0.00981,25,1215.525,multinozzle xy stage,8,NA,NA,NA,0.003,2500,0.08,6.54441E-06,NA,straight,aligned,Zhang2019
+PEO,2000000,CF/DMF,0.056,0.00981,25,1215.525,multinozzle xy stage,8,NA,NA,NA,0.003,2500,0.08,6.04195E-06,NA,straight,aligned,Zhang2019
+PEO,2000000,CF/DMF,0.056,0.00981,25,1215.525,multinozzle xy stage,8,NA,NA,NA,0.003,2500,0.08,4.41184E-06,NA,straight,aligned,Zhang2019
+PEO,2000000,CF/DMF,0.056,0.00981,25,1215.525,multinozzle xy stage,8,NA,NA,NA,0.003,2500,0.08,2.88864E-06,NA,straight,aligned,Zhang2019
+PEO,300000,Water/Ethanol,0.056,0.1962,25,1215.525,xy stage,18,0.00004,NA,Si,0.001,1700,0.36,4.894E-07,NA,coil,single,Zheng2010
+PEO,300000,Water/Ethanol,0.056,0.00981,25,1215.525,xy stage,14,0.00021,1.389E-11,PET,0.002,4000,0.05,0.000065816,NA,meander,aligned,Zheng2014
+PEO,300000,Water/Ethanol,0.056,0.00981,25,1215.525,xy stage,14,0.00021,1.389E-11,PET,0.002,4000,0.1,0.000036188,NA,meander,aligned,Zheng2014
+PEO,300000,Water/Ethanol,0.056,0.00981,25,1215.525,xy stage,14,0.00021,1.389E-11,PET,0.002,2941.961118,0.02,3.55556E-05,NA,meander,aligned,Zheng2014
+PEO,300000,Water/Ethanol,0.056,0.00981,25,1215.525,xy stage,14,0.00021,1.389E-11,PET,0.002,2453.526323,0.02,0.000031358,NA,meander,aligned,Zheng2014
+PEO,300000,Water/Ethanol,0.056,0.00981,15,1215.525,xy stage,14,0.00021,1.389E-11,PET,0.002,1956.932028,0.02,2.90432E-05,NA,meander,aligned,Zheng2014
+PEO,300000,Water/Ethanol,0.056,0.00981,25,1215.525,xy stage,14,0.00021,1.389E-11,PET,0.002,4000,1,0.000027499,0.0002979,meander,aligned,Zheng2014
+PEO,300000,Water/Ethanol,0.056,0.00981,5,1215.525,xy stage,14,0.00021,1.389E-11,PET,0.002,1459.912019,0.02,2.69136E-05,NA,meander,aligned,Zheng2014
+PEO,300000,Water/Ethanol,0.056,0.00981,25,1215.525,xy stage,14,0.00021,1.389E-11,PET,0.002,3466.723428,0.02,2.39506E-05,NA,meander,aligned,Zheng2014
+PEO,300000,Water/Ethanol,0.056,0.00981,25,1215.525,xy stage,14,0.00021,1.389E-11,PET,0.002,4000,0.2,0.000023861,NA,meander,aligned,Zheng2014
+PEO,300000,Water/Ethanol,0.056,0.00981,25,1215.525,xy stage,14,0.00021,1.389E-11,PET,0.002,4000,1.5,0.000022747,0.0002771,meander,aligned,Zheng2014
+PEO,300000,Water/Ethanol,0.056,0.00981,2.5,1215.525,xy stage,14,0.00021,1.389E-11,PET,0.002,971.8319852,0.02,2.25617E-05,NA,meander,aligned,Zheng2014
+PEO,300000,Water/Ethanol,0.056,0.00981,25,1215.525,xy stage,14,0.00021,1.389E-11,PET,0.002,3974.670072,0.02,2.13272E-05,NA,meander,aligned,Zheng2014
+PEO,300000,Water/Ethanol,0.056,0.00981,25,1215.525,xy stage,14,0.00021,1.389E-11,PET,0.002,4000,0.7,0.000020519,0,meander,aligned,Zheng2014
+PEO,300000,Water/Ethanol,0.056,0.0014715,15,1215.525,xy stage,14,0.00021,1.389E-11,PET,0.002,485.5967078,0.02,1.74074E-05,NA,meander,aligned,Zheng2014
+PCL,90000,CF/DMF,0.056,0.000981,25,1215.525,xy stage,10,0.00041,8.334E-11,Si/Al,0.001,800,0.03,0.000091458,NA,straight,single,Zhou2010
+PCL,90000,CF/DMF,0.056,0.00981,25,1215.525,xy stage,10,0.00041,2.5002E-11,Si/Al,0.002,4000,0.03,0.00008976,NA,straight,single,Zhou2010
+PCL,90000,CF/DMF,0.056,0.00981,25,1215.525,xy stage,10,0.00041,5.0004E-11,Si/Al,0.002,4000,0.03,0.000079967,NA,straight,single,Zhou2010
+PCL,90000,CF/DMF,0.056,0.00981,25,1215.525,xy stage,10,0.00041,4.167E-11,Si/Al,0.002,4000,0.03,0.000077595,NA,straight,single,Zhou2010
+PCL,90000,CF/DMF,0.056,0.00981,25,1215.525,xy stage,10,0.00041,1.6668E-11,Si/Al,0.002,4000,0.03,0.000065668,NA,straight,single,Zhou2010
+PCL,90000,CF/DMF,0.056,0.00981,25,1215.525,xy stage,10,0.00041,8.334E-12,Si/Al,0.002,4000,0.03,0.00003285,NA,straight,single,Zhou2010
+PCL,90000,CF/DMF,0.056,0.00981,25,1215.525,xy stage,10,0.00041,1.6668E-11,Si/Al,0.001,2000,0.03,0.000018555,NA,straight,single,Zhou2010
+PCL,90000,CF/DMF,0.056,0.000981,25,1215.525,xy stage,10,0.00041,8.334E-11,Si/Al,0.003,800,0.03,0.000017283,NA,straight,single,Zhou2010
+PCL,90000,CF/DMF,0.056,0.000981,25,1215.525,xy stage,10,0.00041,8.334E-11,Si/Al,0.002,800,0.03,0.000016206,NA,straight,single,Zhou2010
+PCL,90000,CF/DMF,0.056,0.00981,25,1215.525,xy stage,10,0.00041,1.6668E-11,Si/Al,0.001,2000,0.045,0.000008054,NA,straight,single,Zhou2010
+PCL,90000,CF/DMF,0.056,0.00981,25,1215.525,xy stage,10,0.00041,1.6668E-11,Si/Al,0.001,2000,0.04,0.000007986,NA,straight,single,Zhou2010
+PEO,2000000,Water,0.056,0.00981,25,1215.525,auxiliary electrodes,4,0.00016,NA,Si,0.004,5000,0.005,1.35901E-05,NA,meander,single,Zhu2016
+PEO,2000000,Water,0.056,0.0073575,10,815.525,auxiliary electrodes,4,0.00016,NA,Si,0.004,2500,0.005,1.27336E-05,NA,meander,single,Zhu2016
+PEO,2000000,Water,0.056,0.00981,18,1015.525,auxiliary electrodes,4,0.00016,NA,Si,0.004,3750,0.005,1.24841E-05,NA,meander,single,Zhu2016
+PEO,2000000,Water,0.056,0.004905,4,615.525,auxiliary electrodes,4,0.00016,NA,Si,0.004,1250,0.005,7.33946E-06,NA,meander,single,Zhu2016
+PEO,2000000,Water,,,,,auxiliary electrodes,4,0.00016,NA,Si,0.004,0,0.005,7.06107E-06,NA,straight,aligned discontinuous,Zhu2016
