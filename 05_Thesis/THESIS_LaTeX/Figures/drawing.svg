@@ -367,8 +367,8 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.5"
-     inkscape:cx="2336.2528"
-     inkscape:cy="1372.5546"
+     inkscape:cx="2496.2528"
+     inkscape:cy="1612.5546"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -3155,7 +3155,9 @@
          style="stroke-width:0.26458332"></tspan></text>
     <g
        id="g2452"
-       transform="translate(-120.65,-219.075)">
+       transform="translate(-120.65,-219.075)"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
       <g
          transform="matrix(0.72857967,0,0,0.72857967,216.27689,79.36605)"
          id="g1709">

@@ -945,11 +945,11 @@
     \endentry
     \entry{Belenkov2003}{inproceedings}{}
       \name{author}{1}{}{%
-        {{hash=894a52bd2c26138245c132f5b7e46890}{%
+        {{hash=7b5a81618267afe033708833ad1759a3}{%
            family={Belenkov},
            familyi={B\bibinitperiod},
-           given={Е.\bibnamedelimi А.},
-           giveni={Е\bibinitperiod\bibinitdelim А\bibinitperiod}}}%
+           given={E.\bibnamedelimi A.},
+           giveni={E\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
       }
       \list{location}{1}{%
         {Chelyabinsk, Russia}%
@@ -957,12 +957,12 @@
       \list{publisher}{1}{%
         {Chelyabinsk State University}%
       }
-      \strng{namehash}{894a52bd2c26138245c132f5b7e46890}
-      \strng{fullhash}{894a52bd2c26138245c132f5b7e46890}
-      \strng{bibnamehash}{894a52bd2c26138245c132f5b7e46890}
-      \strng{authorbibnamehash}{894a52bd2c26138245c132f5b7e46890}
-      \strng{authornamehash}{894a52bd2c26138245c132f5b7e46890}
-      \strng{authorfullhash}{894a52bd2c26138245c132f5b7e46890}
+      \strng{namehash}{7b5a81618267afe033708833ad1759a3}
+      \strng{fullhash}{7b5a81618267afe033708833ad1759a3}
+      \strng{bibnamehash}{7b5a81618267afe033708833ad1759a3}
+      \strng{authorbibnamehash}{7b5a81618267afe033708833ad1759a3}
+      \strng{authornamehash}{7b5a81618267afe033708833ad1759a3}
+      \strng{authorfullhash}{7b5a81618267afe033708833ad1759a3}
       \field{sortinit}{1}
       \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
       \field{labelnamesource}{author}
@@ -1072,8 +1072,8 @@
            familyi={A\bibinitperiod},
            given={Keld},
            giveni={K\bibinitperiod}}}%
-        {{hash=149b0755125975be9de8a66aae220102}{%
-           family={B{ø}gelund},
+        {{hash=053f8b607b490c89217ea12c739aa2d3}{%
+           family={Bogelund},
            familyi={B\bibinitperiod},
            given={Jesper},
            giveni={J\bibinitperiod}}}%
@@ -1116,12 +1116,12 @@
       \list{publisher}{1}{%
         {The Danish Environmental Protection Agency}%
       }
-      \strng{namehash}{d89e34cda8206fb3c45ee51ec4d236ad}
-      \strng{fullhash}{d89e34cda8206fb3c45ee51ec4d236ad}
-      \strng{bibnamehash}{d89e34cda8206fb3c45ee51ec4d236ad}
-      \strng{authorbibnamehash}{d89e34cda8206fb3c45ee51ec4d236ad}
-      \strng{authornamehash}{d89e34cda8206fb3c45ee51ec4d236ad}
-      \strng{authorfullhash}{d89e34cda8206fb3c45ee51ec4d236ad}
+      \strng{namehash}{e124b5b3255ae4a4dab7334aefc8c828}
+      \strng{fullhash}{e124b5b3255ae4a4dab7334aefc8c828}
+      \strng{bibnamehash}{e124b5b3255ae4a4dab7334aefc8c828}
+      \strng{authorbibnamehash}{e124b5b3255ae4a4dab7334aefc8c828}
+      \strng{authornamehash}{e124b5b3255ae4a4dab7334aefc8c828}
+      \strng{authorfullhash}{e124b5b3255ae4a4dab7334aefc8c828}
       \field{sortinit}{1}
       \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
       \field{labelnamesource}{author}
