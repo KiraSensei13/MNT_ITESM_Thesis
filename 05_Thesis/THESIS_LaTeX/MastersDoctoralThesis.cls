@@ -225,6 +225,7 @@
 \NewDocumentCommand{\department}{m}{\newcommand{\deptname}{#1}}
 \NewDocumentCommand{\group}{m}{\newcommand{\groupname}{#1}}
 \NewDocumentCommand{\faculty}{m}{\newcommand{\facname}{#1}}
+\NewDocumentCommand{\examDateAndAddress}{m}{\newcommand{\examDate}{#1}}
 \NewDocumentCommand{\subject}{m}{\newcommand{\subjectname}{#1}}
 \NewDocumentCommand{\keywords}{m}{\newcommand{\keywordnames}{#1}}
 
@@ -324,8 +325,8 @@ KOMA-script documentation for details.}]{fancyhdr}
 %	ABBREVIATIONS PAGE DESIGN
 %----------------------------------------------------------------------------------------
 
-\newcommand{\abbrevname}{List of Abbreviations}
-\providecaptionname{english,british,american}{\abbrevname}{List of Abbreviations}
+\newcommand{\abbrevname}{Abbreviations}
+\providecaptionname{english,british,american}{\abbrevname}{Acronyms and Abbreviations}
 \providecaptionname{ngerman,german,austrian,naustrian}{\abbrevname}{Abk\"urzungsverzeichnis}
 \NewDocumentEnvironment{abbreviations}{ m }{%
 	\ifbool{nolistspace}{\begingroup\singlespacing}{}
@@ -363,18 +364,20 @@ KOMA-script documentation for details.}]{fancyhdr}
 		#1%added to be able to have abstract more than one page long
 		\thispagestyle{plain}
 		\begin{center}
-			{\normalsize \MakeUppercase{\univname} \par}% University name in capitals
-			\bigskip
-			{\huge\textit{\abstractname} \par}
-			\bigskip
-			{\normalsize \facname \par}% Faculty name
-			{\normalsize \deptname \par}% Department name
-			\bigskip
-			{\normalsize \degreename\par}% Degree name
-			\bigskip
+			%{\normalsize \MakeUppercase{\univname} \par}% University name in capitals
+			%\bigskip
+			%{\huge\textit{\abstractname} \par}
+			%\bigskip
+			%{\normalsize \facname \par}% Faculty name
+			%{\normalsize \deptname \par}% Department name
+			%\bigskip
+			%{\normalsize \degreename\par}% Degree name
+			%\bigskip
 			{\normalsize\bfseries \@title \par}% Thesis title
 			\medskip
 			{\normalsize \byname{} \authorname \par}% Author name
+			\bigskip
+			{\huge\textit{\abstractname} \par}
 			\bigskip
 		\end{center}
 	}
@@ -406,6 +409,34 @@ KOMA-script documentation for details.}]{fancyhdr}
 }
 {
 	\vfill\null
+}
+
+%----------------------------------------------------------------------------------------
+%	DEDICATION PAGE DESIGN
+%----------------------------------------------------------------------------------------
+
+\usepackage{xcolor}
+\colorlet{mdtRed}{red!50!black}
+\newcommand{\dedicationname}{Dedication}
+\providecaptionname{american,australian,british,canadian,english,newzealand,UKenglish,USenglish} {\dedicationname}{Dedication} % Acknowledgement text for English countries
+\providecaptionname{german,ngerman,austrian,naustrian}{\dedicationname}{Danksagung} % Acknowledgement text for Germanic countries
+
+\ifbool{consistentlayout}{
+	\DeclareDocumentEnvironment{dedication}{}{%
+		\tttypeout{\dedicationname}
+		\addchap*{\dedicationname}
+	}
+}
+{
+	\DeclareDocumentEnvironment{dedication}{}{%
+		\checktoopen
+		\tttypeout{\dedicationname}
+		\thispagestyle{plain}
+		\begin{center}{\huge\textit{\dedicationname}\par}\end{center}
+	}
+	{
+		\vfil\vfil\null
+	}
 }
 
 %----------------------------------------------------------------------------------------
@@ -463,7 +494,7 @@ KOMA-script documentation for details.}]{fancyhdr}
 %----------------------------------------------------------------------------------------
 
 \newcommand{\supervisingcommittee}{Supervising Committee}
-\providecaptionname{american,australian,british,canadian,english,newzealand,UKenglish,USenglish}{\supervisingcommittee}{Supervising Committee} % Supervising Committee text for English countries
+\providecaptionname{american,australian,british,canadian,english,newzealand,UKenglish,USenglish}{\supervisingcommittee}{} % Supervising Committee text for English countries
 \providecaptionname{german,ngerman,austrian,naustrian}{\supervisingcommittee}{Überwachungsausschuss\"arung} % Declaration of Authorship text for Germanic countries
 
 \ifbool{consistentlayout}{
@@ -478,7 +509,9 @@ KOMA-script documentation for details.}]{fancyhdr}
 		\begin{center}
 			{\normalsize \MakeUppercase{\univname} \par}% University name in capitals
 			\campusname
-			\bigskip
+			\\
+			\deptname
+			%\bigskip
 		\end{center}
 		\null\vfil
 		{\noindent\huge\bfseries\supervisingcommittee\par\vspace{10pt}}
@@ -531,8 +564,8 @@ KOMA-script documentation for details.}]{fancyhdr}
 %	SYMBOLS PAGE DESIGN
 %----------------------------------------------------------------------------------------
 
-\newcommand{\symbolsname}{List of Symbols}
-\providecaptionname{english,british,american}{\symbolsname}{List of Symbols}
+\newcommand{\symbolsname}{Symbols}
+\providecaptionname{english,british,american}{\symbolsname}{Variables and Symbols}
 \providecaptionname{ngerman,german,austrian,naustrian}{\symbolsname}{Symbolverzeichnis}
 
 \NewDocumentEnvironment{symbols}{ m }{%

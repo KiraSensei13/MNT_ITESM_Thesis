@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.6960 64-bit) (preloaded format=pdflatex 2019.2.1)  6 NOV 2020 15:14
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.6960 64-bit) (preloaded format=pdflatex 2019.2.1)  9 NOV 2020 14:30
 entering extended mode
 **./main.tex
 (main.tex
@@ -1559,7 +1559,7 @@ LaTeX Info: Redefining \pageref on input line 6454.
 )
 Package scrhack Info: hyperref hack deactivated because of
 (scrhack)             detection of hyperref version, that doesn't
-(scrhack)             need that hack, on input line 173.
+(scrhack)             need that hack, on input line 175.
 Package hyperref Info: Driver (autodetected): hpdftex.
 
 ("C:\Users\oskat\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\hpdftex.d
@@ -1576,10 +1576,10 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip109
 )
-Package hyperref Info: Option `bookmarksopen' set `true' on input line 173.
-Package hyperref Info: Option `hypertexnames' set `false' on input line 173.
-Package hyperref Info: Option `colorlinks' set `true' on input line 173.
-Package hyperref Info: Option `unicode' set `true' on input line 173.
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 175.
+Package hyperref Info: Option `hypertexnames' set `false' on input line 175.
+Package hyperref Info: Option `colorlinks' set `true' on input line 175.
+Package hyperref Info: Option `unicode' set `true' on input line 175.
 
 ("C:\Users\oskat\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\puenc.def
 "
@@ -1587,7 +1587,7 @@ File: puenc.def 2018/11/30 v6.88e Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
 ... no UTF-8 mapping file for font encoding PU
 )
-Package hyperref Info: Option `breaklinks' set `true' on input line 173.
+Package hyperref Info: Option `breaklinks' set `true' on input line 175.
 Package biblatex Info: Trying to load language 'english'...
 Package biblatex Info: ... file 'english.lbx' found.
 
@@ -1601,31 +1601,31 @@ Package csquotes Info: ... found 'babel' package.
 (Chapters/4.aux) (Chapters/5.aux))
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 173.
-LaTeX Font Info:    ... okay on input line 173.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 173.
-LaTeX Font Info:    ... okay on input line 173.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 173.
-LaTeX Font Info:    ... okay on input line 173.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 173.
-LaTeX Font Info:    ... okay on input line 173.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 173.
-LaTeX Font Info:    ... okay on input line 173.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 173.
-LaTeX Font Info:    ... okay on input line 173.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 173.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 173.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 175.
+LaTeX Font Info:    ... okay on input line 175.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 175.
+LaTeX Font Info:    ... okay on input line 175.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 175.
+LaTeX Font Info:    ... okay on input line 175.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 175.
+LaTeX Font Info:    ... okay on input line 175.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 175.
+LaTeX Font Info:    ... okay on input line 175.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 175.
+LaTeX Font Info:    ... okay on input line 175.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 175.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 175.
 
 
 ("C:\Users\oskat\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\ts1cmr.fd"
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 173.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 173.
-LaTeX Font Info:    ... okay on input line 173.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 173.
-LaTeX Font Info:    ... okay on input line 173.
-LaTeX Font Info:    Try loading font information for T1+ppl on input line 173.
+LaTeX Font Info:    ... okay on input line 175.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 175.
+LaTeX Font Info:    ... okay on input line 175.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 175.
+LaTeX Font Info:    ... okay on input line 175.
+LaTeX Font Info:    Try loading font information for T1+ppl on input line 175.
 
 ("C:\Users\oskat\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\t1ppl.fd"
 File: t1ppl.fd 2001/06/04 font definitions for T1/ppl.
@@ -1708,18 +1708,19 @@ Package caption Info: End \AtBeginDocument code.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 Package scrlayer Info: Setting magic \footheight to \baselineskip while
-(scrlayer)             \begin{document} on input line 173.
-Package scrbase Info: activating english \abbrevname on input line 173.
-Package scrbase Info: activating english \byname on input line 173.
-Package scrbase Info: activating english \acknowledgementname on input line 173
+(scrlayer)             \begin{document} on input line 175.
+Package scrbase Info: activating english \abbrevname on input line 175.
+Package scrbase Info: activating english \byname on input line 175.
+Package scrbase Info: activating english \dedicationname on input line 175.
+Package scrbase Info: activating english \acknowledgementname on input line 175
 .
-Package scrbase Info: activating english \authorshipname on input line 173.
+Package scrbase Info: activating english \authorshipname on input line 175.
 Package scrbase Info: activating english \supervisingcommittee on input line 17
-3.
-Package scrbase Info: activating english \constantsname on input line 173.
-Package scrbase Info: activating english \symbolsname on input line 173.
+5.
+Package scrbase Info: activating english \constantsname on input line 175.
+Package scrbase Info: activating english \symbolsname on input line 175.
 ABD: EverySelectfont initializing macros
-LaTeX Info: Redefining \selectfont on input line 173.
+LaTeX Info: Redefining \selectfont on input line 175.
 Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Automatic encoding selection.
 (biblatex)             Assuming data encoding 'utf8'.
@@ -1728,8 +1729,8 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'main.bbl' found.
  (main.bbl)
-Package biblatex Info: Reference section=0 on input line 173.
-Package biblatex Info: Reference segment=0 on input line 173.
+Package biblatex Info: Reference section=0 on input line 175.
+Package biblatex Info: Reference segment=0 on input line 175.
 
 ABD: EveryShipout initializing macros
 \AtBeginShipoutBox=\box78
@@ -1739,7 +1740,7 @@ ABD: EveryShipout initializing macros
 Package: pdflscape 2016/05/14 v0.11 Display of landscape pages in PDF (HO)
 Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 )
-Package hyperref Info: Link coloring ON on input line 173.
+Package hyperref Info: Link coloring ON on input line 175.
 
 ("C:\Users\oskat\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\nameref.s
 ty"
@@ -1751,50 +1752,50 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count465
 )
-LaTeX Info: Redefining \ref on input line 173.
-LaTeX Info: Redefining \pageref on input line 173.
-LaTeX Info: Redefining \nameref on input line 173.
+LaTeX Info: Redefining \ref on input line 175.
+LaTeX Info: Redefining \pageref on input line 175.
+LaTeX Info: Redefining \nameref on input line 175.
  (main.out) (main.out)
 \@outlinefile=\write5
 \openout5 = `main.out'.
 
-LaTeX Font Info:    Try loading font information for OT1+ppl on input line 173.
+LaTeX Font Info:    Try loading font information for OT1+ppl on input line 175.
 
 
 ("C:\Users\oskat\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\ot1ppl.fd"
 File: ot1ppl.fd 2001/06/04 font definitions for OT1/ppl.
 )
-LaTeX Font Info:    Try loading font information for OML+zplm on input line 173
+LaTeX Font Info:    Try loading font information for OML+zplm on input line 175
 .
 ("C:\Users\oskat\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\omlzplm.fd"
 File: omlzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OML/zplm.
 )
-LaTeX Font Info:    Try loading font information for OMS+zplm on input line 173
+LaTeX Font Info:    Try loading font information for OMS+zplm on input line 175
 .
  ("C:\Users\oskat\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\omszplm.fd
 "
 File: omszplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMS/zplm.
 )
-LaTeX Font Info:    Try loading font information for OMX+zplm on input line 173
+LaTeX Font Info:    Try loading font information for OMX+zplm on input line 175
 .
 
 ("C:\Users\oskat\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\omxzplm.fd"
 File: omxzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMX/zplm.
 )
-LaTeX Font Info:    Try loading font information for OT1+zplm on input line 173
+LaTeX Font Info:    Try loading font information for OT1+zplm on input line 175
 .
  ("C:\Users\oskat\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\ot1zplm.fd
 "
 File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
 )
 1: section
-<./Figures/uniLogo.png, id=147, 401.5pt x 401.5pt>
+<./Figures/uniLogo.png, id=153, 803.0pt x 984.67876pt>
 File: ./Figures/uniLogo.png Graphic file (type png)
 <use ./Figures/uniLogo.png>
-Package pdftex.def Info: ./Figures/uniLogo.png  used on input line 192.
-(pdftex.def)             Requested size: 60.60188pt x 60.60223pt.
+Package pdftex.def Info: ./Figures/uniLogo.png  used on input line 197.
+(pdftex.def)             Requested size: 80.80458pt x 99.07463pt.
 LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <20.74> not available
-(Font)              Font shape `T1/ppl/b/n' tried instead on input line 199.
+(Font)              Font shape `T1/ppl/b/n' tried instead on input line 203.
 [1
 
 
@@ -1802,14 +1803,8 @@ LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <20.74> not available
 {C:/Users/oskat/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./Figures/u
 niLogo.png>]
 --------------------
- Supervising Committee
+ 
 --------------------
-
-Underfull \hbox (badness 1824) in paragraph at lines 255--256
-\T1/ppl/m/n/10.95 The com-mit-tee mem-bers, hereby, rec-om-mend that the pro-po
-sal by An-to-nio
- []
-
 1: section
 [1
 
@@ -1817,12 +1812,12 @@ sal by An-to-nio
 --------------------
  Declaration of Authorship
 --------------------
-LaTeX Font Info:    Try loading font information for TS1+ppl on input line 332.
+LaTeX Font Info:    Try loading font information for TS1+ppl on input line 320.
 
 ("C:\Users\oskat\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\ts1ppl.fd"
 File: ts1ppl.fd 2001/06/04 font definitions for TS1/ppl.
 )
-Underfull \hbox (badness 10000) in paragraph at lines 337--338
+Underfull \hbox (badness 10000) in paragraph at lines 325--327
 
  []
 
@@ -1831,21 +1826,25 @@ Underfull \hbox (badness 10000) in paragraph at lines 337--338
 
 
 ]
-<./Figures/quote.png, id=176, 759.58781pt x 909.3975pt>
-File: ./Figures/quote.png Graphic file (type png)
-<use ./Figures/quote.png>
-Package pdftex.def Info: ./Figures/quote.png  used on input line 356.
-(pdftex.def)             Requested size: 242.4199pt x 290.2222pt.
-LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <10.95> not available
-(Font)              Font shape `T1/ppl/b/n' tried instead on input line 362.
- [3
-
- <./Figures/quote.png>]
 --------------------
- Abstract
+ Dedication
 --------------------
 
-Underfull \hbox (badness 10000) in paragraph at lines 375--376
+Underfull \hbox (badness 10000) in paragraph at lines 373--374
+\T1/ppl/m/n/10.95 Thanks for all your un-con-di-tional con-fi-dence, sup-port, 
+pa-tience, and
+ []
+
+1: section
+[3
+
+
+]
+--------------------
+ Acknowledgements
+--------------------
+
+Underfull \hbox (badness 10000) in paragraph at lines 383--385
 
  []
 
@@ -1854,60 +1853,54 @@ Underfull \hbox (badness 10000) in paragraph at lines 375--376
 
 ]
 --------------------
- Acknowledgements
+ Abstract
 --------------------
+LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <10.95> not available
+(Font)              Font shape `T1/ppl/b/n' tried instead on input line 407.
 
-Underfull \hbox (badness 10000) in paragraph at lines 387--389
+Underfull \hbox (badness 10000) in paragraph at lines 409--410
 
  []
 
 1: section
 [5
 
+] (main.lof)
+\tf@lof=\write6
+\openout6 = `main.lof'.
+
+
+1: section
+[6
+
+] (main.lot)
+\tf@lot=\write7
+\openout7 = `main.lot'.
+
+
+1: section
+[7
+
 ] (main.toc
-Underfull \hbox (badness 3713) in paragraph at lines 29--29
+Underfull \hbox (badness 3713) in paragraph at lines 28--28
  \T1/ppl/b/n/10.95 Elec-tro-spin-ning, and Forward-thinking on Pho-topoly-mer-i
 za-tion and 
  []
 
 1: section
-[6
+[8
 
 ]
-Underfull \hbox (badness 1092) in paragraph at lines 33--33
+Underfull \hbox (badness 1092) in paragraph at lines 32--32
  [][] [][][]\T1/ppl/m/n/10.95 Comparison of the Ob-tained Poly-mer Fi-bres Agai
 nst SU8-based 
  []
 
 )
-\tf@toc=\write6
-\openout6 = `main.toc'.
+\tf@toc=\write8
+\openout8 = `main.toc'.
 
- [7] (main.lof)
-\tf@lof=\write7
-\openout7 = `main.lof'.
-
-
-1: section
-[8
-
-] (main.lot)
-\tf@lot=\write8
-\openout8 = `main.lot'.
-
-
-1: section
-[9
-
-]
-1: section
-[10
-
-]
-1: section
-[11
-
-]
+ [9]
 1: section
 \openout2 = `./Chapters/1.aux'.
 
@@ -1939,7 +1932,7 @@ Underfull \hbox (badness 1102) in paragraph at lines 9--10
 e been de-vel-oped for
  []
 
-<./Figures/FabricationProcess.png, id=279, 510.2262pt x 100.6962pt>
+<./Figures/FabricationProcess.png, id=275, 510.2262pt x 100.6962pt>
 File: ./Figures/FabricationProcess.png Graphic file (type png)
 <use ./Figures/FabricationProcess.png>
 Package pdftex.def Info: ./Figures/FabricationProcess.png  used on input line 1
@@ -1985,7 +1978,7 @@ n the ap-pli-ca-tions at
 [2 <./Figures/FabricationProcess.png>]
 LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <12> not available
 (Font)              Font shape `T1/ppl/b/n' tried instead on input line 34.
-<./Figures/CBNfingerprint.png, id=308, 799.48688pt x 532.23843pt>
+<./Figures/CBNfingerprint.png, id=302, 799.48688pt x 532.23843pt>
 File: ./Figures/CBNfingerprint.png Graphic file (type png)
 <use ./Figures/CBNfingerprint.png>
 Package pdftex.def Info: ./Figures/CBNfingerprint.png  used on input line 38.
@@ -2002,7 +1995,7 @@ Underfull \hbox (badness 5802) in paragraph at lines 44--45
 ple scales.
  []
 
-<./Figures/carbonAllotropes.png, id=312, 1032.85875pt x 735.34724pt>
+<./Figures/carbonAllotropes.png, id=306, 1032.85875pt x 735.34724pt>
 File: ./Figures/carbonAllotropes.png Graphic file (type png)
 <use ./Figures/carbonAllotropes.png>
 Package pdftex.def Info: ./Figures/carbonAllotropes.png  used on input line 48.
@@ -2019,182 +2012,189 @@ Underfull \hbox (badness 2828) in paragraph at lines 50--50
 mond, car-byne and 
  []
 
+<./Figures/carbonAllotropesHybridization.png, id=307, 389.95688pt x 361.35pt>
+File: ./Figures/carbonAllotropesHybridization.png Graphic file (type png)
+<use ./Figures/carbonAllotropesHybridization.png>
+Package pdftex.def Info: ./Figures/carbonAllotropesHybridization.png  used on i
+nput line 56.
+(pdftex.def)             Requested size: 311.96591pt x 289.0804pt.
 [3 <./Figures/CBNfingerprint.png>]
-Underfull \hbox (badness 1642) in paragraph at lines 61--62
+Underfull \hbox (badness 1642) in paragraph at lines 69--70
 \T1/ppl/m/n/12 ex-cel-lent me-chan-i-cal strength, elec-tri-cal and ther-mal co
 n-duc-tiv-ity and
  []
 
-[4 <./Figures/carbonAllotropes.png>]
-Underfull \hbox (badness 3849) in paragraph at lines 68--69
+[4 <./Figures/carbonAllotropes.png>] [5 <./Figures/carbonAllotropesHybridizatio
+n.png>]
+Underfull \hbox (badness 3849) in paragraph at lines 76--77
 \T1/ppl/m/n/12 Carbon nanofibers (CNFs) have been clas-si-fied as lin-ear, sp2-
 based
  []
 
 
-Underfull \hbox (badness 2142) in paragraph at lines 68--69
+Underfull \hbox (badness 2142) in paragraph at lines 76--77
 \T1/ppl/m/n/12 CNFs have even been clas-si-fied as stacked (graphene lay-ers st
 acked
  []
 
 
-Underfull \hbox (badness 1831) in paragraph at lines 71--72
+Underfull \hbox (badness 1831) in paragraph at lines 79--80
 \T1/ppl/m/n/12 and large in surface-to-volume ra-tio. These char-ac-ter-is-tics
  con-fer to
  []
 
 
-Underfull \hbox (badness 2376) in paragraph at lines 71--72
+Underfull \hbox (badness 2376) in paragraph at lines 79--80
 \T1/ppl/m/n/12 and di-men-sion-al-ity ma-te-ri-als, such as elec-tri-cal, op-ti
 -cal ther-mal and
  []
 
 
-Underfull \hbox (badness 1019) in paragraph at lines 71--72
+Underfull \hbox (badness 1019) in paragraph at lines 79--80
 \T1/ppl/m/n/12 con-di-tions are a cru-cial fac-tor to ob-tain re-pro-ducible an
 d high-quality
  []
 
-[5]
-Underfull \hbox (badness 1275) in paragraph at lines 73--74
+
+Underfull \hbox (badness 1275) in paragraph at lines 81--82
 \T1/ppl/m/n/12 for sig-nal de-tec-tion [4], they can be man-u-fac-tured into 3D
  struc-tures
  []
 
-
-Underfull \hbox (badness 1122) in paragraph at lines 75--76
+[6]
+Underfull \hbox (badness 1122) in paragraph at lines 83--84
 \T1/ppl/m/n/12 scaf-folds for neu-ral tis-sues to fa-cil-i-tate com-mu-ni-ca-ti
 on through neu-ral
  []
 
-[6]
-Underfull \hbox (badness 1742) in paragraph at lines 79--80
+
+Underfull \hbox (badness 1742) in paragraph at lines 87--88
 \T1/ppl/m/n/12 probe with CNFs com-pos-ites as record-ing elec-trodes via the t
 her-mal
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 82--83
+[7]
+Underfull \hbox (badness 10000) in paragraph at lines 90--91
 []\T1/ppl/m/n/12 Nanostructured ma-te-ri-als are par-tic-u-larly good for su-pe
 r-ca-pac-i-tor
  []
 
 
-Underfull \hbox (badness 1210) in paragraph at lines 85--86
+Underfull \hbox (badness 1210) in paragraph at lines 93--94
 \T1/ppl/m/n/12 their at-trac-tive char-ac-ter-is-tic, such as, me-chan-i-cal pr
 op-er-ties, elec-tri-cal
  []
 
 
-Underfull \hbox (badness 1092) in paragraph at lines 85--86
+Underfull \hbox (badness 1092) in paragraph at lines 93--94
 \T1/ppl/m/n/12 con-duc-tiv-ity, low cost, easy pro-cess-ing, high sur-face area
  and unique
  []
 
 
-Underfull \hbox (badness 1394) in paragraph at lines 85--86
+Underfull \hbox (badness 1394) in paragraph at lines 93--94
 \T1/ppl/m/n/12 the elec-trolyte in the poly-mer back-bone that could re-sult in
  swelling
  []
 
-[7]
-Underfull \hbox (badness 1028) in paragraph at lines 88--89
+
+Underfull \hbox (badness 1028) in paragraph at lines 96--97
 \T1/ppl/m/n/12 metal ox-ides ma-te-ri-als in a nanowire ar-chi-tec-ture are a g
 ood strat-egy
  []
 
 
-Underfull \hbox (badness 2478) in paragraph at lines 88--89
+Underfull \hbox (badness 2478) in paragraph at lines 96--97
 \T1/ppl/m/n/12 to de-velop high-performance de-vices due to the com-bi-na-tion 
 of the
  []
 
 
-Underfull \hbox (badness 1077) in paragraph at lines 88--89
+Underfull \hbox (badness 1077) in paragraph at lines 96--97
 \T1/ppl/m/n/12 elec-tro-chem-i-cal prop-er-ties of the poly-mer and/or com-pos-
 ites with the
  []
 
-
-Underfull \hbox (badness 6493) in paragraph at lines 93--94
+[8]
+Underfull \hbox (badness 6493) in paragraph at lines 101--102
 \T1/ppl/m/n/12 syn-the-sis [30], vaporliquid-solid (VLS) [31], elec-trode-po-s
 i-tion [32],
  []
 
 
-Underfull \hbox (badness 2221) in paragraph at lines 93--94
+Underfull \hbox (badness 2221) in paragraph at lines 101--102
 \T1/ppl/m/n/12 elec-tro-spin-ning [33], hy-drother-mal [34], also hi-er-ar-chi-
 cal ar-range-ment
  []
 
 LaTeX Font Info:    Font shape `T1/ppl/bx/it' in size <12> not available
-(Font)              Font shape `T1/ppl/b/it' tried instead on input line 99.
+(Font)              Font shape `T1/ppl/b/it' tried instead on input line 107.
 
-Underfull \hbox (badness 10000) in paragraph at lines 115--118
+Underfull \hbox (badness 10000) in paragraph at lines 123--126
 \T1/ppl/m/n/12 Carbon nanowires have been fab-ri-cated with a pho-tore-sist by
  []
 
 
-Underfull \hbox (badness 2600) in paragraph at lines 115--118
+Underfull \hbox (badness 2600) in paragraph at lines 123--126
 \T1/ppl/m/n/12 pat-tern-ing res-o-lu-tions with nano-scale tol-er-ances through
  two-photon
  []
 
-[8]
-Underfull \hbox (badness 2932) in paragraph at lines 121--122
+[9]
+Underfull \hbox (badness 2932) in paragraph at lines 129--130
 \T1/ppl/m/n/12 pho-topoly-mer-ized and py-rolyzed into con-duct-ing car-bon nan
 o-wires.
  []
 
 
-Underfull \hbox (badness 2293) in paragraph at lines 121--122
+Underfull \hbox (badness 2293) in paragraph at lines 129--130
 \T1/ppl/m/n/12 prop-er-ties. [[][]8[][]] Car-bon nano-materials are suit-able f
 or the catal-y-sis,
  []
 
-[9]
-Underfull \hbox (badness 2103) in paragraph at lines 128--129
+
+Underfull \hbox (badness 2103) in paragraph at lines 136--137
 \T1/ppl/m/n/12 The rhe-o-log-i-cal prop-er-ties of poly-mer so-lu-tions along w
 ith syn-the-sis
  []
 
 
-Underfull \hbox (badness 3803) in paragraph at lines 128--129
+Underfull \hbox (badness 3803) in paragraph at lines 136--137
 \T1/ppl/m/n/12 pa-ram-e-ters (stage ve-loc-ity, volt-age, dis-pense rate) can b
 e amended
  []
 
 
-Underfull \hbox (badness 1237) in paragraph at lines 128--129
+Underfull \hbox (badness 1237) in paragraph at lines 136--137
 \T1/ppl/m/n/12 through rhe-o-log-i-cal anal-y-ses to ob-tain a low volt-age ele
 ctrospun-able,
  []
 
-
-Underfull \hbox (badness 1189) in paragraph at lines 137--139
+[10]
+Underfull \hbox (badness 1189) in paragraph at lines 145--147
 []\T1/ppl/m/n/12 Is there any ev-i-dence of con-duc-tive car-bon nano-wire fab-
 ri-ca-tion
  []
 
-[10]
-Underfull \hbox (badness 4792) in paragraph at lines 162--163
+
+Underfull \hbox (badness 4792) in paragraph at lines 170--171
 \T1/ppl/m/n/12 Study the prac-tice and fea-si-bil-ity of a new fab-ri-ca-tion p
 ro-cess to
  []
 
 
-Underfull \hbox (badness 3364) in paragraph at lines 162--163
+Underfull \hbox (badness 3364) in paragraph at lines 170--171
 \T1/ppl/m/n/12 con-tin-u-ous, sim-ple and re-pro-ducible man-ner; by the in-te-
 gra-tion of
  []
 
 
-Underfull \hbox (badness 8000) in paragraph at lines 168--170
+Underfull \hbox (badness 8000) in paragraph at lines 176--178
 []\T1/ppl/m/n/12 Design poly-mer so-lu-tions that can be elec-tro-spun by NFES,
 
  []
 
-) [11]
+[11]) [12]
 \openout2 = `./Chapters/2.aux'.
 
  (Chapters/2.tex
@@ -2203,7 +2203,7 @@ LaTeX Font Info:    Font shape `T1/ppl/bx/it' in size <14.4> not available
 (Font)              Font shape `T1/ppl/b/it' tried instead on input line 12.
 )
 1: section
-[12
+[13
 
 
 
@@ -2214,7 +2214,7 @@ LaTeX Font Info:    Font shape `T1/ppl/bx/it' in size <14.4> not available
 Chapter 3.
 )
 1: section
-[13
+[14
 
 
 
@@ -2225,7 +2225,7 @@ Chapter 3.
 Chapter 4.
 )
 1: section
-[14
+[15
 
 
 
@@ -2236,77 +2236,160 @@ Chapter 4.
 Chapter 5.
 )
 1: section
-[15
+[16
 
 
 
 ]
-LaTeX Font Info:    Try loading font information for T1+cmtt on input line 494.
+1: section
+[17
+
+
+]
+1: section
+[18
+
+]
+LaTeX Font Info:    Try loading font information for T1+cmtt on input line 519.
 
  ("C:\Users\oskat\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\t1cmtt.fd"
 File: t1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-Underfull \hbox (badness 2443) in paragraph at lines 494--494
+Underfull \hbox (badness 2443) in paragraph at lines 519--519
 []\T1/ppl/m/n/10.95 R. L. Mc-Creery,   Ad-vanced Car-bon Elec-trode Ma-te-ri-a
 ls for Molec-u-lar
  []
 
 1: section
-[16
-
+[19
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 494--494
+Underfull \hbox (badness 10000) in paragraph at lines 519--519
 \T1/ppl/m/n/10.95 Current-Plasma En-hanced Chem-i-cal Vapour De-po-si-tion, \T
 1/ppl/m/it/10.95 Jour-nal of
  []
 
 
-Underfull \hbox (badness 1762) in paragraph at lines 494--494
+Underfull \hbox (badness 1762) in paragraph at lines 519--519
 \T1/ppl/m/it/10.95 Nanoscience and Nan-otech-nol-ogy\T1/ppl/m/n/10.95 , vol. 9,
  no. 7, pp. 45024506, Jul. 2009,
  []
 
 
-Underfull \hbox (badness 1565) in paragraph at lines 494--494
+Underfull \hbox (badness 1565) in paragraph at lines 519--519
 \T1/ppl/m/n/10.95 by Plasma-Assisted Py-rol-y-sis of Pho-tore-sist, \T1/ppl/m/
 it/10.95 ACS Nano\T1/ppl/m/n/10.95 , vol. 5, no. 8,
  []
 
-[17]
-Underfull \hbox (badness 3635) in paragraph at lines 494--494
+[20]
+
+! Package inputenc Error: Unicode character Е (U+0415)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.519 \printbibliography[title={Bibliography}]
+                                              
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character А (U+0410)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.519 \printbibliography[title={Bibliography}]
+                                              
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Underfull \hbox (badness 1748) in paragraph at lines 519--519
+\T1/cmtt/m/n/10.95 1 . 71 % 20https : / / linkinghub . elsevier . com / retriev
+e / pii /
+ []
+
+
+Underfull \hbox (badness 5592) in paragraph at lines 519--519
+[]\T1/ppl/m/n/10.95 M. Razeghi, \T1/ppl/m/it/10.95 Fun-da-men-tals of Solid Sta
+te En-gi-neer-ing\T1/ppl/m/n/10.95 . Cham: Springer
+ []
+
+
+Underfull \hbox (badness 3635) in paragraph at lines 519--519
 \T1/ppl/m/n/10.95 direct-write of 3D func-tional bio-ma-te-ri-als, \T1/ppl/m/i
 t/10.95 Lab Chip\T1/ppl/m/n/10.95 , vol. 14, no. 2,
  []
 
 
-Underfull \hbox (badness 1533) in paragraph at lines 494--494
+Underfull \hbox (badness 1533) in paragraph at lines 519--519
 \T1/ppl/m/n/10.95 & Sons, Inc., Feb. 2013, p. 325, \T1/ppl/m/sc/10.95 isbn\T1/p
 pl/m/n/10.95 : 9781118622582. \T1/ppl/m/sc/10.95 doi\T1/ppl/m/n/10.95 : [][]$\T
 1/cmtt/m/n/10.95 10 . 1002 /
  []
 
-[18]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 517.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 517.
- (main.aux (Chapters/1.aux) (Chapters/2.aux) (Chapters/3.aux)
-(Chapters/4.aux) (Chapters/5.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 517.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 517.
+[21]
+
+Package pdfpages Warning: Option `page' is unknow to \includepdf.
+(pdfpages)                Did you mean `pages'? (Note the `s'!)
+(pdfpages)                OK, I'll proceed as if it were `pages'.
+
+<./pdf/CV/CV.pdf, id=504, 614.295pt x 794.97pt>
+File: ./pdf/CV/CV.pdf Graphic file (type pdf)
+<use ./pdf/CV/CV.pdf>
+Package pdftex.def Info: ./pdf/CV/CV.pdf  used on input line 533.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: ./pdf/CV/CV.pdf Graphic file (type pdf)
+<use ./pdf/CV/CV.pdf>
+Package pdftex.def Info: ./pdf/CV/CV.pdf  used on input line 533.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+<./pdf/CV/CV.pdf, id=507, page=1, 614.295pt x 794.97pt>
+File: ./pdf/CV/CV.pdf Graphic file (type pdf)
+<use ./pdf/CV/CV.pdf, page 1>
+Package pdftex.def Info: ./pdf/CV/CV.pdf , page1 used on input line 533.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: ./pdf/CV/CV.pdf Graphic file (type pdf)
+<use ./pdf/CV/CV.pdf, page 1>
+Package pdftex.def Info: ./pdf/CV/CV.pdf , page1 used on input line 533.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: ./pdf/CV/CV.pdf Graphic file (type pdf)
+<use ./pdf/CV/CV.pdf, page 1>
+Package pdftex.def Info: ./pdf/CV/CV.pdf , page1 used on input line 533.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: ./pdf/CV/CV.pdf Graphic file (type pdf)
+<use ./pdf/CV/CV.pdf, page 1>
+Package pdftex.def Info: ./pdf/CV/CV.pdf , page1 used on input line 533.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: ./pdf/CV/CV.pdf Graphic file (type pdf)
+<use ./pdf/CV/CV.pdf, page 1>
+Package pdftex.def Info: ./pdf/CV/CV.pdf , page1 used on input line 533.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+[22 <./pdf/CV/CV.pdf>]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 537.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 537.
+ (main.aux (Chapters/1.aux) (Chapters/2.aux)
+(Chapters/3.aux) (Chapters/4.aux) (Chapters/5.aux))
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 537.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 537.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: EB4E12F39ECBAA13F9E28B24B520780A;9338.
+(rerunfilecheck)             Checksum: DD18CC0251DCB1723D494F546F058DBE;9358.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 47428 strings out of 492946
- 979219 string characters out of 3126267
- 1345711 words of memory out of 3000000
- 50568 multiletter control sequences out of 15000+200000
- 588410 words of font info for 123 fonts, out of 3000000 for 9000
+ 47482 strings out of 492946
+ 980761 string characters out of 3126267
+ 1347442 words of memory out of 3000000
+ 50613 multiletter control sequences out of 15000+200000
+ 583235 words of font info for 118 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 64i,20n,83p,2094b,3013s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 64i,20n,83p,2094b,3014s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\oskat\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\
 ectt1095.pk>{C:/Users/oskat/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/b
 ase/8r.enc}<C:/Users/oskat/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public
@@ -2317,9 +2400,9 @@ ase/8r.enc}<C:/Users/oskat/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public
 Programs/MiKTeX 2.9/fonts/type1/urw/palatino/uplr8a.pfb><C:/Users/oskat/AppData
 /Local/Programs/MiKTeX 2.9/fonts/type1/urw/palatino/uplr8a.pfb><C:/Users/oskat/
 AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on main.pdf (30 pages, 601740 bytes).
+Output written on main.pdf (32 pages, 872237 bytes).
 PDF statistics:
- 576 PDF objects out of 1000 (max. 8388607)
- 97 named destinations out of 1000 (max. 500000)
- 318 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 678 PDF objects out of 1000 (max. 8388607)
+ 106 named destinations out of 1000 (max. 500000)
+ 346 words of extra memory for PDF output out of 10000 (max. 10000000)
 

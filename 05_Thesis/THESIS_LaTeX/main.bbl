@@ -833,46 +833,6 @@
       \endverb
       \keyw{carbon nanowires,carbon sources,chemical sensors,graphene oxide}
     \endentry
-    \entry{Novoselov2004}{article}{}
-      \name{author}{1}{}{%
-        {{hash=edc496cb40fecf35de2f2957fb7a20ac}{%
-           family={Novoselov},
-           familyi={N\bibinitperiod},
-           given={K.\bibnamedelimi S.},
-           giveni={K\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
-      }
-      \strng{namehash}{edc496cb40fecf35de2f2957fb7a20ac}
-      \strng{fullhash}{edc496cb40fecf35de2f2957fb7a20ac}
-      \strng{bibnamehash}{edc496cb40fecf35de2f2957fb7a20ac}
-      \strng{authorbibnamehash}{edc496cb40fecf35de2f2957fb7a20ac}
-      \strng{authornamehash}{edc496cb40fecf35de2f2957fb7a20ac}
-      \strng{authorfullhash}{edc496cb40fecf35de2f2957fb7a20ac}
-      \field{sortinit}{1}
-      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{issn}{0036-8075}
-      \field{journaltitle}{Science}
-      \field{month}{10}
-      \field{number}{5696}
-      \field{title}{{Electric Field Effect in Atomically Thin Carbon Films}}
-      \field{volume}{306}
-      \field{year}{2004}
-      \field{pages}{666\bibrangedash 669}
-      \range{pages}{4}
-      \verb{doi}
-      \verb 10.1126/science.1102896
-      \endverb
-      \verb{file}
-      \verb :C$\backslash$:/Users/oskat/OneDrive - Instituto Tecnologico y de Estudios Superiores de Monterrey/Documents/MNT{\_}ITESM{\_}Thesis/0{\_}References/EFEIATCF.pdf:pdf
-      \endverb
-      \verb{urlraw}
-      \verb https://www.sciencemag.org/lookup/doi/10.1126/science.1102896
-      \endverb
-      \verb{url}
-      \verb https://www.sciencemag.org/lookup/doi/10.1126/science.1102896
-      \endverb
-    \endentry
     \entry{Heersche2007}{article}{}
       \name{author}{5}{}{%
         {{hash=196bf54b5355538cd3759a25a854266c}{%
@@ -931,6 +891,290 @@
       \endverb
       \verb{url}
       \verb http://www.nature.com/articles/nature05555
+      \endverb
+    \endentry
+    \entry{Heimann1997}{article}{}
+      \name{author}{3}{}{%
+        {{hash=a6256a79f14916eba65581d0ae08d944}{%
+           family={Heimann},
+           familyi={H\bibinitperiod},
+           given={R.B.},
+           giveni={R\bibinitperiod}}}%
+        {{hash=96514b9ccccd23b93889e83a9d4d72fe}{%
+           family={Evsvukov},
+           familyi={E\bibinitperiod},
+           given={S.E.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=611eddafcab685beb57860551147ef08}{%
+           family={Koga},
+           familyi={K\bibinitperiod},
+           given={Y.},
+           giveni={Y\bibinitperiod}}}%
+      }
+      \strng{namehash}{e19883434deee0459fe90be37dc16a2a}
+      \strng{fullhash}{e19883434deee0459fe90be37dc16a2a}
+      \strng{bibnamehash}{e19883434deee0459fe90be37dc16a2a}
+      \strng{authorbibnamehash}{e19883434deee0459fe90be37dc16a2a}
+      \strng{authornamehash}{e19883434deee0459fe90be37dc16a2a}
+      \strng{authorfullhash}{e19883434deee0459fe90be37dc16a2a}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{00086223}
+      \field{journaltitle}{Carbon}
+      \field{number}{10-11}
+      \field{title}{{Carbon allotropes: a suggested classification scheme based on valence orbital hybridization}}
+      \field{volume}{35}
+      \field{year}{1997}
+      \field{pages}{1654\bibrangedash 1658}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1016/S0008-6223(97)82794-7
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/oskat/OneDrive - Instituto Tecnologico y de Estudios Superiores de Monterrey/Documents/MNT{\_}ITESM{\_}Thesis/0{\_}References/CAASCSBOVOH.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0008622397827947
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0008622397827947
+      \endverb
+      \keyw{A. Amorphous carbon,D. Crystal structure,Diamond,Fullerene,Natural graphite,carbon,carbonIntro}
+    \endentry
+    \entry{Belenkov2003}{inproceedings}{}
+      \name{author}{1}{}{%
+        {{hash=894a52bd2c26138245c132f5b7e46890}{%
+           family={Belenkov},
+           familyi={B\bibinitperiod},
+           given={Е.\bibnamedelimi А.},
+           giveni={Е\bibinitperiod\bibinitdelim А\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Chelyabinsk, Russia}%
+      }
+      \list{publisher}{1}{%
+        {Chelyabinsk State University}%
+      }
+      \strng{namehash}{894a52bd2c26138245c132f5b7e46890}
+      \strng{fullhash}{894a52bd2c26138245c132f5b7e46890}
+      \strng{bibnamehash}{894a52bd2c26138245c132f5b7e46890}
+      \strng{authorbibnamehash}{894a52bd2c26138245c132f5b7e46890}
+      \strng{authornamehash}{894a52bd2c26138245c132f5b7e46890}
+      \strng{authorfullhash}{894a52bd2c26138245c132f5b7e46890}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Carbon Nanotubes and Graphene}
+      \field{title}{{Classification of carbon structures}}
+      \field{year}{2003}
+      \field{pages}{5}
+      \range{pages}{1}
+      \verb{file}
+      \verb :C$\backslash$:/Users/oskat/OneDrive - Instituto Tecnologico y de Estudios Superiores de Monterrey/Documents/MNT{\_}ITESM{\_}courses/0.References/COCS.pdf:pdf
+      \endverb
+      \keyw{carbonIntro}
+    \endentry
+    \entry{Fedel2013}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=8f71d0e1dcface7862ec060172f82745}{%
+           family={Fedel},
+           familyi={F\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{8f71d0e1dcface7862ec060172f82745}
+      \strng{fullhash}{8f71d0e1dcface7862ec060172f82745}
+      \strng{bibnamehash}{8f71d0e1dcface7862ec060172f82745}
+      \strng{authorbibnamehash}{8f71d0e1dcface7862ec060172f82745}
+      \strng{authornamehash}{8f71d0e1dcface7862ec060172f82745}
+      \strng{authorfullhash}{8f71d0e1dcface7862ec060172f82745}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Diamond-like carbon (DLC) films offer numerous functional characteristics that make them particularly attractive as potential wear resistant coatings for biomedical applications. This chapter first discusses the blood compatibility of various forms of plain and doped DLCs, and evaluates possible correlations with film structure and surface properties. The chapter then considers the application of DLC coatings to different typologies of implants and medical devices, with special regard to cardiovascular prostheses. {©} 2013 Woodhead Publishing Limited. All rights reserved.}
+      \field{booktitle}{Diamond-Based Materials for Biomedical Applications}
+      \field{isbn}{9780857093400}
+      \field{number}{Dlc}
+      \field{title}{{Blood compatibility of diamond-like carbon (DLC) coatings}}
+      \field{year}{2013}
+      \field{pages}{71\bibrangedash 102}
+      \range{pages}{32}
+      \verb{doi}
+      \verb 10.1533/9780857093516.1.71
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/oskat/OneDrive - Instituto Tecnologico y de Estudios Superiores de Monterrey/Documents/MNT{\_}ITESM{\_}Thesis/0{\_}References/BCODLCDCLC.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://dx.doi.org/10.1533/9780857093516.1.71 https://linkinghub.elsevier.com/retrieve/pii/B9780857093400500047
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1533/9780857093516.1.71%20https://linkinghub.elsevier.com/retrieve/pii/B9780857093400500047
+      \endverb
+      \keyw{Blood compatibility,Cardiovascular applications,Coatings,Diamond-like carbon,carbonIntro}
+    \endentry
+    \entry{Razeghi2019}{book}{}
+      \name{author}{1}{}{%
+        {{hash=57f1d2a510f882efcc55cd1ea00ec552}{%
+           family={Razeghi},
+           familyi={R\bibinitperiod},
+           given={Manijeh},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cham}%
+      }
+      \list{publisher}{1}{%
+        {Springer International Publishing}%
+      }
+      \strng{namehash}{57f1d2a510f882efcc55cd1ea00ec552}
+      \strng{fullhash}{57f1d2a510f882efcc55cd1ea00ec552}
+      \strng{bibnamehash}{57f1d2a510f882efcc55cd1ea00ec552}
+      \strng{authorbibnamehash}{57f1d2a510f882efcc55cd1ea00ec552}
+      \strng{authornamehash}{57f1d2a510f882efcc55cd1ea00ec552}
+      \strng{authorfullhash}{57f1d2a510f882efcc55cd1ea00ec552}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The fourth edition of this class-tested, multi-disciplinary introduction to solid state engineering adds dozens of revised and updated sections and problems, as well as three new chapters on solar energy harvesting, thermal and photothermal energy harvesting, and photo-thermovoltaics. Combining concepts from physics, chemistry, electrical engineering, materials science, and mechanical engineering, Professor Razeghi describes electron-electron and electron-phonon interactions, the Kane effective mass method, the carbon atom, thermal properties of crystals, the harmonic oscillator, the hydrogen atom, the quantum mechanical description of angular momentum, and the origin of spin in a chapter devoted to quantum mechanics. This textbook features an improved transport theory description that goes beyond Drude theory, discussing the Boltzmann approach. Introducing students to the rigorous quantum mechanical way of thinking about and formulating transport processes, this fourth edition presents the basic physics concepts and thorough treatment of semiconductor characterization technology, designed for solid state engineers.}
+      \field{booktitle}{Fundamentals of Solid State Engineering}
+      \field{isbn}{978-3-319-75707-0}
+      \field{title}{{Fundamentals of Solid State Engineering}}
+      \field{year}{2019}
+      \field{pages}{1\bibrangedash 689}
+      \range{pages}{689}
+      \verb{doi}
+      \verb 10.1007/978-3-319-75708-7
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/oskat/OneDrive - Instituto Tecnologico y de Estudios Superiores de Monterrey/Documents/MNT{\_}ITESM{\_}courses/0.References/2019{\_}Book{\_}FundamentalsOfSolidStateEngine.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://link.springer.com/10.1007/978-3-319-75708-7
+      \endverb
+      \verb{url}
+      \verb http://link.springer.com/10.1007/978-3-319-75708-7
+      \endverb
+      \keyw{carbonIntro,is{\_}book}
+    \endentry
+    \entry{AlstrupJensen2015}{book}{}
+      \name{author}{9}{}{%
+        {{hash=0cffed4e85b53ccd0f5f30cf81018cb4}{%
+           family={{Alstrup Jensen}},
+           familyi={A\bibinitperiod},
+           given={Keld},
+           giveni={K\bibinitperiod}}}%
+        {{hash=149b0755125975be9de8a66aae220102}{%
+           family={B{ø}gelund},
+           familyi={B\bibinitperiod},
+           given={Jesper},
+           giveni={J\bibinitperiod}}}%
+        {{hash=e132c5f05b3a46359d2c4ca85ae835f3}{%
+           family={Jackson},
+           familyi={J\bibinitperiod},
+           given={Petra},
+           giveni={P\bibinitperiod}}}%
+        {{hash=2bc449cfc7bb835b58e12ce9e027ffbb}{%
+           family={{Raun Jacobsen}},
+           familyi={R\bibinitperiod},
+           given={Nicklas},
+           giveni={N\bibinitperiod}}}%
+        {{hash=6394815b2cc7430176964ae62c8ec94b}{%
+           family={Birkedal},
+           familyi={B\bibinitperiod},
+           given={Renie},
+           giveni={R\bibinitperiod}}}%
+        {{hash=f5bc753e61c5ea5d5bdf67cc914b5b4b}{%
+           family={{Axel Clausen}},
+           familyi={A\bibinitperiod},
+           given={Per},
+           giveni={P\bibinitperiod}}}%
+        {{hash=13066796dcf2702b0f4105ded6c9efd8}{%
+           family={{Thoustrup Saber}},
+           familyi={T\bibinitperiod},
+           given={Anne},
+           giveni={A\bibinitperiod}}}%
+        {{hash=4aedd44ca53251a4145f056d409421b1}{%
+           family={Wallin},
+           familyi={W\bibinitperiod},
+           given={H{å}kan},
+           giveni={H\bibinitperiod}}}%
+        {{hash=d6cf7a1776b21a83d23bfba743991286}{%
+           family={{Birgitte Vogel}},
+           familyi={B\bibinitperiod},
+           given={Ulla},
+           giveni={U\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {The Danish Environmental Protection Agency}%
+      }
+      \strng{namehash}{d89e34cda8206fb3c45ee51ec4d236ad}
+      \strng{fullhash}{d89e34cda8206fb3c45ee51ec4d236ad}
+      \strng{bibnamehash}{d89e34cda8206fb3c45ee51ec4d236ad}
+      \strng{authorbibnamehash}{d89e34cda8206fb3c45ee51ec4d236ad}
+      \strng{authornamehash}{d89e34cda8206fb3c45ee51ec4d236ad}
+      \strng{authorfullhash}{d89e34cda8206fb3c45ee51ec4d236ad}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-87-93352-98-8}
+      \field{number}{1805}
+      \field{title}{{Carbon nanotubes - Types, products, market, and provisional assessment of the associated risks to man and the environment}}
+      \field{year}{2015}
+      \field{pages}{49\bibrangedash 82}
+      \range{pages}{34}
+      \verb{file}
+      \verb :C$\backslash$:/Users/oskat/OneDrive - Instituto Tecnologico y de Estudios Superiores de Monterrey/Documents/MNT{\_}ITESM{\_}courses/0.References/CNTPMAPAOTARTMATE.pdf:pdf
+      \endverb
+      \keyw{carbonIntro,structuralTypesOfCarbon}
+    \endentry
+    \entry{Novoselov2004}{article}{}
+      \name{author}{1}{}{%
+        {{hash=edc496cb40fecf35de2f2957fb7a20ac}{%
+           family={Novoselov},
+           familyi={N\bibinitperiod},
+           given={K.\bibnamedelimi S.},
+           giveni={K\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \strng{namehash}{edc496cb40fecf35de2f2957fb7a20ac}
+      \strng{fullhash}{edc496cb40fecf35de2f2957fb7a20ac}
+      \strng{bibnamehash}{edc496cb40fecf35de2f2957fb7a20ac}
+      \strng{authorbibnamehash}{edc496cb40fecf35de2f2957fb7a20ac}
+      \strng{authornamehash}{edc496cb40fecf35de2f2957fb7a20ac}
+      \strng{authorfullhash}{edc496cb40fecf35de2f2957fb7a20ac}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0036-8075}
+      \field{journaltitle}{Science}
+      \field{month}{10}
+      \field{number}{5696}
+      \field{title}{{Electric Field Effect in Atomically Thin Carbon Films}}
+      \field{volume}{306}
+      \field{year}{2004}
+      \field{pages}{666\bibrangedash 669}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.1126/science.1102896
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/oskat/OneDrive - Instituto Tecnologico y de Estudios Superiores de Monterrey/Documents/MNT{\_}ITESM{\_}Thesis/0{\_}References/EFEIATCF.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencemag.org/lookup/doi/10.1126/science.1102896
+      \endverb
+      \verb{url}
+      \verb https://www.sciencemag.org/lookup/doi/10.1126/science.1102896
       \endverb
     \endentry
     \entry{Boer2014}{book}{}
