@@ -1137,6 +1137,82 @@
       \endverb
       \keyw{carbonIntro,structuralTypesOfCarbon}
     \endentry
+    \entry{Marsh1989}{book}{}
+      \name{author}{1}{}{%
+        {{hash=8a78d9c6fbc0f4bee7e8a4e9ba6e4962}{%
+           family={Marsh},
+           familyi={M\bibinitperiod},
+           given={Harry},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{8a78d9c6fbc0f4bee7e8a4e9ba6e4962}
+      \strng{fullhash}{8a78d9c6fbc0f4bee7e8a4e9ba6e4962}
+      \strng{bibnamehash}{8a78d9c6fbc0f4bee7e8a4e9ba6e4962}
+      \strng{authorbibnamehash}{8a78d9c6fbc0f4bee7e8a4e9ba6e4962}
+      \strng{authornamehash}{8a78d9c6fbc0f4bee7e8a4e9ba6e4962}
+      \strng{authorfullhash}{8a78d9c6fbc0f4bee7e8a4e9ba6e4962}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This Chapter is principally concerned with the major topics associated with the conversion of coal to coke. Only a limited range of coal rank i.e. the bituminous coals, produce acceptable metallurgical cokes. The history of coke making is briefly reviewed followed by description of a coke battery and the by-products of coking. Theories of carbonization are abundant but current knowledge of liquid crystal theory has done much to expand the understanding of the origin of cokes and their properties. Coal Rank, Type and Grade are properties used in coal classification for coke making. The coking of a single coal particle and the development of the coke cenosphere are described. The importance of the plastic (fluid) layer, developed within the coal charge in the slot coke oven, is high-lighted including the thermal transformation of coal macerals to coke components. In industrial practice, the ability to predict coke strength or mechanical stability from properties of coal blends is of obvious importance. Much has been done to analyse coke structure in terms of optical microscopy of polished sections, i.e. coke petrography. This exhibits the various isotropic and anisotropic components of coke structure. Cokes from different coal blends have different contents of anisotropic shapes, 0.5 to {>}25.0 $\mu$m in size, arising from the heterogeneous nature of the plastic (fluid) phase of carbonization from which the liquid crystal structures develop. Classifications of anisotropy are listed. The Chapter continues with descriptions of porosity and pore wall structures in cokes. Carbonization variables relate to final coke property. The behaviour of coke in the blast furnace, including discussions of reactivity, aspects of formed coke, pre-heating and co-carbonization conclude the Chapter.}
+      \field{booktitle}{The Chemical Engineering Journal}
+      \field{isbn}{9780408038379}
+      \field{issn}{03009467}
+      \field{month}{4}
+      \field{number}{1}
+      \field{title}{{Introduction to Carbon Science}}
+      \field{volume}{46}
+      \field{year}{1989}
+      \field{pages}{43}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/C2013-0-04111-4
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/oskat/OneDrive - Instituto Tecnologico y de Estudios Superiores de Monterrey/Documents/MNT{\_}ITESM{\_}Thesis/0{\_}References/ITCS.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/C20130041114
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/C20130041114
+      \endverb
+    \endentry
+    \entry{Hugh1994}{book}{}
+      \name{author}{1}{}{%
+        {{hash=be0fbd4d021a5b8d25fe8e7f69868dba}{%
+           family={Hugh},
+           familyi={H\bibinitperiod},
+           given={Pierson},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{be0fbd4d021a5b8d25fe8e7f69868dba}
+      \strng{fullhash}{be0fbd4d021a5b8d25fe8e7f69868dba}
+      \strng{bibnamehash}{be0fbd4d021a5b8d25fe8e7f69868dba}
+      \strng{authorbibnamehash}{be0fbd4d021a5b8d25fe8e7f69868dba}
+      \strng{authornamehash}{be0fbd4d021a5b8d25fe8e7f69868dba}
+      \strng{authorfullhash}{be0fbd4d021a5b8d25fe8e7f69868dba}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Processing, Properties and Applications}
+      \field{isbn}{9780815513391}
+      \field{title}{{Handbook of Carbon, Graphite, Diamonds and Fullerenes}}
+      \field{year}{1994}
+      \field{pages}{419}
+      \range{pages}{1}
+      \verb{file}
+      \verb :C$\backslash$:/Users/oskat/OneDrive - Instituto Tecnologico y de Estudios Superiores de Monterrey/Documents/MNT{\_}ITESM{\_}Thesis/0{\_}References/HOCGDAFPPAA.pdf:pdf;:C$\backslash$:/Users/oskat/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Hugh - 1994 - Handbook of Carbon, Graphite, Diamonds and Fullerenes.pdf:pdf
+      \endverb
+    \endentry
     \entry{Novoselov2004}{article}{}
       \name{author}{1}{}{%
         {{hash=edc496cb40fecf35de2f2957fb7a20ac}{%
@@ -1177,6 +1253,406 @@
       \verb https://www.sciencemag.org/lookup/doi/10.1126/science.1102896
       \endverb
     \endentry
+    \entry{Schedin2007}{article}{}
+      \name{author}{7}{}{%
+        {{hash=e28d813224d82b9ab90f072e1c5890b6}{%
+           family={Schedin},
+           familyi={S\bibinitperiod},
+           given={F},
+           giveni={F\bibinitperiod}}}%
+        {{hash=40f0ba5816a970378fff1e96ae8538f7}{%
+           family={Geim},
+           familyi={G\bibinitperiod},
+           given={A\bibnamedelima K},
+           giveni={A\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=3ac1b6c954b4c96d13707e49d10d1604}{%
+           family={Morozov},
+           familyi={M\bibinitperiod},
+           given={S\bibnamedelima V},
+           giveni={S\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+        {{hash=8854870400b49fb1d860d1f5960c6dae}{%
+           family={Hill},
+           familyi={H\bibinitperiod},
+           given={E\bibnamedelima W},
+           giveni={E\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=47e41d67a415c8c827df79257e637158}{%
+           family={Blake},
+           familyi={B\bibinitperiod},
+           given={P},
+           giveni={P\bibinitperiod}}}%
+        {{hash=6aa228cd0d48130d3025aad1d59b087d}{%
+           family={Katsnelson},
+           familyi={K\bibinitperiod},
+           given={M\bibnamedelima I},
+           giveni={M\bibinitperiod\bibinitdelim I\bibinitperiod}}}%
+        {{hash=edc496cb40fecf35de2f2957fb7a20ac}{%
+           family={Novoselov},
+           familyi={N\bibinitperiod},
+           given={K\bibnamedelima S},
+           giveni={K\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \strng{namehash}{14dc5291e082a2726a8bc0c36ff25a22}
+      \strng{fullhash}{14dc5291e082a2726a8bc0c36ff25a22}
+      \strng{bibnamehash}{14dc5291e082a2726a8bc0c36ff25a22}
+      \strng{authorbibnamehash}{14dc5291e082a2726a8bc0c36ff25a22}
+      \strng{authornamehash}{14dc5291e082a2726a8bc0c36ff25a22}
+      \strng{authorfullhash}{14dc5291e082a2726a8bc0c36ff25a22}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1476-1122}
+      \field{journaltitle}{Nature Materials}
+      \field{month}{9}
+      \field{number}{9}
+      \field{title}{{Detection of individual gas molecules adsorbed on graphene}}
+      \field{volume}{6}
+      \field{year}{2007}
+      \field{pages}{652\bibrangedash 655}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.1038/nmat1967
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/oskat/OneDrive - Instituto Tecnologico y de Estudios Superiores de Monterrey/Documents/MNT{\_}ITESM{\_}Thesis/0{\_}References/DOIGMAOG.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://www.nature.com/articles/nmat1967
+      \endverb
+      \verb{url}
+      \verb http://www.nature.com/articles/nmat1967
+      \endverb
+    \endentry
+    \entry{Ohno2009}{article}{}
+      \name{author}{4}{}{%
+        {{hash=55543f076d32294041da40721dd135da}{%
+           family={Ohno},
+           familyi={O\bibinitperiod},
+           given={Yasuhide},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=579abf3b95e4e53cd626f492c74213d6}{%
+           family={Maehashi},
+           familyi={M\bibinitperiod},
+           given={Kenzo},
+           giveni={K\bibinitperiod}}}%
+        {{hash=cbbb274d25613034f300f9f2201ce116}{%
+           family={Yamashiro},
+           familyi={Y\bibinitperiod},
+           given={Yusuke},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=3184966b61d31060805d46c41df5f951}{%
+           family={Matsumoto},
+           familyi={M\bibinitperiod},
+           given={Kazuhiko},
+           giveni={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{229827c3280a62cc23e89db0b59def54}
+      \strng{fullhash}{229827c3280a62cc23e89db0b59def54}
+      \strng{bibnamehash}{229827c3280a62cc23e89db0b59def54}
+      \strng{authorbibnamehash}{229827c3280a62cc23e89db0b59def54}
+      \strng{authornamehash}{229827c3280a62cc23e89db0b59def54}
+      \strng{authorfullhash}{229827c3280a62cc23e89db0b59def54}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1530-6984}
+      \field{journaltitle}{Nano Letters}
+      \field{month}{9}
+      \field{number}{9}
+      \field{title}{{Electrolyte-Gated Graphene Field-Effect Transistors for Detecting pH and Protein Adsorption}}
+      \field{volume}{9}
+      \field{year}{2009}
+      \field{pages}{3318\bibrangedash 3322}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1021/nl901596m
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/oskat/OneDrive - Instituto Tecnologico y de Estudios Superiores de Monterrey/Documents/MNT{\_}ITESM{\_}Thesis/0{\_}References/EGGFETFDPAPA.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://pubs.acs.org/doi/10.1021/nl901596m
+      \endverb
+      \verb{url}
+      \verb https://pubs.acs.org/doi/10.1021/nl901596m
+      \endverb
+    \endentry
+    \entry{Khanna2016}{book}{}
+      \name{author}{1}{}{%
+        {{hash=e51608541e59f54fdf18007df326bb0a}{%
+           family={Khanna},
+           familyi={K\bibinitperiod},
+           given={Vinod\bibnamedelima Kumar},
+           giveni={V\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {CRC Press}%
+      }
+      \strng{namehash}{e51608541e59f54fdf18007df326bb0a}
+      \strng{fullhash}{e51608541e59f54fdf18007df326bb0a}
+      \strng{bibnamehash}{e51608541e59f54fdf18007df326bb0a}
+      \strng{authorbibnamehash}{e51608541e59f54fdf18007df326bb0a}
+      \strng{authornamehash}{e51608541e59f54fdf18007df326bb0a}
+      \strng{authorfullhash}{e51608541e59f54fdf18007df326bb0a}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{"Interesting developments have taken place in the sensor field in recent years. Nanotechnology holds a great potential for revolutionizing the sensor arena. Traditional sensors are being re-engineered and recast from the nanotechnology perspective, and new sensor designs are being introduced. Sensitivity, detection range and response time of sensors have been remarkably ameliorated by using nanotechnological methods. Faster, better, cheaper and smaller sensors are becoming available. Sensor development in the nanotechnology age, the focal theme of this book, is one of the hottest topics in contemporary research. The book presents a critical appraisal of the new opportunities provided by nanotechnologies, and the nanotechnology-enabled advancements in the field of sensors. Being a new topic, information on nanosensors is scattered in research journals and reports. There is a paucity of books in this area. This book is intended to fill this long-felt need. Bringing together the widely spread information between the covers of an easy-to-read book will be helpful to all those working on nanosensors for instant reference and knowledge update"-- 1. Introduction to nanosensors -- 2. Materials for nanosensors -- 3. Nanosensor laboratory -- 4. Mechanical nanosensors -- 5. Thermal nanosensors -- 6. Optical nanosensors -- 7. Magnetic nanosensors -- 8. Nanobiosensors -- 9. Chemical nanosensors -- 10. Future trends of nanosensors.}
+      \field{booktitle}{Contemporary Physics}
+      \field{isbn}{9780429093951}
+      \field{issn}{0010-7514}
+      \field{month}{4}
+      \field{number}{4}
+      \field{title}{{Nanosensors}}
+      \field{volume}{53}
+      \field{year}{2016}
+      \field{pages}{391\bibrangedash 392}
+      \range{pages}{2}
+      \verb{doi}
+      \verb 10.1201/b11289
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/oskat/OneDrive - Instituto Tecnologico y de Estudios Superiores de Monterrey/Documents/MNT{\_}ITESM{\_}Thesis/0{\_}References/NPCAB.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://www.tandfonline.com/doi/abs/10.1080/00107514.2012.689351 https://www.taylorfrancis.com/books/9781439827130
+      \endverb
+      \verb{url}
+      \verb http://www.tandfonline.com/doi/abs/10.1080/00107514.2012.689351%20https://www.taylorfrancis.com/books/9781439827130
+      \endverb
+    \endentry
+    \entry{Guo2018}{article}{}
+      \name{author}{10}{}{%
+        {{hash=5dfa2e1cec77c8779469085a05d6a696}{%
+           family={Guo},
+           familyi={G\bibinitperiod},
+           given={Jia},
+           giveni={J\bibinitperiod}}}%
+        {{hash=8c4343adb351d7a44871d31bb0d608e4}{%
+           family={Ning},
+           familyi={N\bibinitperiod},
+           given={Tingyin},
+           giveni={T\bibinitperiod}}}%
+        {{hash=f1f5852117faea4a4b40bce3eb34627e}{%
+           family={Han},
+           familyi={H\bibinitperiod},
+           given={Yanshun},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=bf26f5052e2d967ede46f64cf5eaaf39}{%
+           family={Sheng},
+           familyi={S\bibinitperiod},
+           given={Yingqiang},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=aa215a4cf2ad2c3b9af0dbc2a561ade2}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Chonghui},
+           giveni={C\bibinitperiod}}}%
+        {{hash=2faf813cd4a757d9536ce3b2c7108b69}{%
+           family={Zhao},
+           familyi={Z\bibinitperiod},
+           given={Xiaofei},
+           giveni={X\bibinitperiod}}}%
+        {{hash=71c164c1958c1f05fff2cf77cec4b80b}{%
+           family={Lu},
+           familyi={L\bibinitperiod},
+           given={Zhengyi},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=b1f4b7f4b9c2dc74e03549ab7172b738}{%
+           family={Man},
+           familyi={M\bibinitperiod},
+           given={Baoyuan},
+           giveni={B\bibinitperiod}}}%
+        {{hash=7f5ba543868b677801163c6f5a751bd1}{%
+           family={Jiao},
+           familyi={J\bibinitperiod},
+           given={Yang},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=2209ae909439de5f314fa56f1587e595}{%
+           family={Jiang},
+           familyi={J\bibinitperiod},
+           given={Shouzhen},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier B.V.}%
+      }
+      \strng{namehash}{9c12d66a0695eab7dfe224754698c7fd}
+      \strng{fullhash}{9c12d66a0695eab7dfe224754698c7fd}
+      \strng{bibnamehash}{9c12d66a0695eab7dfe224754698c7fd}
+      \strng{authorbibnamehash}{9c12d66a0695eab7dfe224754698c7fd}
+      \strng{authornamehash}{9c12d66a0695eab7dfe224754698c7fd}
+      \strng{authorfullhash}{9c12d66a0695eab7dfe224754698c7fd}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The methods of chemical vapor deposition (CVD) and seed-mediated growth were used to obtain graphene and gold nanorods (GNRs), respectively. We fabricate graphene @ gold nanorods (G@GNRs) nanocomposites by successively using dropping and transferring methods Through SEM, Raman spectra and TEM analysis, the number of graphene layers is 6–7. The diameter of gold nanorods (GNRs) is about 10 nm and the average aspect ratio is 6.5. In addition, we systematically investigate their nonlinear optical responses by using open-aperture Z-scan technique. In contrast with graphene and GNRs, the G@GNRs nanocomposites exhibit excellent nonlinear optical response with a modulation depth of about 51{\%} and a saturable intensity of about 6.23 GW/cm 2 . The results suggest that the G@GNRs nanocomposites could potentially be used as an optical modulator in pulsed laser generation.}
+      \field{issn}{01694332}
+      \field{journaltitle}{Applied Surface Science}
+      \field{month}{3}
+      \field{title}{{Preparation, characterization, and nonlinear optical properties of hybridized graphene @ gold nanorods nanocomposites}}
+      \field{volume}{433}
+      \field{year}{2018}
+      \field{pages}{45\bibrangedash 50}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1016/j.apsusc.2017.10.042
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/oskat/OneDrive - Instituto Tecnologico y de Estudios Superiores de Monterrey/Documents/MNT{\_}ITESM{\_}Thesis/0{\_}References/PCANOPOHGGNN.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://dx.doi.org/10.1016/j.apsusc.2017.10.042 https://linkinghub.elsevier.com/retrieve/pii/S0169433217329653
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1016/j.apsusc.2017.10.042%20https://linkinghub.elsevier.com/retrieve/pii/S0169433217329653
+      \endverb
+      \keyw{Gold nanorods,Graphene,Nanocomposites,Nonlinear optical responses,Open-aperture Z-scan technique}
+    \endentry
+    \entry{Kundu2019}{article}{}
+      \name{author}{4}{}{%
+        {{hash=e576c9fc52a5b92ae90fec0cfbc37004}{%
+           family={Kundu},
+           familyi={K\bibinitperiod},
+           given={Suman},
+           giveni={S\bibinitperiod}}}%
+        {{hash=1e2fda9d36c6d0de72f0da0ab5248fc7}{%
+           family={Mogera},
+           familyi={M\bibinitperiod},
+           given={Umesha},
+           giveni={U\bibinitperiod}}}%
+        {{hash=6fba689313124af8e851f57a02e084b2}{%
+           family={George},
+           familyi={G\bibinitperiod},
+           given={Subi\bibnamedelima J.},
+           giveni={S\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=08c39f0e7869c14269b0714eed6fb920}{%
+           family={Kulkarni},
+           familyi={K\bibinitperiod},
+           given={Giridhar\bibnamedelima U.},
+           giveni={G\bibinitperiod\bibinitdelim U\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier Ltd}%
+      }
+      \strng{namehash}{240dd8f057d1a7094988b0b9a0a8e663}
+      \strng{fullhash}{240dd8f057d1a7094988b0b9a0a8e663}
+      \strng{bibnamehash}{240dd8f057d1a7094988b0b9a0a8e663}
+      \strng{authorbibnamehash}{240dd8f057d1a7094988b0b9a0a8e663}
+      \strng{authornamehash}{240dd8f057d1a7094988b0b9a0a8e663}
+      \strng{authorfullhash}{240dd8f057d1a7094988b0b9a0a8e663}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Planar microsupercapacitors are emerging as essential devices for rapid energy sourcing in on-chip circuitry. A serious limitation in comparison to planar microbatteries is the energy density that a planar supercapacitor can offer (∼two orders less), which in turn relates to the maximum working potential of the electrolyte used in it, which is typically below 3 V. In this article, we report the fabrication of a planar supercapacitor with an operating voltage window, highest among the reported till date. The electrolyte used is essentially a solid in the form of nanofibres of a supramolecular donor-acceptor assembly, consisting of coronene tetracarboxylate salt (CS) and dodecyl methyl viologen (DMV), carrying positive (K+) and negative (Br−) ionic charges, respectively. The fibres are drop-spread across Ti microgap electrodes and the device is operated in the ambient or in a humidity-controlled cell. The device is found stable up to a working potential window of 8 V, exhibiting areal capacitance values of 0.2 mF/cm2 under room humidity conditions (RH, 65{\%}) which was enhanced to 9.5 mF/cm2 under 90{\%} RH in presence of hygroscopic KBr crystallites. The estimated areal energy and power density values are remarkable, 85 $\mu$Wh cm−2 and 24.7 W cm−2 respectively. The device retained 86{\%} capacitance even after 50000 charge-discharge cycles. Using a single device, AC line filtering is shown possible with ripple less than 5{\%}. These extraordinary properties are borne out of the facile diffusion of ions along the 1D face-to-face arrangement of the D-A molecules in the nanofibres while the ambient oxide covered Ti surface providing the required electrochemical stability to the device.}
+      \field{issn}{22112855}
+      \field{journaltitle}{Nano Energy}
+      \field{month}{7}
+      \field{number}{April}
+      \field{title}{{A planar supercapacitor made of supramolecular nanofibre based solid electrolyte exhibiting 8 V window}}
+      \field{volume}{61}
+      \field{year}{2019}
+      \field{pages}{259\bibrangedash 266}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1016/j.nanoen.2019.04.054
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/oskat/OneDrive - Instituto Tecnologico y de Estudios Superiores de Monterrey/Documents/MNT{\_}ITESM{\_}Thesis/0{\_}References/APSMOSNBSEE8VW.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1016/j.nanoen.2019.04.054 https://linkinghub.elsevier.com/retrieve/pii/S2211285519303556
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1016/j.nanoen.2019.04.054%20https://linkinghub.elsevier.com/retrieve/pii/S2211285519303556
+      \endverb
+      \keyw{High scan rate,High voltage window,Planar supercapacitors,Solid electrolyte,Supramolecular nanofibre}
+    \endentry
+    \entry{Bencheikh2019}{article}{}
+      \name{author}{9}{}{%
+        {{hash=5d41d033653479993ee4b37475fac96c}{%
+           family={Bencheikh},
+           familyi={B\bibinitperiod},
+           given={Yasmina},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=5a8a387b62ed2d94fa5110cd172688e1}{%
+           family={Harnois},
+           familyi={H\bibinitperiod},
+           given={Maxime},
+           giveni={M\bibinitperiod}}}%
+        {{hash=922d50aeade2826cc719aaa082e57298}{%
+           family={Jijie},
+           familyi={J\bibinitperiod},
+           given={Roxana},
+           giveni={R\bibinitperiod}}}%
+        {{hash=34f58bd85be11480af512f4d5c3ecca8}{%
+           family={Addad},
+           familyi={A\bibinitperiod},
+           given={Ahmed},
+           giveni={A\bibinitperiod}}}%
+        {{hash=0a47bc4fb0a2bdb3d3e4ae6091885132}{%
+           family={Roussel},
+           familyi={R\bibinitperiod},
+           given={Pascal},
+           giveni={P\bibinitperiod}}}%
+        {{hash=54ff50b9242115b80774f6fc262e8749}{%
+           family={Szunerits},
+           familyi={S\bibinitperiod},
+           given={Sabine},
+           giveni={S\bibinitperiod}}}%
+        {{hash=e2c72fd24e26bc26ef0a3b68b8725de8}{%
+           family={Hadjersi},
+           familyi={H\bibinitperiod},
+           given={Toufik},
+           giveni={T\bibinitperiod}}}%
+        {{hash=4e3f7fe00a7d1eb7e5c829916678ee5c}{%
+           family={{El Hak Abaidia}},
+           familyi={E\bibinitperiod},
+           given={Seddik},
+           giveni={S\bibinitperiod}}}%
+        {{hash=33f560ac3735df6c651caaadd1975887}{%
+           family={Boukherroub},
+           familyi={B\bibinitperiod},
+           given={Rabah},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{1910292b640784e80aef4c4912e7d303}
+      \strng{fullhash}{1910292b640784e80aef4c4912e7d303}
+      \strng{bibnamehash}{1910292b640784e80aef4c4912e7d303}
+      \strng{authorbibnamehash}{1910292b640784e80aef4c4912e7d303}
+      \strng{authornamehash}{1910292b640784e80aef4c4912e7d303}
+      \strng{authorfullhash}{1910292b640784e80aef4c4912e7d303}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The continuous increase of small electronic devices calls for small energy storage components, commonly known as micro-supercapacitors, that can ensure autonomous operation of these devices. In this work, we propose a simple and straightforward method to achieve high energy and power densities of a silicon-based micro-supercapacitor, consisting of silicon nanowires decorated with ruthenium nanoparticles (Ru/Si NWs). The Si NWs are obtained through the common vapor-liquid-solid (VLS) growth mechanism, while a simple electroless process is used to deposit Ru nanoparticles. While silicon nanostructuration allows to increase the surface area, coating with Ru NPs introduces a pseudocapacitance necessary to attain high energy and power densities. The Ru/Si NWs micro-supercapacitor exhibits a specific capacitance of 36.25 mF cm−2 at a current density of 1 mA cm−2 in a neutral Na2SO4 electrolyte and a high stability over 25 000 cycles under galvanostatic charge-discharge at 1 mA cm−2. A solid state supercapacitor is then fabricated with symmetric electrodes separated by a polyvinyl alcohol/sulfuric acid electrolyte. The device displays a specific capacitance of ∼18 mF cm−2 at a current density of 1 mA cm−2 and a specific power density 0.5 mW cm−2. This solid-state nanowire device also exhibits a good stability over 10 000 galvanostatic charge-discharge cycles.}
+      \field{issn}{00134686}
+      \field{journaltitle}{Electrochimica Acta}
+      \field{month}{7}
+      \field{title}{{High performance silicon nanowires/ruthenium nanoparticles micro-supercapacitors}}
+      \field{volume}{311}
+      \field{year}{2019}
+      \field{pages}{150\bibrangedash 159}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1016/j.electacta.2019.04.083
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/oskat/OneDrive - Instituto Tecnologico y de Estudios Superiores de Monterrey/Documents/MNT{\_}ITESM{\_}Thesis/0{\_}References/HPSNRNMS.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0013468619307698
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0013468619307698
+      \endverb
+      \keyw{Micro-supercapacitors,Ruthenium nanoparticles,Silicon nanowires,Solid-state devices}
+    \endentry
     \entry{Boer2014}{book}{}
       \name{author}{2}{}{%
         {{hash=6ee0b9d745395aec58364116f478ad83}{%
@@ -1209,8 +1685,8 @@
       \strng{editorbibnamehash}{c17ecddc870b4029c785f761dfae3d5f}
       \strng{editornamehash}{c17ecddc870b4029c785f761dfae3d5f}
       \strng{editorfullhash}{c17ecddc870b4029c785f761dfae3d5f}
-      \field{sortinit}{1}
-      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{edition}{2nd}
@@ -1261,8 +1737,8 @@
       \strng{authorbibnamehash}{4729a0a65aeeb7f0a66e4b47f95c1306}
       \strng{authornamehash}{4729a0a65aeeb7f0a66e4b47f95c1306}
       \strng{authorfullhash}{4729a0a65aeeb7f0a66e4b47f95c1306}
-      \field{sortinit}{1}
-      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Light-assisted 3D direct-printing of biomaterials and cellular-scaffolds has the potential to develop novel lab-on-a-chip devices (LOCs) for a variety of biomedical applications, from drug discovery and diagnostic testing to in vitro tissue engineering and regeneration. Direct-writing describes a broad family of fabrication methods that typically employ computer-controlled translational stages to manufacture structures at multi-length scales. This review focuses on light-assisted direct-write fabrication for generating 3D functional scaffolds with precise micro- and nano-architecture, using both synthetic as well as naturally derived biomaterials. Two bioprinting approaches are discussed in detail - projection printing and laser-based systems - where each method is capable of modulating multiple scaffold parameters, such as 3D architecture, mechanical properties (e.g. stiffness), Poisson's ratio, chemical gradients, biological cell distributions, and porosity. The light-assisted direct-writing techniques described in this review provide the reader with alternative approaches to fabricate 3D biomaterials for utility in LOCs.}
@@ -1318,8 +1794,8 @@
       \strng{editorbibnamehash}{242eca1f846e4d24d346782fb85498a7}
       \strng{editornamehash}{242eca1f846e4d24d346782fb85498a7}
       \strng{editorfullhash}{242eca1f846e4d24d346782fb85498a7}
-      \field{sortinit}{2}
-      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Ch. 1. X-ray lithography : fundamentals and applications -- ch. 2. NanoImprint lithography -- ch. 3. Lithography techniques using scanning probe microscopy -- ch. 4. Lithography and manipulation based on the optical properties of metal nanostructures -- ch. 5. Patterning with self-assembling block copolymers -- ch. 6. Metrology for lithography.}
