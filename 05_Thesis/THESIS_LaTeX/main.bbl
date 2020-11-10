@@ -1137,6 +1137,76 @@
       \endverb
       \keyw{carbonIntro,structuralTypesOfCarbon}
     \endentry
+    \entry{Vajtai2013}{incollection}{}
+      \name{author}{4}{}{%
+        {{hash=ac60bea77c522f29fba7c437d7ead94f}{%
+           family={Kim},
+           familyi={K\bibinitperiod},
+           given={Yoong\bibnamedelima A.},
+           giveni={Y\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=a4150af4bc569bbb4c4e65cda6c94580}{%
+           family={Hayashi},
+           familyi={H\bibinitperiod},
+           given={Takuya},
+           giveni={T\bibinitperiod}}}%
+        {{hash=21d6766df69d05a71114e4d2495548aa}{%
+           family={Endo},
+           familyi={E\bibinitperiod},
+           given={Morinobu},
+           giveni={M\bibinitperiod}}}%
+        {{hash=3ddec71a2ce465a3ec2e4381c2fdf3cf}{%
+           family={Dresselhaus},
+           familyi={D\bibinitperiod},
+           given={Mildred\bibnamedelima S.},
+           giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=06708d14861f57fcbe91f0cfdb44c8e2}{%
+           family={Vajtai},
+           familyi={V\bibinitperiod},
+           given={Robert},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Berlin, Heidelberg}%
+      }
+      \list{publisher}{1}{%
+        {Springer Berlin Heidelberg}%
+      }
+      \strng{namehash}{1c1bd9d3e39ed9391eceba8c9e4d7ee1}
+      \strng{fullhash}{1c1bd9d3e39ed9391eceba8c9e4d7ee1}
+      \strng{bibnamehash}{1c1bd9d3e39ed9391eceba8c9e4d7ee1}
+      \strng{authorbibnamehash}{1c1bd9d3e39ed9391eceba8c9e4d7ee1}
+      \strng{authornamehash}{1c1bd9d3e39ed9391eceba8c9e4d7ee1}
+      \strng{authorfullhash}{1c1bd9d3e39ed9391eceba8c9e4d7ee1}
+      \strng{editorbibnamehash}{06708d14861f57fcbe91f0cfdb44c8e2}
+      \strng{editornamehash}{06708d14861f57fcbe91f0cfdb44c8e2}
+      \strng{editorfullhash}{06708d14861f57fcbe91f0cfdb44c8e2}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Nanomaterials inevitably have bright prospects, but even now they play an important role in many areas of industry. Some of these new materials are commercially available and are used in off the shelf products, others are important model systems for physicochemical and materials science research. However, research findings and application data are not compiled in a single work. The Springer Handbook of Nanomaterials collects description and data of materials which have dimensions on the nanoscale. The description of nanomaterials follows the interplay of structure, properties, processing and applications mainly in their solid phase. The chapters were arranged according to the classical materials-science classifications: carbon materials, metals, ceramics, composites, and biomaterials. For each part, materials structures represent different dimensionality; zero-dimensional clusters, nanoparticles and quantum dots, one-dimensional nanowires and nanotubes, and two-dimensional thin films and surfaces. Combinations cover for instance nanostructured and hybrid materials. Almost 100 leading scientists from academia and the industry were selected to write the 32 chapters and collect the physical, chemical and mechanical data. The handbook was written and compiled for professionals and practitioners, materials scientists, physicists and chemists at universities, as well as in the fields of industrial research and production. The Handbook is organized in seven parts. Part A: NanoCarbons. Part B: NanoMetals. Part C: NanoCeramics. Part D: NanoComposits. Part E: Nanoporous Materials. Part F: Organic and Biomaterilas. Part G: Applications and Impact.}
+      \field{booktitle}{Springer Handbook of Nanomaterials}
+      \field{isbn}{978-3-642-20594-1}
+      \field{title}{{Carbon Nanofibers}}
+      \field{year}{2013}
+      \field{pages}{233\bibrangedash 262}
+      \range{pages}{30}
+      \verb{doi}
+      \verb 10.1007/978-3-642-20595-8_7
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/oskat/OneDrive - Instituto Tecnologico y de Estudios Superiores de Monterrey/Documents/MNT{\_}ITESM{\_}Thesis/0{\_}References/CN.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://link.springer.com/10.1007/978-3-642-20595-8 http://link.springer.com/10.1007/978-3-642-20595-8{\_}7
+      \endverb
+      \verb{url}
+      \verb http://link.springer.com/10.1007/978-3-642-20595-8%20http://link.springer.com/10.1007/978-3-642-20595-8%7B%5C_%7D7
+      \endverb
+      \keyw{Biocompatibility,Ceramics,Composites,Nanocarbons,Nanoceramics,Nanometals,Nanoporous materials,Semiconductors}
+    \endentry
     \entry{Marsh1989}{book}{}
       \name{author}{1}{}{%
         {{hash=8a78d9c6fbc0f4bee7e8a4e9ba6e4962}{%
@@ -1652,6 +1722,73 @@
       \verb https://linkinghub.elsevier.com/retrieve/pii/S0013468619307698
       \endverb
       \keyw{Micro-supercapacitors,Ruthenium nanoparticles,Silicon nanowires,Solid-state devices}
+    \endentry
+    \entry{Dresselhaus2007}{incollection}{}
+      \name{author}{6}{}{%
+        {{hash=24aa629d7726e808d55dae9c27c617d7}{%
+           family={Dresselhaus},
+           familyi={D\bibinitperiod},
+           given={Mildred},
+           giveni={M\bibinitperiod}}}%
+        {{hash=8e667ad4da350e4a9fb3fcbb86422f33}{%
+           family={Lin},
+           familyi={L\bibinitperiod},
+           given={Yu-Ming},
+           giveni={Y\bibinithyphendelim M\bibinitperiod}}}%
+        {{hash=e7ee9ff5c7f27e705000ff56a32c7b88}{%
+           family={Rabin},
+           familyi={R\bibinitperiod},
+           given={Oded},
+           giveni={O\bibinitperiod}}}%
+        {{hash=b4e0625ee2cfbd84ac6d86b7a6910e97}{%
+           family={Black},
+           familyi={B\bibinitperiod},
+           given={Marcie},
+           giveni={M\bibinitperiod}}}%
+        {{hash=eedb40b467368f82cd7cb9a454108852}{%
+           family={Kong},
+           familyi={K\bibinitperiod},
+           given={Jing},
+           giveni={J\bibinitperiod}}}%
+        {{hash=3ffefe239eef8c125978a18521d7f9e2}{%
+           family={Dresselhaus},
+           familyi={D\bibinitperiod},
+           given={Gene},
+           giveni={G\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Berlin, Heidelberg}%
+      }
+      \list{publisher}{1}{%
+        {Springer Berlin Heidelberg}%
+      }
+      \strng{namehash}{ea12907e2673614d5a6507e8d5b1febe}
+      \strng{fullhash}{ea12907e2673614d5a6507e8d5b1febe}
+      \strng{bibnamehash}{ea12907e2673614d5a6507e8d5b1febe}
+      \strng{authorbibnamehash}{ea12907e2673614d5a6507e8d5b1febe}
+      \strng{authornamehash}{ea12907e2673614d5a6507e8d5b1febe}
+      \strng{authorfullhash}{ea12907e2673614d5a6507e8d5b1febe}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Springer Handbook of Nanotechnology}
+      \field{title}{{Nanowires}}
+      \field{year}{2007}
+      \field{pages}{113\bibrangedash 160}
+      \range{pages}{48}
+      \verb{doi}
+      \verb 10.1007/978-3-540-29857-1_4
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/oskat/OneDrive - Instituto Tecnologico y de Estudios Superiores de Monterrey/Documents/MNT{\_}ITESM{\_}Thesis/0{\_}References/NW.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://link.springer.com/10.1007/978-3-540-29857-1{\_}4
+      \endverb
+      \verb{url}
+      \verb http://link.springer.com/10.1007/978-3-540-29857-1%7B%5C_%7D4
+      \endverb
     \endentry
     \entry{Boer2014}{book}{}
       \name{author}{2}{}{%

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.6960 64-bit) (preloaded format=pdflatex 2019.2.1)  9 NOV 2020 19:45
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.6960 64-bit) (preloaded format=pdflatex 2019.2.1)  9 NOV 2020 22:37
 entering extended mode
 **./main.tex
 (main.tex
@@ -2025,14 +2025,14 @@ File: ./Figures/carbonAllotropesHybridization.png Graphic file (type png)
 <use ./Figures/carbonAllotropesHybridization.png>
 Package pdftex.def Info: ./Figures/carbonAllotropesHybridization.png  used on i
 nput line 56.
-(pdftex.def)             Requested size: 311.96591pt x 289.0804pt.
+(pdftex.def)             Requested size: 272.96794pt x 252.94327pt.
 [3 <./Figures/CBNfingerprint.png>]
 <./Figures/carbonAllotropesPorosityNOrder.png, id=329, 458.9145pt x 342.078pt>
 File: ./Figures/carbonAllotropesPorosityNOrder.png Graphic file (type png)
 <use ./Figures/carbonAllotropesPorosityNOrder.png>
 Package pdftex.def Info: ./Figures/carbonAllotropesPorosityNOrder.png  used on 
 input line 66.
-(pdftex.def)             Requested size: 367.1321pt x 273.66275pt.
+(pdftex.def)             Requested size: 321.23796pt x 239.45296pt.
 
 Underfull \hbox (badness 2229) in paragraph at lines 68--68
  \T1/ppl/m/n/10 rep-re-sents highly or-dered struc-tures, whereas white rep-re-
@@ -2040,18 +2040,6 @@ sents
  []
 
 [4 <./Figures/carbonAllotropes.png>]
-Underfull \hbox (badness 3849) in paragraph at lines 78--79
-\T1/ppl/m/n/12 Carbon nanofibers (CNFs) have been clas-si-fied as lin-ear, sp2-
-based
- []
-
-
-Underfull \hbox (badness 2142) in paragraph at lines 78--79
-\T1/ppl/m/n/12 CNFs have even been clas-si-fied as stacked (graphene lay-ers st
-acked
- []
-
-
 Underfull \hbox (badness 1831) in paragraph at lines 81--82
 \T1/ppl/m/n/12 and large in surface-to-volume ra-tio. These char-ac-ter-is-tics
  con-fer to
@@ -2075,25 +2063,25 @@ Underfull \hbox (badness 1275) in paragraph at lines 83--84
  struc-tures
  []
 
-[6 <./Figures/carbonAllotropesPorosityNOrder.png>]
+
 Underfull \hbox (badness 1122) in paragraph at lines 85--86
 \T1/ppl/m/n/12 scaf-folds for neu-ral tis-sues to fa-cil-i-tate com-mu-ni-ca-ti
 on through neu-ral
  []
 
-
+[6 <./Figures/carbonAllotropesPorosityNOrder.png>]
 Underfull \hbox (badness 1742) in paragraph at lines 89--90
 \T1/ppl/m/n/12 probe with CNFs com-pos-ites as record-ing elec-trodes via the t
 her-mal
  []
 
-[7]
+
 Underfull \hbox (badness 10000) in paragraph at lines 92--93
 []\T1/ppl/m/n/12 Nanostructured ma-te-ri-als are par-tic-u-larly good for su-pe
 r-ca-pac-i-tor
  []
 
-
+[7]
 Underfull \hbox (badness 1210) in paragraph at lines 95--96
 \T1/ppl/m/n/12 their at-trac-tive char-ac-ter-is-tic, such as, me-chan-i-cal pr
 op-er-ties, elec-tri-cal
@@ -2129,7 +2117,7 @@ Underfull \hbox (badness 1077) in paragraph at lines 98--99
 ites with the
  []
 
-[8]
+
 Underfull \hbox (badness 6493) in paragraph at lines 103--104
 \T1/ppl/m/n/12 syn-the-sis [30], vaporliquid-solid (VLS) [31], elec-trode-po-s
 i-tion [32],
@@ -2141,6 +2129,7 @@ Underfull \hbox (badness 2221) in paragraph at lines 103--104
 cal ar-range-ment
  []
 
+[8]
 LaTeX Font Info:    Font shape `T1/ppl/bx/it' in size <12> not available
 (Font)              Font shape `T1/ppl/b/it' tried instead on input line 109.
 
@@ -2154,7 +2143,7 @@ Underfull \hbox (badness 2600) in paragraph at lines 125--128
  two-photon
  []
 
-[9]
+
 Underfull \hbox (badness 2932) in paragraph at lines 131--132
 \T1/ppl/m/n/12 pho-topoly-mer-ized and py-rolyzed into con-duct-ing car-bon nan
 o-wires.
@@ -2166,7 +2155,7 @@ Underfull \hbox (badness 2293) in paragraph at lines 131--132
 or the catal-y-sis,
  []
 
-
+[9]
 Underfull \hbox (badness 2103) in paragraph at lines 138--139
 \T1/ppl/m/n/12 The rhe-o-log-i-cal prop-er-ties of poly-mer so-lu-tions along w
 ith syn-the-sis
@@ -2184,13 +2173,13 @@ Underfull \hbox (badness 1237) in paragraph at lines 138--139
 ctrospun-able,
  []
 
-[10]
+
 Underfull \hbox (badness 1189) in paragraph at lines 147--149
 []\T1/ppl/m/n/12 Is there any ev-i-dence of con-duc-tive car-bon nano-wire fab-
 ri-ca-tion
  []
 
-
+[10]
 Underfull \hbox (badness 4792) in paragraph at lines 172--173
 \T1/ppl/m/n/12 Study the prac-tice and fea-si-bil-ity of a new fab-ri-ca-tion p
 ro-cess to
@@ -2208,7 +2197,7 @@ Underfull \hbox (badness 8000) in paragraph at lines 178--180
 
  []
 
-[11]) [12]
+) [11]
 \openout2 = `./Chapters/2.aux'.
 
  (Chapters/2.tex
@@ -2217,7 +2206,7 @@ LaTeX Font Info:    Font shape `T1/ppl/bx/it' in size <14.4> not available
 (Font)              Font shape `T1/ppl/b/it' tried instead on input line 12.
 )
 1: section
-[13
+[12
 
 
 
@@ -2228,7 +2217,7 @@ LaTeX Font Info:    Font shape `T1/ppl/bx/it' in size <14.4> not available
 Chapter 3.
 )
 1: section
-[14
+[13
 
 
 
@@ -2239,7 +2228,7 @@ Chapter 3.
 Chapter 4.
 )
 1: section
-[15
+[14
 
 
 
@@ -2250,18 +2239,18 @@ Chapter 4.
 Chapter 5.
 )
 1: section
-[16
+[15
 
+
+
+]
+1: section
+[16
 
 
 ]
 1: section
 [17
-
-
-]
-1: section
-[18
 
 ]
 LaTeX Font Info:    Try loading font information for T1+cmtt on input line 526.
@@ -2275,7 +2264,7 @@ ls for Molec-u-lar
  []
 
 1: section
-[19
+[18
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 526--526
@@ -2295,7 +2284,7 @@ Underfull \hbox (badness 1565) in paragraph at lines 526--526
 it/10.95 ACS Nano\T1/ppl/m/n/10.95 , vol. 5, no. 8,
  []
 
-[20]
+[19]
 Underfull \hbox (badness 1748) in paragraph at lines 526--526
 \T1/cmtt/m/n/10.95 1 . 71 % 20https : / / linkinghub . elsevier . com / retriev
 e / pii /
@@ -2307,7 +2296,13 @@ Underfull \hbox (badness 5592) in paragraph at lines 526--526
 te En-gi-neer-ing\T1/ppl/m/n/10.95 . Cham: Springer
  []
 
-[21]
+
+Underfull \hbox (badness 1194) in paragraph at lines 526--526
+\T1/ppl/m/n/10.95 in \T1/ppl/m/it/10.95 Springer Hand-book of Nano-ma-te-ri-als
+\T1/ppl/m/n/10.95 , R. Va-j-tai, Ed., Berlin, Hei-del-berg:
+ []
+
+[20]
 Underfull \hbox (badness 2828) in paragraph at lines 526--526
 []\T1/ppl/m/n/10.95 S. Kundu, U. Mogera, S. J. George, and G. U. Kulka-rni,   
 A pla-nar
@@ -2332,13 +2327,13 @@ pl/m/n/10.95 : 9781118622582. \T1/ppl/m/sc/10.95 doi\T1/ppl/m/n/10.95 : [][]$\T
 1/cmtt/m/n/10.95 10 . 1002 /
  []
 
-[22]
+[21] [22]
 
 Package pdfpages Warning: Option `page' is unknow to \includepdf.
 (pdfpages)                Did you mean `pages'? (Note the `s'!)
 (pdfpages)                OK, I'll proceed as if it were `pages'.
 
-<./pdf/CV/CV.pdf, id=572, 614.295pt x 794.97pt>
+<./pdf/CV/CV.pdf, id=594, 614.295pt x 794.97pt>
 File: ./pdf/CV/CV.pdf Graphic file (type pdf)
 <use ./pdf/CV/CV.pdf>
 Package pdftex.def Info: ./pdf/CV/CV.pdf  used on input line 540.
@@ -2347,7 +2342,7 @@ File: ./pdf/CV/CV.pdf Graphic file (type pdf)
 <use ./pdf/CV/CV.pdf>
 Package pdftex.def Info: ./pdf/CV/CV.pdf  used on input line 540.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-<./pdf/CV/CV.pdf, id=575, page=1, 614.295pt x 794.97pt>
+<./pdf/CV/CV.pdf, id=597, page=1, 614.295pt x 794.97pt>
 File: ./pdf/CV/CV.pdf Graphic file (type pdf)
 <use ./pdf/CV/CV.pdf, page 1>
 Package pdftex.def Info: ./pdf/CV/CV.pdf , page1 used on input line 540.
@@ -2382,13 +2377,13 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 47496 strings out of 492946
- 981907 string characters out of 3126267
- 1350335 words of memory out of 3000000
- 50624 multiletter control sequences out of 15000+200000
+ 47510 strings out of 492946
+ 982317 string characters out of 3126267
+ 1351545 words of memory out of 3000000
+ 50636 multiletter control sequences out of 15000+200000
  574346 words of font info for 92 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 64i,19n,83p,2094b,3030s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 64i,19n,83p,2094b,3028s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\oskat\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\
 ectt1095.pk>{C:/Users/oskat/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/b
 ase/8r.enc}<C:/Users/oskat/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public
@@ -2398,9 +2393,9 @@ onts/type1/urw/palatino/uplbi8a.pfb><C:/Users/oskat/AppData/Local/Programs/MiKT
 eX 2.9/fonts/type1/urw/palatino/uplr8a.pfb><C:/Users/oskat/AppData/Local/Progra
 ms/MiKTeX 2.9/fonts/type1/urw/palatino/uplr8a.pfb><C:/Users/oskat/AppData/Local
 /Programs/MiKTeX 2.9/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on main.pdf (34 pages, 1016134 bytes).
+Output written on main.pdf (34 pages, 1022083 bytes).
 PDF statistics:
- 746 PDF objects out of 1000 (max. 8388607)
- 117 named destinations out of 1000 (max. 500000)
+ 769 PDF objects out of 1000 (max. 8388607)
+ 119 named destinations out of 1000 (max. 500000)
  351 words of extra memory for PDF output out of 10000 (max. 10000000)
 
