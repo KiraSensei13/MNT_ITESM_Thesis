@@ -1790,6 +1790,218 @@
       \verb http://link.springer.com/10.1007/978-3-540-29857-1%7B%5C_%7D4
       \endverb
     \endentry
+    \entry{Weil1992}{article}{}
+      \name{author}{1}{}{%
+        {{hash=860752f35d588ab2e5a170a1cbbe3c25}{%
+           family={Weil},
+           familyi={W\bibinitperiod},
+           given={Edward\bibnamedelima D.},
+           giveni={E\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \strng{namehash}{860752f35d588ab2e5a170a1cbbe3c25}
+      \strng{fullhash}{860752f35d588ab2e5a170a1cbbe3c25}
+      \strng{bibnamehash}{860752f35d588ab2e5a170a1cbbe3c25}
+      \strng{authorbibnamehash}{860752f35d588ab2e5a170a1cbbe3c25}
+      \strng{authornamehash}{860752f35d588ab2e5a170a1cbbe3c25}
+      \strng{authorfullhash}{860752f35d588ab2e5a170a1cbbe3c25}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{0849335442}
+      \field{issn}{10427147}
+      \field{journaltitle}{Polymers for Advanced Technologies}
+      \field{month}{2}
+      \field{number}{1}
+      \field{title}{{Carbon fibers, 2nd edition by J. B. Donnet and R. C. Bansal, Marcel Dekker, New York (1990), ISBN 470 pp., price {\$}150.00}}
+      \field{volume}{3}
+      \field{year}{1992}
+      \field{pages}{47\bibrangedash 47}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1002/pat.1992.220030109
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/oskat/OneDrive - Instituto Tecnologico y de Estudios Superiores de Monterrey/Documents/MNT{\_}ITESM{\_}Thesis/0{\_}References/CFweil1992.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://doi.wiley.com/10.1002/pat.1992.220030109
+      \endverb
+      \verb{url}
+      \verb http://doi.wiley.com/10.1002/pat.1992.220030109
+      \endverb
+      \keyw{economics,social science}
+    \endentry
+    \entry{Huang2009}{article}{}
+      \name{author}{1}{}{%
+        {{hash=7f4470d30c389ae4bfe9588aa702655d}{%
+           family={Huang},
+           familyi={H\bibinitperiod},
+           given={Xiaosong},
+           giveni={X\bibinitperiod}}}%
+      }
+      \strng{namehash}{7f4470d30c389ae4bfe9588aa702655d}
+      \strng{fullhash}{7f4470d30c389ae4bfe9588aa702655d}
+      \strng{bibnamehash}{7f4470d30c389ae4bfe9588aa702655d}
+      \strng{authorbibnamehash}{7f4470d30c389ae4bfe9588aa702655d}
+      \strng{authornamehash}{7f4470d30c389ae4bfe9588aa702655d}
+      \strng{authorfullhash}{7f4470d30c389ae4bfe9588aa702655d}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This paper reviews the research and development activities conducted over the past few decades on carbon fibers. The two most important precursors in the carbon fiber industry are polyacrylonitrile (PAN) and mesophase pitch (MP). The structure and composition of the precursor affect the properties of the resultant carbon fibers significantly. Although the essential processes for carbon fiber production are similar, different precursors require different processing conditions in order to achieve improved performance. The research efforts on process optimization are discussed in this review. The review also attempts to cover the research on other precursor materials developed mainly for the purpose of cost reduction. {©} 2009 by the authors.}
+      \field{issn}{1996-1944}
+      \field{journaltitle}{Materials}
+      \field{month}{12}
+      \field{number}{4}
+      \field{title}{{Fabrication and Properties of Carbon Fibers}}
+      \field{volume}{2}
+      \field{year}{2009}
+      \field{pages}{2369\bibrangedash 2403}
+      \range{pages}{35}
+      \verb{doi}
+      \verb 10.3390/ma2042369
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/oskat/OneDrive - Instituto Tecnologico y de Estudios Superiores de Monterrey/Documents/MNT{\_}ITESM{\_}Thesis/0{\_}References/FAPOCF.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://www.mdpi.com/1996-1944/2/4/2369
+      \endverb
+      \verb{url}
+      \verb http://www.mdpi.com/1996-1944/2/4/2369
+      \endverb
+      \keyw{Carbon fiber,Composite,High modulus,High strength,Light weighting}
+    \endentry
+    \entry{chung2012carbon}{book}{}
+      \name{author}{2}{}{%
+        {{hash=e28f7924ff1e5f00b7083718f32d7df6}{%
+           family={Chung},
+           familyi={C\bibinitperiod},
+           given={D.D.L.},
+           giveni={D\bibinitperiod}}}%
+        {{hash=df0c1a3776f15b5cce73d4ac688bca8b}{%
+           family={Chung},
+           familyi={C\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier Science}%
+      }
+      \strng{namehash}{51642eb7f2cea7a86c390aa3c9c7a12d}
+      \strng{fullhash}{51642eb7f2cea7a86c390aa3c9c7a12d}
+      \strng{bibnamehash}{51642eb7f2cea7a86c390aa3c9c7a12d}
+      \strng{authorbibnamehash}{51642eb7f2cea7a86c390aa3c9c7a12d}
+      \strng{authornamehash}{51642eb7f2cea7a86c390aa3c9c7a12d}
+      \strng{authorfullhash}{51642eb7f2cea7a86c390aa3c9c7a12d}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9780080500737}
+      \field{title}{Carbon Fiber Composites}
+      \field{year}{2012}
+      \verb{urlraw}
+      \verb https://books.google.com.mx/books?id=UYQXAAAAQBAJ
+      \endverb
+      \verb{url}
+      \verb https://books.google.com.mx/books?id=UYQXAAAAQBAJ
+      \endverb
+    \endentry
+    \entry{Subramoney1997}{article}{}
+      \name{author}{1}{}{%
+        {{hash=644ada0b2d994378929a20296c43f18c}{%
+           family={Subramoney},
+           familyi={S\bibinitperiod},
+           given={Shekhar},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{644ada0b2d994378929a20296c43f18c}
+      \strng{fullhash}{644ada0b2d994378929a20296c43f18c}
+      \strng{bibnamehash}{644ada0b2d994378929a20296c43f18c}
+      \strng{authorbibnamehash}{644ada0b2d994378929a20296c43f18c}
+      \strng{authornamehash}{644ada0b2d994378929a20296c43f18c}
+      \strng{authorfullhash}{644ada0b2d994378929a20296c43f18c}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The discovery of fullerenes (also known as buckyballs) has generated tremendous excitement and opened up a new field of carbon chemistry. As the first book available on this topic, this volume will be a landmark reference in the field. Because buckyballs are essentially closed hollow cages made up of carbon atoms, they can be manipulated in a variety of ways to yield never-before-seen materials. The balls can, for instance, be doped with atoms or pulled out into tubules and filled with lead to provide properties of high-temperature superconductivity. Researchers can now create their own buckyballs in a process that is almost as simple as making soot, making this research as inexpensive as it is exotic (which has doubtless contributed to its popularity). Researchers anticipate that fullerenes will offer boundless opportunities in the development of new products, drugs and materials. Science of Fullerenes and Carbon Nanotubes introduces materials scientists, chemists, and solid state physicists to the field of fullerenes, and discusses the unique properties and applications. both current and future, of all classes of fullerenes. Key Features * First comprehensive resource on fullerenes and their applications * Provides an introduction to the topic * Presents an extensive discussion of current and future applications of Fullerenes * Covers all classes of fullerenes. Historical Introduction. Carbon Materials. Structure of Fullerenes. Symmetry Considerations. Growth and Fragmentation Studies. Crystalline Structure of Fullerenes. Synthesis of Fullerene Molecules and Solids. Doping of Fullerenes. Structure of Doped Fullerenes and Fullerene Compounds. Fullerene Chemistry. Vibrational Modes. Thermal Properties. Electronic Structure. Optical Properties. Electrical and Thermal Properties. Superconductivity. Nuclear Magnetic Resonance Studies. Electron Paramagnetic Resonance. Surface Science Techniques on Fullerenes. Magnetic Properties. Fullerene-Related Tubules and Spherules. Scanning Tunnel Microscopy. Applications.}
+      \field{issn}{0935-9648}
+      \field{journaltitle}{Advanced Materials}
+      \field{number}{15}
+      \field{title}{{Science of fullerenes and carbon nanotubes. ByM. S. Dresselhaus,G. Dresselhaus, andP. C. Eklund, XVIII, 965 pp., Academic press, San Diego, CA 1996, hardcover, ISBN 012-221820-5}}
+      \field{volume}{9}
+      \field{year}{1997}
+      \field{pages}{1193\bibrangedash 1193}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1002/adma.19970091518
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/oskat/OneDrive - Instituto Tecnologico y de Estudios Superiores de Monterrey/Documents/MNT{\_}ITESM{\_}Thesis/0{\_}References/SOFACN.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://doi.wiley.com/10.1002/adma.19970091518
+      \endverb
+      \verb{url}
+      \verb http://doi.wiley.com/10.1002/adma.19970091518
+      \endverb
+    \endentry
+    \entry{Dresselhaus2000}{incollection}{}
+      \name{author}{4}{}{%
+        {{hash=a64ae8e50048491e4740a80f8c3fdee1}{%
+           family={Dresselhaus},
+           familyi={D\bibinitperiod},
+           given={M.\bibnamedelimi S.},
+           giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=8c424d11a33351ea19b6d59010190ed3}{%
+           family={Dresselhaus},
+           familyi={D\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod}}}%
+        {{hash=cf36e8556c5912f79784cbaec892d06d}{%
+           family={Eklund},
+           familyi={E\bibinitperiod},
+           given={P.\bibnamedelimi C.},
+           giveni={P\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=091e08d07f37fe88e2c399da36046e7e}{%
+           family={Rao},
+           familyi={R\bibinitperiod},
+           given={A.\bibnamedelimi M.},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \strng{namehash}{e89c42d53d2bf9accf48ee1041b5bdda}
+      \strng{fullhash}{e89c42d53d2bf9accf48ee1041b5bdda}
+      \strng{bibnamehash}{e89c42d53d2bf9accf48ee1041b5bdda}
+      \strng{authorbibnamehash}{e89c42d53d2bf9accf48ee1041b5bdda}
+      \strng{authornamehash}{e89c42d53d2bf9accf48ee1041b5bdda}
+      \strng{authorfullhash}{e89c42d53d2bf9accf48ee1041b5bdda}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Electronics}
+      \field{number}{1}
+      \field{title}{{Carbon Nanotubes}}
+      \field{year}{2000}
+      \field{pages}{331\bibrangedash 379}
+      \range{pages}{49}
+      \verb{doi}
+      \verb 10.1007/978-94-011-4038-6_9
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/oskat/OneDrive - Instituto Tecnologico y de Estudios Superiores de Monterrey/Documents/MNT{\_}ITESM{\_}Thesis/0{\_}References/CNTPOFBAFRM.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://link.springer.com/10.1007/978-94-011-4038-6{\_}9
+      \endverb
+      \verb{url}
+      \verb http://link.springer.com/10.1007/978-94-011-4038-6%7B%5C_%7D9
+      \endverb
+    \endentry
     \entry{Boer2014}{book}{}
       \name{author}{2}{}{%
         {{hash=6ee0b9d745395aec58364116f478ad83}{%

@@ -2065,16 +2065,22 @@
     <bcf:citekey order="24">AlstrupJensen2015</bcf:citekey>
     <bcf:citekey order="24">Vajtai2013</bcf:citekey>
     <bcf:citekey order="25">Dresselhaus2007</bcf:citekey>
-    <bcf:citekey order="26">Boer2014</bcf:citekey>
-    <bcf:citekey order="27">Hribar2014</bcf:citekey>
+    <bcf:citekey order="26">Dresselhaus2007</bcf:citekey>
+    <bcf:citekey order="27">Weil1992</bcf:citekey>
+    <bcf:citekey order="27">Huang2009</bcf:citekey>
+    <bcf:citekey order="27">chung2012carbon</bcf:citekey>
+    <bcf:citekey order="27">Subramoney1997</bcf:citekey>
+    <bcf:citekey order="27">Dresselhaus2000</bcf:citekey>
     <bcf:citekey order="28">Boer2014</bcf:citekey>
-    <bcf:citekey order="29">Cardenas2017</bcf:citekey>
-    <bcf:citekey order="30">Cardenas2017</bcf:citekey>
-    <bcf:citekey order="31">Siddiqui2019</bcf:citekey>
-    <bcf:citekey order="32">Siddiqui2019</bcf:citekey>
-    <bcf:citekey order="33">Landis2011</bcf:citekey>
-    <bcf:citekey order="34">Flores2017</bcf:citekey>
-    <bcf:citekey order="35">Cardenas2017</bcf:citekey>
+    <bcf:citekey order="29">Hribar2014</bcf:citekey>
+    <bcf:citekey order="30">Boer2014</bcf:citekey>
+    <bcf:citekey order="31">Cardenas2017</bcf:citekey>
+    <bcf:citekey order="32">Cardenas2017</bcf:citekey>
+    <bcf:citekey order="33">Siddiqui2019</bcf:citekey>
+    <bcf:citekey order="34">Siddiqui2019</bcf:citekey>
+    <bcf:citekey order="35">Landis2011</bcf:citekey>
+    <bcf:citekey order="36">Flores2017</bcf:citekey>
+    <bcf:citekey order="37">Cardenas2017</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="none">
