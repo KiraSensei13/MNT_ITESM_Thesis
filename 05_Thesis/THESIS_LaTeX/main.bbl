@@ -2002,6 +2002,2101 @@
       \verb http://link.springer.com/10.1007/978-94-011-4038-6%7B%5C_%7D9
       \endverb
     \endentry
+    \entry{Rodriguez1993}{article}{}
+      \name{author}{1}{}{%
+        {{hash=1ab611dd9b750c1b8b844250da45ce0b}{%
+           family={Rodriguez},
+           familyi={R\bibinitperiod},
+           given={N.M.},
+           giveni={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{1ab611dd9b750c1b8b844250da45ce0b}
+      \strng{fullhash}{1ab611dd9b750c1b8b844250da45ce0b}
+      \strng{bibnamehash}{1ab611dd9b750c1b8b844250da45ce0b}
+      \strng{authorbibnamehash}{1ab611dd9b750c1b8b844250da45ce0b}
+      \strng{authornamehash}{1ab611dd9b750c1b8b844250da45ce0b}
+      \strng{authorfullhash}{1ab611dd9b750c1b8b844250da45ce0b}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Carbon nanofibers (sometimes known as carbon filaments) can be produced in a relative large scale by the catalytic decomposition of certain hydrocarbons on small metal particles. The diameter of the nanofibers is governed by that of the catalyst particles responsible for their growth. By careful manipulation of various parameters it is possible to generate carbon nanofibers in assorted conformations and at the same time also control the degree of their crystalline order. This paper is a review of the recent advances made in the development of these nanostructures, with emphasis both on the fundamental aspects surrounding the growth of the material and a discussion of the key factors which enable one to control their chemical and physical properties. Attention is also given to some of the possible applications of the nanostructures which center around the unique blend of properties exhibited by the material.}
+      \field{issn}{0884-2914}
+      \field{journaltitle}{Journal of Materials Research}
+      \field{month}{12}
+      \field{number}{12}
+      \field{title}{{A review of catalytically grown carbon nanofibers}}
+      \field{volume}{8}
+      \field{year}{1993}
+      \field{pages}{3233\bibrangedash 3250}
+      \range{pages}{18}
+      \verb{doi}
+      \verb 10.1557/JMR.1993.3233
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/oskat/OneDrive - Instituto Tecnologico y de Estudios Superiores de Monterrey/Documents/MNT{\_}ITESM{\_}Thesis/0{\_}References/AROCGCN.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.cambridge.org/core/product/identifier/S0884291400072551/type/journal{\_}article
+      \endverb
+      \verb{url}
+      \verb https://www.cambridge.org/core/product/identifier/S0884291400072551/type/journal%7B%5C_%7Darticle
+      \endverb
+    \endentry
+    \entry{Yoon2004}{article}{}
+      \name{author}{7}{}{%
+        {{hash=9633ccaf0f5f13250b736afa87a249d4}{%
+           family={Yoon},
+           familyi={Y\bibinitperiod},
+           given={Seong-Ho},
+           giveni={S\bibinithyphendelim H\bibinitperiod}}}%
+        {{hash=ec80425bad48a09d024e6804f48ae1cf}{%
+           family={Lim},
+           familyi={L\bibinitperiod},
+           given={Seongyop},
+           giveni={S\bibinitperiod}}}%
+        {{hash=d3a2e45acb815e215a5ad1e99547d520}{%
+           family={Song},
+           familyi={S\bibinitperiod},
+           given={Yan},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=bea7c3348147110063ce89404eba3332}{%
+           family={Ota},
+           familyi={O\bibinitperiod},
+           given={Yasunori},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=1d8d46e63143fe25ee684525abc4b156}{%
+           family={Qiao},
+           familyi={Q\bibinitperiod},
+           given={Wenming},
+           giveni={W\bibinitperiod}}}%
+        {{hash=aef0e956b50536d545c9ee33c586942a}{%
+           family={Tanaka},
+           familyi={T\bibinitperiod},
+           given={Atsushi},
+           giveni={A\bibinitperiod}}}%
+        {{hash=99cb27c4a56dc2bddb5ccca040993a94}{%
+           family={Mochida},
+           familyi={M\bibinitperiod},
+           given={Isao},
+           giveni={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{7938abe24c06daeeaf6ea1176fbc1f34}
+      \strng{fullhash}{7938abe24c06daeeaf6ea1176fbc1f34}
+      \strng{bibnamehash}{7938abe24c06daeeaf6ea1176fbc1f34}
+      \strng{authorbibnamehash}{7938abe24c06daeeaf6ea1176fbc1f34}
+      \strng{authornamehash}{7938abe24c06daeeaf6ea1176fbc1f34}
+      \strng{authorfullhash}{7938abe24c06daeeaf6ea1176fbc1f34}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Catalytically grown carbon nanofiber (CNF) was activated with KOH to attain a high surface area with porous structure. The structural change of CNFs through KOH activation was investigated by using SEM, TEM and XRD. KOH activation was found to be effective to develop particular pore sizes on the CNF surface, increasing the surface area of CNF. The increase of surface area in KOH activation of CNF is first ascribed to local broadening of graphene interstices or local burn-off of graphenes, which limit the surface area increase of CNF with the fiber structure maintained. The activation under severe conditions caused to destroy the fiber structure of CNF. Activated CNFs were applied as an electrode for electrical double layer capacitors to be compared to active carbon fibers in terms of the surface properties. {©} 2004 Elsevier Ltd. All rights reserved.}
+      \field{issn}{00086223}
+      \field{journaltitle}{Carbon}
+      \field{number}{8-9}
+      \field{title}{{KOH activation of carbon nanofibers}}
+      \field{volume}{42}
+      \field{year}{2004}
+      \field{pages}{1723\bibrangedash 1729}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1016/j.carbon.2004.03.006
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/oskat/OneDrive - Instituto Tecnologico y de Estudios Superiores de Monterrey/Documents/MNT{\_}ITESM{\_}Thesis/0{\_}References/KAOCN.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0008622304001630
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0008622304001630
+      \endverb
+      \keyw{A. Carbon filaments,B. Activation,C. Electron microscopy,Catalytically grown carbon,D. Electrochemical properties}
+    \endentry
+    \entry{Liu2009}{article}{}
+      \name{author}{7}{}{%
+        {{hash=d551ec5b8c65e584b0d8de5315857b56}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Qingfeng},
+           giveni={Q\bibinitperiod}}}%
+        {{hash=017c10f3e28d8a82bc77f842e20828ac}{%
+           family={Ren},
+           familyi={R\bibinitperiod},
+           given={Wencai},
+           giveni={W\bibinitperiod}}}%
+        {{hash=821155020066d0f9aeb01f6b146e67c4}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Zhi-Gang},
+           giveni={Z\bibinithyphendelim G\bibinitperiod}}}%
+        {{hash=b75a03278c508cfebb5878c4d8ec6d8e}{%
+           family={Yin},
+           familyi={Y\bibinitperiod},
+           given={Lichang},
+           giveni={L\bibinitperiod}}}%
+        {{hash=89b23cce0bb40099f7b69f6577f665fe}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Feng},
+           giveni={F\bibinitperiod}}}%
+        {{hash=6ae41e6e4678cd436d2e1f267508c3f7}{%
+           family={Cong},
+           familyi={C\bibinitperiod},
+           given={Hongtao},
+           giveni={H\bibinitperiod}}}%
+        {{hash=f1eadc30f2870b9e7f258e54ad0bef6b}{%
+           family={Cheng},
+           familyi={C\bibinitperiod},
+           given={Hui-Ming},
+           giveni={H\bibinithyphendelim M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier Ltd}%
+      }
+      \strng{namehash}{22a61f030fb304f1d41889f5030a1d40}
+      \strng{fullhash}{22a61f030fb304f1d41889f5030a1d40}
+      \strng{bibnamehash}{22a61f030fb304f1d41889f5030a1d40}
+      \strng{authorbibnamehash}{22a61f030fb304f1d41889f5030a1d40}
+      \strng{authornamehash}{22a61f030fb304f1d41889f5030a1d40}
+      \strng{authorfullhash}{22a61f030fb304f1d41889f5030a1d40}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The current-voltage characteristics of individual cup-stacked carbon nanotubes (CSCNTs) were investigated in situ inside the transmission electron microscope. Different from other quasi-1D carbon structures such as multi-walled carbon nanotubes, carbon nanofibers or graphitic fibers that normally behave as a metallic conductor of electrons, individual CSCNTs were found to exhibit unexpectedly semiconducting behaviors due to the special stacking microstructure of graphene layers. The band gap of the CSCNTs was obtained with the value of about 0.44 eV, in contrast to the zero-gap semiconducting quasi-2D graphene. These findings provide new information about the effect of the stacking graphene layers on their electronic properties, and will widen the usefulness of such stacking structure for the application in nanoelectronics. {©} 2008 Elsevier Ltd. All rights reserved.}
+      \field{issn}{00086223}
+      \field{journaltitle}{Carbon}
+      \field{month}{3}
+      \field{number}{3}
+      \field{title}{{Semiconducting properties of cup-stacked carbon nanotubes}}
+      \field{volume}{47}
+      \field{year}{2009}
+      \field{pages}{731\bibrangedash 736}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1016/j.carbon.2008.11.005
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/oskat/OneDrive - Instituto Tecnologico y de Estudios Superiores de Monterrey/Documents/MNT{\_}ITESM{\_}Thesis/0{\_}References/SPOCSCN.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://dx.doi.org/10.1016/j.carbon.2008.11.005 https://linkinghub.elsevier.com/retrieve/pii/S0008622308006003
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1016/j.carbon.2008.11.005%20https://linkinghub.elsevier.com/retrieve/pii/S0008622308006003
+      \endverb
+    \endentry
+    \entry{Endo2003}{article}{}
+      \name{author}{8}{}{%
+        {{hash=21d6766df69d05a71114e4d2495548aa}{%
+           family={Endo},
+           familyi={E\bibinitperiod},
+           given={Morinobu},
+           giveni={M\bibinitperiod}}}%
+        {{hash=0c151850a40bfa370e826947a1b35a0d}{%
+           family={Kim},
+           familyi={K\bibinitperiod},
+           given={Yoong\bibnamedelima Ahm},
+           giveni={Y\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=5318435efe7e56b24b9a705f2d7b544b}{%
+           family={Ezaka},
+           familyi={E\bibinitperiod},
+           given={Masay},
+           giveni={M\bibinitperiod}}}%
+        {{hash=796fdd06ae521b3be713c64b0440a05e}{%
+           family={Osada},
+           familyi={O\bibinitperiod},
+           given={Koji},
+           giveni={K\bibinitperiod}}}%
+        {{hash=636a247e5a214e2d1a86b0b099866064}{%
+           family={Yanagisawa},
+           familyi={Y\bibinitperiod},
+           given={Takashi},
+           giveni={T\bibinitperiod}}}%
+        {{hash=a4150af4bc569bbb4c4e65cda6c94580}{%
+           family={Hayashi},
+           familyi={H\bibinitperiod},
+           given={Takuya},
+           giveni={T\bibinitperiod}}}%
+        {{hash=2e68af2103707da8d78f3b4b8cec11b0}{%
+           family={Terrones},
+           familyi={T\bibinitperiod},
+           given={Marucio},
+           giveni={M\bibinitperiod}}}%
+        {{hash=3ddec71a2ce465a3ec2e4381c2fdf3cf}{%
+           family={Dresselhaus},
+           familyi={D\bibinitperiod},
+           given={Mildred\bibnamedelima S.},
+           giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \strng{namehash}{217af02a38657e3214909d5d5dafc76d}
+      \strng{fullhash}{217af02a38657e3214909d5d5dafc76d}
+      \strng{bibnamehash}{217af02a38657e3214909d5d5dafc76d}
+      \strng{authorbibnamehash}{217af02a38657e3214909d5d5dafc76d}
+      \strng{authornamehash}{217af02a38657e3214909d5d5dafc76d}
+      \strng{authorfullhash}{217af02a38657e3214909d5d5dafc76d}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{We describe the efficient impregnation of Pt nanoparticles (OD {<} 3 nm) on cup-stacked-type carbon nanofibers. The method involves the dispersion of the fibers in H2PtCl6 followed by low-temperature annealing. The Pt particle deposition is always homogeneous and can be controlled selectively on the outer or internal core using the hydrophobic nature of the material. Since the Pt particle activity on the fibers is high, this material could find applications as efficient catalysts and allied biological devices.}
+      \field{issn}{1530-6984}
+      \field{journaltitle}{Nano Letters}
+      \field{month}{6}
+      \field{number}{6}
+      \field{title}{{Selective and Efficient Impregnation of Metal Nanoparticles on Cup-Stacked-Type Carbon Nanofibers}}
+      \field{volume}{3}
+      \field{year}{2003}
+      \field{pages}{723\bibrangedash 726}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.1021/nl034136h
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/oskat/OneDrive - Instituto Tecnologico y de Estudios Superiores de Monterrey/Documents/MNT{\_}ITESM{\_}Thesis/0{\_}References/SAEIOMNOCSTCN.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://pubs.acs.org/doi/10.1021/nl034136h
+      \endverb
+      \verb{url}
+      \verb https://pubs.acs.org/doi/10.1021/nl034136h
+      \endverb
+    \endentry
+    \entry{Yokozeki2009}{article}{}
+      \name{author}{8}{}{%
+        {{hash=d3e108576bb21aac6597e86484652859}{%
+           family={Yokozeki},
+           familyi={Y\bibinitperiod},
+           given={Tomohiro},
+           giveni={T\bibinitperiod}}}%
+        {{hash=35d1b9085e241108d692ee3e07fbd824}{%
+           family={Iwahori},
+           familyi={I\bibinitperiod},
+           given={Yutaka},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=6b04687dc4b5ffda96d66ac163b0ab13}{%
+           family={Ishibashi},
+           familyi={I\bibinitperiod},
+           given={Masaru},
+           giveni={M\bibinitperiod}}}%
+        {{hash=636a247e5a214e2d1a86b0b099866064}{%
+           family={Yanagisawa},
+           familyi={Y\bibinitperiod},
+           given={Takashi},
+           giveni={T\bibinitperiod}}}%
+        {{hash=082989a2e944d1b77628422f0a29ed3c}{%
+           family={Imai},
+           familyi={I\bibinitperiod},
+           given={Kazunari},
+           giveni={K\bibinitperiod}}}%
+        {{hash=311541eae93226a38a1722c2bec84d6e}{%
+           family={Arai},
+           familyi={A\bibinitperiod},
+           given={Masahiro},
+           giveni={M\bibinitperiod}}}%
+        {{hash=cdd46b5efe5f07221691a41ede822160}{%
+           family={Takahashi},
+           familyi={T\bibinitperiod},
+           given={Tatsuhiro},
+           giveni={T\bibinitperiod}}}%
+        {{hash=93fa76699239be11c61758af1fb01e05}{%
+           family={Enomoto},
+           familyi={E\bibinitperiod},
+           given={Kiyoshi},
+           giveni={K\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier Ltd}%
+      }
+      \strng{namehash}{34c2869e4ecb997e079737ed3b634eef}
+      \strng{fullhash}{34c2869e4ecb997e079737ed3b634eef}
+      \strng{bibnamehash}{34c2869e4ecb997e079737ed3b634eef}
+      \strng{authorbibnamehash}{34c2869e4ecb997e079737ed3b634eef}
+      \strng{authornamehash}{34c2869e4ecb997e079737ed3b634eef}
+      \strng{authorfullhash}{34c2869e4ecb997e079737ed3b634eef}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Several techniques are introduced to enhance the interlaminar fracture toughness of CFRP laminates using cup-stacked carbon nanotubes (CSCNTs). Prepared CSCNT-dispersed CFRP laminates are subject to Double Cantilever Beam (DCB) and End Notched Flexure (ENF) tests in order to obtain mode-I and mode-II interlaminar fracture toughness. The measured fracture toughnesses are compared to that of CFRP laminates without CSCNT to evaluate the effectiveness of CSCNT dispersion for the improvement of fracture toughness. All CSCNT-dispersed CFRP laminates exhibit higher fracture toughness, and specifically, CSCNT-dispersed CFRP laminates with thin epoxy interlayers containing short CSCNTs have three times higher fracture toughness than CFRP laminates without CSCNT. SEM observation of fracture surfaces is also conducted to investigate the mechanisms of fracture toughness improvement. Crack deflection mechanism is recognized in the CSCNT-dispersed CFRP laminates, which is considered to contribute the enhancement of interlaminar fracture toughness. {©} 2008 Elsevier Ltd. All rights reserved.}
+      \field{issn}{02663538}
+      \field{journaltitle}{Composites Science and Technology}
+      \field{month}{11}
+      \field{number}{14}
+      \field{title}{{Fracture toughness improvement of CFRP laminates by dispersion of cup-stacked carbon nanotubes}}
+      \field{volume}{69}
+      \field{year}{2009}
+      \field{pages}{2268\bibrangedash 2273}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1016/j.compscitech.2008.12.017
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/oskat/OneDrive - Instituto Tecnologico y de Estudios Superiores de Monterrey/Documents/MNT{\_}ITESM{\_}Thesis/0{\_}References/FTIOCLBDOCSCN.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://dx.doi.org/10.1016/j.compscitech.2008.12.017 https://linkinghub.elsevier.com/retrieve/pii/S0266353808005265
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1016/j.compscitech.2008.12.017%20https://linkinghub.elsevier.com/retrieve/pii/S0266353808005265
+      \endverb
+      \keyw{A. Carbon nanotubes,A. Laminate,A. Polymer-matrix composites (PMCs),B. Fracture toughness}
+    \endentry
+    \entry{Frackowiak2002}{article}{}
+      \name{author}{2}{}{%
+        {{hash=af796be01a00258af8f631d368ce10d5}{%
+           family={Frackowiak},
+           familyi={F\bibinitperiod},
+           given={Elzbieta},
+           giveni={E\bibinitperiod}}}%
+        {{hash=b1a78298d1431c730bfe5242661a7840}{%
+           family={B{é}guin},
+           familyi={B\bibinitperiod},
+           given={Fran{ç}ois},
+           giveni={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{f5526db539e2a12187012e2df6a5598c}
+      \strng{fullhash}{f5526db539e2a12187012e2df6a5598c}
+      \strng{bibnamehash}{f5526db539e2a12187012e2df6a5598c}
+      \strng{authorbibnamehash}{f5526db539e2a12187012e2df6a5598c}
+      \strng{authornamehash}{f5526db539e2a12187012e2df6a5598c}
+      \strng{authorfullhash}{f5526db539e2a12187012e2df6a5598c}
+      \field{extraname}{1}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Possibilities of electrochemical energy conversion using carbon nanotubes and related materials in various systems, such as lithium batteries, supercapacitors, hydrogen storage, are considered. It is shown that for these applications the electrochemical properties of multiwalled (MWNTs) and single walled (SWNTs) nanotubes are essentially dominated by their mesoporous character. During lithium insertion into nanotubular materials a high irreversible capacity Cirr (from 460 to 1080 mAh/g) has been observed after the first cycle with a tendency to further decomposition of electrolyte with cycling. Penetration of solvated lithium ions in the accessible mesopores is at the origin of this phenomenon; an almost linear dependence has been found between the mesopore volume and Cirr. Reversible capacity for lithium insertion Crev ranged between 220 and 780 mAh/g; however, a great divergence (hysteresis) between insertion and extraction characteristics was observed independently on the kind of nanotubes and oxygen content. Amount of lithium stored by electrostatic attraction is negligible in comparison to real redox reactions which for thermodynamic reasons present linear variation of potential, especially during deinsertion (pseudocapacitive effects). During positive polarization, i.e., removal of lithium, resistivity of the electrode also gradually increases. Due to the open network of mesopores formed by the nanotubes entanglement, and consequently an easily accessible electrode-electrolyte interface, nanotubular materials are quite adapted for supercapacitor electrodes in various electrolytic solutions. High values of capacitance (80 F/g) have been obtained in 6 M KOH for materials with a surface area of only ca. 430 m2/g. Capacitance values have been enhanced either by additional oxygenated functionalisation of nanotubes (130 F/g) or by conducting polypyrrole (PPy) electrodeposition where the maximum values reached 170 F/g. The next domain of energy storage in the carbon nanostructures is the accumulation of hydrogen by the electrochemical decomposition of aqueous alkaline medium on a negatively polarized carbon electrode in ambient conditions. For SWNTs only moderate values (below 0.5 wt.{\%} of H2) have been found, while for activated carbons with highly developed surface area of 1500 m2/g, the amount of reversibly sorbed hydrogen was ca. 2 wt.{\%}, noticeably larger than under dihydrogen pressure (only 0.4 wt.{\%} for the same material at 70 bar and 273 K). The enhancement observed for the activated carbon is interpreted by the formation of nascent hydrogen during water reduction which penetrates easily in the available carbon nanopores. The values obtained by this method are comparable to those of metallic alloys, such as LaNi5 for example. {©} 2002 Elsevier Science Ltd. All rights reserved.}
+      \field{issn}{00086223}
+      \field{journaltitle}{Carbon}
+      \field{month}{8}
+      \field{number}{10}
+      \field{title}{{Electrochemical storage of energy in carbon nanotubes and nanostructured carbons}}
+      \field{volume}{40}
+      \field{year}{2002}
+      \field{pages}{1775\bibrangedash 1787}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1016/S0008-6223(02)00045-3
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/oskat/OneDrive - Instituto Tecnologico y de Estudios Superiores de Monterrey/Documents/MNT{\_}ITESM{\_}Thesis/0{\_}References/ESFEICNANC.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0008622302000453
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0008622302000453
+      \endverb
+      \keyw{A. Activated carbon,Carbon nanotubes,D. Electrochemical properties,Gas storage}
+    \endentry
+    \entry{Endo2000}{article}{}
+      \name{author}{5}{}{%
+        {{hash=c9394236b0bea94d6a0cda724dae0151}{%
+           family={Endo},
+           familyi={E\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=6e6f57a4a2529dec95830ee0d8c3245a}{%
+           family={Kim},
+           familyi={K\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod}}}%
+        {{hash=cc031c11347113597fa321038ce0fa3b}{%
+           family={Nishimura},
+           familyi={N\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod}}}%
+        {{hash=3a8d6d0fdc87c441d7a534d692e0e536}{%
+           family={Fujino},
+           familyi={F\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod}}}%
+        {{hash=f3d9012356c78549a7f304399c49fa5e}{%
+           family={Miyashita},
+           familyi={M\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{6ce07e753242e1e652bdfd0d6fc0a251}
+      \strng{fullhash}{6ce07e753242e1e652bdfd0d6fc0a251}
+      \strng{bibnamehash}{6ce07e753242e1e652bdfd0d6fc0a251}
+      \strng{authorbibnamehash}{6ce07e753242e1e652bdfd0d6fc0a251}
+      \strng{authornamehash}{6ce07e753242e1e652bdfd0d6fc0a251}
+      \strng{authorfullhash}{6ce07e753242e1e652bdfd0d6fc0a251}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Lithium ion secondary batteries are currently the best portable energy storage device for the consumer electronics market. The recent development of the lithium ion secondary batteries has been achieved by the use of selected carbon and graphite materials as an anode. The performance of lithium ion secondary batteries, such as the charge/discharge capacity, voltage profile and cyclic stability, depend strongly on the microstructure of the anode materials made of carbon and graphite. Due to the contribution of the carbon materials used in the anode in last five years, the capacity of the typical Li ion battery has been improved 1.7 times. However, there are still active investigations to identify the key parameters of carbons that provide the improved anode properties, as carbon and graphite materials have large varieties in the microstructure, texture, crystallinity and morphology, depending on their preparation processes and precursor materials, as well as various forms such as powder, fibers and spherule. In the present article, we describe the correlation between the microstructural parameters and electrochemical properties of conventional and novel types of carbon materials for Li ion batteries, namely, graphitizable carbons such as milled mesophase pitch-based carbon fibers, polyparaphenylene-based carbon heat-treated at low temperatures and boron-doped graphitized materials, by connecting with the market demand and the trends in Li ion secondary batteries. The basic scientific theory can contribute to further developments of the Li ion batteries such as polymer batteries for consumer electronics, multimedia technology and future hybrid and electric vehicles.}
+      \field{issn}{00086223}
+      \field{journaltitle}{Carbon}
+      \field{number}{2}
+      \field{title}{{Recent development of carbon materials for Li ion batteries}}
+      \field{volume}{38}
+      \field{year}{2000}
+      \field{pages}{183\bibrangedash 197}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.1016/S0008-6223(99)00141-4
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/oskat/OneDrive - Instituto Tecnologico y de Estudios Superiores de Monterrey/Documents/MNT{\_}ITESM{\_}Thesis/0{\_}References/RDOCMFLIB.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0008622399001414
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0008622399001414
+      \endverb
+      \keyw{a,d,electrochemical properties,intercalation compounds}
+    \endentry
+    \entry{Winter1998}{article}{}
+      \name{author}{4}{}{%
+        {{hash=6745b89c8db7d66948e0d5836a11b4e4}{%
+           family={Winter},
+           familyi={W\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod}}}%
+        {{hash=fbbc3ddcfa8d9f3366ae6592d2ae7438}{%
+           family={Besenhard},
+           familyi={B\bibinitperiod},
+           given={J{ü}rgen\bibnamedelima O.},
+           giveni={J\bibinitperiod\bibinitdelim O\bibinitperiod}}}%
+        {{hash=276bbca0d1dfa201029470d4a592ed7a}{%
+           family={Spahr},
+           familyi={S\bibinitperiod},
+           given={Michael\bibnamedelima E.},
+           giveni={M\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=61e7711c7a8ca085ed5b1753971d8cb3}{%
+           family={Nov{á}k},
+           familyi={N\bibinitperiod},
+           given={Petr},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{a00ff5a930c70fd4e45403a34bc4f7b0}
+      \strng{fullhash}{a00ff5a930c70fd4e45403a34bc4f7b0}
+      \strng{bibnamehash}{a00ff5a930c70fd4e45403a34bc4f7b0}
+      \strng{authorbibnamehash}{a00ff5a930c70fd4e45403a34bc4f7b0}
+      \strng{authornamehash}{a00ff5a930c70fd4e45403a34bc4f7b0}
+      \strng{authorfullhash}{a00ff5a930c70fd4e45403a34bc4f7b0}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Despite the development of several lithium-insertion compounds as cathodes over the years, the commercialization of rechargeable lithium batteries has been hindered mainly by the poor cyctability of metallic lithium anode. One way to circumvent this problem is to use an insertion compound as an anode as well. This strategy involves a development of lithium-insertion host pairs with a well separated work functions so that an acceptable cell voltage can be realized. A novel low-temperature route involving the reduction ofoxo-ions (MO4)n- (M = V, Mo or Mn) in aqueous solutions by alkali metal borohydrides at ambient temperatures has been developed to obtain amorphous or nanocrystalline transition metal oxide electrodes. The electrochemical performances of nanocrystalline VO2, amorphous MoO2, as well as a fine-particle LixMn3-xO4 spinel oxide are discussed.}
+      \field{issn}{0935-9648}
+      \field{journaltitle}{Advanced Materials}
+      \field{month}{7}
+      \field{number}{10}
+      \field{title}{{Insertion Electrode Materials for Rechargeable Lithium Batteries}}
+      \field{volume}{10}
+      \field{year}{1998}
+      \field{pages}{725\bibrangedash 763}
+      \range{pages}{39}
+      \verb{doi}
+      \verb 10.1002/(SICI)1521-4095(199807)10:10<725::AID-ADMA725>3.0.CO;2-Z
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/oskat/OneDrive - Instituto Tecnologico y de Estudios Superiores de Monterrey/Documents/MNT{\_}ITESM{\_}Thesis/0{\_}References/IEMFRLB.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://onlinelibrary.wiley.com/doi/10.1002/(SICI)1521-4095(199807)10:10{\%}3C725::AID-ADMA725{\%}3E3.0.CO;2-Z
+      \endverb
+      \verb{url}
+      \verb https://onlinelibrary.wiley.com/doi/10.1002/(SICI)1521-4095(199807)10:10%7B%5C%%7D3C725::AID-ADMA725%7B%5C%%7D3E3.0.CO;2-Z
+      \endverb
+    \endentry
+    \entry{Endo2001}{article}{}
+      \name{author}{7}{}{%
+        {{hash=c9394236b0bea94d6a0cda724dae0151}{%
+           family={Endo},
+           familyi={E\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=3afa7dce43f51d16c24ca7ecf18760c1}{%
+           family={Maeda},
+           familyi={M\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod}}}%
+        {{hash=f09e8300e05b5bc4d549b5aa116fdf46}{%
+           family={Takeda},
+           familyi={T\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod}}}%
+        {{hash=869b3d0476cac80e05c3e0a6380fea6e}{%
+           family={Kim},
+           familyi={K\bibinitperiod},
+           given={Y.\bibnamedelimi J.},
+           giveni={Y\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=288d3e85ac73d4cd4accf2986a996749}{%
+           family={Koshiba},
+           familyi={K\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod}}}%
+        {{hash=29c5ad323ce746d9873e288f2c4a43cc}{%
+           family={Hara},
+           familyi={H\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod}}}%
+        {{hash=a64ae8e50048491e4740a80f8c3fdee1}{%
+           family={Dresselhaus},
+           familyi={D\bibinitperiod},
+           given={M.\bibnamedelimi S.},
+           giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \strng{namehash}{669b11efef1aca3ca72e2b3ebf2e739e}
+      \strng{fullhash}{669b11efef1aca3ca72e2b3ebf2e739e}
+      \strng{bibnamehash}{669b11efef1aca3ca72e2b3ebf2e739e}
+      \strng{authorbibnamehash}{669b11efef1aca3ca72e2b3ebf2e739e}
+      \strng{authornamehash}{669b11efef1aca3ca72e2b3ebf2e739e}
+      \strng{authorfullhash}{669b11efef1aca3ca72e2b3ebf2e739e}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Various kinds of activated carbon/activated carbon fibers were used in the evaluation of electrical double layer capacitors using the method of image analysis. The appropriate hydrated ion structures in an aqueous system of H 2 SO 4 /H 2 O and an organic system of LiClO 4 /polypropylene carbonate were calculated using the software Cerius 2 (ver. 3.8). The capacitance obtained varied with the electrolyte used, even though the capacitor material remained the same. The relationship between the pore size and the electrolyte ion diameter is discussed. {©} 2001 The Electrochemical Society. [DOI: 10.1149/1.1382589] All rights reserved.}
+      \field{issn}{00134651}
+      \field{journaltitle}{Journal of The Electrochemical Society}
+      \field{number}{8}
+      \field{title}{{Capacitance and Pore-Size Distribution in Aqueous and Nonaqueous Electrolytes Using Various Activated Carbon Electrodes}}
+      \field{volume}{148}
+      \field{year}{2001}
+      \field{pages}{A910}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1149/1.1382589
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/oskat/OneDrive - Instituto Tecnologico y de Estudios Superiores de Monterrey/Documents/MNT{\_}ITESM{\_}Thesis/0{\_}References/CAPSDIAANEUVACE.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://iopscience.iop.org/article/10.1149/1.1382589
+      \endverb
+      \verb{url}
+      \verb https://iopscience.iop.org/article/10.1149/1.1382589
+      \endverb
+    \endentry
+    \entry{Frackowiak2001}{article}{}
+      \name{author}{2}{}{%
+        {{hash=af796be01a00258af8f631d368ce10d5}{%
+           family={Frackowiak},
+           familyi={F\bibinitperiod},
+           given={Elzbieta},
+           giveni={E\bibinitperiod}}}%
+        {{hash=b1a78298d1431c730bfe5242661a7840}{%
+           family={B{é}guin},
+           familyi={B\bibinitperiod},
+           given={Fran{ç}ois},
+           giveni={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{f5526db539e2a12187012e2df6a5598c}
+      \strng{fullhash}{f5526db539e2a12187012e2df6a5598c}
+      \strng{bibnamehash}{f5526db539e2a12187012e2df6a5598c}
+      \strng{authorbibnamehash}{f5526db539e2a12187012e2df6a5598c}
+      \strng{authornamehash}{f5526db539e2a12187012e2df6a5598c}
+      \strng{authorfullhash}{f5526db539e2a12187012e2df6a5598c}
+      \field{extraname}{2}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Hierarchical porous carbon (HPC) materials with graphitic structure, which exhibit an interesting highly developed three-dimensional porosity network of macropores in combination with meso-/micropores, have been synthesized by a water soluble template (NaCl) method combined with a metal-assisted catalytic technique at 850°C. The soluble NaCl was used as a meso-porous and/or micro-porous structure-directing template, while glucose and Fe species were employed as carbon precursor and graphitization catalyst, respectively. Nitrogen adsorption-desorption analysis showed that with increasing the mole ratio between the metal precursor and the carbon precursor from 0.005 to 0.02, the Brunauer-Emmett-Teller surface area of the HPC samples varied from 498 to 253 m 2/g. {©} 2012 Elsevier B.V.}
+      \field{issn}{00086223}
+      \field{journaltitle}{Carbon}
+      \field{month}{5}
+      \field{number}{6}
+      \field{title}{{Carbon materials for the electrochemical storage of energy in capacitors}}
+      \field{volume}{39}
+      \field{year}{2001}
+      \field{pages}{937\bibrangedash 950}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.1016/S0008-6223(00)00183-4
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/oskat/OneDrive - Instituto Tecnologico y de Estudios Superiores de Monterrey/Documents/MNT{\_}ITESM{\_}Thesis/0{\_}References/CMFTESOEIC.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0008622300001834
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0008622300001834
+      \endverb
+      \keyw{Carbon materials,Graphitization,Hierarchical porous carbon,Microstructure,Water soluble template}
+    \endentry
+    \entry{Pandolfo2006}{article}{}
+      \name{author}{2}{}{%
+        {{hash=0e55abd4f5a79dd0ed3fabaaa9943b25}{%
+           family={Pandolfo},
+           familyi={P\bibinitperiod},
+           given={A.G.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=522674754316c9fa63491502b8e589c3}{%
+           family={Hollenkamp},
+           familyi={H\bibinitperiod},
+           given={A.F.},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{ca6d8891be8287e1006952f37f035d90}
+      \strng{fullhash}{ca6d8891be8287e1006952f37f035d90}
+      \strng{bibnamehash}{ca6d8891be8287e1006952f37f035d90}
+      \strng{authorbibnamehash}{ca6d8891be8287e1006952f37f035d90}
+      \strng{authornamehash}{ca6d8891be8287e1006952f37f035d90}
+      \strng{authorfullhash}{ca6d8891be8287e1006952f37f035d90}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Supercapacitors (also known as 'ultracapacitors') offer a promising alternative approach to meeting the increasing power demands of energy-storage systems in general, and of portable (digital) electronic devices in particular. Supercapacitors are able to store and deliver energy at relatively high rates (beyond those accessible with batteries) because the mechanism of energy storage is simple charge-separation (as in conventional capacitors). The vast increases in capacitance achieved by supercapacitors are due to the combination of: (i) an extremely small distance that separates the opposite charges, as defined by the electric double-layer; (ii) highly porous electrodes that embody very high surface-area. A variety of porous forms of carbon are currently preferred as the electrode materials because they have exceptionally high surface areas, relatively high electronic conductivity, and acceptable cost. The power and energy-storage capabilities of these devices are closely linked to the physical and chemical characteristics of the carbon electrodes. For example, increases in specific surface-area, obtained through activation of the carbon, generally lead to increased capacitance. Since only the electrolyte-wetted surface-area contributes to capacitance, the carbon processing is required to generate predominantly 'open' pores that are connected to the bulk pore network. While the supercapacitors available today perform well, it is generally agreed that there is considerable scope for improvement (e.g., improved performance at higher frequencies). Thus it is likely that carbon will continue to play a principal role in supercapacitor technology, mainly through further optimization of porosity, surface treatments to promote wettability, and reduced inter-particle contact resistance. {©} 2006.}
+      \field{issn}{03787753}
+      \field{journaltitle}{Journal of Power Sources}
+      \field{month}{6}
+      \field{number}{1}
+      \field{title}{{Carbon properties and their role in supercapacitors}}
+      \field{volume}{157}
+      \field{year}{2006}
+      \field{pages}{11\bibrangedash 27}
+      \range{pages}{17}
+      \verb{doi}
+      \verb 10.1016/j.jpowsour.2006.02.065
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/oskat/OneDrive - Instituto Tecnologico y de Estudios Superiores de Monterrey/Documents/MNT{\_}ITESM{\_}Thesis/0{\_}References/CPATRIS.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0378775306003442
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0378775306003442
+      \endverb
+      \keyw{Activated carbon,Capacitance,Porosity,Supercapacitor,Ultracapacitor,surface-area}
+    \endentry
+    \entry{Conway1999}{book}{}
+      \name{author}{1}{}{%
+        {{hash=2f55cd9946398ed01fca0b6430fca826}{%
+           family={Conway},
+           familyi={C\bibinitperiod},
+           given={B.\bibnamedelimi E.},
+           giveni={B\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Boston, MA}%
+      }
+      \list{publisher}{1}{%
+        {Springer US}%
+      }
+      \strng{namehash}{2f55cd9946398ed01fca0b6430fca826}
+      \strng{fullhash}{2f55cd9946398ed01fca0b6430fca826}
+      \strng{bibnamehash}{2f55cd9946398ed01fca0b6430fca826}
+      \strng{authorbibnamehash}{2f55cd9946398ed01fca0b6430fca826}
+      \strng{authornamehash}{2f55cd9946398ed01fca0b6430fca826}
+      \strng{authorfullhash}{2f55cd9946398ed01fca0b6430fca826}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Local cerebral glucose utilization was measured in parallel groups of conscious rats following intravenous injection of either 1 mg/kg 8-hydroxy-2-(di-N-propylamino)tetralin (a 5-hydroxytryptamine1A binding site agonist), 3 mg/kg 5-methoxy 3-(1,2,3,6-tetrahydro-4-pyridinyl)1H indole, succinate (a 5-hydroxytryptamine1B agonist), or saline alone, using the 2-deoxyglucose quantitative autoradiographic techniques (n = 5 in each of the three groups). Following both drugs, local rates of glucose use in the majority of the 72 brain areas analysed remained unaltered, but in some other regions either increases or decreases were observed. In keeping with the observed behavioural response to 8-hydroxy-2-(di-N-propylamino)tetralin there were marked increases in cerebellum (+ 56{\%}) and motor cortex where a columnar arrangement of increased metabolism (+ 34{\%}) contrasted with adjacent columns of decrease (- 26{\%}). Hippocampal areas showed moderate decreases in glucose use (-13 to -21{\%}). All areas which increased following 8-hydroxy-2-(di-N-propylamino)tetralin also increased following 5-methoxy 3-(1,2,3,6-tetrahydro-4-pyridinyl)1H indole, succinate, but in the latter case all elements of the basal ganglia were also increased, including globus pallidus (+ 105{\%}) and the striatum where the changes (+ 54{\%}) were limited to a discrete dorsal region of the nucleus. In the hippocampus only dorsal dentate gyrus was decreased (- 24{\%}) whilst a moderate increase (+16{\%}) was observed in dorsal subiculum. The complexity of these results contrasts with previous 2-deoxyglucose investigations where less specific 5-hydroxytryptamine receptor ligands were used,11,30 and suggests that certain aspects of brain function may be selectively targeted by systemic pharmacological manipulation of endogenous serotonergic systems. {©} 1988.}
+      \field{booktitle}{Neuroscience}
+      \field{isbn}{978-1-4757-3060-9}
+      \field{issn}{03064522}
+      \field{number}{3}
+      \field{title}{{Electrochemical Supercapacitors}}
+      \field{volume}{25}
+      \field{year}{1999}
+      \field{pages}{907\bibrangedash 915}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1007/978-1-4757-3058-6
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/oskat/OneDrive - Instituto Tecnologico y de Estudios Superiores de Monterrey/Documents/MNT{\_}ITESM{\_}Thesis/0{\_}References/ES.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://link.springer.com/10.1007/978-1-4757-3058-6
+      \endverb
+      \verb{url}
+      \verb http://link.springer.com/10.1007/978-1-4757-3058-6
+      \endverb
+    \endentry
+    \entry{Choi2002}{article}{}
+      \name{author}{4}{}{%
+        {{hash=651e3a110f3eea5779745970087632e9}{%
+           family={Choi},
+           familyi={C\bibinitperiod},
+           given={Hee\bibnamedelima Cheul},
+           giveni={H\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=d051c54c5a1534599474bbd327f58a99}{%
+           family={Shim},
+           familyi={S\bibinitperiod},
+           given={Moonsub},
+           giveni={M\bibinitperiod}}}%
+        {{hash=e237b40de45c5a5245dd83979a7367b6}{%
+           family={Bangsaruntip},
+           familyi={B\bibinitperiod},
+           given={Sarunya},
+           giveni={S\bibinitperiod}}}%
+        {{hash=6c3b3cc418b52f0c447dd34cecd4b862}{%
+           family={Dai},
+           familyi={D\bibinitperiod},
+           given={Hongjie},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{3f973a93cfe880128d47db8d38b1aec1}
+      \strng{fullhash}{3f973a93cfe880128d47db8d38b1aec1}
+      \strng{bibnamehash}{3f973a93cfe880128d47db8d38b1aec1}
+      \strng{authorbibnamehash}{3f973a93cfe880128d47db8d38b1aec1}
+      \strng{authornamehash}{3f973a93cfe880128d47db8d38b1aec1}
+      \strng{authorfullhash}{3f973a93cfe880128d47db8d38b1aec1}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Nanotube/nanoparticle hybrid structures are prepared by forming Au and Pt nanoparticles on the sidewalls of single-walled carbon nanotubes. Reducing agent or catalyst-free electroless deposition, which purely utilizes the redox potential difference between Au3+, Pt2+, and the carbon nanotube, is the main driving force for this reaction. It is also shown that carbon nanotubes act as a template for wire-like metal structures. The successful formation of the hybrid structures is monitored by atomic force microscopy (AFM) and electrical measurements. Copyright {©} 2002 American Chemical Society.}
+      \field{issn}{0002-7863}
+      \field{journaltitle}{Journal of the American Chemical Society}
+      \field{month}{8}
+      \field{number}{31}
+      \field{title}{{Spontaneous Reduction of Metal Ions on the Sidewalls of Carbon Nanotubes}}
+      \field{volume}{124}
+      \field{year}{2002}
+      \field{pages}{9058\bibrangedash 9059}
+      \range{pages}{2}
+      \verb{doi}
+      \verb 10.1021/ja026824t
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/oskat/OneDrive - Instituto Tecnologico y de Estudios Superiores de Monterrey/Documents/MNT{\_}ITESM{\_}Thesis/0{\_}References/SROMIOTSOCN.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://pubs.acs.org/doi/10.1021/ja026824t
+      \endverb
+      \verb{url}
+      \verb https://pubs.acs.org/doi/10.1021/ja026824t
+      \endverb
+    \endentry
+    \entry{Li2002}{article}{}
+      \name{author}{8}{}{%
+        {{hash=080233c24518c33fcd8d0638abc6d7bd}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Wenzhen},
+           giveni={W\bibinitperiod}}}%
+        {{hash=217fc0fad5a23e87a222148fab7f790b}{%
+           family={Liang},
+           familyi={L\bibinitperiod},
+           given={Changhai},
+           giveni={C\bibinitperiod}}}%
+        {{hash=61a388de2fdf634e9ccd2ca2bdff0815}{%
+           family={Qiu},
+           familyi={Q\bibinitperiod},
+           given={Jieshan},
+           giveni={J\bibinitperiod}}}%
+        {{hash=45bdca07a93edca6075144845b03bacf}{%
+           family={Zhou},
+           familyi={Z\bibinitperiod},
+           given={Weijiang},
+           giveni={W\bibinitperiod}}}%
+        {{hash=fdbe6b44dfb1a401858c4e16cfe59599}{%
+           family={Han},
+           familyi={H\bibinitperiod},
+           given={Hongmei},
+           giveni={H\bibinitperiod}}}%
+        {{hash=799dfecde359a206b424e2d60219bb1a}{%
+           family={Wei},
+           familyi={W\bibinitperiod},
+           given={Zhaobin},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=23aa58dd2e5c7587a511b9a1f802cb7c}{%
+           family={Sun},
+           familyi={S\bibinitperiod},
+           given={Gongquan},
+           giveni={G\bibinitperiod}}}%
+        {{hash=fa0af4dfc57d3d95a82a80193661ac2c}{%
+           family={Xin},
+           familyi={X\bibinitperiod},
+           given={Qin},
+           giveni={Q\bibinitperiod}}}%
+      }
+      \strng{namehash}{4012e79bfd42766b3b68b098c19450ba}
+      \strng{fullhash}{4012e79bfd42766b3b68b098c19450ba}
+      \strng{bibnamehash}{4012e79bfd42766b3b68b098c19450ba}
+      \strng{authorbibnamehash}{4012e79bfd42766b3b68b098c19450ba}
+      \strng{authornamehash}{4012e79bfd42766b3b68b098c19450ba}
+      \strng{authorfullhash}{4012e79bfd42766b3b68b098c19450ba}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{4114694447}
+      \field{issn}{00086223}
+      \field{journaltitle}{Carbon}
+      \field{month}{4}
+      \field{number}{5}
+      \field{title}{{Carbon nanotubes as support for cathode catalyst of a direct methanol fuel cell}}
+      \field{volume}{40}
+      \field{year}{2002}
+      \field{pages}{791\bibrangedash 794}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.1016/S0008-6223(02)00039-8
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/oskat/OneDrive - Instituto Tecnologico y de Estudios Superiores de Monterrey/Documents/MNT{\_}ITESM{\_}Thesis/0{\_}References/CNASFCCOADMFC.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0008622302000398
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0008622302000398
+      \endverb
+      \keyw{A. Carbon nanotubes,B. Surface treatment,Catalyst support,D. Electrochemical properties}
+    \endentry
+    \entry{Planeix1994}{article}{}
+      \name{author}{9}{}{%
+        {{hash=8a7840788bf2f1ebb65ba7e7364e9594}{%
+           family={Planeix},
+           familyi={P\bibinitperiod},
+           given={J.\bibnamedelimi M.},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=1c2387b50fe535e7a6ab562533e2826b}{%
+           family={Coustel},
+           familyi={C\bibinitperiod},
+           given={N.},
+           giveni={N\bibinitperiod}}}%
+        {{hash=536245b449d03860af0b592d1a25b8f9}{%
+           family={Coq},
+           familyi={C\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod}}}%
+        {{hash=11bf94fcc09138a51af5fede75633fd4}{%
+           family={Brotons},
+           familyi={B\bibinitperiod},
+           given={V.},
+           giveni={V\bibinitperiod}}}%
+        {{hash=f80c4aeda04ab2c33fff34c544946ba0}{%
+           family={Kumbhar},
+           familyi={K\bibinitperiod},
+           given={P.\bibnamedelimi S.},
+           giveni={P\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=3b09b7abc33b1b3fe1c1cb6b4ad9e3ba}{%
+           family={Dutartre},
+           familyi={D\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+        {{hash=62eb2e775920f05d2e6460c8a92360da}{%
+           family={Geneste},
+           familyi={G\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+        {{hash=60b28894caac6ff453d0ce65c4ed4c36}{%
+           family={Bernier},
+           familyi={B\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+        {{hash=2b65bd22aad40bb3c709bbcb34c6446f}{%
+           family={Ajayan},
+           familyi={A\bibinitperiod},
+           given={P.\bibnamedelimi M.},
+           giveni={P\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \strng{namehash}{938e6c0b5d187d79d00ec66e6dc13f8f}
+      \strng{fullhash}{938e6c0b5d187d79d00ec66e6dc13f8f}
+      \strng{bibnamehash}{938e6c0b5d187d79d00ec66e6dc13f8f}
+      \strng{authorbibnamehash}{938e6c0b5d187d79d00ec66e6dc13f8f}
+      \strng{authornamehash}{938e6c0b5d187d79d00ec66e6dc13f8f}
+      \strng{authorfullhash}{938e6c0b5d187d79d00ec66e6dc13f8f}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0002-7863}
+      \field{journaltitle}{Journal of the American Chemical Society}
+      \field{month}{8}
+      \field{number}{17}
+      \field{title}{{Application of Carbon Nanotubes as Supports in Heterogeneous Catalysis}}
+      \field{volume}{116}
+      \field{year}{1994}
+      \field{pages}{7935\bibrangedash 7936}
+      \range{pages}{2}
+      \verb{doi}
+      \verb 10.1021/ja00096a076
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/oskat/OneDrive - Instituto Tecnologico y de Estudios Superiores de Monterrey/Documents/MNT{\_}ITESM{\_}Thesis/0{\_}References/AOCNASIHC.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://pubs.acs.org/doi/abs/10.1021/ja00096a076
+      \endverb
+      \verb{url}
+      \verb https://pubs.acs.org/doi/abs/10.1021/ja00096a076
+      \endverb
+    \endentry
+    \entry{RomanMartinez1995}{article}{}
+      \name{author}{6}{}{%
+        {{hash=60c4fdb45e82879c071ea8a064d04509}{%
+           family={Rom{á}n-Mart{í}nez},
+           familyi={R\bibinithyphendelim M\bibinitperiod},
+           given={M.C.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=06d451f3d89464ec00bb4100f28f0781}{%
+           family={Cazorla-Amor{ó}s},
+           familyi={C\bibinithyphendelim A\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+        {{hash=bd02aae2cf536b7ed33746b3681c1d04}{%
+           family={Linares-Solano},
+           familyi={L\bibinithyphendelim S\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=28421c606828a60216d33dbf04f1fe43}{%
+           family={{De Lecea}},
+           familyi={D\bibinitperiod},
+           given={C.Salinas-Mart{í}'nez},
+           giveni={C\bibinithyphendelim M\bibinitperiod}}}%
+        {{hash=fb3c5ab9b957cc69e72e70e3ffb451c4}{%
+           family={Yamashita},
+           familyi={Y\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod}}}%
+        {{hash=3541b31332e9287ea09af6e57db01c52}{%
+           family={Anpo},
+           familyi={A\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{96a961e3cd4075f764e1dcc6f2edbfe8}
+      \strng{fullhash}{96a961e3cd4075f764e1dcc6f2edbfe8}
+      \strng{bibnamehash}{96a961e3cd4075f764e1dcc6f2edbfe8}
+      \strng{authorbibnamehash}{96a961e3cd4075f764e1dcc6f2edbfe8}
+      \strng{authornamehash}{96a961e3cd4075f764e1dcc6f2edbfe8}
+      \strng{authorfullhash}{96a961e3cd4075f764e1dcc6f2edbfe8}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The influence of support surface chemistry and metal precursor species on the properties of Pt/C catalysts has been analyzed. The char of a phenolformaldehyde polymer is the carbon source for obtaining four different supports: three with different degree of surface oxidation and another one modified by ion-exchanged calcium. These supports have been impregnated with aqueous solutions of two platinum precursors with different ionic character: chloroplatinic acid and tetraaminplatinum chloride. The study of the system consists of a preliminary characterization of the supports (surface chemistry and textural properties), an EXAFS analysis of the fresh impregnated catalysts and the determination of platinum dispersion. The platinum precursor-support interaction, established after the impregnation step, and the platinum precursor distribution have been related to the surface chemistry of the supports and the platinum precursor used. The effect of these parameters in the final metal dispersion has also been investigated. The results obtained show that the degree of support surface oxidation has a strong influence on the distribution of the metal precursor on the support and, consequently, on the final platinum dispersion. The surface oxidation of the supports seems to have a negative effect on the platinum dispersion, independently of the platinum precursor used. Thus, the lower the number of surface oxygen complexes, the higher the metal dispersion. The reduction of precursor H2PtCl6 by interaction with the carbon has also been found to depend on the surface chemistry of the supports. {©} 1995.}
+      \field{issn}{00086223}
+      \field{journaltitle}{Carbon}
+      \field{number}{1}
+      \field{title}{{Metal-support interaction in Pt/C catalysts. Influence of the support surface chemistry and the metal precursor}}
+      \field{volume}{33}
+      \field{year}{1995}
+      \field{pages}{3\bibrangedash 13}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1016/0008-6223(94)00096-I
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/oskat/OneDrive - Instituto Tecnologico y de Estudios Superiores de Monterrey/Documents/MNT{\_}ITESM{\_}Thesis/0{\_}References/MSIIPCCIOTSSCATMP.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/000862239400096I
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/000862239400096I
+      \endverb
+      \keyw{EXAFS,Metal-support interaction,Pt/C catalysts,support surface chemistry}
+    \endentry
+    \entry{Serp2008}{book}{}
+      \name{editor}{2}{}{%
+        {{hash=67b4c93b5a6cb587b2d228c1003cb44d}{%
+           family={Serp},
+           familyi={S\bibinitperiod},
+           given={Philippe},
+           giveni={P\bibinitperiod}}}%
+        {{hash=0563839e8c63a6c37dca0a7c55da25a9}{%
+           family={Figueiredo},
+           familyi={F\bibinitperiod},
+           given={Jo{ś}e\bibnamedelima L{ú}{í}s},
+           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Hoboken, NJ, USA}%
+      }
+      \list{publisher}{1}{%
+        {John Wiley {\&} Sons, Inc.}%
+      }
+      \strng{namehash}{785a44d62182b6a4f18af2f88fbc943c}
+      \strng{fullhash}{785a44d62182b6a4f18af2f88fbc943c}
+      \strng{bibnamehash}{785a44d62182b6a4f18af2f88fbc943c}
+      \strng{editorbibnamehash}{785a44d62182b6a4f18af2f88fbc943c}
+      \strng{editornamehash}{785a44d62182b6a4f18af2f88fbc943c}
+      \strng{editorfullhash}{785a44d62182b6a4f18af2f88fbc943c}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Carbon}
+      \field{isbn}{9780470403709}
+      \field{month}{12}
+      \field{title}{{Carbon Materials for Catalysis}}
+      \field{year}{2008}
+      \verb{doi}
+      \verb 10.1002/9780470403709
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/oskat/OneDrive - Instituto Tecnologico y de Estudios Superiores de Monterrey/Documents/MNT{\_}ITESM{\_}Thesis/0{\_}References/CMFC.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://doi.wiley.com/10.1002/9780470403709
+      \endverb
+      \verb{url}
+      \verb http://doi.wiley.com/10.1002/9780470403709
+      \endverb
+    \endentry
+    \entry{Bach1998}{article}{}
+      \name{author}{9}{}{%
+        {{hash=a5e1c9fefcfb1c2eea235333c0d4b0be}{%
+           family={Bach},
+           familyi={B\bibinitperiod},
+           given={F.H.},
+           giveni={F\bibinitperiod}}}%
+        {{hash=81664939aca273c9ca610dfae4dab8f8}{%
+           family={Fishman},
+           familyi={F\bibinitperiod},
+           given={J.A.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=b7dac24d7e93316239bbe35642a9c6fd}{%
+           family={Daniels},
+           familyi={D\bibinitperiod},
+           given={N.},
+           giveni={N\bibinitperiod}}}%
+        {{hash=e6fa734c14f561cfd4b299dbe5bb987b}{%
+           family={Proimos},
+           familyi={P\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=f4968a4de3e576f92e99cb1c03ce1b2f}{%
+           family={Anderson},
+           familyi={A\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod}}}%
+        {{hash=c2b5299c44a0576c4d19a327dd332524}{%
+           family={Carpenter},
+           familyi={C\bibinitperiod},
+           given={C.B.},
+           giveni={C\bibinitperiod}}}%
+        {{hash=6d961624e8fb8d3ec8156a5d35de4999}{%
+           family={Forrow},
+           familyi={F\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod}}}%
+        {{hash=454f3fce074f4fb75b65ce3204fa4184}{%
+           family={Robson},
+           familyi={R\bibinitperiod},
+           given={S.C.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=d6c7c088a2c504651150ce6ae2c2fde8}{%
+           family={Fineberg},
+           familyi={F\bibinitperiod},
+           given={H.V.},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{1ee9af8fc0e10b13bb5649d1946d5dbe}
+      \strng{fullhash}{1ee9af8fc0e10b13bb5649d1946d5dbe}
+      \strng{bibnamehash}{1ee9af8fc0e10b13bb5649d1946d5dbe}
+      \strng{authorbibnamehash}{1ee9af8fc0e10b13bb5649d1946d5dbe}
+      \strng{authornamehash}{1ee9af8fc0e10b13bb5649d1946d5dbe}
+      \strng{authorfullhash}{1ee9af8fc0e10b13bb5649d1946d5dbe}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1078-8956}
+      \field{journaltitle}{Nature Medicine}
+      \field{month}{2}
+      \field{number}{2}
+      \field{title}{{Uncertainty in xenotransplantation: Individual benefit versus collective risk}}
+      \field{volume}{4}
+      \field{year}{1998}
+      \field{pages}{141\bibrangedash 144}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.1038/nm0298-141
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/oskat/OneDrive - Instituto Tecnologico y de Estudios Superiores de Monterrey/Documents/MNT{\_}ITESM{\_}Thesis/0{\_}References/UIXIBVCR.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://www.nature.com/articles/nm0298-141
+      \endverb
+      \verb{url}
+      \verb http://www.nature.com/articles/nm0298-141
+      \endverb
+    \endentry
+    \entry{Butler1998}{article}{}
+      \name{author}{4}{}{%
+        {{hash=867e5a6a4bc51271aab7ed56b9739819}{%
+           family={Butler},
+           familyi={B\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+        {{hash=d16433a1f0a7c4f72bdd447ea700f0a2}{%
+           family={Wadman},
+           familyi={W\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=2957dd9cb899f3ec793006859a370ac7}{%
+           family={Lehrman},
+           familyi={L\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=f0b1755dad0f6ae7c9ab7ca79e33e671}{%
+           family={Schiermeier},
+           familyi={S\bibinitperiod},
+           given={Q.},
+           giveni={Q\bibinitperiod}}}%
+      }
+      \strng{namehash}{edf97574e900e491f10e284ab2deee0d}
+      \strng{fullhash}{edf97574e900e491f10e284ab2deee0d}
+      \strng{bibnamehash}{edf97574e900e491f10e284ab2deee0d}
+      \strng{authorbibnamehash}{edf97574e900e491f10e284ab2deee0d}
+      \strng{authornamehash}{edf97574e900e491f10e284ab2deee0d}
+      \strng{authorfullhash}{edf97574e900e491f10e284ab2deee0d}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{US regulations are soon to be released allowing trials of animal-to- human transplants. Some feel this premature, arguing that the risks of creating human diseases remain uncertain, and more preclinical research is needed.}
+      \field{issn}{0028-0836}
+      \field{journaltitle}{Nature}
+      \field{month}{1}
+      \field{number}{6665}
+      \field{title}{{Last chance to stop and think on risks of xenotransplants}}
+      \field{volume}{391}
+      \field{year}{1998}
+      \field{pages}{321\bibrangedash 322}
+      \range{pages}{2}
+      \verb{doi}
+      \verb 10.1038/34749
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/oskat/OneDrive - Instituto Tecnologico y de Estudios Superiores de Monterrey/Documents/MNT{\_}ITESM{\_}Thesis/0{\_}References/LCTSATOROX.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://www.nature.com/articles/34749
+      \endverb
+      \verb{url}
+      \verb http://www.nature.com/articles/34749
+      \endverb
+    \endentry
+    \entry{Delustro1990}{article}{}
+      \name{author}{4}{}{%
+        {{hash=0b0ed1da468c0607e772bdf58e3b5610}{%
+           family={Delustro},
+           familyi={D\bibinitperiod},
+           given={Frank},
+           giveni={F\bibinitperiod}}}%
+        {{hash=daef412574f69de4017b8dc084c530a8}{%
+           family={Dasch},
+           familyi={D\bibinitperiod},
+           given={James},
+           giveni={J\bibinitperiod}}}%
+        {{hash=b980346cc2cf139e1b67d79a3e3adc13}{%
+           family={Keefe},
+           familyi={K\bibinitperiod},
+           given={Jeannine},
+           giveni={J\bibinitperiod}}}%
+        {{hash=142c0283d7d60bd07aec7ed9fed85340}{%
+           family={Ellingsworth},
+           familyi={E\bibinitperiod},
+           given={Larry},
+           giveni={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{39f0e98f9e402202857694ba4389c5a2}
+      \strng{fullhash}{39f0e98f9e402202857694ba4389c5a2}
+      \strng{bibnamehash}{39f0e98f9e402202857694ba4389c5a2}
+      \strng{authorbibnamehash}{39f0e98f9e402202857694ba4389c5a2}
+      \strng{authornamehash}{39f0e98f9e402202857694ba4389c5a2}
+      \strng{authorfullhash}{39f0e98f9e402202857694ba4389c5a2}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0009-921X}
+      \field{journaltitle}{Clinical Orthopaedics and Related Research}
+      \field{month}{11}
+      \field{title}{{Immune Responses to Allogeneic and Xenogeneic Implants of Collagen and Collagen Derivatives}}
+      \field{volume}{260}
+      \field{year}{1990}
+      \field{pages}{263\bibrangedash 279}
+      \range{pages}{17}
+      \verb{doi}
+      \verb 10.1097/00003086-199011000-00043
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/oskat/OneDrive - Instituto Tecnologico y de Estudios Superiores de Monterrey/Documents/MNT{\_}ITESM{\_}Thesis/0{\_}References/IRTAAXIFCACD.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://journals.lww.com/00003086-199011000-00043
+      \endverb
+      \verb{url}
+      \verb http://journals.lww.com/00003086-199011000-00043
+      \endverb
+    \endentry
+    \entry{Chachques2008}{article}{}
+      \name{author}{6}{}{%
+        {{hash=d38f2c820e8f006308265f5f13b995d6}{%
+           family={Chachques},
+           familyi={C\bibinitperiod},
+           given={Juan\bibnamedelima C.},
+           giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=c8c6e111851a278000a5d54bdce905a2}{%
+           family={Trainini},
+           familyi={T\bibinitperiod},
+           given={Jorge\bibnamedelima C.},
+           giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=7094f88239ae5bab179ca5426ec01b22}{%
+           family={Lago},
+           familyi={L\bibinitperiod},
+           given={Noemi},
+           giveni={N\bibinitperiod}}}%
+        {{hash=4e5eb32f36ca4d1f86c0cda474aa215e}{%
+           family={Cortes-Morichetti},
+           familyi={C\bibinithyphendelim M\bibinitperiod},
+           given={Miguel},
+           giveni={M\bibinitperiod}}}%
+        {{hash=2b1815ae323efdaadc82e523be7ac299}{%
+           family={Schussler},
+           familyi={S\bibinitperiod},
+           given={Olivier},
+           giveni={O\bibinitperiod}}}%
+        {{hash=3d593baead51895e0f01f26ca9ec7417}{%
+           family={Carpentier},
+           familyi={C\bibinitperiod},
+           given={Alain},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{666b04f833bb3610c81c150a052eb02b}
+      \strng{fullhash}{666b04f833bb3610c81c150a052eb02b}
+      \strng{bibnamehash}{666b04f833bb3610c81c150a052eb02b}
+      \strng{authorbibnamehash}{666b04f833bb3610c81c150a052eb02b}
+      \strng{authornamehash}{666b04f833bb3610c81c150a052eb02b}
+      \strng{authorfullhash}{666b04f833bb3610c81c150a052eb02b}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Background: Cell transplantation for the regeneration of ischemic myocardium is limited by poor graft viability and low cell retention. In ischemic cardiomyopathy, the extracellular matrix is deeply altered; therefore, it could be important to associate a procedure aiming at regenerating myocardial cells and restoring the extracellular matrix function. We evaluated the feasibility and safety of intrainfarct cell therapy associated with a cell-seeded collagen scaffold grafted onto infarcted ventricles. Methods: In 20 consecutive patients presenting with left ventricular postischemic myocardial scars and indication for coronary artery bypass graft surgery, bone marrow cells were implanted during surgery. In the last 10 patients, we added a collagen matrix seeded with bone marrow cells, placed onto the scar. Results: There was no mortality and any related adverse events (follow-up 10 ± 3.5 months). New York Heart Association functional class improved in both groups from 2.3 ± 0.5 to 1.3 ± 0.5 (matrix, p = 0.0002) versus 2.4 ± 0.5 to 1.5 ± 0.5 (no matrix, p = 0.001). Left ventricular end-diastolic volume evolved from 142.4 ± 24.5 mL to 112.9 ± 27.3 mL (matrix, p = 0.02) versus 138.9 ± 36.1 mL to 148.7 ± 41 mL (no matrix, p = 0.57), left ventricular filling deceleration time improved significantly in the matrix group from 162 ± 7 ms to 198 ± 9 ms (p = 0.01) versus the no-matrix group (from 159 ± 5 ms to 167 ± 8 ms, p = 0.07). Scar area thickness progressed from 6 ± 1.4 to 9 mm ± 1.1 mm (matrix, p = 0.005) versus 5 ± 1.5 mm to 6 ± 0.8 mm (no matrix, p = 0.09). Ejection fraction improved in both groups, from 25.3{\%} ± 7.3{\%} to 32{\%} ± 5.4{\%} (matrix, p = 0.03) versus 27.2{\%} ± 6.9{\%} to 34.6{\%} ± 7.3{\%} (no matrix, p = 0.031). Conclusions: This tissue-engineered approach is feasible and safe and appears to improve the efficiency of cellular cardiomyoplasty. The cell-seeded collagen matrix increases the thickness of the infarct scar with viable tissue and helps to normalize cardiac wall stress in injured regions, thus limiting ventricular remodeling and improving diastolic function. {©} 2008 The Society of Thoracic Surgeons.}
+      \field{issn}{00034975}
+      \field{journaltitle}{The Annals of Thoracic Surgery}
+      \field{month}{3}
+      \field{number}{3}
+      \field{title}{{Myocardial Assistance by Grafting a New Bioartificial Upgraded Myocardium (MAGNUM Trial): Clinical Feasibility Study}}
+      \field{volume}{85}
+      \field{year}{2008}
+      \field{pages}{901\bibrangedash 908}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1016/j.athoracsur.2007.10.052
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/oskat/OneDrive - Instituto Tecnologico y de Estudios Superiores de Monterrey/Documents/MNT{\_}ITESM{\_}Thesis/0{\_}References/MABGANBUMMTCFS.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0003497507021819
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0003497507021819
+      \endverb
+    \endentry
+    \entry{Atala2006}{article}{}
+      \name{author}{5}{}{%
+        {{hash=7c2f952e8cded6700426843df0af7d40}{%
+           family={Atala},
+           familyi={A\bibinitperiod},
+           given={Anthony},
+           giveni={A\bibinitperiod}}}%
+        {{hash=fc60e9eb5714eb1562fa22485350bb3a}{%
+           family={Bauer},
+           familyi={B\bibinitperiod},
+           given={Stuart\bibnamedelima B.},
+           giveni={S\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=90623b5dd4865a474fe33e372a36a1f4}{%
+           family={Soker},
+           familyi={S\bibinitperiod},
+           given={Shay},
+           giveni={S\bibinitperiod}}}%
+        {{hash=cb227eb74c7ae42bc105ff51d98c0c7a}{%
+           family={Yoo},
+           familyi={Y\bibinitperiod},
+           given={James\bibnamedelima J.},
+           giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=ec3a27a6623b64a0708ca206b8a89a5b}{%
+           family={Retik},
+           familyi={R\bibinitperiod},
+           given={Alan\bibnamedelima B.},
+           giveni={A\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+      }
+      \strng{namehash}{67e79ba1494fc01a0535659403f8265b}
+      \strng{fullhash}{67e79ba1494fc01a0535659403f8265b}
+      \strng{bibnamehash}{67e79ba1494fc01a0535659403f8265b}
+      \strng{authorbibnamehash}{67e79ba1494fc01a0535659403f8265b}
+      \strng{authornamehash}{67e79ba1494fc01a0535659403f8265b}
+      \strng{authorfullhash}{67e79ba1494fc01a0535659403f8265b}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Background: Patients with end-stage bladder disease can be treated with cystoplasty using gastrointestinal segments. The presence of such segments in the urinary tract has been associated with many complications. We explored an alternative approach using autologous engineered bladder tissues for reconstruction. Methods: Seven patients with myelomeningocele, aged 4-19 years, with high-pressure or poorly compliant bladders, were identified as candidates for cystoplasty. A bladder biopsy was obtained from each patient. Urothelial and muscle cells were grown in culture, and seeded on a biodegradable bladder-shaped scaffold made of collagen, or a composite of collagen and polyglycolic acid. About 7 weeks after the biopsy, the autologous engineered bladder constructs were used for reconstruction and implanted either with or without an omental wrap. Serial urodynamics, cystograms, ultrasounds, bladder biopsies, and serum analyses were done. Results: Follow-up range was 22-61 months (mean 46 months). Post-operatively, the mean bladder leak point pressure decrease at capacity, and the volume and compliance increase was greatest in the composite engineered bladders with an omental wrap (56{\%}, 1{·}58-fold, and 2{·}79-fold, respectively). Bowel function returned promptly after surgery. No metabolic consequences were noted, urinary calculi did not form, mucus production was normal, and renal function was preserved. The engineered bladder biopsies showed an adequate structural architecture and phenotype. Conclusions: Engineered bladder tissues, created with autologous cells seeded on collagen-polyglycolic acid scaffolds, and wrapped in omentum after implantation, can be used in patients who need cystoplasty. {©} 2006 Elsevier Ltd. All rights reserved.}
+      \field{issn}{01406736}
+      \field{journaltitle}{The Lancet}
+      \field{month}{4}
+      \field{number}{9518}
+      \field{title}{{Tissue-engineered autologous bladders for patients needing cystoplasty}}
+      \field{volume}{367}
+      \field{year}{2006}
+      \field{pages}{1241\bibrangedash 1246}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1016/S0140-6736(06)68438-9
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/oskat/OneDrive - Instituto Tecnologico y de Estudios Superiores de Monterrey/Documents/MNT{\_}ITESM{\_}Thesis/0{\_}References/TEABFPNC.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0140673606684389
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0140673606684389
+      \endverb
+    \endentry
+    \entry{Glowacki2008}{article}{}
+      \name{author}{2}{}{%
+        {{hash=147e82945ef0f8504c0fbc81c961a811}{%
+           family={Glowacki},
+           familyi={G\bibinitperiod},
+           given={Julie},
+           giveni={J\bibinitperiod}}}%
+        {{hash=a546cc5d7bf9248ca972e0ffd1142af4}{%
+           family={Mizuno},
+           familyi={M\bibinitperiod},
+           given={Shuichi},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{bf18bcd31a866d1af4cb5b3fb800cc1d}
+      \strng{fullhash}{bf18bcd31a866d1af4cb5b3fb800cc1d}
+      \strng{bibnamehash}{bf18bcd31a866d1af4cb5b3fb800cc1d}
+      \strng{authorbibnamehash}{bf18bcd31a866d1af4cb5b3fb800cc1d}
+      \strng{authornamehash}{bf18bcd31a866d1af4cb5b3fb800cc1d}
+      \strng{authorfullhash}{bf18bcd31a866d1af4cb5b3fb800cc1d}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{There are two major approaches to tissue engineering for regeneration of tissues and organs. One involves cell-free materials and/or factors and one involves delivering cells to contribute to the regeneration process. Of the many scaffold materials being investigated, collagen type I, with selective removal of its telopeptides, has been shown to have many advantageous features for both of these approaches. Highly porous collagen lattice sponges have been used to support in vitro growth of many types of tissues. Use of bioreactors to control in vitro perfusion of medium and to apply hydrostatic fluid pressure has been shown to enhance histogenesis in collagen scaffolds. Collagen sponges have also been developed to contain differentiating-inducing materials like demineralized bone to stimulate differentiation of cartilage tissue both in vitro and in vivo. {©} 2007 Wiley Periodicals, Inc.}
+      \field{issn}{00063525}
+      \field{journaltitle}{Biopolymers}
+      \field{month}{5}
+      \field{number}{5}
+      \field{title}{{Collagen scaffolds for tissue engineering}}
+      \field{volume}{89}
+      \field{year}{2008}
+      \field{pages}{338\bibrangedash 344}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1002/bip.20871
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/oskat/OneDrive - Instituto Tecnologico y de Estudios Superiores de Monterrey/Documents/MNT{\_}ITESM{\_}Thesis/0{\_}References/CSFTE.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://doi.wiley.com/10.1002/bip.20871
+      \endverb
+      \verb{url}
+      \verb http://doi.wiley.com/10.1002/bip.20871
+      \endverb
+      \keyw{Collagen,Scaffold,Tissue engineering}
+    \endentry
+    \entry{Valarmathi2008}{article}{}
+      \name{author}{4}{}{%
+        {{hash=9b62dffbcbf915de757d16c9572a7812}{%
+           family={Valarmathi},
+           familyi={V\bibinitperiod},
+           given={Mani\bibnamedelima T.},
+           giveni={M\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+        {{hash=b9d241f5e6a23d63dee3912924ddfd7a}{%
+           family={Yost},
+           familyi={Y\bibinitperiod},
+           given={Michael\bibnamedelima J.},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=e7b6299fa20cdbf0aeb698c9f0a6d1d6}{%
+           family={Goodwin},
+           familyi={G\bibinitperiod},
+           given={Richard\bibnamedelima L.},
+           giveni={R\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=ce67a8bf5a1e73473437915163228e9b}{%
+           family={Potts},
+           familyi={P\bibinitperiod},
+           given={Jay\bibnamedelima D.},
+           giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \strng{namehash}{2617a96f3b58694a996da36e69322306}
+      \strng{fullhash}{2617a96f3b58694a996da36e69322306}
+      \strng{bibnamehash}{2617a96f3b58694a996da36e69322306}
+      \strng{authorbibnamehash}{2617a96f3b58694a996da36e69322306}
+      \strng{authornamehash}{2617a96f3b58694a996da36e69322306}
+      \strng{authorfullhash}{2617a96f3b58694a996da36e69322306}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{It is well established that the process of neovascularization or neoangiogenesis is coupled to the development and maturation of bone. Bone marrow stromal cells (BMSCs) or mesenchymal stem cells (MSCs) comprise a heterogeneous population of cells that can be differentiated in vitro into both mesenchymal and non-mesenchymal cell lineages. When both rat BMSCs and quail proepicardia (PEs) were seeded onto a three-dimensional (3-D) tubular scaffold engineered from aligned collagen type I strands and co-cultured in osteogenic media, the maturation and co-differentiation into osteoblastic and vascular cell lineages were observed. In addition, these cells produced abundant mineralized extracellular matrix materials and vessel-like structures. BMSCs were seeded at a density of 2 × 106 cells/15 mm tube and cultured in basal media for 3 days. Subsequently, on day 3, PEs were seeded onto the same tubes and the co-culture was continued for another 3, 6 or 9 days either in basal or in osteogenic media. Differentiated cells were subjected to immunohistochemical, cytochemical and biochemical analyses. Phenotypic induction was analyzed at mRNA level by reverse transcriptase quantitative polymerase chain reaction (RT-qPCR). Immunolocalization of key osteogenic and vasculogenic lineage specific markers were examined using confocal scanning laser microscopy. In osteogenic tube cultures, both early and late osteogenic markers were observed and were reminiscent of in vivo expression pattern. Alkaline phosphatase activity and calcium content significantly increased over the observed period of time in osteogenic medium. Abundant interlacing fascicles of QCPN, QH1, isolectin and $\alpha$-smooth muscle actin ($\alpha$-SMA) positive cells were observed in these tube cultures. These cells formed extensive arborizations of nascent capillary-like structures and were seen amidst the developing osteoblasts in osteogenic cultures. The 3-D culture system not only generated de novo vessel-like structures but also augmented the maturation and differentiation of BMSCs into osteoblasts. Thus, this novel co-culture system provides a useful in vitro model to investigate the functional role and effects of neovascularization in the proliferation, differentiation and maturation of BMSC derived osteoblasts. {©} 2008 Elsevier Ltd. All rights reserved.}
+      \field{issn}{01429612}
+      \field{journaltitle}{Biomaterials}
+      \field{month}{5}
+      \field{number}{14}
+      \field{title}{{The influence of proepicardial cells on the osteogenic potential of marrow stromal cells in a three-dimensional tubular scaffold}}
+      \field{volume}{29}
+      \field{year}{2008}
+      \field{pages}{2203\bibrangedash 2216}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.1016/j.biomaterials.2008.01.025
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/oskat/OneDrive - Instituto Tecnologico y de Estudios Superiores de Monterrey/Documents/MNT{\_}ITESM{\_}Thesis/0{\_}References/TIOPCOTOPOMSCIATDTS.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0142961208000550
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0142961208000550
+      \endverb
+      \keyw{Bone marrow stromal cells,Bone tissue engineering,Mesenchymal stem cells,Osteogenesis,Proepicardial cells,Vasculogenesis}
+    \endentry
+    \entry{Faraj2007}{article}{}
+      \name{author}{3}{}{%
+        {{hash=8571986e2439137c006a881737bd292a}{%
+           family={Faraj},
+           familyi={F\bibinitperiod},
+           given={Kaeuis\bibnamedelima A.},
+           giveni={K\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=e997b06641d899030afeceb7a5a2a1a2}{%
+           family={Kuppevelt},
+           familyi={K\bibinitperiod},
+           given={Toin\bibnamedelima H.},
+           giveni={T\bibinitperiod\bibinitdelim H\bibinitperiod},
+           prefix={van},
+           prefixi={v\bibinitperiod}}}%
+        {{hash=cbb1dd5c606695e2204a8171ca8dbd3a}{%
+           family={Daamen},
+           familyi={D\bibinitperiod},
+           given={Willeke\bibnamedelima F.},
+           giveni={W\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+      }
+      \strng{namehash}{31c67a631da93c10846a4993d23e6d42}
+      \strng{fullhash}{31c67a631da93c10846a4993d23e6d42}
+      \strng{bibnamehash}{31c67a631da93c10846a4993d23e6d42}
+      \strng{authorbibnamehash}{31c67a631da93c10846a4993d23e6d42}
+      \strng{authornamehash}{31c67a631da93c10846a4993d23e6d42}
+      \strng{authorfullhash}{31c67a631da93c10846a4993d23e6d42}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Every tissue and organ has its own 3-dimensional (3D) extracellular matrix (ECM) organization. Cells in a 3D bioscaffold for tissue engineering typically align new ECM components according to the bioscaffold provided. Therefore, scaffolds with a specific 3D structural design resembling the actual ECM of a particular tissue may have great potential in tissue engineering. Here, we show that, using specific freezing regimes, 3D scaffolds that mimic the 3D architecture of specific tissues can be made from collagen. Three examples are given, namely, scaffolds resembling the cup-shaped parenchymal (alveolar) architecture of lung, scaffolds that mimic the parallel collagen organization of tendon, and scaffolds that mimic the 3D organization of skin. For the preparation of these tissue-specific scaffolds, we relied on simple techniques without the need for expensive or customized equipment. Freezing rate, type of suspension medium, and additives (e.g., ethanol) were found to be prime parameters in controlling scaffold morphology. {©} 2007 Mary Ann Liebert, Inc.}
+      \field{issn}{1076-3279}
+      \field{journaltitle}{Tissue Engineering}
+      \field{month}{10}
+      \field{number}{10}
+      \field{title}{{Construction of Collagen Scaffolds That Mimic the Three-Dimensional Architecture of Specific Tissues}}
+      \field{volume}{13}
+      \field{year}{2007}
+      \field{pages}{2387\bibrangedash 2394}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1089/ten.2006.0320
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/oskat/OneDrive - Instituto Tecnologico y de Estudios Superiores de Monterrey/Documents/MNT{\_}ITESM{\_}Thesis/0{\_}References/COCSTMTDAOST.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.liebertpub.com/doi/10.1089/ten.2006.0320
+      \endverb
+      \verb{url}
+      \verb https://www.liebertpub.com/doi/10.1089/ten.2006.0320
+      \endverb
+    \endentry
+    \entry{Visuri1991}{article}{}
+      \name{author}{3}{}{%
+        {{hash=554303ad0bf7339c93d337b49fa12425}{%
+           family={Visuri},
+           familyi={V\bibinitperiod},
+           given={Tuomo},
+           giveni={T\bibinitperiod}}}%
+        {{hash=4fd9d43146a07e3568d5b0e4e0c38811}{%
+           family={Kiviluoto},
+           familyi={K\bibinitperiod},
+           given={Olli},
+           giveni={O\bibinitperiod}}}%
+        {{hash=e609df29d6ef3f61a15a98e8732a86d8}{%
+           family={Eskelin},
+           familyi={E\bibinitperiod},
+           given={Marja},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{49743ea025342341e32f326ffcf7172b}
+      \strng{fullhash}{49743ea025342341e32f326ffcf7172b}
+      \strng{bibnamehash}{49743ea025342341e32f326ffcf7172b}
+      \strng{authorbibnamehash}{49743ea025342341e32f326ffcf7172b}
+      \strng{authornamehash}{49743ea025342341e32f326ffcf7172b}
+      \strng{authorfullhash}{49743ea025342341e32f326ffcf7172b}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Thirteen patients with 14 large rotator cuff tears were operated on using carbon fiber to cover the defect. the median follow-up time was 4 years. In 11, 1, and 2 cases the results were respectively excellent or good, fair, and poor. In 2 cases where the carbon fiber was anchored to the major tuberosity, a bone cyst was seen, but it did not influence the result. A carbon fiber tow application combined with Neer's anterior acromioplasty seems useful in the reconstruction of large tears of the rotator cuff. {©} 1991 Informa UK Ltd All rights reserved: reproduction in whole or part not permitted.}
+      \field{issn}{0001-6470}
+      \field{journaltitle}{Acta Orthopaedica Scandinavica}
+      \field{month}{1}
+      \field{number}{4}
+      \field{title}{{Carbon fiber for repair of the rotator cuff: A 4-year follow-up of 14 cases}}
+      \field{volume}{62}
+      \field{year}{1991}
+      \field{pages}{356\bibrangedash 359}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.3109/17453679108994469
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/oskat/OneDrive - Instituto Tecnologico y de Estudios Superiores de Monterrey/Documents/MNT{\_}ITESM{\_}Thesis/0{\_}References/CFFROTRCA4YFUO1C.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://www.tandfonline.com/doi/full/10.3109/17453679108994469
+      \endverb
+      \verb{url}
+      \verb http://www.tandfonline.com/doi/full/10.3109/17453679108994469
+      \endverb
+    \endentry
+    \entry{Parsons1989}{article}{}
+      \name{author}{5}{}{%
+        {{hash=a4cdaa92f86d316e2ba1807251883b76}{%
+           family={Parsons},
+           familyi={P\bibinitperiod},
+           given={John\bibnamedelima R.},
+           giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=b5c23f21b72f3fe015cc667ffe65915d}{%
+           family={Weiss},
+           familyi={W\bibinitperiod},
+           given={Andrew\bibnamedelima B.},
+           giveni={A\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=4619989ac69679e6db4e5553525590b4}{%
+           family={Schenk},
+           familyi={S\bibinitperiod},
+           given={Richard\bibnamedelima S.},
+           giveni={R\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=059a2e94fec7356ae22f6dc3ef8672e4}{%
+           family={Alexander},
+           familyi={A\bibinitperiod},
+           given={Harold},
+           giveni={H\bibinitperiod}}}%
+        {{hash=e9789ee4d8fa39fb2c7a5c3c8ef00f01}{%
+           family={Pavlisko},
+           familyi={P\bibinitperiod},
+           given={Frank},
+           giveni={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{e3f0f5af1241a5a07797b08b3135de14}
+      \strng{fullhash}{e3f0f5af1241a5a07797b08b3135de14}
+      \strng{bibnamehash}{e3f0f5af1241a5a07797b08b3135de14}
+      \strng{authorbibnamehash}{e3f0f5af1241a5a07797b08b3135de14}
+      \strng{authornamehash}{e3f0f5af1241a5a07797b08b3135de14}
+      \strng{authorfullhash}{e3f0f5af1241a5a07797b08b3135de14}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In this cooperative multicenter study for surgical repair of Achilles tendon rupture using a composite implant, 48 patients underwent 52 procedures. This implant is composed of filamentous uniaxially aligned carbon fibers coated with an absorbable polymer. This highly biocompatible implant acts as a scaffold for regrowth of collagenous tissue. The early strength of this repair is provided by the composite implant and by the rapid ingrowth and attachment of new tissue, which allows for an earlier and more vigorous rehabilitation program. Patients with a minimum follow-up of 1 year form the basis of this article. The overall average follow-up is 2.1 years. Three cohort groups were observed on a temporal basis and quantitatively evaluated at 1 year (N = 29), 18 months (N = 22), and 2 years (N = 20), respectively. These three groups demonstrated continuous improvement during the first postoperative year. A high level of function was maintained throughout the second year. Repair of chronic injuries (N = 15) was compared with repair of acute injuries (N = 12) at 1 year following surgery. Both groups greatly improved. However, the acute group had more serious preoperative deficits but improved to a slightly better overall level. Of the patients having at least 1 year follow-up, 86{\%} had a good or excellent result. There was no increased morbidity associated with the use of the carbon implant.}
+      \field{issn}{0198-0211}
+      \field{journaltitle}{Foot {\&} Ankle}
+      \field{month}{2}
+      \field{number}{4}
+      \field{title}{{Long-Term Follow-up of Achilles Tendon Repair with an Absorbable Polymer Carbon Fiber Composite}}
+      \field{volume}{9}
+      \field{year}{1989}
+      \field{pages}{179\bibrangedash 184}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1177/107110078900900406
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/oskat/OneDrive - Instituto Tecnologico y de Estudios Superiores de Monterrey/Documents/MNT{\_}ITESM{\_}Thesis/0{\_}References/LTFUOATRWAAPCFC.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://journals.sagepub.com/doi/10.1177/107110078900900406
+      \endverb
+      \verb{url}
+      \verb http://journals.sagepub.com/doi/10.1177/107110078900900406
+      \endverb
+    \endentry
+    \entry{Ramakrishna2005}{book}{}
+      \name{author}{5}{}{%
+        {{hash=de8f06d2eb4b5b5526204a34c5944195}{%
+           family={Ramakrishna},
+           familyi={R\bibinitperiod},
+           given={Seeram},
+           giveni={S\bibinitperiod}}}%
+        {{hash=e6c95a910affcdeb0c7a622c458b93cd}{%
+           family={Fujihara},
+           familyi={F\bibinitperiod},
+           given={Kazutoshi},
+           giveni={K\bibinitperiod}}}%
+        {{hash=5b7a9d0eef5be97faaefd809b2c5e0a1}{%
+           family={Teo},
+           familyi={T\bibinitperiod},
+           given={Wee-Eong},
+           giveni={W\bibinithyphendelim E\bibinitperiod}}}%
+        {{hash=44a7b1871fdb8c32bfed942d4b6ac3be}{%
+           family={Lim},
+           familyi={L\bibinitperiod},
+           given={Teik-Cheng},
+           giveni={T\bibinithyphendelim C\bibinitperiod}}}%
+        {{hash=94550bda7d96135bc40a7dd6051a5006}{%
+           family={Ma},
+           familyi={M\bibinitperiod},
+           given={Zuwei},
+           giveni={Z\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {WORLD SCIENTIFIC}%
+      }
+      \strng{namehash}{ce7997944c6145ede9fb8ea41caca2b5}
+      \strng{fullhash}{ce7997944c6145ede9fb8ea41caca2b5}
+      \strng{bibnamehash}{ce7997944c6145ede9fb8ea41caca2b5}
+      \strng{authorbibnamehash}{ce7997944c6145ede9fb8ea41caca2b5}
+      \strng{authornamehash}{ce7997944c6145ede9fb8ea41caca2b5}
+      \strng{authorfullhash}{ce7997944c6145ede9fb8ea41caca2b5}
+      \field{sortinit}{4}
+      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The research and development of nanofibers has gained much prominence in recent years due to the heightened awareness of its potential applications in the medical, engineering and defense fields. Among the most successful methods for producing nanofibers is the electrospinning process. In this timely book, the areas of electrospinning and nanofibers are covered for the first time in a single volume. The book can be broadly divided into two parts: the first comprises descriptions of the electrospinning process and modeling to obtain nanofibers while the second describes the characteristics and applications of nanofibers. The material is aimed at both newcomers and experienced researchers in the area.}
+      \field{booktitle}{An Introduction to Electrospinning and Nanofibers}
+      \field{isbn}{978-981-256-415-3}
+      \field{issn}{1558-9250}
+      \field{month}{6}
+      \field{title}{{An Introduction to Electrospinning and Nanofibers}}
+      \field{year}{2005}
+      \field{pages}{1\bibrangedash 382}
+      \range{pages}{382}
+      \verb{doi}
+      \verb 10.1142/5894
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/oskat/OneDrive - Instituto Tecnologico y de Estudios Superiores de Monterrey/Documents/MNT{\_}ITESM{\_}Thesis/0{\_}References/IntroductionToElectrospinningAndNanofibers.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.worldscientific.com/worldscibooks/10.1142/5894
+      \endverb
+      \verb{url}
+      \verb https://www.worldscientific.com/worldscibooks/10.1142/5894
+      \endverb
+    \endentry
+    \entry{Reneker2000}{article}{}
+      \name{author}{4}{}{%
+        {{hash=8690f9e011f01659e59d1fbdb030c24d}{%
+           family={Reneker},
+           familyi={R\bibinitperiod},
+           given={Darrell\bibnamedelima H.},
+           giveni={D\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=2b3c13566ff08b02fb25ba3914b9d35a}{%
+           family={Yarin},
+           familyi={Y\bibinitperiod},
+           given={Alexander\bibnamedelima L.},
+           giveni={A\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=f77061c22b952690d0c48bbd50a09ac6}{%
+           family={Fong},
+           familyi={F\bibinitperiod},
+           given={Hao},
+           giveni={H\bibinitperiod}}}%
+        {{hash=96ffbac08b9c57f35c901d65f2b683bc}{%
+           family={Koombhongse},
+           familyi={K\bibinitperiod},
+           given={Sureeporn},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{f8c69f04aefe2c891f767f4180692502}
+      \strng{fullhash}{f8c69f04aefe2c891f767f4180692502}
+      \strng{bibnamehash}{f8c69f04aefe2c891f767f4180692502}
+      \strng{authorbibnamehash}{f8c69f04aefe2c891f767f4180692502}
+      \strng{authornamehash}{f8c69f04aefe2c891f767f4180692502}
+      \strng{authorfullhash}{f8c69f04aefe2c891f767f4180692502}
+      \field{sortinit}{4}
+      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Nanofibers of polymers were electrospun by creating an electrically charged jet of polymer solution at a pendent droplet. After the jet flowed away from the droplet in a nearly straight line, it bent into a complex path and other changes in shape occurred, during which electrical forces stretched and thinned it by very large ratios. After the solvent evaporated, birefringent nanofibers were left. In this article the reasons for the instability are analyzed and explained using a mathematical model. The rheological complexity of the polymer solution is included, which allows consideration of viscoelastic jets. It is shown that the longitudinal stress caused by the external electric field acting on the charge carried by the jet stabilized the straight jet for some distance. Then a lateral perturbation grew in response to the repulsive forces between adjacent elements of charge carried by the jet. The motion of segments of the jet grew rapidly into an electrically driven bending instability. The three-dimensional paths of continuous jets were calculated, both in the nearly straight region where the instability grew slowly and in the region where the bending dominated the path of the jet. The mathematical model provides a reasonable representation of the experimental data, particularly of the jet paths determined from high speed videographic observations. {©} 2000 American Institute of Physics.}
+      \field{issn}{0021-8979}
+      \field{journaltitle}{Journal of Applied Physics}
+      \field{month}{5}
+      \field{number}{9}
+      \field{title}{{Bending instability of electrically charged liquid jets of polymer solutions in electrospinning}}
+      \field{volume}{87}
+      \field{year}{2000}
+      \field{pages}{4531\bibrangedash 4547}
+      \range{pages}{17}
+      \verb{doi}
+      \verb 10.1063/1.373532
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/oskat/OneDrive - Instituto Tecnologico y de Estudios Superiores de Monterrey/Documents/MNT{\_}ITESM{\_}Thesis/0{\_}References/BIOECLJOPSIE.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://aip.scitation.org/doi/10.1063/1.373532
+      \endverb
+      \verb{url}
+      \verb http://aip.scitation.org/doi/10.1063/1.373532
+      \endverb
+    \endentry
+    \entry{Norris2000}{article}{}
+      \name{author}{4}{}{%
+        {{hash=9afd2acc59fd29a8d1c71422c0463dda}{%
+           family={Norris},
+           familyi={N\bibinitperiod},
+           given={Ian\bibnamedelima D.},
+           giveni={I\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=92383957b416694690f08f50a53f339d}{%
+           family={Shaker},
+           familyi={S\bibinitperiod},
+           given={Manal\bibnamedelima M.},
+           giveni={M\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=85decbe90449e2ec52e2e903e9322c5c}{%
+           family={Ko},
+           familyi={K\bibinitperiod},
+           given={Frank\bibnamedelima K.},
+           giveni={F\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=ba6c5589255d0903144a6f18cddcf749}{%
+           family={MacDiarmid},
+           familyi={M\bibinitperiod},
+           given={Alan\bibnamedelima G.},
+           giveni={A\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+      }
+      \strng{namehash}{3942b5836aff8c0967d0851b1fa8b3ec}
+      \strng{fullhash}{3942b5836aff8c0967d0851b1fa8b3ec}
+      \strng{bibnamehash}{3942b5836aff8c0967d0851b1fa8b3ec}
+      \strng{authorbibnamehash}{3942b5836aff8c0967d0851b1fa8b3ec}
+      \strng{authornamehash}{3942b5836aff8c0967d0851b1fa8b3ec}
+      \strng{authorfullhash}{3942b5836aff8c0967d0851b1fa8b3ec}
+      \field{sortinit}{4}
+      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Ultrafine fibers of polyaniline doped with camphorsulfonic acid (PAn.HCSA) blended with polyethylene oxide (PEO) were prepared by a non-mechanical, electrostatic spinning (`electrospinning') technique. The morphology and fiber diameter of electrospun polyaniline blend fibers revealed that both the PEO and the PAn.HCSA/PEO blend fibers had a diameter ranging between 950 nm and 2.1 $\mu$m, with a generally uniform thickness along the fiber. The UV-visible spectra of these electrospun fibers were similar to those for cast films produced from the same solutions. As expected, the conductivity of the non-woven fiber mat, as measured by the four-point probe method, was slightly lower than that of a cast film, due to the high porosity of the non-woven mat. The rate for the vapor phase de-doping/re-doping of the electrospun fibers is at least one order of magnitude faster than for cast films, stressing the enormous effect an increase in the surface-to-volume ratio, accomplished by electrospinning the material into fibers, can have on the selected chemical properties of polyaniline blends.}
+      \field{issn}{03796779}
+      \field{journaltitle}{Synthetic Metals}
+      \field{month}{8}
+      \field{number}{2}
+      \field{title}{{Electrostatic fabrication of ultrafine conducting fibers: polyaniline/polyethylene oxide blends}}
+      \field{volume}{114}
+      \field{year}{2000}
+      \field{pages}{109\bibrangedash 114}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1016/S0379-6779(00)00217-4
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/oskat/OneDrive - Instituto Tecnologico y de Estudios Superiores de Monterrey/Documents/MNT{\_}ITESM{\_}Thesis/0{\_}References/EFOUCFPPEB.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0379677900002174
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0379677900002174
+      \endverb
+      \keyw{blends,electrospinning,electrostatic fabrication,polyaniline r polyethylene oxide,ultrafine conducting fibers}
+    \endentry
+    \entry{Vozzi2002}{article}{}
+      \name{author}{5}{}{%
+        {{hash=879066f8214dd3f534dcbda0d1995563}{%
+           family={Vozzi},
+           familyi={V\bibinitperiod},
+           given={Giovanni},
+           giveni={G\bibinitperiod}}}%
+        {{hash=5577ac35a9c743e5861f407801d9cee5}{%
+           family={Flaim},
+           familyi={F\bibinitperiod},
+           given={Christopher\bibnamedelima J.},
+           giveni={C\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=f10e442e72bd21f32ec0483a79764b92}{%
+           family={Bianchi},
+           familyi={B\bibinitperiod},
+           given={Francesca},
+           giveni={F\bibinitperiod}}}%
+        {{hash=24284c2a7b271f7be133a440de6d3466}{%
+           family={Ahluwalia},
+           familyi={A\bibinitperiod},
+           given={Arti},
+           giveni={A\bibinitperiod}}}%
+        {{hash=f4f79f34ce34310b15c099c60cb74974}{%
+           family={Bhatia},
+           familyi={B\bibinitperiod},
+           given={Sangeeta},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{956741b18ad96ce7f1fe8af5ce1a18e0}
+      \strng{fullhash}{956741b18ad96ce7f1fe8af5ce1a18e0}
+      \strng{bibnamehash}{956741b18ad96ce7f1fe8af5ce1a18e0}
+      \strng{authorbibnamehash}{956741b18ad96ce7f1fe8af5ce1a18e0}
+      \strng{authornamehash}{956741b18ad96ce7f1fe8af5ce1a18e0}
+      \strng{authorfullhash}{956741b18ad96ce7f1fe8af5ce1a18e0}
+      \field{sortinit}{4}
+      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{A variety of techniques for the manufacture of biodegradable, three-dimensional scaffolds for tissue engineering have been developed in recent years. In this study, we report and compare two simple methods for fabricating poly(DL-lactide-co-glycolide) (PLGA) scaffolds with feature sizes of 10-200 $\mu$m, which have been developed in our laboratories. The first technique is based on the use of a microsyringe that makes use of a computer-controlled, three-axis micropositioner, which allows the control of motor speeds and position. A PLGA solution is drawn from the needle of the syringe by the application of a constant pressure of 10-300 mm Hg resulting in controlled polymer deposition of 10-600 $\mu$m in diameter. The second technique is based on "soft lithographic" approaches that utilizes a Poly(dimethylsiloxane) (PDMS) mold. The polymer solution is cast on the mold under vacuum. Polymer concentration, solvent composition, and casting conditions influence the integrity and the lateral resolution of the resulting scaffold. Both techniques allow the possibility of constructing three-dimensional architectures that permit the study of cell behaviour in an environment similar to that in vivo, and may provide tools for the construction of engineered tissue. {©} 2002 Elsevier Science B.V. All rights reserved.}
+      \field{issn}{09284931}
+      \field{journaltitle}{Materials Science and Engineering: C}
+      \field{month}{5}
+      \field{number}{1-2}
+      \field{title}{{Microfabricated PLGA scaffolds: a comparative study for application to tissue engineering}}
+      \field{volume}{20}
+      \field{year}{2002}
+      \field{pages}{43\bibrangedash 47}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1016/S0928-4931(02)00011-5
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/oskat/OneDrive - Instituto Tecnologico y de Estudios Superiores de Monterrey/Documents/MNT{\_}ITESM{\_}Thesis/0{\_}References/MPLGASACSFATTE.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0928493102000115
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0928493102000115
+      \endverb
+      \keyw{Microfabrication,Micromolding,Microsyringe,PLGA,Soft lithography,Tissue engineering}
+    \endentry
+    \entry{Kim2003}{article}{}
+      \name{author}{2}{}{%
+        {{hash=6e6f57a4a2529dec95830ee0d8c3245a}{%
+           family={Kim},
+           familyi={K\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod}}}%
+        {{hash=6bee2aca917824895b07d594a4b7fc19}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={K.\bibnamedelimi S.},
+           giveni={K\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \strng{namehash}{947f9380a2c5a9b6869de3c01df37874}
+      \strng{fullhash}{947f9380a2c5a9b6869de3c01df37874}
+      \strng{bibnamehash}{947f9380a2c5a9b6869de3c01df37874}
+      \strng{authorbibnamehash}{947f9380a2c5a9b6869de3c01df37874}
+      \strng{authornamehash}{947f9380a2c5a9b6869de3c01df37874}
+      \strng{authorfullhash}{947f9380a2c5a9b6869de3c01df37874}
+      \field{sortinit}{4}
+      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0003-6951}
+      \field{journaltitle}{Applied Physics Letters}
+      \field{month}{8}
+      \field{number}{6}
+      \field{title}{{Electrochemical properties of carbon nanofiber web as an electrode for supercapacitor prepared by electrospinning}}
+      \field{volume}{83}
+      \field{year}{2003}
+      \field{pages}{1216\bibrangedash 1218}
+      \range{pages}{3}
+      \verb{doi}
+      \verb 10.1063/1.1599963
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/oskat/OneDrive - Instituto Tecnologico y de Estudios Superiores de Monterrey/Documents/MNT{\_}ITESM{\_}Thesis/0{\_}References/EPOCNWAAEFSPBE.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://aip.scitation.org/doi/10.1063/1.1599963
+      \endverb
+      \verb{url}
+      \verb http://aip.scitation.org/doi/10.1063/1.1599963
+      \endverb
+    \endentry
+    \entry{Dersch2005}{article}{}
+      \name{author}{5}{}{%
+        {{hash=0e2946132bbc4afa037bfe2ef231e0cc}{%
+           family={Dersch},
+           familyi={D\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+        {{hash=fbe669df1171857eaeda3a1dd2df34fe}{%
+           family={Steinhart},
+           familyi={S\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=182fed7fae1fdf5f67b71723715dfe58}{%
+           family={Boudriot},
+           familyi={B\bibinitperiod},
+           given={U.},
+           giveni={U\bibinitperiod}}}%
+        {{hash=d4682e3f34797e95e03c61c383494687}{%
+           family={Greiner},
+           familyi={G\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=1fc748b03a2f597d7e0d18e0d063b283}{%
+           family={Wendorff},
+           familyi={W\bibinitperiod},
+           given={J.\bibnamedelimi H.},
+           giveni={J\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \strng{namehash}{0df72e543a866843ad964e4f37878f74}
+      \strng{fullhash}{0df72e543a866843ad964e4f37878f74}
+      \strng{bibnamehash}{0df72e543a866843ad964e4f37878f74}
+      \strng{authorbibnamehash}{0df72e543a866843ad964e4f37878f74}
+      \strng{authornamehash}{0df72e543a866843ad964e4f37878f74}
+      \strng{authorfullhash}{0df72e543a866843ad964e4f37878f74}
+      \field{sortinit}{4}
+      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Nanofibers and nanotubes based on polymers offer a broad range of applications in areas such as photonics, sensorics, catalysis or medicine and pharmacy. A set of preparation techniques which allow to introduce simultaneous specific functions into such nanoobjects has been developed recently. These include electrospinning and co-electrospinning of nanofibers as well as template methods utilizing eletrospun nanofibers or porous substrates. These techniques yield infinitively long nanofibers and nanotubes with well defined aspect ratios respectively with diameters down to a few ten nanometers. These nanofibers and nanotubes can be functionalised, among others by using biodegradable materials or via the incorporation of nanoparticles or precursor molecules, in such a way that applications for tissue engineering, for catalysis, photonics and sensorics become available. Copyright {©} 2005 John Wiley {\&} Sons, Ltd.}
+      \field{issn}{1042-7147}
+      \field{journaltitle}{Polymers for Advanced Technologies}
+      \field{number}{2-3}
+      \field{title}{{Nanoprocessing of polymers: applications in medicine, sensors, catalysis, photonics}}
+      \field{volume}{16}
+      \field{year}{2005}
+      \field{pages}{276\bibrangedash 282}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1002/pat.568
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/oskat/OneDrive - Instituto Tecnologico y de Estudios Superiores de Monterrey/Documents/MNT{\_}ITESM{\_}Thesis/0{\_}References/NOPAIMSCP.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://doi.wiley.com/10.1002/pat.568
+      \endverb
+      \verb{url}
+      \verb http://doi.wiley.com/10.1002/pat.568
+      \endverb
+      \keyw{Electrospinning,Fibers,Nanotechnology,Processing,Templating}
+    \endentry
+    \entry{CardenasBenitez2019}{article}{}
+      \name{author}{8}{}{%
+        {{hash=1f320682c6b375371007de839d518f20}{%
+           family={Cardenas-Benitez},
+           familyi={C\bibinithyphendelim B\bibinitperiod},
+           given={Braulio},
+           giveni={B\bibinitperiod}}}%
+        {{hash=011e46e0b7c85304cd8fe066a28568d3}{%
+           family={Eschenbaum},
+           familyi={E\bibinitperiod},
+           given={Carsten},
+           giveni={C\bibinitperiod}}}%
+        {{hash=44a464bfbfcd385541c1711954b531c8}{%
+           family={Mager},
+           familyi={M\bibinitperiod},
+           given={Dario},
+           giveni={D\bibinitperiod}}}%
+        {{hash=0ced14ff93735e8ad244bf4829246234}{%
+           family={Korvink},
+           familyi={K\bibinitperiod},
+           given={Jan\bibnamedelima G.},
+           giveni={J\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=1c627bd3627cfed92c3976ee507d3e9a}{%
+           family={Madou},
+           familyi={M\bibinitperiod},
+           given={Marc\bibnamedelima J.},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=27fbc609a10a5e8de29b8f1c4364d241}{%
+           family={Lemmer},
+           familyi={L\bibinitperiod},
+           given={Uli},
+           giveni={U\bibinitperiod}}}%
+        {{hash=649effe6eb8ccfacd875b45f9280f507}{%
+           family={Leon},
+           familyi={L\bibinitperiod},
+           given={Israel\bibnamedelima De},
+           giveni={I\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=36d1de6444898ea0ce1a92a604c1abdc}{%
+           family={Martinez-Chapa},
+           familyi={M\bibinithyphendelim C\bibinitperiod},
+           given={Sergio\bibnamedelima O.},
+           giveni={S\bibinitperiod\bibinitdelim O\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer US}%
+      }
+      \strng{namehash}{02069f0f3bbe94f8d1c7c66d6f7b4733}
+      \strng{fullhash}{02069f0f3bbe94f8d1c7c66d6f7b4733}
+      \strng{bibnamehash}{02069f0f3bbe94f8d1c7c66d6f7b4733}
+      \strng{authorbibnamehash}{02069f0f3bbe94f8d1c7c66d6f7b4733}
+      \strng{authornamehash}{02069f0f3bbe94f8d1c7c66d6f7b4733}
+      \strng{authorfullhash}{02069f0f3bbe94f8d1c7c66d6f7b4733}
+      \field{sortinit}{4}
+      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The introduction of two-photon polymerization (TPP) into the area of Carbon Micro Electromechanical Systems (C-MEMS) has enabled the fabrication of three-dimensional glassy carbon nanostructures with geometries previously unattainable through conventional UV lithography. Pyrolysis of TPP structures conveys a characteristic reduction of feature size—one that should be properly estimated in order to produce carbon microdevices with accuracy. In this work, we studied the volumetric shrinkage of TPP-derived microwires upon pyrolysis at 900 °C. Through this process, photoresist microwires thermally decompose and shrink by as much as 75{\%}, resulting in glassy carbon nanowires with linewidths between 300 and 550 nm. Even after the thermal decomposition induced by the pyrolysis step, the linewidth of the carbon nanowires was found to be dependent on the TPP exposure parameters. We have also found that the thermal stress induced during the pyrolysis step not only results in axial elongation of the nanowires, but also in buckling in the case of slender carbon nanowires (for aspect ratios greater than 30). Furthermore, we show that the calculated residual mass fraction that remains after pyrolysis depends on the characteristic dimensions of the photoresist microwires, a trend that is consistent with several works found in the literature. This phenomenon is explained through a semi-empirical model that estimates the feature size of the carbon structures, serving as a simple guideline for shrinkage evaluation in other designs.}
+      \field{isbn}{4137801900799}
+      \field{issn}{2055-7434}
+      \field{journaltitle}{Microsystems {\&} Nanoengineering}
+      \field{number}{1}
+      \field{title}{{Pyrolysis-induced shrinking of three-dimensional structures fabricated by two-photon polymerization: experiment and theoretical model}}
+      \field{volume}{5}
+      \field{year}{2019}
+      \verb{doi}
+      \verb 10.1038/s41378-019-0079-9
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/oskat/OneDrive - Instituto Tecnologico y de Estudios Superiores de Monterrey/Documents/MNT{\_}ITESM{\_}Thesis/0{\_}References/PISOTDSFBTPPEAM.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://dx.doi.org/10.1038/s41378-019-0079-9
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1038/s41378-019-0079-9
+      \endverb
+      \keyw{SU8,Su8carbon,conductivity}
+    \endentry
+    \entry{BaudritJ2017}{article}{}
+      \name{author}{1}{}{%
+        {{hash=92bfa83d9d164ee29cfe650adc92e1a1}{%
+           family={{Baudrit J}},
+           familyi={B\bibinitperiod},
+           given={Vega},
+           giveni={V\bibinitperiod}}}%
+      }
+      \strng{namehash}{92bfa83d9d164ee29cfe650adc92e1a1}
+      \strng{fullhash}{92bfa83d9d164ee29cfe650adc92e1a1}
+      \strng{bibnamehash}{92bfa83d9d164ee29cfe650adc92e1a1}
+      \strng{authorbibnamehash}{92bfa83d9d164ee29cfe650adc92e1a1}
+      \strng{authornamehash}{92bfa83d9d164ee29cfe650adc92e1a1}
+      \strng{authorfullhash}{92bfa83d9d164ee29cfe650adc92e1a1}
+      \field{sortinit}{5}
+      \field{sortinithash}{3c19c3776b658b3558e9e2e4840c01e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Primarily is important to make awareness on the large quantities of agricultural/food waste that is lost every year, minute and second around the world. It estimates that each year, approximately one-third food produced for human consumption in the world is lost or wasted. The global volume of food wastage is estimated to be 1.6 Gtonnes of “primary product equivalents”, while the total wastage for the edible part of food is 1.3 Gtonnes. This amount can be weighed against total agricultural production (for food and non-food uses), which is about 6 Gtonnes.1 Without accounting for GHG emissions from land use change, the carbon footprint of food produced and not eaten is estimated to 3.3 Gtonnes of CO2 equivalent: as such, food wastage ranks as the third top emitter after USA and China. Globally, the blue water footprint (i.e. the consumption of surface and groundwater resources) of food wastage is about 250km, which is equivalent to the annual water discharge of the Volga river, or three times the volume of Lake Geneva. With such situations, it seems clear that a reduction of food wastage at global, regional, and national scales would have a substantial positive effect on natural and societal resources. Food wastage reduction would not only avoid pressure on scarce natural resources but also decrease the need to raise food production by 60 percent to meet the 2050 population demand.1 Fortunately, different kinds of methods have been proposed for reuse agricultural waste instead of remain in the environment. These residues occurred by processing, production and harvest of cereal products, fruits, vegetables and trees, and through stock farming. They are produced in large amounts worldwide and either burnt in the field or used as animal feed.2 Agricultural residues are lignocellulosic materials.3 Therefore, these wastes are used on production of industrial products such as organic acids, biofuels, protein enriched feed, aroma compounds, bioactive secondary metabolites, microbial pigments, mushroom and enzymes as substrate.4}
+      \field{issn}{25732838}
+      \field{journaltitle}{International Journal of Biosensors {\&} Bioelectronics}
+      \field{month}{12}
+      \field{number}{5}
+      \field{title}{{Recycling and Elimination of Wastes obtained from Agriculture by using Nanotechnology: Nanosensors}}
+      \field{volume}{3}
+      \field{year}{2017}
+      \field{pages}{368\bibrangedash 375}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.15406/ijbsbe.2017.03.00084
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/oskat/OneDrive - Instituto Tecnologico y de Estudios Superiores de Monterrey/Documents/MNT{\_}ITESM{\_}Thesis/0{\_}References/RAEOWOFABUNN.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://medcraveonline.com/IJBSBE/recycling-and-elimination-of-wastes-obtained-from-agriculture-by-using-nanotechnology-nanosensors.html
+      \endverb
+      \verb{url}
+      \verb https://medcraveonline.com/IJBSBE/recycling-and-elimination-of-wastes-obtained-from-agriculture-by-using-nanotechnology-nanosensors.html
+      \endverb
+      \keyw{crystalline network constant,environmental importance of the,intensity x-rays,selective transfer,structural analysis,superficial layer,use of,width of diffraction lines}
+    \endentry
     \entry{Boer2014}{book}{}
       \name{author}{2}{}{%
         {{hash=6ee0b9d745395aec58364116f478ad83}{%
@@ -2034,8 +4129,8 @@
       \strng{editorbibnamehash}{c17ecddc870b4029c785f761dfae3d5f}
       \strng{editornamehash}{c17ecddc870b4029c785f761dfae3d5f}
       \strng{editorfullhash}{c17ecddc870b4029c785f761dfae3d5f}
-      \field{sortinit}{2}
-      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{sortinit}{5}
+      \field{sortinithash}{3c19c3776b658b3558e9e2e4840c01e2}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{edition}{2nd}
@@ -2086,8 +4181,8 @@
       \strng{authorbibnamehash}{4729a0a65aeeb7f0a66e4b47f95c1306}
       \strng{authornamehash}{4729a0a65aeeb7f0a66e4b47f95c1306}
       \strng{authorfullhash}{4729a0a65aeeb7f0a66e4b47f95c1306}
-      \field{sortinit}{2}
-      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{sortinit}{5}
+      \field{sortinithash}{3c19c3776b658b3558e9e2e4840c01e2}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Light-assisted 3D direct-printing of biomaterials and cellular-scaffolds has the potential to develop novel lab-on-a-chip devices (LOCs) for a variety of biomedical applications, from drug discovery and diagnostic testing to in vitro tissue engineering and regeneration. Direct-writing describes a broad family of fabrication methods that typically employ computer-controlled translational stages to manufacture structures at multi-length scales. This review focuses on light-assisted direct-write fabrication for generating 3D functional scaffolds with precise micro- and nano-architecture, using both synthetic as well as naturally derived biomaterials. Two bioprinting approaches are discussed in detail - projection printing and laser-based systems - where each method is capable of modulating multiple scaffold parameters, such as 3D architecture, mechanical properties (e.g. stiffness), Poisson's ratio, chemical gradients, biological cell distributions, and porosity. The light-assisted direct-writing techniques described in this review provide the reader with alternative approaches to fabricate 3D biomaterials for utility in LOCs.}
@@ -2143,8 +4238,8 @@
       \strng{editorbibnamehash}{242eca1f846e4d24d346782fb85498a7}
       \strng{editornamehash}{242eca1f846e4d24d346782fb85498a7}
       \strng{editorfullhash}{242eca1f846e4d24d346782fb85498a7}
-      \field{sortinit}{3}
-      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{sortinit}{6}
+      \field{sortinithash}{57e57fb8451e7fcfa45d1e069f6d3136}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Ch. 1. X-ray lithography : fundamentals and applications -- ch. 2. NanoImprint lithography -- ch. 3. Lithography techniques using scanning probe microscopy -- ch. 4. Lithography and manipulation based on the optical properties of metal nanostructures -- ch. 5. Patterning with self-assembling block copolymers -- ch. 6. Metrology for lithography.}
