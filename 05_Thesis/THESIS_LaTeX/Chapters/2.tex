@@ -326,6 +326,30 @@ On the other hand, Choi et al.\unskip~\cite{527120:12322289} implemented a hydro
 
 \section{Data collection of NFES fiber morphology and process parameters}
 
+Near-field electrospinning process parameters and achieved fiber morphology data was collected into a single database with the purpose to analyze the data and find correlations between the process parameters and the obtained fiber morphology after a NFES process. The alalysis comprises from the first reported NFES apparatus built in 2003 by J. Kameoka et al. \cite{Kameoka2003a} to recent studies conducted in 2020. The data collection process was divided in three procedures depending on the format of the available information, as follows:
+
+\begin{enumerate}
+\item Case 1 : data is collected as is from literature. This procedure was implemented when the data is listed within tables and/or as text format.
+\item Case 2 : data is only presented in a figure as plots.
+\item Case 3 : data is not available in text format or plots, however Scanning Electron Microscopy Images (SEM) images are reported from the obtained fibers.
+\end{enumerate}
+
+\subsection{Image Analysis - Data extraction from plots}
+
+Most numerical data of NFES process parameters and fiber diameters is available only in the form of plots. The reported figures provide a visual relationship between the variables of interest, however recovering the numerical values of the data is a tedious process prone to errors. To avoid mistakes and accelerate the collection data from plots, \href{https://github.com/ankitrohatgi/WebPlotDigitizer}{WebPlotDigitizer} was used. WebPlotDigitizer is a HTML5 tool that facilitates accurate data extraction with ease of use. Figure \ref{fig:} is a screenshot of the software in use.
+
+\begin{figure}[th]
+\centering
+\includegraphics[scale=0.45]{./Figures/screenshotWebPlotDigitizer.png}
+\decoRule
+\caption[WebPlotDigitizer home-screen]{Open session of WebPlotDigitizer \href{https://github.com/ankitrohatgi/WebPlotDigitizer}{github.com}}
+\label{fig:screenshotWebPlotDigitizer}
+\end{figure}
+
+\subsection{Image Analysis - Data extraction from Scanning Electron Microscopy Images}
+
+Scanning Electron Microscopy Images (SEM) images contain information in a two-dimensional grid that can be extracted using point and line counting techniques, however this can be a laborious process for a large number of images. To decrease the complex and lavorious aspect of the counting process, a \emph{Python} script was developed to measure fiber diameters from the available SEM images. As shown in Figure \ref{fig:}, the image analysis algorithm follows three main steps: pre-processing, segmentation, object detection, and data processing.
+
 
 
 \section{Discussion \& NFES Challenges}

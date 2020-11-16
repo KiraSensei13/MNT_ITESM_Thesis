@@ -7739,6 +7739,78 @@
       \verb 10.1186/s11671-017-2380-6
       \endverb
     \endentry
+    \entry{Kameoka2003a}{article}{}
+      \name{author}{7}{}{%
+        {{hash=e3d018981f6d8f8056f0b7a88623b5b6}{%
+           family={Kameoka},
+           familyi={K\bibinitperiod},
+           given={Jun},
+           giveni={J\bibinitperiod}}}%
+        {{hash=4db24557aa8efb36c982c235400d8216}{%
+           family={Orth},
+           familyi={O\bibinitperiod},
+           given={Reid},
+           giveni={R\bibinitperiod}}}%
+        {{hash=53d8104bc7b73fce289882b8a27fffa8}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Yanou},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=db56b720e158587aa62530639ac6eae2}{%
+           family={Czaplewski},
+           familyi={C\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+        {{hash=26f22b6095b8ab233bdfae00e876490c}{%
+           family={Mathers},
+           familyi={M\bibinitperiod},
+           given={Robert},
+           giveni={R\bibinitperiod}}}%
+        {{hash=bebdf93a258e5b847ce5b52691b33c27}{%
+           family={Coates},
+           familyi={C\bibinitperiod},
+           given={Geoffrey\bibnamedelima W.},
+           giveni={G\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=d6299cd55922052437298ac45be18a4c}{%
+           family={Craighead},
+           familyi={C\bibinitperiod},
+           given={H.\bibnamedelimi G.},
+           giveni={H\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+      }
+      \strng{namehash}{f80a39af2d16ef5943ff5b952d96286d}
+      \strng{fullhash}{f80a39af2d16ef5943ff5b952d96286d}
+      \strng{bibnamehash}{f80a39af2d16ef5943ff5b952d96286d}
+      \strng{authorbibnamehash}{f80a39af2d16ef5943ff5b952d96286d}
+      \strng{authornamehash}{f80a39af2d16ef5943ff5b952d96286d}
+      \strng{authorfullhash}{f80a39af2d16ef5943ff5b952d96286d}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{We present a method for controlled deposition of oriented polymeric nanofibres. The method uses a microfabricated scanned tip as an electrospinning source. The tip is dipped in a polymer solution to gather a droplet as a source material. A voltage applied to the tip causes the formation of a Taylor cone, and at sufficiently high voltages, a polymer jet is extracted from the droplet. By moving the source relative to a surface, acting as a counter-electrode, oriented nanofibres can be deposited and integrated with microfabricated surface structures. For example, we deposited fibres of polyethylene oxide with diameters ranging from 100 to 1800 nm, with the diameter primarily depending on the concentration of the polymeric solution. In addition to the uniform fibre deposition, the scanning tip electrospinning source can produce self-assembled composite fibres of micro- and nanoparticles aligned in a polymeric fibre. We also deposited oriented conductive polymeric fibres of polyaniline and investigated the conductivity of these fibres as components for polymeric nanoelectronics.}
+      \field{issn}{0957-4484}
+      \field{journaltitle}{Nanotechnology}
+      \field{month}{10}
+      \field{number}{10}
+      \field{title}{{A scanning tip electrospinning source for deposition of oriented nanofibres}}
+      \field{volume}{14}
+      \field{year}{2003}
+      \field{pages}{1124\bibrangedash 1129}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1088/0957-4484/14/10/310
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/oskat/OneDrive - Instituto Tecnologico y de Estudios Superiores de Monterrey/Documents/MNT{\_}ITESM{\_}Thesis/0{\_}References/ASTESFDOON.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://iopscience.iop.org/article/10.1088/0957-4484/14/10/310
+      \endverb
+      \verb{url}
+      \verb https://iopscience.iop.org/article/10.1088/0957-4484/14/10/310
+      \endverb
+      \keyw{NFES}
+    \endentry
     \entry{527120:11974308}{article}{}
       \name{author}{5}{}{%
         {{hash=fcd8858879a3ca0647843f2fee723732}{%
