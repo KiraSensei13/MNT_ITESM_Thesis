@@ -1,0 +1,20 @@
+\contentsline {section}{\numberline {1}Fabrication Processes of Polymer Fibers}{1}{section.1}
+\contentsline {subsection}{\numberline {1.1}Stretching forces}{2}{subsection.1.1}
+\contentsline {subsubsection}{\numberline {1.1.1}Electric Field}{2}{subsubsection.1.1.1}
+\contentsline {paragraph}{High voltage power supply: DC \& AC - }{2}{section*.2}
+\contentsline {subsubsection}{\numberline {1.1.2}Centrifugal force}{3}{subsubsection.1.1.2}
+\contentsline {subsubsection}{\numberline {1.1.3}Blowing forces}{3}{subsubsection.1.1.3}
+\contentsline {subsubsection}{\numberline {1.1.4}Mechanical force}{4}{subsubsection.1.1.4}
+\contentsline {subsubsection}{\numberline {1.1.5}Microfluidic forces}{4}{subsubsection.1.1.5}
+\contentsline {subsection}{\numberline {1.2}Dispensing nozzle}{4}{subsection.1.2}
+\contentsline {subsection}{\numberline {1.3}Polymer Reservoir (Polymer Melt \& Polymer Solution)}{5}{subsection.1.3}
+\contentsline {subsection}{\numberline {1.4}Polymer Solution}{6}{subsection.1.4}
+\contentsline {subsubsection}{\numberline {1.4.1}Polymers}{7}{subsubsection.1.4.1}
+\contentsline {subsubsection}{\numberline {1.4.2}Solvents}{7}{subsubsection.1.4.2}
+\contentsline {section}{\numberline {2}Properties that Improve Accuracy of Nano-Fiber Deposition}{8}{section.2}
+\contentsline {subsection}{\numberline {2.1}Nozzle spinneret}{10}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Applied Voltage}{11}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.3}Nozzle-to-substrate distance}{11}{subsection.2.3}
+\contentsline {subsection}{\numberline {2.4}Substrate}{12}{subsection.2.4}
+\contentsline {section}{\numberline {3}Discussion \& NFES Challenges}{12}{section.3}
+\contentsline {section}{\hbox to\@tempdima {\hfil }References}{13}{section*.4}

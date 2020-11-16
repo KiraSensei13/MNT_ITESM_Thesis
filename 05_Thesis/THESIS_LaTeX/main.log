@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.6960 64-bit) (preloaded format=pdflatex 2019.2.1)  16 NOV 2020 00:05
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.6960 64-bit) (preloaded format=pdflatex 2019.2.1)  16 NOV 2020 06:04
 entering extended mode
 **./main.tex
 (main.tex
@@ -536,6 +536,8 @@ Package: inputenc 2018/08/11 v1.3c Input encoding file
 \inpenc@prehook=\toks19
 \inpenc@posthook=\toks20
 )
+   defining Unicode char U+0301 (decimal 769)
+
 ("C:\Users\oskat\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\fontenc.sty"
 Package: fontenc 2018/08/11 v2.0j Standard LaTeX package
 
@@ -1379,7 +1381,7 @@ File: pgflibraryarrows.code.tex 2019/01/05 v3.1 (3.1)
 y"
 Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
 )
-Package scrhack Info: loading lscape hack on input line 94.
+Package scrhack Info: loading lscape hack on input line 95.
 
 ("C:\Users\oskat\AppData\Local\Programs\MiKTeX 2.9\tex/latex/koma-script\lscape
 .hak"
@@ -1570,7 +1572,7 @@ LaTeX Info: Redefining \pageref on input line 6454.
 )
 Package scrhack Info: hyperref hack deactivated because of
 (scrhack)             detection of hyperref version, that doesn't
-(scrhack)             need that hack, on input line 179.
+(scrhack)             need that hack, on input line 180.
 Package hyperref Info: Driver (autodetected): hpdftex.
 
 ("C:\Users\oskat\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\hpdftex.d
@@ -1587,10 +1589,10 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip109
 )
-Package hyperref Info: Option `bookmarksopen' set `true' on input line 179.
-Package hyperref Info: Option `hypertexnames' set `false' on input line 179.
-Package hyperref Info: Option `colorlinks' set `true' on input line 179.
-Package hyperref Info: Option `unicode' set `true' on input line 179.
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 180.
+Package hyperref Info: Option `hypertexnames' set `false' on input line 180.
+Package hyperref Info: Option `colorlinks' set `true' on input line 180.
+Package hyperref Info: Option `unicode' set `true' on input line 180.
 
 ("C:\Users\oskat\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\puenc.def
 "
@@ -1598,7 +1600,7 @@ File: puenc.def 2018/11/30 v6.88e Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
 ... no UTF-8 mapping file for font encoding PU
 )
-Package hyperref Info: Option `breaklinks' set `true' on input line 179.
+Package hyperref Info: Option `breaklinks' set `true' on input line 180.
 Package biblatex Info: Trying to load language 'english'...
 Package biblatex Info: ... file 'english.lbx' found.
 
@@ -1615,31 +1617,31 @@ LaTeX Warning: Label `fig:diameterComparisonOfCarbonFibers' multiply defined.
 ) (Chapters/2.aux) (Chapters/3.aux) (Chapters/4.aux) (Chapters/5.aux))
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 179.
-LaTeX Font Info:    ... okay on input line 179.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 179.
-LaTeX Font Info:    ... okay on input line 179.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 179.
-LaTeX Font Info:    ... okay on input line 179.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 179.
-LaTeX Font Info:    ... okay on input line 179.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 179.
-LaTeX Font Info:    ... okay on input line 179.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 179.
-LaTeX Font Info:    ... okay on input line 179.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 179.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 179.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 180.
+LaTeX Font Info:    ... okay on input line 180.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 180.
+LaTeX Font Info:    ... okay on input line 180.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 180.
+LaTeX Font Info:    ... okay on input line 180.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 180.
+LaTeX Font Info:    ... okay on input line 180.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 180.
+LaTeX Font Info:    ... okay on input line 180.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 180.
+LaTeX Font Info:    ... okay on input line 180.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 180.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 180.
 
 
 ("C:\Users\oskat\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\ts1cmr.fd"
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 179.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 179.
-LaTeX Font Info:    ... okay on input line 179.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 179.
-LaTeX Font Info:    ... okay on input line 179.
-LaTeX Font Info:    Try loading font information for T1+ppl on input line 179.
+LaTeX Font Info:    ... okay on input line 180.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 180.
+LaTeX Font Info:    ... okay on input line 180.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 180.
+LaTeX Font Info:    ... okay on input line 180.
+LaTeX Font Info:    Try loading font information for T1+ppl on input line 180.
 
 ("C:\Users\oskat\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\t1ppl.fd"
 File: t1ppl.fd 2001/06/04 font definitions for T1/ppl.
@@ -1722,19 +1724,19 @@ Package caption Info: End \AtBeginDocument code.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 Package scrlayer Info: Setting magic \footheight to \baselineskip while
-(scrlayer)             \begin{document} on input line 179.
-Package scrbase Info: activating english \abbrevname on input line 179.
-Package scrbase Info: activating english \byname on input line 179.
-Package scrbase Info: activating english \dedicationname on input line 179.
-Package scrbase Info: activating english \acknowledgementname on input line 179
+(scrlayer)             \begin{document} on input line 180.
+Package scrbase Info: activating english \abbrevname on input line 180.
+Package scrbase Info: activating english \byname on input line 180.
+Package scrbase Info: activating english \dedicationname on input line 180.
+Package scrbase Info: activating english \acknowledgementname on input line 180
 .
-Package scrbase Info: activating english \authorshipname on input line 179.
-Package scrbase Info: activating english \supervisingcommittee on input line 17
-9.
-Package scrbase Info: activating english \constantsname on input line 179.
-Package scrbase Info: activating english \symbolsname on input line 179.
+Package scrbase Info: activating english \authorshipname on input line 180.
+Package scrbase Info: activating english \supervisingcommittee on input line 18
+0.
+Package scrbase Info: activating english \constantsname on input line 180.
+Package scrbase Info: activating english \symbolsname on input line 180.
 ABD: EverySelectfont initializing macros
-LaTeX Info: Redefining \selectfont on input line 179.
+LaTeX Info: Redefining \selectfont on input line 180.
 Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Automatic encoding selection.
 (biblatex)             Assuming data encoding 'utf8'.
@@ -1743,8 +1745,8 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'main.bbl' found.
  (main.bbl)
-Package biblatex Info: Reference section=0 on input line 179.
-Package biblatex Info: Reference segment=0 on input line 179.
+Package biblatex Info: Reference section=0 on input line 180.
+Package biblatex Info: Reference segment=0 on input line 180.
 
 ABD: EveryShipout initializing macros
 \AtBeginShipoutBox=\box78
@@ -1754,7 +1756,7 @@ ABD: EveryShipout initializing macros
 Package: pdflscape 2016/05/14 v0.11 Display of landscape pages in PDF (HO)
 Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 )
-Package hyperref Info: Link coloring ON on input line 179.
+Package hyperref Info: Link coloring ON on input line 180.
 
 ("C:\Users\oskat\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\nameref.s
 ty"
@@ -1766,50 +1768,50 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count466
 )
-LaTeX Info: Redefining \ref on input line 179.
-LaTeX Info: Redefining \pageref on input line 179.
-LaTeX Info: Redefining \nameref on input line 179.
+LaTeX Info: Redefining \ref on input line 180.
+LaTeX Info: Redefining \pageref on input line 180.
+LaTeX Info: Redefining \nameref on input line 180.
  (main.out) (main.out)
 \@outlinefile=\write5
 \openout5 = `main.out'.
 
-LaTeX Font Info:    Try loading font information for OT1+ppl on input line 179.
+LaTeX Font Info:    Try loading font information for OT1+ppl on input line 180.
 
 
 ("C:\Users\oskat\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\ot1ppl.fd"
 File: ot1ppl.fd 2001/06/04 font definitions for OT1/ppl.
 )
-LaTeX Font Info:    Try loading font information for OML+zplm on input line 179
+LaTeX Font Info:    Try loading font information for OML+zplm on input line 180
 .
 ("C:\Users\oskat\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\omlzplm.fd"
 File: omlzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OML/zplm.
 )
-LaTeX Font Info:    Try loading font information for OMS+zplm on input line 179
+LaTeX Font Info:    Try loading font information for OMS+zplm on input line 180
 .
  ("C:\Users\oskat\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\omszplm.fd
 "
 File: omszplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMS/zplm.
 )
-LaTeX Font Info:    Try loading font information for OMX+zplm on input line 179
+LaTeX Font Info:    Try loading font information for OMX+zplm on input line 180
 .
 
 ("C:\Users\oskat\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\omxzplm.fd"
 File: omxzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMX/zplm.
 )
-LaTeX Font Info:    Try loading font information for OT1+zplm on input line 179
+LaTeX Font Info:    Try loading font information for OT1+zplm on input line 180
 .
  ("C:\Users\oskat\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\ot1zplm.fd
 "
 File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
 )
 1: section
-<./Figures/uniLogo.png, id=141, 803.0pt x 984.67876pt>
+<./Figures/uniLogo.png, id=205, 803.0pt x 984.67876pt>
 File: ./Figures/uniLogo.png Graphic file (type png)
 <use ./Figures/uniLogo.png>
-Package pdftex.def Info: ./Figures/uniLogo.png  used on input line 201.
+Package pdftex.def Info: ./Figures/uniLogo.png  used on input line 202.
 (pdftex.def)             Requested size: 80.80458pt x 99.07463pt.
 LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <20.74> not available
-(Font)              Font shape `T1/ppl/b/n' tried instead on input line 207.
+(Font)              Font shape `T1/ppl/b/n' tried instead on input line 208.
 [1
 
 
@@ -1826,12 +1828,12 @@ niLogo.png>]
 --------------------
  Declaration of Authorship
 --------------------
-LaTeX Font Info:    Try loading font information for TS1+ppl on input line 324.
+LaTeX Font Info:    Try loading font information for TS1+ppl on input line 325.
 
 ("C:\Users\oskat\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\ts1ppl.fd"
 File: ts1ppl.fd 2001/06/04 font definitions for TS1/ppl.
 )
-Underfull \hbox (badness 10000) in paragraph at lines 329--331
+Underfull \hbox (badness 10000) in paragraph at lines 330--332
 
  []
 
@@ -1841,7 +1843,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 329--331
 
 ]
 LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <10.95> not available
-(Font)              Font shape `T1/ppl/b/n' tried instead on input line 371.
+(Font)              Font shape `T1/ppl/b/n' tried instead on input line 372.
  [3
 
 ]
@@ -1849,7 +1851,7 @@ LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <10.95> not available
  Dedication
 --------------------
 
-Underfull \hbox (badness 10000) in paragraph at lines 384--385
+Underfull \hbox (badness 10000) in paragraph at lines 385--386
 \T1/ppl/m/n/10.95 Thanks for all your un-con-di-tional con-fi-dence, sup-port, 
 pa-tience, and
  []
@@ -1862,7 +1864,7 @@ pa-tience, and
  Acknowledgements
 --------------------
 
-Underfull \hbox (badness 10000) in paragraph at lines 394--396
+Underfull \hbox (badness 10000) in paragraph at lines 395--397
 
  []
 
@@ -1874,7 +1876,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 394--396
  Abstract
 --------------------
 
-Underfull \hbox (badness 10000) in paragraph at lines 420--421
+Underfull \hbox (badness 10000) in paragraph at lines 421--422
 
  []
 
@@ -1887,33 +1889,51 @@ Underfull \hbox (badness 2150) in paragraph at lines 8--8
  Poros-ity and 
  []
 
-)
-\tf@lof=\write6
-\openout6 = `main.lof'.
 
+Underfull \hbox (badness 5592) in paragraph at lines 14--14
+ [][] [][][]\T1/ppl/m/n/10.95 Dispensing noz-zle used for so-lu-tion blow spin-
+ning or melt 
+ []
+
+
+Underfull \hbox (badness 6078) in paragraph at lines 20--20
+ [][] [][][]\T1/ppl/m/n/10.95 NFES setup for con-trolled fiber de-po-si-tion on
+ pre-patterned 
+ []
 
 1: section
 [7
 
-] (main.lot)
+]
+Underfull \hbox (badness 2951) in paragraph at lines 25--25
+ [][] [][][]\T1/ppl/m/n/10.95 a) Typ-i-cal Far-field Elec-tro-spin-ning (FFES) 
+Setup. b) Typ-i-cal 
+ []
+
+)
+\tf@lof=\write6
+\openout6 = `main.lof'.
+
+ [8] (main.lot)
 \tf@lot=\write7
 \openout7 = `main.lot'.
 
 
 1: section
-[8
+[9
 
 ] (main.toc
-Underfull \hbox (badness 3713) in paragraph at lines 25--25
+1: section
+[10
+
+]
+Underfull \hbox (badness 3713) in paragraph at lines 42--42
  \T1/ppl/b/n/10.95 Elec-tro-spin-ning, and Forward-thinking on Pho-topoly-mer-i
 za-tion and 
  []
 
-1: section
-[9
 
-]
-Underfull \hbox (badness 1092) in paragraph at lines 29--29
+Underfull \hbox (badness 1092) in paragraph at lines 46--46
  [][] [][][]\T1/ppl/m/n/10.95 Comparison of the Ob-tained Poly-mer Fi-bres Agai
 nst SU8-based 
  []
@@ -1922,7 +1942,7 @@ nst SU8-based
 \tf@toc=\write8
 \openout8 = `main.toc'.
 
- [10]
+ [11]
 1: section
 \openout2 = `./Chapters/1.aux'.
 
@@ -1954,7 +1974,7 @@ Underfull \hbox (badness 1102) in paragraph at lines 9--10
 e been de-vel-oped for
  []
 
-<./Figures/FabricationProcess.png, id=272, 510.2262pt x 100.6962pt>
+<./Figures/FabricationProcess.png, id=428, 510.2262pt x 100.6962pt>
 File: ./Figures/FabricationProcess.png Graphic file (type png)
 <use ./Figures/FabricationProcess.png>
 Package pdftex.def Info: ./Figures/FabricationProcess.png  used on input line 1
@@ -2000,7 +2020,7 @@ n the ap-pli-ca-tions at
 [2 <./Figures/FabricationProcess.png>]
 LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <12> not available
 (Font)              Font shape `T1/ppl/b/n' tried instead on input line 34.
-<./Figures/CBNfingerprint.png, id=300, 799.48688pt x 532.23843pt>
+<./Figures/CBNfingerprint.png, id=456, 799.48688pt x 532.23843pt>
 File: ./Figures/CBNfingerprint.png Graphic file (type png)
 <use ./Figures/CBNfingerprint.png>
 Package pdftex.def Info: ./Figures/CBNfingerprint.png  used on input line 38.
@@ -2023,7 +2043,7 @@ Underfull \hbox (badness 5802) in paragraph at lines 44--45
 ple scales.
  []
 
-<./Figures/carbonAllotropes.png, id=305, 1032.85875pt x 735.34724pt>
+<./Figures/carbonAllotropes.png, id=461, 1032.85875pt x 735.34724pt>
 File: ./Figures/carbonAllotropes.png Graphic file (type png)
 <use ./Figures/carbonAllotropes.png>
 Package pdftex.def Info: ./Figures/carbonAllotropes.png  used on input line 48.
@@ -2035,14 +2055,14 @@ Underfull \hbox (badness 2828) in paragraph at lines 50--50
 mond, car-byne and 
  []
 
-<./Figures/carbonAllotropesHybridization.png, id=306, 389.95688pt x 361.35pt>
+<./Figures/carbonAllotropesHybridization.png, id=462, 389.95688pt x 361.35pt>
 File: ./Figures/carbonAllotropesHybridization.png Graphic file (type png)
 <use ./Figures/carbonAllotropesHybridization.png>
 Package pdftex.def Info: ./Figures/carbonAllotropesHybridization.png  used on i
 nput line 56.
 (pdftex.def)             Requested size: 253.46896pt x 234.87471pt.
 [3 <./Figures/CBNfingerprint.png>]
-<./Figures/carbonAllotropesPorosityNOrder.png, id=318, 458.9145pt x 342.078pt>
+<./Figures/carbonAllotropesPorosityNOrder.png, id=474, 458.9145pt x 342.078pt>
 File: ./Figures/carbonAllotropesPorosityNOrder.png Graphic file (type png)
 <use ./Figures/carbonAllotropesPorosityNOrder.png>
 Package pdftex.def Info: ./Figures/carbonAllotropesPorosityNOrder.png  used on 
@@ -2055,7 +2075,7 @@ sents
  []
 
 [4 <./Figures/carbonAllotropes.png>]
-<./Figures/carbonFiberDiameterComparison.png, id=367, 516.7305pt x 255.95625pt>
+<./Figures/carbonFiberDiameterComparison.png, id=523, 516.7305pt x 255.95625pt>
 
 File: ./Figures/carbonFiberDiameterComparison.png Graphic file (type png)
 <use ./Figures/carbonFiberDiameterComparison.png>
@@ -2082,7 +2102,7 @@ hoton
  []
 
 [7 <./Figures/carbonFiberDiameterComparison.png>]
-<./Figures/typesOfNanoSensors.png, id=438, 660.66824pt x 410.13225pt>
+<./Figures/typesOfNanoSensors.png, id=595, 660.66824pt x 410.13225pt>
 File: ./Figures/typesOfNanoSensors.png Graphic file (type png)
 <use ./Figures/typesOfNanoSensors.png>
 Package pdftex.def Info: ./Figures/typesOfNanoSensors.png  used on input line 1
@@ -2159,22 +2179,500 @@ Underfull \hbox (badness 8000) in paragraph at lines 206--208
 
  (Chapters/2.tex
 Chapter 2.
-LaTeX Font Info:    Font shape `T1/ppl/bx/it' in size <14.4> not available
-(Font)              Font shape `T1/ppl/b/it' tried instead on input line 12.
-)
+
+Underfull \hbox (badness 1383) in paragraph at lines 14--15
+[]\T1/ppl/m/n/12 Current lit-er-a-ture dic-tates the typ-i-cal spin-ning setup 
+is com-prised by
+ []
+
 1: section
 [13
 
 
 
 ]
+<./images/514dfac6-849d-4905-8e40-7adfafc93b5f-uimg_ehd_techniques.png, id=649,
+ 414.79968pt x 277.78781pt>
+File: ./images/514dfac6-849d-4905-8e40-7adfafc93b5f-uimg_ehd_techniques.png Gra
+phic file (type png)
+<use ./images/514dfac6-849d-4905-8e40-7adfafc93b5f-uimg_ehd_techniques.png>
+Package pdftex.def Info: ./images/514dfac6-849d-4905-8e40-7adfafc93b5f-uimg_ehd
+_techniques.png  used on input line 19.
+(pdftex.def)             Requested size: 269.6166pt x 180.55992pt.
+
+
+Package scrlayer-scrpage Warning: \headheight to low.
+(scrlayer-scrpage)                At least 32.85738pt needed,
+(scrlayer-scrpage)                but only 18.85364pt found.
+(scrlayer-scrpage)                I'll enlarge \headheight, for further
+(scrlayer-scrpage)                processing, but you should do this yourself,
+(scrlayer-scrpage)                e.g., setting geometry's option
+(scrlayer-scrpage)                `head=32.85738pt'.
+(scrlayer-scrpage)                I'll also decrease \topmargin on input line 3
+5.
+
+
+Overfull \vbox (14.00374pt too high) has occurred while \output is active []
+
+
+[14 <./images/514dfac6-849d-4905-8e40-7adfafc93b5f-uimg_ehd_techniques.png>]
+Underfull \hbox (badness 1147) in paragraph at lines 44--45
+\T1/ppl/m/n/12 tech-niques. Their work re-ports that AC and DC elec-tro-spin-ni
+ng can
+ []
+
+[15]
+<./images/19c94c11-1ae0-47bd-95ef-4dc5ceedc20d-uimg_gyro_es.png, id=680, 335.75
+438pt x 270.25969pt>
+File: ./images/19c94c11-1ae0-47bd-95ef-4dc5ceedc20d-uimg_gyro_es.png Graphic fi
+le (type png)
+<use ./images/19c94c11-1ae0-47bd-95ef-4dc5ceedc20d-uimg_gyro_es.png>
+Package pdftex.def Info: ./images/19c94c11-1ae0-47bd-95ef-4dc5ceedc20d-uimg_gyr
+o_es.png  used on input line 54.
+(pdftex.def)             Requested size: 218.23775pt x 175.6667pt.
+
+Underfull \hbox (badness 2310) in paragraph at lines 64--65
+[]\T1/ppl/m/n/12 In some cases the cen-trifu-gal force im-ple-men-ta-tions and 
+pres-sur-ized
+ []
+
+[16 <./images/19c94c11-1ae0-47bd-95ef-4dc5ceedc20d-uimg_gyro_es.png>]
+<./images/87246522-4cf1-491f-a45f-cda541854d72-uimg_blow_es.png, id=708, 216.05
+719pt x 166.37157pt>
+File: ./images/87246522-4cf1-491f-a45f-cda541854d72-uimg_blow_es.png Graphic fi
+le (type png)
+<use ./images/87246522-4cf1-491f-a45f-cda541854d72-uimg_blow_es.png>
+Package pdftex.def Info: ./images/87246522-4cf1-491f-a45f-cda541854d72-uimg_blo
+w_es.png  used on input line 74.
+(pdftex.def)             Requested size: 140.43549pt x 108.14021pt.
+
+Underfull \hbox (badness 2726) in paragraph at lines 80--81
+[]\T1/ppl/m/n/12 Poly(lactic acid) (PLA) fibers have been pro-duced by so-lu-ti
+on blow
+ []
+
+
+Underfull \hbox (badness 1546) in paragraph at lines 80--81
+\T1/ppl/m/n/12 spin-ning. Oliveira et al. [[][]102[][]] fab-ri-cated the fibers
+ from $\OT1/ppl/m/n/12 6\OML/zplm/m/it/12 wt\OT1/ppl/m/n/12 %$ \T1/ppl/m/n/12 P
+LA
+ []
+
+<./images/23a9bc42-4d02-4a78-a907-23aeeb2de68a-uimg_meches_process.png, id=713,
+ 1061.46562pt x 331.2375pt>
+File: ./images/23a9bc42-4d02-4a78-a907-23aeeb2de68a-uimg_meches_process.png Gra
+phic file (type png)
+<use ./images/23a9bc42-4d02-4a78-a907-23aeeb2de68a-uimg_meches_process.png>
+Package pdftex.def Info: ./images/23a9bc42-4d02-4a78-a907-23aeeb2de68a-uimg_mec
+hes_process.png  used on input line 88.
+(pdftex.def)             Requested size: 371.51852pt x 115.93484pt.
+
+Underfull \hbox (badness 1389) in paragraph at lines 94--95
+\T1/ppl/m/n/12 Touch-spinning meth-ods have been de-vel-oped to in-tro-duce a s
+cal-able
+ []
+
+[17 <./images/87246522-4cf1-491f-a45f-cda541854d72-uimg_blow_es.png>]
+<./images/c33e7bfe-18c6-4765-834e-a85f12cd2621-uimg_touch_process.png, id=726, 
+914.66719pt x 236.38312pt>
+File: ./images/c33e7bfe-18c6-4765-834e-a85f12cd2621-uimg_touch_process.png Grap
+hic file (type png)
+<use ./images/c33e7bfe-18c6-4765-834e-a85f12cd2621-uimg_touch_process.png>
+Package pdftex.def Info: ./images/c33e7bfe-18c6-4765-834e-a85f12cd2621-uimg_tou
+ch_process.png  used on input line 100.
+(pdftex.def)             Requested size: 411.59644pt x 106.37141pt.
+
+Overfull \hbox (7.56735pt too wide) in paragraph at lines 100--102
+ [][] 
+ []
+
+
+Underfull \hbox (badness 1629) in paragraph at lines 106--107
+[]\T1/ppl/m/n/12 The touch spin-ning tech-nique im-plies that the fiber di-am-e
+-ter can be
+ []
+
+
+Underfull \hbox (badness 1642) in paragraph at lines 106--107
+\T1/ppl/m/n/12 con-trolled by the mov-ing col-lec-tor's speed and the poly-mer 
+so-lu-tion
+ []
+
+
+Underfull \hbox (badness 2368) in paragraph at lines 110--111
+\T1/ppl/m/n/12 chan-nels. There-fore, mi-croflu-idic spin-ning is more suit-abl
+e for cell
+ []
+
+[18 <./images/23a9bc42-4d02-4a78-a907-23aeeb2de68a-uimg_meches_process.png> <./
+images/c33e7bfe-18c6-4765-834e-a85f12cd2621-uimg_touch_process.png>]
+<./images/efb1d6af-4f1a-4c34-9726-b0015b59e112-uimg_microfluid_setup.png, id=73
+9, 231.98897pt x 213.63828pt>
+File: ./images/efb1d6af-4f1a-4c34-9726-b0015b59e112-uimg_microfluid_setup.png G
+raphic file (type png)
+<use ./images/efb1d6af-4f1a-4c34-9726-b0015b59e112-uimg_microfluid_setup.png>
+Package pdftex.def Info: ./images/efb1d6af-4f1a-4c34-9726-b0015b59e112-uimg_mic
+rofluid_setup.png  used on input line 118.
+(pdftex.def)             Requested size: 229.66977pt x 211.50253pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 128--129
+\T1/ppl/m/n/12 Unlike tra-di-tional elec-tro-spin-ning, coax-ial elec-tro-spin-
+ning
+ []
+
+
+Underfull \hbox (badness 1910) in paragraph at lines 128--129
+\T1/ppl/m/n/12 where one nee-dle is nested con-cen-tri-cally in-side an-other n
+ee-dle, see
+ []
+
+[19 <./images/efb1d6af-4f1a-4c34-9726-b0015b59e112-uimg_microfluid_setup.png>]
+<./images/afe7da25-1366-4b1e-bf1a-0594eb2eaa88-uimg_nozzle.png, id=756, 294.349
+69pt x 115.18031pt>
+File: ./images/afe7da25-1366-4b1e-bf1a-0594eb2eaa88-uimg_nozzle.png Graphic fil
+e (type png)
+<use ./images/afe7da25-1366-4b1e-bf1a-0594eb2eaa88-uimg_nozzle.png>
+Package pdftex.def Info: ./images/afe7da25-1366-4b1e-bf1a-0594eb2eaa88-uimg_noz
+zle.png  used on input line 134.
+(pdftex.def)             Requested size: 235.48006pt x 92.14435pt.
+<./images/9d06b4aa-134c-4fd6-bbf3-1ced4ac95046-uimg_metl_setup.png, id=762, 232
+.61906pt x 271.0125pt>
+File: ./images/9d06b4aa-134c-4fd6-bbf3-1ced4ac95046-uimg_metl_setup.png Graphic
+ file (type png)
+<use ./images/9d06b4aa-134c-4fd6-bbf3-1ced4ac95046-uimg_metl_setup.png>
+Package pdftex.def Info: ./images/9d06b4aa-134c-4fd6-bbf3-1ced4ac95046-uimg_met
+l_setup.png  used on input line 150.
+(pdftex.def)             Requested size: 162.83221pt x 189.70744pt.
+
+[20 <./images/afe7da25-1366-4b1e-bf1a-0594eb2eaa88-uimg_nozzle.png>]
+Underfull \hbox (badness 1360) in paragraph at lines 164--165
+[]\T1/ppl/m/n/12 In lit-er-a-ture, melt elec-tro-spin-ning has less ev-i-dence 
+than the so-lu-tion
+ []
+
+[21 <./images/9d06b4aa-134c-4fd6-bbf3-1ced4ac95046-uimg_metl_setup.png>]
+Underfull \hbox (badness 10000) in alignment at lines 189--189
+[][] 
+ []
+
+
+Underfull \hbox (badness 4846) in paragraph at lines 168--191
+\T1/ppl/m/n/12 In elec-tro-spin-ning, it is typ-i-cally agreed that the di-am-e
+-ter of the
+ []
+
+
+Underfull \hbox (badness 5345) in paragraph at lines 168--191
+\T1/ppl/m/n/12 fibers in-creased with higher con-cen-tra-tion due to greater vi
+s-cos-ity
+ []
+
+
+Underfull \hbox (badness 3525) in paragraph at lines 168--191
+\T1/ppl/m/n/12 which with-stands stretch-ing. In near field elec-tro-spin-ning,
+ sim-i-lar
+ []
+
+
+Underfull \hbox (badness 2495) in paragraph at lines 168--191
+\T1/ppl/m/n/12 ob-ser-va-tions have been re-ported where con-cen-tra-tion in-cr
+eases, fiber
+ []
+
+
+Underfull \hbox (badness 2245) in paragraph at lines 199--200
+[]\T1/ppl/m/n/12 Solutions with low vis-cos-ity are prone to in-suf-fi-cient po
+ly-mer chain
+ []
+
+[22]
+Underfull \hbox (badness 2012) in paragraph at lines 203--204
+\T1/ppl/m/n/12 volatil-ity. A low-volatility sol-vent like wa-ter may fail to e
+vap-o-rate
+ []
+
+
+Underfull \hbox (badness 1348) in paragraph at lines 203--204
+\T1/ppl/m/n/12 com-pletely over the dis-tance be-tween the spin-neret and the c
+ol-lec-tor.
+ []
+
+
+Underfull \hbox (badness 1590) in paragraph at lines 203--204
+\T1/ppl/m/n/12 When the fibers form, they will hence con-tain resid-ual wa-ter 
+ow-ing
+ []
+
+
+Underfull \hbox (badness 1400) in paragraph at lines 203--204
+\T1/ppl/m/n/12 of the spin-neret (due to dry-ing of the liq-uid at the spin-ner
+et be-fore
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 209--209
+[]\T1/ppl/b/n/14.4 Properties that Im-prove Ac-cu-racy of Nano-Fiber
+ []
+
+[23]
+Underfull \hbox (badness 1092) in paragraph at lines 216--217
+[]\T1/ppl/m/n/12 Kim et al. [[][]127[][]] ex-per-i-mented with a NFES vari-a-ti
+on where the fiber
+ []
+
+<./images/0fd23deb-7631-4b09-8641-69fc6ac8a6b5-ukim_00.png, id=823, 397.485pt x
+ 309.40594pt>
+File: ./images/0fd23deb-7631-4b09-8641-69fc6ac8a6b5-ukim_00.png Graphic file (t
+ype png)
+<use ./images/0fd23deb-7631-4b09-8641-69fc6ac8a6b5-ukim_00.png>
+Package pdftex.def Info: ./images/0fd23deb-7631-4b09-8641-69fc6ac8a6b5-ukim_00.
+png  used on input line 222.
+(pdftex.def)             Requested size: 278.2376pt x 216.58267pt.
+
+Underfull \hbox (badness 4168) in paragraph at lines 224--224
+ []\T1/ppl/m/sc/10 Figure 2.9: |\T1/ppl/m/n/10 NFES setup for con-trolled fiber
+ de-po-si-tion on 
+ []
+
+[24]
+<./images/fa274bb7-a79d-48ae-9349-953df62c0094-ugupta_00.png, id=834, 564.60938
+pt x 290.58563pt>
+File: ./images/fa274bb7-a79d-48ae-9349-953df62c0094-ugupta_00.png Graphic file 
+(type png)
+<use ./images/fa274bb7-a79d-48ae-9349-953df62c0094-ugupta_00.png>
+Package pdftex.def Info: ./images/fa274bb7-a79d-48ae-9349-953df62c0094-ugupta_0
+0.png  used on input line 234.
+(pdftex.def)             Requested size: 338.76823pt x 174.35272pt.
+<./images/cd8e0617-d4d9-479b-a99b-a466cd21483c-uwang_01.png, id=840, 487.06969p
+t x 325.96782pt>
+File: ./images/cd8e0617-d4d9-479b-a99b-a466cd21483c-uwang_01.png Graphic file (
+type png)
+<use ./images/cd8e0617-d4d9-479b-a99b-a466cd21483c-uwang_01.png>
+Package pdftex.def Info: ./images/cd8e0617-d4d9-479b-a99b-a466cd21483c-uwang_01
+.png  used on input line 245.
+(pdftex.def)             Requested size: 340.94644pt x 228.1759pt.
+ [25 <./images/0fd23deb-7631-4b09-8641-69fc6ac8a6b5-ukim_00.png> <./images/fa27
+4bb7-a79d-48ae-9349-953df62c0094-ugupta_00.png>]
+<./images/db7d3b35-fe08-422f-afe4-78e0133b489b-uhuang_00.png, id=854, 359.84438
+pt x 174.6525pt>
+File: ./images/db7d3b35-fe08-422f-afe4-78e0133b489b-uhuang_00.png Graphic file 
+(type png)
+<use ./images/db7d3b35-fe08-422f-afe4-78e0133b489b-uhuang_00.png>
+Package pdftex.def Info: ./images/db7d3b35-fe08-422f-afe4-78e0133b489b-uhuang_0
+0.png  used on input line 259.
+(pdftex.def)             Requested size: 323.85693pt x 157.18579pt.
+
+Underfull \hbox (badness 1708) in paragraph at lines 265--266
+[]\T1/ppl/m/n/12 Micro and nano fibers have been writ-ten us-ing AC pulse-modul
+ated
+ []
+
+[26 <./images/cd8e0617-d4d9-479b-a99b-a466cd21483c-uwang_01.png>]
+<./images/43f61edd-73cd-4222-830e-3333f92934e9-uimg_nfesvariants.png, id=868, 4
+51.6875pt x 271.0125pt>
+File: ./images/43f61edd-73cd-4222-830e-3333f92934e9-uimg_nfesvariants.png Graph
+ic file (type png)
+<use ./images/43f61edd-73cd-4222-830e-3333f92934e9-uimg_nfesvariants.png>
+Package pdftex.def Info: ./images/43f61edd-73cd-4222-830e-3333f92934e9-uimg_nfe
+svariants.png  used on input line 273.
+(pdftex.def)             Requested size: 293.59338pt x 176.15602pt.
+ [27 <./images/db7d3b35-fe08-422f-afe4-78e0133b489b-uhuang_00.png> <./images/43
+f61edd-73cd-4222-830e-3333f92934e9-uimg_nfesvariants.png>]
+Underfull \hbox (badness 1331) in paragraph at lines 287--288
+\T1/ppl/m/n/12 The thinnest noz-zles in lit-er-a-ture so far are about $\OT1/pp
+l/m/n/12 50\OML/zplm/m/it/12 nm$ \T1/ppl/m/n/12 in di-am-e-ter,
+ []
+
+
+Underfull \hbox (badness 1776) in paragraph at lines 287--288
+\T1/ppl/m/n/12 by Chang et al. [[][]120[][]] who used a $\OT1/ppl/m/n/12 100\OM
+L/zplm/m/it/12 m$ \T1/ppl/m/n/12 in-ner di-am-e-ter nee-dle tip
+ []
+
+
+Underfull \hbox (badness 1292) in paragraph at lines 287--288
+\T1/ppl/m/n/12 to elec-tro-spin poly(ethylene ox-ide) (PEO). Camillo et al. [[]
+[]139[][]] used a
+ []
+
+
+Underfull \hbox (badness 1565) in paragraph at lines 287--288
+\T1/ppl/m/n/12 micro-diameter tip Tung-sten spin-neret in a 26G nee-dle to elec
+-tro-spin
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 287--288
+\T1/ppl/m/n/12 co-polymer, poly[2-methoxy-5-(2-ethylhexyloxy)-1,4-phenyleneviny
+lene]
+ []
+
+[28]
+Underfull \hbox (badness 1360) in paragraph at lines 291--292
+\T1/ppl/m/n/12 rate. For in-stance, if a high volt-age is ap-plied at a low de-
+po-si-tion
+ []
+
+[29]
+<./images/4cc65220-1457-4d0d-bb04-9b1c8138aa96-uffes_vs_nfes.png, id=909, 640.6
+4343pt x 255.95625pt>
+File: ./images/4cc65220-1457-4d0d-bb04-9b1c8138aa96-uffes_vs_nfes.png Graphic f
+ile (type png)
+<use ./images/4cc65220-1457-4d0d-bb04-9b1c8138aa96-uffes_vs_nfes.png>
+Package pdftex.def Info: ./images/4cc65220-1457-4d0d-bb04-9b1c8138aa96-uffes_vs
+_nfes.png  used on input line 305.
+(pdftex.def)             Requested size: 416.41328pt x 166.36958pt.
+
+Overfull \hbox (12.3842pt too wide) in paragraph at lines 305--307
+ [][] 
+ []
+
+
+Underfull \hbox (badness 2181) in paragraph at lines 311--312
+[]\T1/ppl/m/n/12 Figure [][]2.14[][].a, de-picts the typ-i-cal setup for the co
+n-ven-tional far-field
+ []
+
+
+Underfull \hbox (badness 2050) in paragraph at lines 313--314
+[]\T1/ppl/m/n/12 In the in-tent to achieve con-trolled fiber de-po-si-tion, Sun
+ et al. [[][]136[][]]
+ []
+
+[30 <./images/4cc65220-1457-4d0d-bb04-9b1c8138aa96-uffes_vs_nfes.png>]
+Underfull \hbox (badness 1005) in paragraph at lines 328--329
+\T1/ppl/m/n/12 to demon-strate the pos-si-ble ap-pli-ca-tions of HE-printinh fo
+r elec-tron-ics
+ []
+
+[31]
+<./images/6e169654-19e4-40ab-bb05-8ffb11b5ce11-uplt_cormat.png, id=939, 650.43p
+t x 650.43pt>
+File: ./images/6e169654-19e4-40ab-bb05-8ffb11b5ce11-uplt_cormat.png Graphic fil
+e (type png)
+<use ./images/6e169654-19e4-40ab-bb05-8ffb11b5ce11-uplt_cormat.png>
+Package pdftex.def Info: ./images/6e169654-19e4-40ab-bb05-8ffb11b5ce11-uplt_cor
+mat.png  used on input line 334.
+(pdftex.def)             Requested size: 422.77449pt x 422.77449pt.
+
+Overfull \hbox (18.7454pt too wide) in paragraph at lines 334--336
+ [][] 
+ []
+
+<./images/dac8d1ee-e40f-49ab-a2ca-e0d7db210474-uplt_nfesappliedvoltage_vs_fiber
+diameter.png, id=940, 1250.63235pt x 843.75224pt>
+File: ./images/dac8d1ee-e40f-49ab-a2ca-e0d7db210474-uplt_nfesappliedvoltage_vs_
+fiberdiameter.png Graphic file (type png)
+<use ./images/dac8d1ee-e40f-49ab-a2ca-e0d7db210474-uplt_nfesappliedvoltage_vs_f
+iberdiameter.png>
+Package pdftex.def Info: ./images/dac8d1ee-e40f-49ab-a2ca-e0d7db210474-uplt_nfe
+sappliedvoltage_vs_fiberdiameter.png  used on input line 344.
+(pdftex.def)             Requested size: 1250.62932pt x 843.75018pt.
+
+Overfull \hbox (846.60023pt too wide) in paragraph at lines 344--346
+ [][] 
+ []
+
+
+LaTeX Warning: Float too large for page by 172.25197pt on input line 348.
+
+<./images/a8f86e3c-c4e3-45be-b9e8-7b60145137cb-uplt_nozzlediameter_vs_fiberdiam
+eter.png, id=941, 1250.63235pt x 843.75224pt>
+File: ./images/a8f86e3c-c4e3-45be-b9e8-7b60145137cb-uplt_nozzlediameter_vs_fibe
+rdiameter.png Graphic file (type png)
+<use ./images/a8f86e3c-c4e3-45be-b9e8-7b60145137cb-uplt_nozzlediameter_vs_fiber
+diameter.png>
+Package pdftex.def Info: ./images/a8f86e3c-c4e3-45be-b9e8-7b60145137cb-uplt_noz
+zlediameter_vs_fiberdiameter.png  used on input line 354.
+(pdftex.def)             Requested size: 1250.62932pt x 843.75018pt.
+
+Overfull \hbox (846.60023pt too wide) in paragraph at lines 354--356
+ [][] 
+ []
+
+
+LaTeX Warning: Float too large for page by 172.25197pt on input line 358.
+
+<./images/6eaa2ba7-07ab-4cfb-980d-5f78b4fcf1a5-uplt_nozzletocollectordistance_v
+s_fiberdiameter.png, id=942, 1250.63235pt x 842.30685pt>
+File: ./images/6eaa2ba7-07ab-4cfb-980d-5f78b4fcf1a5-uplt_nozzletocollectordista
+nce_vs_fiberdiameter.png Graphic file (type png)
+<use ./images/6eaa2ba7-07ab-4cfb-980d-5f78b4fcf1a5-uplt_nozzletocollectordistan
+ce_vs_fiberdiameter.png>
+Package pdftex.def Info: ./images/6eaa2ba7-07ab-4cfb-980d-5f78b4fcf1a5-uplt_noz
+zletocollectordistance_vs_fiberdiameter.png  used on input line 364.
+(pdftex.def)             Requested size: 1250.62932pt x 842.3048pt.
+
+Overfull \hbox (846.60023pt too wide) in paragraph at lines 364--366
+ [][] 
+ []
+
+
+LaTeX Warning: Float too large for page by 170.80658pt on input line 368.
+
+<./images/b8cbc9c7-97d8-409f-a979-447aebd4aa67-uplt_polymerconcentration_vs_fib
+erdiameter.png, id=943, 1262.91824pt x 843.75224pt>
+File: ./images/b8cbc9c7-97d8-409f-a979-447aebd4aa67-uplt_polymerconcentration_v
+s_fiberdiameter.png Graphic file (type png)
+<use ./images/b8cbc9c7-97d8-409f-a979-447aebd4aa67-uplt_polymerconcentration_vs
+_fiberdiameter.png>
+Package pdftex.def Info: ./images/b8cbc9c7-97d8-409f-a979-447aebd4aa67-uplt_pol
+ymerconcentration_vs_fiberdiameter.png  used on input line 374.
+(pdftex.def)             Requested size: 1262.91518pt x 843.75018pt.
+
+Overfull \hbox (858.8861pt too wide) in paragraph at lines 374--376
+ [][] 
+ []
+
+
+LaTeX Warning: Float too large for page by 172.25197pt on input line 378.
+
+<./images/085b1fe7-0896-4800-b231-bf68cf86983b-uplt_solutiondepositionrate_vs_f
+iberdiameter.png, id=944, 1250.63235pt x 847.36575pt>
+File: ./images/085b1fe7-0896-4800-b231-bf68cf86983b-uplt_solutiondepositionrate
+_vs_fiberdiameter.png Graphic file (type png)
+<use ./images/085b1fe7-0896-4800-b231-bf68cf86983b-uplt_solutiondepositionrate_
+vs_fiberdiameter.png>
+Package pdftex.def Info: ./images/085b1fe7-0896-4800-b231-bf68cf86983b-uplt_sol
+utiondepositionrate_vs_fiberdiameter.png  used on input line 384.
+(pdftex.def)             Requested size: 1250.62932pt x 847.3637pt.
+
+Overfull \hbox (846.60023pt too wide) in paragraph at lines 384--386
+ [][] 
+ []
+
+
+LaTeX Warning: Float too large for page by 175.86548pt on input line 388.
+
+[32 <./images/6e169654-19e4-40ab-bb05-8ffb11b5ce11-uplt_cormat.png>] [33 <./ima
+ges/dac8d1ee-e40f-49ab-a2ca-e0d7db210474-uplt_nfesappliedvoltage_vs_fiberdiamet
+er.png>] [34 <./images/a8f86e3c-c4e3-45be-b9e8-7b60145137cb-uplt_nozzlediameter
+_vs_fiberdiameter.png>] [35 <./images/6eaa2ba7-07ab-4cfb-980d-5f78b4fcf1a5-uplt
+_nozzletocollectordistance_vs_fiberdiameter.png>] [36 <./images/b8cbc9c7-97d8-4
+09f-a979-447aebd4aa67-uplt_polymerconcentration_vs_fiberdiameter.png>] [37 <./i
+mages/085b1fe7-0896-4800-b231-bf68cf86983b-uplt_solutiondepositionrate_vs_fiber
+diameter.png>])
+Underfull \hbox (badness 2213) in paragraph at lines 394--455
+\T1/ppl/m/n/12 us-able poly-mers and for pat-tern-ing ac-tive or-gan-ics. Nowa-
+days the
+ []
+
+
+Underfull \hbox (badness 1275) in paragraph at lines 394--455
+\T1/ppl/m/n/12 micro-engineering of smart ma-te-ri-als could rep-re-sent a new 
+route for
+ []
+
+[38]
 \openout2 = `./Chapters/3.aux'.
 
  (Chapters/3.tex
 Chapter 3.
+LaTeX Font Info:    Font shape `T1/ppl/bx/it' in size <14.4> not available
+(Font)              Font shape `T1/ppl/b/it' tried instead on input line 28.
 )
 1: section
-[14
+[39
 
 
 
@@ -2185,7 +2683,7 @@ Chapter 3.
 Chapter 4.
 )
 1: section
-[15
+[40
 
 
 
@@ -2196,193 +2694,437 @@ Chapter 4.
 Chapter 5.
 )
 1: section
-[16
+[41
 
 
 
 ]
 1: section
-[17
+[42
 
 
 ]
 1: section
-[18
+[43
 
 ]
-LaTeX Font Info:    Try loading font information for T1+cmtt on input line 531.
+LaTeX Font Info:    Try loading font information for T1+cmtt on input line 532.
 
  ("C:\Users\oskat\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\t1cmtt.fd"
 File: t1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-Underfull \hbox (badness 2443) in paragraph at lines 531--531
+Underfull \hbox (badness 1540) in paragraph at lines 532--532
 []\T1/ppl/m/n/10.95 R. L. Mc-Creery,   Ad-vanced Car-bon Elec-trode Ma-te-ri-a
 ls for Molec-u-lar
  []
 
 1: section
-[19
+[44
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 531--531
-\T1/ppl/m/n/10.95 Current-Plasma En-hanced Chem-i-cal Vapour De-po-si-tion, \T
-1/ppl/m/it/10.95 Jour-nal of
+Underfull \hbox (badness 7613) in paragraph at lines 532--532
+\T1/ppl/m/n/10.95 Shaped Car-bon Nan-otubes and Car-bon Nanofi-bres Syn-the-siz
+ed in
  []
 
 
-Underfull \hbox (badness 1762) in paragraph at lines 531--531
-\T1/ppl/m/it/10.95 Nanoscience and Nan-otech-nol-ogy\T1/ppl/m/n/10.95 , vol. 9,
- no. 7, pp. 45024506, Jul. 2009,
- []
-
-
-Underfull \hbox (badness 1565) in paragraph at lines 531--531
+Underfull \hbox (badness 1019) in paragraph at lines 532--532
 \T1/ppl/m/n/10.95 by Plasma-Assisted Py-rol-y-sis of Pho-tore-sist, \T1/ppl/m/
 it/10.95 ACS Nano\T1/ppl/m/n/10.95 , vol. 5, no. 8,
  []
 
-[20]
-Underfull \hbox (badness 1748) in paragraph at lines 531--531
+[45]
+Underfull \hbox (badness 1418) in paragraph at lines 532--532
 \T1/cmtt/m/n/10.95 1 . 71 % 20https : / / linkinghub . elsevier . com / retriev
 e / pii /
  []
 
 
-Underfull \hbox (badness 5592) in paragraph at lines 531--531
+Underfull \hbox (badness 3954) in paragraph at lines 532--532
 []\T1/ppl/m/n/10.95 M. Razeghi, \T1/ppl/m/it/10.95 Fun-da-men-tals of Solid Sta
 te En-gi-neer-ing\T1/ppl/m/n/10.95 . Cham: Springer
  []
 
-
-Underfull \hbox (badness 1194) in paragraph at lines 531--531
-\T1/ppl/m/n/10.95 in \T1/ppl/m/it/10.95 Springer Hand-book of Nano-ma-te-ri-als
-\T1/ppl/m/n/10.95 , R. Va-j-tai, Ed., Berlin, Hei-del-berg:
- []
-
-[21]
-Underfull \hbox (badness 2828) in paragraph at lines 531--531
+[46]
+Underfull \hbox (badness 2126) in paragraph at lines 532--532
 []\T1/ppl/m/n/10.95 S. Kundu, U. Mogera, S. J. George, and G. U. Kulka-rni,   
 A pla-nar
  []
 
 
-Underfull \hbox (badness 1297) in paragraph at lines 531--531
-\T1/ppl/m/n/10.95 nanowires/ruthenium nanopar-ti-cles micro-supercapacitors, \
-T1/ppl/m/it/10.95 Elec-trochim-ica
- []
-
-
-Underfull \hbox (badness 2197) in paragraph at lines 531--531
+Underfull \hbox (badness 1436) in paragraph at lines 532--532
 []\T1/ppl/m/n/10.95 S. Sub-ra-money,   Sci-ence of fullerenes and car-bon nan-
 otubes. ByM. S.
  []
 
-[22]
-Underfull \hbox (badness 2913) in paragraph at lines 531--531
+[47]
+Underfull \hbox (badness 1603) in paragraph at lines 532--532
 \T1/ppl/m/n/10.95   Semi-con-duct-ing prop-er-ties of cup-stacked car-bon nan-
 otubes, \T1/ppl/m/it/10.95 Car-bon\T1/ppl/m/n/10.95 ,
  []
 
 
-Underfull \hbox (badness 1297) in paragraph at lines 531--531
-[]\T1/ppl/m/n/10.95 M. Endo, C. Kim, K. Nishimura, T. Fu-jino, and K. Miyashita
-,   Re-cent
+Underfull \hbox (badness 2932) in paragraph at lines 532--532
+[]\T1/ppl/m/n/10.95 E. Frack-owiak and F. Béguin,   Elec-tro-chem-i-cal stor-a
+ge of en-ergy in
  []
 
-[23]
-Underfull \hbox (badness 1953) in paragraph at lines 531--531
+[48]
+Underfull \hbox (badness 1448) in paragraph at lines 532--532
 []\T1/ppl/m/n/10.95 M. Endo, T. Maeda, T. Takeda, Y. J. Kim, K. Koshiba, H. Har
 a, and
  []
 
 
-Underfull \hbox (badness 1292) in paragraph at lines 531--531
-[]\T1/ppl/m/n/10.95 A. Pan-dolfo and A. Hol-lenkamp,   Car-bon prop-er-ties an
-d their role in
+Underfull \hbox (badness 1173) in paragraph at lines 532--532
+\T1/ppl/m/it/10.95 Jour-nal of The Elec-tro-chem-i-cal So-ci-ety\T1/ppl/m/n/10.
+95 , vol. 148, no. 8, A910, 2001, \T1/ppl/m/sc/10.95 issn\T1/ppl/m/n/10.95 :
  []
 
-[24] [25]
-Underfull \hbox (badness 2608) in paragraph at lines 531--531
+[49] [50]
+Underfull \hbox (badness 1990) in paragraph at lines 532--532
 []\T1/ppl/m/n/10.95 M. T. Valar-mathi, M. J. Yost, R. L. Good-win, and J. D. Po
 tts,   The
  []
 
 
-Underfull \hbox (badness 2119) in paragraph at lines 531--531
+Underfull \hbox (badness 1762) in paragraph at lines 532--532
+[]\T1/ppl/m/n/10.95 K. A. Faraj, T. H. van Kup-pevelt, and W. F. Daa-men,   Co
+n-struc-tion
+ []
+
+
+Underfull \hbox (badness 1297) in paragraph at lines 532--532
 \T1/ppl/m/n/10.95   Long-Term Follow-up of Achilles Ten-don Re-pair with an Ab
 -sorbable
  []
 
-[26]
-Underfull \hbox (badness 1558) in paragraph at lines 531--531
+
+Underfull \hbox (badness 3179) in paragraph at lines 532--532
+\T1/ppl/m/n/10.95 Avail-able: [][]$\T1/cmtt/m/n/10.95 http : / / journals . sag
+epub . com / doi / 10 . 1177 /
+ []
+
+
+Underfull \hbox (badness 1014) in paragraph at lines 532--532
+[]\T1/ppl/m/n/10.95 D. H. Reneker, A. L. Yarin, H. Fong, and S. Koomb-hongse, 
+  Bend-ing
+ []
+
+
+Underfull \hbox (badness 2980) in paragraph at lines 532--532
+\T1/ppl/m/n/10.95 in-sta-bil-ity of elec-tri-cally charged liq-uid jets of poly
+-mer so-lu-tions in
+ []
+
+[51]
+Underfull \hbox (badness 1062) in paragraph at lines 532--532
 []\T1/ppl/m/n/10.95 R. Der-sch, M. Stein-hart, U. Boudriot, A. Greiner, and J. 
 H. Wen-dorff,
  []
 
 
-Underfull \hbox (badness 1072) in paragraph at lines 531--531
-[][]$\T1/cmtt/m/n/10.95 10 . 15406 / ijbsbe . 2017 . 03 . 00084$[][]\T1/ppl/m/n
-/10.95 . [On-line]. Avail-able: [][]$\T1/cmtt/m/n/10.95 https : / /
+Underfull \hbox (badness 1033) in paragraph at lines 532--532
+\T1/ppl/m/n/10.95 U. Lem-mer, I. D. Leon, and S. O. Martinez-Chapa,   Pyrolysi
+s-induced
  []
 
 
-Underfull \hbox (badness 3635) in paragraph at lines 531--531
+Underfull \hbox (badness 8019) in paragraph at lines 532--532
+\T1/ppl/m/n/10.95 shrink-ing of three-dimensional struc-tures fab-ri-cated by t
+wo-photon
+ []
+
+
+Underfull \hbox (badness 7981) in paragraph at lines 532--532
+\T1/ppl/m/n/10.95 poly-mer-iza-tion: ex-per-i-ment and the-o-ret-i-cal model, 
+\T1/ppl/m/it/10.95 Mi-crosys-tems &
+ []
+
+
+Underfull \hbox (badness 2644) in paragraph at lines 532--532
 \T1/ppl/m/n/10.95 direct-write of 3D func-tional bio-ma-te-ri-als, \T1/ppl/m/i
 t/10.95 Lab Chip\T1/ppl/m/n/10.95 , vol. 14, no. 2,
  []
 
 
-Underfull \hbox (badness 1533) in paragraph at lines 531--531
+Underfull \hbox (badness 1117) in paragraph at lines 532--532
 \T1/ppl/m/n/10.95 & Sons, Inc., Feb. 2013, p. 325, \T1/ppl/m/sc/10.95 isbn\T1/p
 pl/m/n/10.95 : 9781118622582. \T1/ppl/m/sc/10.95 doi\T1/ppl/m/n/10.95 : [][]$\T
 1/cmtt/m/n/10.95 10 . 1002 /
  []
 
-[27]
+
+Underfull \hbox (badness 4060) in paragraph at lines 532--532
+[]\T1/ppl/m/n/10.95 Z.[]M. Huang, Y. .[].[]Z. Zhang, M. Ko-taki, and S. Ra-makr
+-ishna,   A
+ []
+
+
+Underfull \hbox (badness 1442) in paragraph at lines 532--532
+\T1/ppl/m/n/10.95 in nanocom-pos-ites, \T1/ppl/m/it/10.95 Com-pos-ites Sci-enc
+e and Tech-nol-ogy\T1/ppl/m/n/10.95 , vol. 63, no. 15,
+ []
+
+[52]
+Underfull \hbox (badness 3514) in paragraph at lines 532--532
+[]\T1/ppl/m/n/10.95 D. H. Reneker and A. L. Yarin,   Elec-tro-spin-ning jets a
+nd poly-mer
+ []
+
+
+Underfull \hbox (badness 3375) in paragraph at lines 532--532
+\T1/ppl/m/n/10.95 Nanofibers and their Ap-pli-ca-tions, \T1/ppl/m/it/10.95 Pol
+y-mer Re-views\T1/ppl/m/n/10.95 , vol. 48, no. 2,
+ []
+
+
+Underfull \hbox (badness 4467) in paragraph at lines 532--532
+[]\T1/ppl/m/n/10.95 Y. M. Shin, M. M. Hohman, M. P. Bren-ner, and G. C. Rut-led
+ge,
+ []
+
+
+Underfull \hbox (badness 3579) in paragraph at lines 532--532
+[]\T1/ppl/m/n/10.95 R. Kessick, J. Fenn, and G. Tep-per,   The use of AC po-te
+n-tials in
+ []
+
+
+Underfull \hbox (badness 1163) in paragraph at lines 532--532
+\T1/ppl/m/n/10.95 elec-tro-spray-ing and elec-tro-spin-ning pro-cesses, \T1/pp
+l/m/it/10.95 Poly-mer\T1/ppl/m/n/10.95 , vol. 45, no. 9,
+ []
+
+
+Underfull \hbox (badness 2073) in paragraph at lines 532--532
+\T1/ppl/m/n/10.95 no. 1, pp. 7580, 2015, Al-ter-nat-ing cur-rent elec-tro-spin
+-ning,Dissolution
+ []
+
+[53]
+Underfull \hbox (badness 1043) in paragraph at lines 532--532
+[]\T1/ppl/m/n/10.95 L. A. Mary, T. Senthilram, S. Sug-anya, L. Na-gara-jan, J. 
+Venu-gopal, S.
+ []
+
+
+Underfull \hbox (badness 2744) in paragraph at lines 532--532
+[]\T1/ppl/m/n/10.95 O. O. Do-sunmu, G. G. Chase, W. Kat-aphi-nan, and D. H. Ren
+eker,
+ []
+
+
+Underfull \hbox (badness 4441) in paragraph at lines 532--532
+[]\T1/ppl/m/n/10.95 A. E. Er-ick-son, D. Ed-mond-son, F. C. Chang, D. Wood, A. 
+Gong,
+ []
+
+
+Underfull \hbox (badness 4846) in paragraph at lines 532--532
+\T1/ppl/m/n/10.95 S. L. Le-v-en-good, and M. Zhang,   High-throughput and high
+-yield
+ []
+
+[54]
+Underfull \hbox (badness 1478) in paragraph at lines 532--532
+\T1/ppl/m/n/10.95 ob-tained from elec-tro-spin-ning and so-lu-tion blow spin-ni
+ng, \T1/ppl/m/it/10.95 Jour-nal of
+ []
+
+
+Underfull \hbox (badness 2005) in paragraph at lines 532--532
+[]\T1/ppl/m/n/10.95 J. E. Oliveira, E. S. Medeiros, L. Car-dozo, F. Voll, E. H.
+ Madureira,
+ []
+
+
+Underfull \hbox (badness 1418) in paragraph at lines 532--532
+\T1/ppl/m/n/10.95 nanos-truc-tured mem-branes for the con-trolled de-liv-ery of
+ pro-ges-terone
+ []
+
+
+Underfull \hbox (badness 1558) in paragraph at lines 532--532
+\T1/ppl/m/n/10.95 spin-ning of func-tional fibers for biomed-i-cal ap-pli-ca-ti
+ons, \T1/ppl/m/it/10.95 Bio-ma-te-ri-als\T1/ppl/m/n/10.95 ,
+ []
+
+
+Underfull \hbox (badness 2689) in paragraph at lines 532--532
+\T1/ppl/m/n/10.95 by co-electrospinning, \T1/ppl/m/it/10.95 Ad-vanced Func-tio
+nal Ma-te-ri-als\T1/ppl/m/n/10.95 , vol. 16, no. 16,
+ []
+
+[55]
+Underfull \hbox (badness 1221) in paragraph at lines 532--532
+\T1/ppl/m/n/10.95 Dis-solv-ing Drug De-liv-ery Sys-tem and Com-par-i-son with S
+olvent-Based
+ []
+
+
+Underfull \hbox (badness 1546) in paragraph at lines 532--532
+\T1/ppl/m/n/10.95 melt elec-tro-spun poly-mer mats: Char-ac-ter-i-za-tion, ther
+-mal degra-da-tion,
+ []
+
+
+Underfull \hbox (badness 1635) in paragraph at lines 532--532
+\T1/ppl/m/n/10.95 and J. Groll,   Melt elec-tro-spin-ning writ-ing of de-fined
+ scaf-folds us-ing
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 532--532
+[]\T1/ppl/m/n/10.95 C. Chang, K. Limkrailas-siri, and L. Lin,   Con-tin-u-ous 
+near-field
+ []
+
+[56]
+Underfull \hbox (badness 10000) in paragraph at lines 532--532
+[]\T1/ppl/m/n/10.95 S. Chakraborty, I.[]C. Liao, A. Adler, and K. W. Leong,
+ []
+
+
+Underfull \hbox (badness 2865) in paragraph at lines 532--532
+\T1/ppl/m/n/10.95   Elec-tro-hy-dro-dy-nam-ics: A facile tech-nique to fab-ri-
+cate drug de-liv-ery
+ []
+
+
+Underfull \hbox (badness 2042) in paragraph at lines 532--532
+[]\T1/ppl/m/n/10.95 J. Xue, T. Wu, Y. Dai, and Y. Xia,   Elec-tro-spin-ning an
+d Elec-tro-spun
+ []
+
+
+Underfull \hbox (badness 3884) in paragraph at lines 532--532
+\T1/ppl/m/n/10.95 Nanofibers: Meth-ods, Ma-te-ri-als, and Ap-pli-ca-tions, \T1
+/ppl/m/it/10.95 Chem-i-cal Re-views\T1/ppl/m/n/10.95 ,
+ []
+
+
+Underfull \hbox (badness 5203) in paragraph at lines 532--532
+[]\T1/ppl/m/n/10.95 G. R. Williams, B. T. Raimi-Abraham, and C. J. Luo,   Mono
+ax-ial
+ []
+
+
+Underfull \hbox (badness 4660) in paragraph at lines 532--532
+\T1/ppl/m/n/10.95 and M. J. Madou,   Con-trolled Con-tin-u-ous Pat-tern-ing of
+ Poly-meric
+ []
+
+
+Underfull \hbox (badness 6094) in paragraph at lines 532--532
+\T1/ppl/m/n/10.95   Novel Elec-tro-hy-dro-dy-namic Print-ing of Nanocom-pos-it
+e Biopoly-mer
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 532--532
+\T1/ppl/m/n/10.95 de-po-si-tion dis-tance of aligned pat-tern via dual-nozzle n
+ear-field
+ []
+
+
+Underfull \hbox (badness 4479) in paragraph at lines 532--532
+\T1/ppl/m/n/10.95 ki-net-i-cally con-trolled, high pre-ci-sion elec-tro-hy-dro-
+dy-namic writ-ing of
+ []
+
+[57]
+Underfull \hbox (badness 1721) in paragraph at lines 532--532
+[]\T1/ppl/m/n/10.95 J. Kameoka and H. G. Craig-head,   Fab-ri-ca-tion of ori-e
+nted poly-meric
+ []
+
+
+Underfull \hbox (badness 3009) in paragraph at lines 532--532
+\T1/ppl/m/n/10.95 and D. Pisig-nano,   Near-field elec-tro-spin-ning of con-ju
+-gated poly-mer
+ []
+
+
+Underfull \hbox (badness 7595) in paragraph at lines 532--532
+\T1/ppl/m/n/10.95 us-ing a Teflon-coated spin-neret, \T1/ppl/m/it/10.95 Ap-pli
+ed Sur-face Sci-ence\T1/ppl/m/n/10.95 , vol. 284,
+ []
+
+
+Underfull \hbox (badness 2376) in paragraph at lines 532--532
+[]\T1/ppl/m/n/10.95 Q. Wang, D. G. Yu, S. Y. Zhou, C. Li, and M. Zhao,   Elec-
+tro-spun
+ []
+
+
+Underfull \hbox (badness 1728) in paragraph at lines 532--532
+\T1/ppl/m/n/10.95 amor-phous med-i-cated nanocom-pos-ites fab-ri-cated us-ing a
+ Teflon-based
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 532--532
+[]\T1/ppl/m/n/10.95 C. Song, J. A. Rogers, J.[]M. Kim, and H. Ahn,   Pat-terne
+d
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 532--532
+\T1/ppl/m/n/10.95 polydiacetylene-embedded polystyrene nanofibers based on
+ []
+
+
+Underfull \hbox (badness 1189) in paragraph at lines 532--532
+[]\T1/ppl/m/n/10.95 G. Tay-lor,   Elec-tri-cally Driven Jets, \T1/ppl/m/it/10
+.95 Pro-ceed-ings of the Royal So-ci-ety A:
+ []
+
+[58] [59]
 
 Package pdfpages Warning: Option `page' is unknow to \includepdf.
 (pdfpages)                Did you mean `pages'? (Note the `s'!)
 (pdfpages)                OK, I'll proceed as if it were `pages'.
 
-<./pdf/CV/CV.pdf, id=821, 614.295pt x 794.97pt>
+<./pdf/CV/CV.pdf, id=1442, 614.295pt x 794.97pt>
 File: ./pdf/CV/CV.pdf Graphic file (type pdf)
 <use ./pdf/CV/CV.pdf>
-Package pdftex.def Info: ./pdf/CV/CV.pdf  used on input line 545.
+Package pdftex.def Info: ./pdf/CV/CV.pdf  used on input line 546.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 File: ./pdf/CV/CV.pdf Graphic file (type pdf)
 <use ./pdf/CV/CV.pdf>
-Package pdftex.def Info: ./pdf/CV/CV.pdf  used on input line 545.
+Package pdftex.def Info: ./pdf/CV/CV.pdf  used on input line 546.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-<./pdf/CV/CV.pdf, id=824, page=1, 614.295pt x 794.97pt>
+<./pdf/CV/CV.pdf, id=1445, page=1, 614.295pt x 794.97pt>
 File: ./pdf/CV/CV.pdf Graphic file (type pdf)
 <use ./pdf/CV/CV.pdf, page 1>
-Package pdftex.def Info: ./pdf/CV/CV.pdf , page1 used on input line 545.
+Package pdftex.def Info: ./pdf/CV/CV.pdf , page1 used on input line 546.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 File: ./pdf/CV/CV.pdf Graphic file (type pdf)
 <use ./pdf/CV/CV.pdf, page 1>
-Package pdftex.def Info: ./pdf/CV/CV.pdf , page1 used on input line 545.
+Package pdftex.def Info: ./pdf/CV/CV.pdf , page1 used on input line 546.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 File: ./pdf/CV/CV.pdf Graphic file (type pdf)
 <use ./pdf/CV/CV.pdf, page 1>
-Package pdftex.def Info: ./pdf/CV/CV.pdf , page1 used on input line 545.
+Package pdftex.def Info: ./pdf/CV/CV.pdf , page1 used on input line 546.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 File: ./pdf/CV/CV.pdf Graphic file (type pdf)
 <use ./pdf/CV/CV.pdf, page 1>
-Package pdftex.def Info: ./pdf/CV/CV.pdf , page1 used on input line 545.
+Package pdftex.def Info: ./pdf/CV/CV.pdf , page1 used on input line 546.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 File: ./pdf/CV/CV.pdf Graphic file (type pdf)
 <use ./pdf/CV/CV.pdf, page 1>
-Package pdftex.def Info: ./pdf/CV/CV.pdf , page1 used on input line 545.
+Package pdftex.def Info: ./pdf/CV/CV.pdf , page1 used on input line 546.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
-[28 <./pdf/CV/CV.pdf>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 549.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 549.
+[60 <./pdf/CV/CV.pdf>]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 550.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 550.
  (main.aux (Chapters/1.aux) (Chapters/2.aux)
 (Chapters/3.aux) (Chapters/4.aux) (Chapters/5.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 549.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 549.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 550.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 550.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: FEC28C52B9C327301A8446ECD369302F;8674.
+(rerunfilecheck)             Checksum: 04B0FBAEB91229F649EA3CB0300A73CD;11034.
 
 
 LaTeX Warning: There were multiply-defined labels.
@@ -2392,25 +3134,26 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 47765 strings out of 492946
- 989671 string characters out of 3126267
- 1361404 words of memory out of 3000000
- 50841 multiletter control sequences out of 15000+200000
- 572750 words of font info for 90 fonts, out of 3000000 for 9000
+ 48233 strings out of 492946
+ 1007350 string characters out of 3126267
+ 1451767 words of memory out of 3000000
+ 51133 multiletter control sequences out of 15000+200000
+ 583127 words of font info for 119 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  64i,20n,83p,2948b,3028s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\oskat\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\
 ectt1095.pk>{C:/Users/oskat/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/b
 ase/8r.enc}<C:/Users/oskat/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public
-/mathpazo/fplmri.pfb><C:/Users/oskat/AppData/Local/Programs/MiKTeX 2.9/fonts/ty
-pe1/urw/palatino/uplb8a.pfb><C:/Users/oskat/AppData/Local/Programs/MiKTeX 2.9/f
-onts/type1/urw/palatino/uplbi8a.pfb><C:/Users/oskat/AppData/Local/Programs/MiKT
-eX 2.9/fonts/type1/urw/palatino/uplr8a.pfb><C:/Users/oskat/AppData/Local/Progra
-ms/MiKTeX 2.9/fonts/type1/urw/palatino/uplr8a.pfb><C:/Users/oskat/AppData/Local
-/Programs/MiKTeX 2.9/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on main.pdf (39 pages, 1405392 bytes).
+/amsfonts/cm/cmsy10.pfb><C:/Users/oskat/AppData/Local/Programs/MiKTeX 2.9/fonts
+/type1/public/mathpazo/fplmri.pfb><C:/Users/oskat/AppData/Local/Programs/MiKTeX
+ 2.9/fonts/type1/urw/palatino/uplb8a.pfb><C:/Users/oskat/AppData/Local/Programs
+/MiKTeX 2.9/fonts/type1/urw/palatino/uplbi8a.pfb><C:/Users/oskat/AppData/Local/
+Programs/MiKTeX 2.9/fonts/type1/urw/palatino/uplr8a.pfb><C:/Users/oskat/AppData
+/Local/Programs/MiKTeX 2.9/fonts/type1/urw/palatino/uplr8a.pfb><C:/Users/oskat/
+AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/palatino/uplri8a.pfb>
+Output written on main.pdf (72 pages, 3608826 bytes).
 PDF statistics:
- 1016 PDF objects out of 1200 (max. 8388607)
- 165 named destinations out of 1000 (max. 500000)
- 337 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1675 PDF objects out of 1728 (max. 8388607)
+ 309 named destinations out of 1000 (max. 500000)
+ 565 words of extra memory for PDF output out of 10000 (max. 10000000)
 
