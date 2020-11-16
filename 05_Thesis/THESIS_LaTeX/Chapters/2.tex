@@ -370,6 +370,16 @@ Scanning Electron Microscopy Images (SEM) images contain information in a two-di
 
 The adopted image analysis was implemented with the \emph{Python} package \emph{OpenCV}. First a segmentation procedure is executed over an input image to delimit the objects to be measured (fiber sections and scale bar). The segmentation step is the only step needed to be done manually in a image processing software, in this case \emph{Inkscape} was used. Next, the segmented image is passed to the \emph{Pyhton} script, which will convert its input image into a binary image. A binary image is a black and white image (with no gray scale) that ease the detection of the object edges as the color intensity change between the objects and the background is well defined. Once the binary image is computed, the \emph{Canny} edge detection algorithm is executed. Once the edges are well defined, a the image is dilated to make the edges more visible. The final step before measurement, the \emph{OpenCV} \emph{findContours} function is called to store the objects in memory. The first object to be measured is the scale bar as this is needed as a reference to convert the pixel counts to a metric unit. Finally, the objects are located within the image with four edge points, and the reference object is used to compute the metric length as the ratio of counted pixels between two edge points and the scale bar dimension in meters.
 
+Measurements were validaded with Camillo's, Gupta's, Jiang's, Min's, Sun's, Wang's, and Xue's \cite{Camillo2013, Gupta2007, Jiang2018, Min2013, Sun2006a, Wang2015, Xue2014} results as those authors reported both, a SEM image and the measured fiber diameter. For instance, Figure \ref{fig:imageAnalysisToolValidation} shows in white the reported diameters by Min and in blue the diameters measured by the \emph{Python script}. The measurement error of the developed script is about $3.2\%$ in avg. It is considerable to mention that the reported measurement error is mainly contributed to the fact that most fibers are not of the same diameter along the fiber length. In most cases, measurements at the end of the fibers are thicker than the ones measured u¿in the center.
+
+\begin{figure}[!th]
+\centering
+\includegraphics[scale=0.8]{./Figures/imageAnalysisToolValidation.png}
+\decoRule
+\caption[Validation of the developed image analysis meassurement tool]{{Validation of the developed image analysis meassurement tool. SEM images of Min's work are used as an example. \cite{Min2013}}}
+\label{fig:imageAnalysisToolValidation}
+\end{figure}
+
 \section{Discussion \& NFES Challenges}
 
 Helix electrodynamic printing (HE-printing) was presented by Duan et al. \unskip~\cite{527120:11974308} with the intention of depositing aligned fibers. The authors fabricated a stretchable piezoelectric device using micro and nano fibers to demonstrate the possible applications of HE-printing for electronics manufacturing. Duan et al. concluded that the fiber morphology is mainly driven by: the stage velocity, the applied voltage, and the nozzle-to-collector distance.
@@ -399,7 +409,7 @@ Figures \ref{fig:plt_Cpolymerwt_vs_Dfiberm}, \ref{fig:plt_Dnozzlem_vs_Dfiberm}, 
 \centering
 \includegraphics[width=\textwidth]{./Figures/plt_Cpolymerwt_vs_Dfiberm.png}
 \decoRule
-\caption[Image Analysis Algorithm to Measure Fiber Diameters from SEM images]{Image Analysis Algorithm to Measure Fiber Diameters from SEM images. Ilustration uses Yousefi et al.'s work as an example. \cite{
+\caption[Scatter Plot of Polymer Concentrations and Fiber Diameters from Literature Results]{Scatter Plot of Polymer Concentrations and Fiber Diameters from Literature Results. \cite{
   Yang2019,Fattahi2017,Shin2019,Wang2015,Parajuli2016,Zheng2010,Fuh2011,Dalton2015,
   Ru2014,Xue2014,Wang2017,Xu2014,Liu2013,Pan2014,Canton2014,Chakraborty2009,Gupta2007,
   He2018,Zhou2011,Chen2013,Williams2018,Choi2017,Pan2019,Lei2015,Lim2019,Park2020,
@@ -413,11 +423,13 @@ Figures \ref{fig:plt_Cpolymerwt_vs_Dfiberm}, \ref{fig:plt_Dnozzlem_vs_Dfiberm}, 
 \label{fig:plt_Cpolymerwt_vs_Dfiberm}
 \end{figure}
 
+The trend of Figure \ref{fig:plt_Dnozzlem_vs_Dfiberm} shows that thicker nozzle diameters yield thicker fibers. However, the final fiber diameter can be reduced without changing the nozzle diameter. For instance Chang et al. \cite{Chang2008} achieved the thinnest fibers of about $50 nm$ in diameter even though Chang implemented nozzle needles of similar diameter as Shin, Min and Xu. \cite{Shin2019, Min2013, Xu2014}
+
 \begin{figure}[!th]
 \centering
 \includegraphics[width=\textwidth]{./Figures/plt_Dnozzlem_vs_Dfiberm.png}
 \decoRule
-\caption[Image Analysis Algorithm to Measure Fiber Diameters from SEM images]{Image Analysis Algorithm to Measure Fiber Diameters from SEM images. Ilustration uses Yousefi et al.'s work as an example. \cite{
+\caption[Scatter Plot of Nozzle Inner Diameters and Fiber Diameters from Literature Results]{Scatter Plot of Nozzle Inner Diameters and Fiber Diameters from Literature Results. \cite{
   Yang2019,Fattahi2017,Shin2019,Wang2015,Parajuli2016,Zheng2010,Fuh2011,Dalton2015,
   Ru2014,Xue2014,Wang2017,Xu2014,Liu2013,Pan2014,Canton2014,Chakraborty2009,Gupta2007,
   He2018,Zhou2011,Chen2013,Williams2018,Choi2017,Pan2019,Lei2015,Lim2019,Park2020,
@@ -435,7 +447,7 @@ Figures \ref{fig:plt_Cpolymerwt_vs_Dfiberm}, \ref{fig:plt_Dnozzlem_vs_Dfiberm}, 
 \centering
 \includegraphics[width=\textwidth]{./Figures/plt_Lm_vs_Dfiberm.png}
 \decoRule
-\caption[Image Analysis Algorithm to Measure Fiber Diameters from SEM images]{Image Analysis Algorithm to Measure Fiber Diameters from SEM images. Ilustration uses Yousefi et al.'s work as an example. \cite{
+\caption[Scatter Plot of NFES Working Distances and Fiber Diameters from Literature Results]{Scatter Plot of NFES Working Distances and Fiber Diameters from Literature Results. \cite{
   Yang2019,Fattahi2017,Shin2019,Wang2015,Parajuli2016,Zheng2010,Fuh2011,Dalton2015,
   Ru2014,Xue2014,Wang2017,Xu2014,Liu2013,Pan2014,Canton2014,Chakraborty2009,Gupta2007,
   He2018,Zhou2011,Chen2013,Williams2018,Choi2017,Pan2019,Lei2015,Lim2019,Park2020,
@@ -453,7 +465,7 @@ Figures \ref{fig:plt_Cpolymerwt_vs_Dfiberm}, \ref{fig:plt_Dnozzlem_vs_Dfiberm}, 
 \centering
 \includegraphics[width=\textwidth]{./Figures/plt_Phi0V_vs_Dfiberm.png}
 \decoRule
-\caption[Image Analysis Algorithm to Measure Fiber Diameters from SEM images]{Image Analysis Algorithm to Measure Fiber Diameters from SEM images. Ilustration uses Yousefi et al.'s work as an example. \cite{
+\caption[Scatter Plot of NFES Applied Voltages and Fiber Diameters from Literature Results]{Scatter Plot of NFES Applied Voltages and Fiber Diameters from Literature Results. \cite{
   Yang2019,Fattahi2017,Shin2019,Wang2015,Parajuli2016,Zheng2010,Fuh2011,Dalton2015,
   Ru2014,Xue2014,Wang2017,Xu2014,Liu2013,Pan2014,Canton2014,Chakraborty2009,Gupta2007,
   He2018,Zhou2011,Chen2013,Williams2018,Choi2017,Pan2019,Lei2015,Lim2019,Park2020,
@@ -471,7 +483,7 @@ Figures \ref{fig:plt_Cpolymerwt_vs_Dfiberm}, \ref{fig:plt_Dnozzlem_vs_Dfiberm}, 
 \centering
 \includegraphics[width=\textwidth]{./Figures/plt_Qm3s_vs_Dfiberm.png}
 \decoRule
-\caption[Image Analysis Algorithm to Measure Fiber Diameters from SEM images]{Image Analysis Algorithm to Measure Fiber Diameters from SEM images. Ilustration uses Yousefi et al.'s work as an example. \cite{
+\caption[Scatter Plot of Polymer Solution Flow Rates and Fiber Diameters from Literature Results]{Scatter Plot of Polymer Solution Flow Rates and Fiber Diameters from Literature Results. \cite{
   Yang2019,Fattahi2017,Shin2019,Wang2015,Parajuli2016,Zheng2010,Fuh2011,Dalton2015,
   Ru2014,Xue2014,Wang2017,Xu2014,Liu2013,Pan2014,Canton2014,Chakraborty2009,Gupta2007,
   He2018,Zhou2011,Chen2013,Williams2018,Choi2017,Pan2019,Lei2015,Lim2019,Park2020,
@@ -489,7 +501,7 @@ Figures \ref{fig:plt_Cpolymerwt_vs_Dfiberm}, \ref{fig:plt_Dnozzlem_vs_Dfiberm}, 
 \centering
 \includegraphics[width=\textwidth]{./Figures/plt_vstagems_vs_Dfiberm.png}
 \decoRule
-\caption[Image Analysis Algorithm to Measure Fiber Diameters from SEM images]{Image Analysis Algorithm to Measure Fiber Diameters from SEM images. Ilustration uses Yousefi et al.'s work as an example. \cite{
+\caption[Scatter Plot of Collector xy Stage Velocities and Fiber Diameters from Literature Results]{Scatter Plot of Collector xy Stage Velocities and Fiber Diameters from Literature Results. \cite{
   Yang2019,Fattahi2017,Shin2019,Wang2015,Parajuli2016,Zheng2010,Fuh2011,Dalton2015,
   Ru2014,Xue2014,Wang2017,Xu2014,Liu2013,Pan2014,Canton2014,Chakraborty2009,Gupta2007,
   He2018,Zhou2011,Chen2013,Williams2018,Choi2017,Pan2019,Lei2015,Lim2019,Park2020,

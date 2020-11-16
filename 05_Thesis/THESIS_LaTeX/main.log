@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.6960 64-bit) (preloaded format=pdflatex 2019.2.1)  16 NOV 2020 13:02
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.6960 64-bit) (preloaded format=pdflatex 2019.2.1)  16 NOV 2020 13:58
 entering extended mode
 **./main.tex
 (main.tex
@@ -1986,7 +1986,7 @@ Underfull \hbox (badness 1102) in paragraph at lines 9--10
 e been de-vel-oped for
  []
 
-<./Figures/FabricationProcess.png, id=465, 510.2262pt x 100.6962pt>
+<./Figures/FabricationProcess.png, id=467, 510.2262pt x 100.6962pt>
 File: ./Figures/FabricationProcess.png Graphic file (type png)
 <use ./Figures/FabricationProcess.png>
 Package pdftex.def Info: ./Figures/FabricationProcess.png  used on input line 1
@@ -2032,7 +2032,7 @@ n the ap-pli-ca-tions at
 [2 <./Figures/FabricationProcess.png>]
 LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <12> not available
 (Font)              Font shape `T1/ppl/b/n' tried instead on input line 34.
-<./Figures/CBNfingerprint.png, id=493, 799.48688pt x 532.23843pt>
+<./Figures/CBNfingerprint.png, id=495, 799.48688pt x 532.23843pt>
 File: ./Figures/CBNfingerprint.png Graphic file (type png)
 <use ./Figures/CBNfingerprint.png>
 Package pdftex.def Info: ./Figures/CBNfingerprint.png  used on input line 38.
@@ -2055,7 +2055,7 @@ Underfull \hbox (badness 5802) in paragraph at lines 44--45
 ple scales.
  []
 
-<./Figures/carbonAllotropes.png, id=498, 1032.85875pt x 735.34724pt>
+<./Figures/carbonAllotropes.png, id=500, 1032.85875pt x 735.34724pt>
 File: ./Figures/carbonAllotropes.png Graphic file (type png)
 <use ./Figures/carbonAllotropes.png>
 Package pdftex.def Info: ./Figures/carbonAllotropes.png  used on input line 48.
@@ -2067,14 +2067,14 @@ Underfull \hbox (badness 2828) in paragraph at lines 50--50
 mond, car-byne and 
  []
 
-<./Figures/carbonAllotropesHybridization.png, id=499, 389.95688pt x 361.35pt>
+<./Figures/carbonAllotropesHybridization.png, id=501, 389.95688pt x 361.35pt>
 File: ./Figures/carbonAllotropesHybridization.png Graphic file (type png)
 <use ./Figures/carbonAllotropesHybridization.png>
 Package pdftex.def Info: ./Figures/carbonAllotropesHybridization.png  used on i
 nput line 56.
 (pdftex.def)             Requested size: 253.46896pt x 234.87471pt.
 [3 <./Figures/CBNfingerprint.png>]
-<./Figures/carbonAllotropesPorosityNOrder.png, id=511, 458.9145pt x 342.078pt>
+<./Figures/carbonAllotropesPorosityNOrder.png, id=513, 458.9145pt x 342.078pt>
 File: ./Figures/carbonAllotropesPorosityNOrder.png Graphic file (type png)
 <use ./Figures/carbonAllotropesPorosityNOrder.png>
 Package pdftex.def Info: ./Figures/carbonAllotropesPorosityNOrder.png  used on 
@@ -2088,7 +2088,7 @@ sents
 
 [4 <./Figures/carbonAllotropes.png> <./Figures/carbonAllotropesHybridization.pn
 g>] [5 <./Figures/carbonAllotropesPorosityNOrder.png>]
-<./Figures/carbonFiberDiameterComparison.png, id=569, 516.7305pt x 255.95625pt>
+<./Figures/carbonFiberDiameterComparison.png, id=571, 516.7305pt x 255.95625pt>
 
 File: ./Figures/carbonFiberDiameterComparison.png Graphic file (type png)
 <use ./Figures/carbonFiberDiameterComparison.png>
@@ -2114,7 +2114,7 @@ hoton
  []
 
 [7]
-<./Figures/typesOfNanoSensors.png, id=632, 660.66824pt x 410.13225pt>
+<./Figures/typesOfNanoSensors.png, id=634, 660.66824pt x 410.13225pt>
 File: ./Figures/typesOfNanoSensors.png Graphic file (type png)
 <use ./Figures/typesOfNanoSensors.png>
 Package pdftex.def Info: ./Figures/typesOfNanoSensors.png  used on input line 1
@@ -2203,7 +2203,7 @@ is com-prised by
 
 
 ]
-<./images/514dfac6-849d-4905-8e40-7adfafc93b5f-uimg_ehd_techniques.png, id=686,
+<./images/514dfac6-849d-4905-8e40-7adfafc93b5f-uimg_ehd_techniques.png, id=688,
  414.79968pt x 277.78781pt>
 File: ./images/514dfac6-849d-4905-8e40-7adfafc93b5f-uimg_ehd_techniques.png Gra
 phic file (type png)
@@ -2234,7 +2234,7 @@ ng can
  []
 
 [15]
-<./images/19c94c11-1ae0-47bd-95ef-4dc5ceedc20d-uimg_gyro_es.png, id=717, 335.75
+<./images/19c94c11-1ae0-47bd-95ef-4dc5ceedc20d-uimg_gyro_es.png, id=719, 335.75
 438pt x 270.25969pt>
 File: ./images/19c94c11-1ae0-47bd-95ef-4dc5ceedc20d-uimg_gyro_es.png Graphic fi
 le (type png)
@@ -2249,7 +2249,7 @@ pres-sur-ized
  []
 
 [16 <./images/19c94c11-1ae0-47bd-95ef-4dc5ceedc20d-uimg_gyro_es.png>]
-<./images/87246522-4cf1-491f-a45f-cda541854d72-uimg_blow_es.png, id=745, 216.05
+<./images/87246522-4cf1-491f-a45f-cda541854d72-uimg_blow_es.png, id=747, 216.05
 719pt x 166.37157pt>
 File: ./images/87246522-4cf1-491f-a45f-cda541854d72-uimg_blow_es.png Graphic fi
 le (type png)
@@ -2270,7 +2270,7 @@ Underfull \hbox (badness 1546) in paragraph at lines 80--81
 LA
  []
 
-<./images/23a9bc42-4d02-4a78-a907-23aeeb2de68a-uimg_meches_process.png, id=750,
+<./images/23a9bc42-4d02-4a78-a907-23aeeb2de68a-uimg_meches_process.png, id=752,
  1061.46562pt x 331.2375pt>
 File: ./images/23a9bc42-4d02-4a78-a907-23aeeb2de68a-uimg_meches_process.png Gra
 phic file (type png)
@@ -2285,7 +2285,7 @@ cal-able
  []
 
 [17 <./images/87246522-4cf1-491f-a45f-cda541854d72-uimg_blow_es.png>]
-<./images/c33e7bfe-18c6-4765-834e-a85f12cd2621-uimg_touch_process.png, id=763, 
+<./images/c33e7bfe-18c6-4765-834e-a85f12cd2621-uimg_touch_process.png, id=765, 
 914.66719pt x 236.38312pt>
 File: ./images/c33e7bfe-18c6-4765-834e-a85f12cd2621-uimg_touch_process.png Grap
 hic file (type png)
@@ -2319,7 +2319,7 @@ e for cell
 [18 <./images/23a9bc42-4d02-4a78-a907-23aeeb2de68a-uimg_meches_process.png> <./
 images/c33e7bfe-18c6-4765-834e-a85f12cd2621-uimg_touch_process.png>]
 <./images/efb1d6af-4f1a-4c34-9726-b0015b59e112-uimg_microfluid_setup.png, id=77
-6, 231.98897pt x 213.63828pt>
+8, 231.98897pt x 213.63828pt>
 File: ./images/efb1d6af-4f1a-4c34-9726-b0015b59e112-uimg_microfluid_setup.png G
 raphic file (type png)
 <use ./images/efb1d6af-4f1a-4c34-9726-b0015b59e112-uimg_microfluid_setup.png>
@@ -2339,7 +2339,7 @@ ee-dle, see
  []
 
 [19 <./images/efb1d6af-4f1a-4c34-9726-b0015b59e112-uimg_microfluid_setup.png>]
-<./images/afe7da25-1366-4b1e-bf1a-0594eb2eaa88-uimg_nozzle.png, id=793, 294.349
+<./images/afe7da25-1366-4b1e-bf1a-0594eb2eaa88-uimg_nozzle.png, id=795, 294.349
 69pt x 115.18031pt>
 File: ./images/afe7da25-1366-4b1e-bf1a-0594eb2eaa88-uimg_nozzle.png Graphic fil
 e (type png)
@@ -2347,7 +2347,7 @@ e (type png)
 Package pdftex.def Info: ./images/afe7da25-1366-4b1e-bf1a-0594eb2eaa88-uimg_noz
 zle.png  used on input line 134.
 (pdftex.def)             Requested size: 235.48006pt x 92.14435pt.
-<./images/9d06b4aa-134c-4fd6-bbf3-1ced4ac95046-uimg_metl_setup.png, id=799, 232
+<./images/9d06b4aa-134c-4fd6-bbf3-1ced4ac95046-uimg_metl_setup.png, id=801, 232
 .61906pt x 271.0125pt>
 File: ./images/9d06b4aa-134c-4fd6-bbf3-1ced4ac95046-uimg_metl_setup.png Graphic
  file (type png)
@@ -2442,7 +2442,7 @@ Underfull \hbox (badness 1092) in paragraph at lines 216--217
 on where the fiber
  []
 
-<./images/0fd23deb-7631-4b09-8641-69fc6ac8a6b5-ukim_00.png, id=858, 397.485pt x
+<./images/0fd23deb-7631-4b09-8641-69fc6ac8a6b5-ukim_00.png, id=860, 397.485pt x
  309.40594pt>
 File: ./images/0fd23deb-7631-4b09-8641-69fc6ac8a6b5-ukim_00.png Graphic file (t
 ype png)
@@ -2457,7 +2457,7 @@ Underfull \hbox (badness 4168) in paragraph at lines 224--224
  []
 
 [24]
-<./images/fa274bb7-a79d-48ae-9349-953df62c0094-ugupta_00.png, id=869, 564.60938
+<./images/fa274bb7-a79d-48ae-9349-953df62c0094-ugupta_00.png, id=871, 564.60938
 pt x 290.58563pt>
 File: ./images/fa274bb7-a79d-48ae-9349-953df62c0094-ugupta_00.png Graphic file 
 (type png)
@@ -2465,7 +2465,7 @@ File: ./images/fa274bb7-a79d-48ae-9349-953df62c0094-ugupta_00.png Graphic file
 Package pdftex.def Info: ./images/fa274bb7-a79d-48ae-9349-953df62c0094-ugupta_0
 0.png  used on input line 234.
 (pdftex.def)             Requested size: 338.76823pt x 174.35272pt.
-<./images/cd8e0617-d4d9-479b-a99b-a466cd21483c-uwang_01.png, id=875, 487.06969p
+<./images/cd8e0617-d4d9-479b-a99b-a466cd21483c-uwang_01.png, id=877, 487.06969p
 t x 325.96782pt>
 File: ./images/cd8e0617-d4d9-479b-a99b-a466cd21483c-uwang_01.png Graphic file (
 type png)
@@ -2475,7 +2475,7 @@ Package pdftex.def Info: ./images/cd8e0617-d4d9-479b-a99b-a466cd21483c-uwang_01
 (pdftex.def)             Requested size: 340.94644pt x 228.1759pt.
  [25 <./images/0fd23deb-7631-4b09-8641-69fc6ac8a6b5-ukim_00.png> <./images/fa27
 4bb7-a79d-48ae-9349-953df62c0094-ugupta_00.png>]
-<./images/db7d3b35-fe08-422f-afe4-78e0133b489b-uhuang_00.png, id=889, 359.84438
+<./images/db7d3b35-fe08-422f-afe4-78e0133b489b-uhuang_00.png, id=891, 359.84438
 pt x 174.6525pt>
 File: ./images/db7d3b35-fe08-422f-afe4-78e0133b489b-uhuang_00.png Graphic file 
 (type png)
@@ -2490,7 +2490,7 @@ ated
  []
 
 [26 <./images/cd8e0617-d4d9-479b-a99b-a466cd21483c-uwang_01.png>]
-<./images/43f61edd-73cd-4222-830e-3333f92934e9-uimg_nfesvariants.png, id=903, 4
+<./images/43f61edd-73cd-4222-830e-3333f92934e9-uimg_nfesvariants.png, id=905, 4
 51.6875pt x 271.0125pt>
 File: ./images/43f61edd-73cd-4222-830e-3333f92934e9-uimg_nfesvariants.png Graph
 ic file (type png)
@@ -2541,7 +2541,7 @@ po-si-tion
  []
 
 [29]
-<./images/4cc65220-1457-4d0d-bb04-9b1c8138aa96-uffes_vs_nfes.png, id=943, 640.6
+<./images/4cc65220-1457-4d0d-bb04-9b1c8138aa96-uffes_vs_nfes.png, id=945, 640.6
 4343pt x 255.95625pt>
 File: ./images/4cc65220-1457-4d0d-bb04-9b1c8138aa96-uffes_vs_nfes.png Graphic f
 ile (type png)
@@ -2593,7 +2593,7 @@ Underfull \hbox (badness 1072) in paragraph at lines 349--350
 di-am-e-ters
  []
 
-<./Figures/screenshotWebPlotDigitizer.png, id=978, 893.58844pt x 484.05844pt>
+<./Figures/screenshotWebPlotDigitizer.png, id=980, 893.58844pt x 484.05844pt>
 File: ./Figures/screenshotWebPlotDigitizer.png Graphic file (type png)
 <use ./Figures/screenshotWebPlotDigitizer.png>
 Package pdftex.def Info: ./Figures/screenshotWebPlotDigitizer.png  used on inpu
@@ -2605,7 +2605,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 359--359
  []
 
 [32]
-<./Figures/imageAnalysisAlgorithm.png, id=991, 775.39688pt x 553.31718pt>
+<./Figures/imageAnalysisAlgorithm.png, id=993, 775.39688pt x 553.31718pt>
 File: ./Figures/imageAnalysisAlgorithm.png Graphic file (type png)
 <use ./Figures/imageAnalysisAlgorithm.png>
 Package pdftex.def Info: ./Figures/imageAnalysisAlgorithm.png  used on input li
@@ -2613,97 +2613,100 @@ ne 365.
 (pdftex.def)             Requested size: 387.6975pt x 276.65791pt.
  [33 <./Figures/screenshotWebPlotDigitizer.png> <./Figures/imageAnalysisAlgorit
 hm.png>]
-Underfull \hbox (badness 1033) in paragraph at lines 375--376
+<./Figures/imageAnalysisToolValidation.png, id=1010, 422.32782pt x 271.76532pt>
+
+File: ./Figures/imageAnalysisToolValidation.png Graphic file (type png)
+<use ./Figures/imageAnalysisToolValidation.png>
+Package pdftex.def Info: ./Figures/imageAnalysisToolValidation.png  used on inp
+ut line 377.
+(pdftex.def)             Requested size: 337.8627pt x 217.41254pt.
+
+Underfull \hbox (badness 8075) in paragraph at lines 379--379
+ []\T1/ppl/m/sc/10 Figure 2.17: |\T1/ppl/m/n/10 Val-i-da-tion of the de-vel-ope
+d im-age anal-y-sis 
+ []
+
+
+Underfull \hbox (badness 1033) in paragraph at lines 385--386
 \T1/ppl/m/n/12 to demon-strate the pos-si-ble ap-pli-ca-tions of HE-printing fo
 r elec-tron-ics
  []
 
-<./Figures/plt_corMat.png, id=1001, 476.982pt x 476.982pt>
+<./Figures/plt_corMat.png, id=1014, 476.982pt x 476.982pt>
 File: ./Figures/plt_corMat.png Graphic file (type png)
 <use ./Figures/plt_corMat.png>
-Package pdftex.def Info: ./Figures/plt_corMat.png  used on input line 379.
+Package pdftex.def Info: ./Figures/plt_corMat.png  used on input line 389.
 (pdftex.def)             Requested size: 404.02908pt x 404.0392pt.
 [34]
-<./Figures/plt_Cpolymerwt_vs_Dfiberm.png, id=1028, 1256.0526pt x 842.6682pt>
+<./Figures/plt_Cpolymerwt_vs_Dfiberm.png, id=1047, 1256.0526pt x 842.6682pt>
 File: ./Figures/plt_Cpolymerwt_vs_Dfiberm.png Graphic file (type png)
 <use ./Figures/plt_Cpolymerwt_vs_Dfiberm.png>
 Package pdftex.def Info: ./Figures/plt_Cpolymerwt_vs_Dfiberm.png  used on input
- line 400.
+ line 410.
 (pdftex.def)             Requested size: 404.02908pt x 271.06085pt.
-<./Figures/plt_Dnozzlem_vs_Dfiberm.png, id=1037, 1256.0526pt x 839.41605pt>
+ [35 <./Figures/imageAnalysisToolValidation.png>]
+<./Figures/plt_Dnozzlem_vs_Dfiberm.png, id=1067, 1256.0526pt x 839.41605pt>
 File: ./Figures/plt_Dnozzlem_vs_Dfiberm.png Graphic file (type png)
 <use ./Figures/plt_Dnozzlem_vs_Dfiberm.png>
 Package pdftex.def Info: ./Figures/plt_Dnozzlem_vs_Dfiberm.png  used on input l
-ine 418.
+ine 430.
 (pdftex.def)             Requested size: 404.02908pt x 270.01474pt.
-<./Figures/plt_Lm_vs_Dfiberm.png, id=1046, 1256.0526pt x 838.69334pt>
+<./Figures/plt_Lm_vs_Dfiberm.png, id=1076, 1256.0526pt x 838.69334pt>
 File: ./Figures/plt_Lm_vs_Dfiberm.png Graphic file (type png)
 <use ./Figures/plt_Lm_vs_Dfiberm.png>
-Package pdftex.def Info: ./Figures/plt_Lm_vs_Dfiberm.png  used on input line 43
-6.
+Package pdftex.def Info: ./Figures/plt_Lm_vs_Dfiberm.png  used on input line 44
+8.
 (pdftex.def)             Requested size: 404.02908pt x 269.78227pt.
-<./Figures/plt_Phi0V_vs_Dfiberm.png, id=1055, 1256.0526pt x 839.41605pt>
+<./Figures/plt_Phi0V_vs_Dfiberm.png, id=1085, 1256.0526pt x 839.41605pt>
 File: ./Figures/plt_Phi0V_vs_Dfiberm.png Graphic file (type png)
 <use ./Figures/plt_Phi0V_vs_Dfiberm.png>
 Package pdftex.def Info: ./Figures/plt_Phi0V_vs_Dfiberm.png  used on input line
- 454.
+ 466.
 (pdftex.def)             Requested size: 404.02908pt x 270.01474pt.
-<./Figures/plt_Qm3s_vs_Dfiberm.png, id=1064, 1256.0526pt x 841.9455pt>
+<./Figures/plt_Qm3s_vs_Dfiberm.png, id=1094, 1256.0526pt x 841.9455pt>
 File: ./Figures/plt_Qm3s_vs_Dfiberm.png Graphic file (type png)
 <use ./Figures/plt_Qm3s_vs_Dfiberm.png>
 Package pdftex.def Info: ./Figures/plt_Qm3s_vs_Dfiberm.png  used on input line 
-472.
+484.
 (pdftex.def)             Requested size: 404.02908pt x 270.82838pt.
-<./Figures/plt_vstagems_vs_Dfiberm.png, id=1073, 1256.0526pt x 842.6682pt>
+<./Figures/plt_vstagems_vs_Dfiberm.png, id=1103, 1256.0526pt x 842.6682pt>
 File: ./Figures/plt_vstagems_vs_Dfiberm.png Graphic file (type png)
 <use ./Figures/plt_vstagems_vs_Dfiberm.png>
 Package pdftex.def Info: ./Figures/plt_vstagems_vs_Dfiberm.png  used on input l
-ine 490.
+ine 502.
 (pdftex.def)             Requested size: 404.02908pt x 271.06085pt.
- [35 <./Figures/plt_corMat.png>]
-
-LaTeX Warning: Text page 36 contains only floats.
-
-
-Overfull \vbox (3.77739pt too high) has occurred while \output is active []
-
-
-[36 <./Figures/plt_Cpolymerwt_vs_Dfiberm.png> <./Figures/plt_Dnozzlem_vs_Dfiber
-m.png>]
+ [36 <./Figures/plt_corMat.png>]
 
 LaTeX Warning: Text page 37 contains only floats.
 
-
-Overfull \vbox (2.49881pt too high) has occurred while \output is active []
-
-
-[37 <./Figures/plt_Lm_vs_Dfiberm.png> <./Figures/plt_Phi0V_vs_Dfiberm.png>]
+[37 <./Figures/plt_Cpolymerwt_vs_Dfiberm.png> <./Figures/plt_Dnozzlem_vs_Dfiber
+m.png>]
 
 LaTeX Warning: Text page 38 contains only floats.
 
+[38 <./Figures/plt_Lm_vs_Dfiberm.png> <./Figures/plt_Phi0V_vs_Dfiberm.png>]
 
-Overfull \vbox (4.59103pt too high) has occurred while \output is active []
+LaTeX Warning: Text page 39 contains only floats.
 
-
-[38 <./Figures/plt_Qm3s_vs_Dfiberm.png> <./Figures/plt_vstagems_vs_Dfiberm.png>
+[39 <./Figures/plt_Qm3s_vs_Dfiberm.png> <./Figures/plt_vstagems_vs_Dfiberm.png>
 ]
-Underfull \hbox (badness 2213) in paragraph at lines 511--512
+Underfull \hbox (badness 2213) in paragraph at lines 523--524
 \T1/ppl/m/n/12 us-able poly-mers and for pat-tern-ing ac-tive or-gan-ics. Nowa-
 days the
  []
 
 
-Underfull \hbox (badness 1275) in paragraph at lines 511--512
+Underfull \hbox (badness 1275) in paragraph at lines 523--524
 \T1/ppl/m/n/12 micro-engineering of smart ma-te-ri-als could rep-re-sent a new 
 route for
  []
 
-<./Figures/plt_Pi1_vs_Oh.png, id=1107, 1256.0526pt x 838.69334pt>
+<./Figures/plt_Pi1_vs_Oh.png, id=1139, 1256.0526pt x 838.69334pt>
 File: ./Figures/plt_Pi1_vs_Oh.png Graphic file (type png)
 <use ./Figures/plt_Pi1_vs_Oh.png>
-Package pdftex.def Info: ./Figures/plt_Pi1_vs_Oh.png  used on input line 517.
+Package pdftex.def Info: ./Figures/plt_Pi1_vs_Oh.png  used on input line 529.
 (pdftex.def)             Requested size: 404.02908pt x 269.78227pt.
-[39]) [40 <./Figures/plt_Pi1_vs_Oh.png>]
+) [40] [41 <./Figures/plt_Pi1_vs_Oh.png>]
 \openout2 = `./Chapters/3.aux'.
 
  (Chapters/3.tex
@@ -2712,7 +2715,7 @@ LaTeX Font Info:    Font shape `T1/ppl/bx/it' in size <14.4> not available
 (Font)              Font shape `T1/ppl/b/it' tried instead on input line 28.
 )
 1: section
-[41
+[42
 
 
 
@@ -2723,7 +2726,7 @@ LaTeX Font Info:    Font shape `T1/ppl/bx/it' in size <14.4> not available
 Chapter 4.
 )
 1: section
-[42
+[43
 
 
 
@@ -2734,18 +2737,18 @@ Chapter 4.
 Chapter 5.
 )
 1: section
-[43
-
-
-
-]
-1: section
 [44
+
 
 
 ]
 1: section
 [45
+
+
+]
+1: section
+[46
 
 ]
 LaTeX Font Info:    Try loading font information for T1+cmtt on input line 551.
@@ -2759,7 +2762,7 @@ ls for Molec-u-lar
  []
 
 1: section
-[46
+[47
 
 ]
 Underfull \hbox (badness 7613) in paragraph at lines 551--551
@@ -2773,7 +2776,7 @@ Underfull \hbox (badness 1019) in paragraph at lines 551--551
 it/10.95 ACS Nano\T1/ppl/m/n/10.95 , vol. 5, no. 8,
  []
 
-[47]
+[48]
 Underfull \hbox (badness 1418) in paragraph at lines 551--551
 \T1/cmtt/m/n/10.95 1 . 71 % 20https : / / linkinghub . elsevier . com / retriev
 e / pii /
@@ -2785,7 +2788,7 @@ Underfull \hbox (badness 3954) in paragraph at lines 551--551
 te En-gi-neer-ing\T1/ppl/m/n/10.95 . Cham: Springer
  []
 
-[48]
+[49]
 Underfull \hbox (badness 2126) in paragraph at lines 551--551
 []\T1/ppl/m/n/10.95 S. Kundu, U. Mogera, S. J. George, and G. U. Kulka-rni,   
 A pla-nar
@@ -2797,7 +2800,7 @@ Underfull \hbox (badness 1436) in paragraph at lines 551--551
 otubes. ByM. S.
  []
 
-[49]
+[50]
 Underfull \hbox (badness 1603) in paragraph at lines 551--551
 \T1/ppl/m/n/10.95   Semi-con-duct-ing prop-er-ties of cup-stacked car-bon nan-
 otubes, \T1/ppl/m/it/10.95 Car-bon\T1/ppl/m/n/10.95 ,
@@ -2809,7 +2812,7 @@ Underfull \hbox (badness 2932) in paragraph at lines 551--551
 ge of en-ergy in
  []
 
-[50]
+[51]
 Underfull \hbox (badness 1448) in paragraph at lines 551--551
 []\T1/ppl/m/n/10.95 M. Endo, T. Maeda, T. Takeda, Y. J. Kim, K. Koshiba, H. Har
 a, and
@@ -2821,7 +2824,7 @@ Underfull \hbox (badness 1173) in paragraph at lines 551--551
 95 , vol. 148, no. 8, A910, 2001, \T1/ppl/m/sc/10.95 issn\T1/ppl/m/n/10.95 :
  []
 
-[51] [52]
+[52] [53]
 Underfull \hbox (badness 1990) in paragraph at lines 551--551
 []\T1/ppl/m/n/10.95 M. T. Valar-mathi, M. J. Yost, R. L. Good-win, and J. D. Po
 tts,   The
@@ -2857,7 +2860,7 @@ Underfull \hbox (badness 2980) in paragraph at lines 551--551
 -mer so-lu-tions in
  []
 
-[53]
+[54]
 Underfull \hbox (badness 1062) in paragraph at lines 551--551
 []\T1/ppl/m/n/10.95 R. Der-sch, M. Stein-hart, U. Boudriot, A. Greiner, and J. 
 H. Wen-dorff,
@@ -2906,7 +2909,7 @@ Underfull \hbox (badness 1442) in paragraph at lines 551--551
 e and Tech-nol-ogy\T1/ppl/m/n/10.95 , vol. 63, no. 15,
  []
 
-[54]
+[55]
 Underfull \hbox (badness 3514) in paragraph at lines 551--551
 []\T1/ppl/m/n/10.95 D. H. Reneker and A. L. Yarin,   Elec-tro-spin-ning jets a
 nd poly-mer
@@ -2942,7 +2945,7 @@ Underfull \hbox (badness 2073) in paragraph at lines 551--551
 -ning,Dissolution
  []
 
-[55]
+[56]
 Underfull \hbox (badness 1043) in paragraph at lines 551--551
 []\T1/ppl/m/n/10.95 L. A. Mary, T. Senthilram, S. Sug-anya, L. Na-gara-jan, J. 
 Venu-gopal, S.
@@ -2966,7 +2969,7 @@ Underfull \hbox (badness 4846) in paragraph at lines 551--551
 -yield
  []
 
-[56]
+[57]
 Underfull \hbox (badness 1478) in paragraph at lines 551--551
 \T1/ppl/m/n/10.95 ob-tained from elec-tro-spin-ning and so-lu-tion blow spin-ni
 ng, \T1/ppl/m/it/10.95 Jour-nal of
@@ -2996,7 +2999,7 @@ Underfull \hbox (badness 2689) in paragraph at lines 551--551
 nal Ma-te-ri-als\T1/ppl/m/n/10.95 , vol. 16, no. 16,
  []
 
-[57]
+[58]
 Underfull \hbox (badness 1221) in paragraph at lines 551--551
 \T1/ppl/m/n/10.95 Dis-solv-ing Drug De-liv-ery Sys-tem and Com-par-i-son with S
 olvent-Based
@@ -3020,7 +3023,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 551--551
 near-field
  []
 
-[58]
+[59]
 Underfull \hbox (badness 10000) in paragraph at lines 551--551
 []\T1/ppl/m/n/10.95 S. Chakraborty, I.[]C. Liao, A. Adler, and K. W. Leong,
  []
@@ -3073,7 +3076,7 @@ Underfull \hbox (badness 4479) in paragraph at lines 551--551
 dy-namic writ-ing of
  []
 
-[59]
+[60]
 Underfull \hbox (badness 1721) in paragraph at lines 551--551
 []\T1/ppl/m/n/10.95 J. Kameoka and H. G. Craig-head,   Fab-ri-ca-tion of ori-e
 nted poly-meric
@@ -3120,7 +3123,7 @@ Underfull \hbox (badness 1189) in paragraph at lines 551--551
 .95 Pro-ceed-ings of the Royal So-ci-ety A:
  []
 
-[60]
+[61]
 Underfull \hbox (badness 10000) in paragraph at lines 551--551
 \T1/ppl/m/n/10.95 of mi-crogrooved scaf-folds us-ing near-field electrospinning
 -assisted
@@ -3132,7 +3135,7 @@ Underfull \hbox (badness 1642) in paragraph at lines 551--551
 let-jet mode
  []
 
-[61]
+[62]
 Underfull \hbox (badness 10000) in paragraph at lines 551--551
 \T1/ppl/m/n/10.95 in-ves-ti-ga-tion on pro-cess pa-ram-e-ters of near-field de-
 po-si-tion of
@@ -3162,7 +3165,7 @@ Underfull \hbox (badness 3138) in paragraph at lines 551--551
 m/n/10.95 , vol. 7, no. 3, p. 035 310, Mar. 2017,
  []
 
-[62]
+[63]
 Underfull \hbox (badness 1237) in paragraph at lines 551--551
 []\T1/ppl/m/n/10.95 J. Xu, M. Abecas-sis, Z. Zhang, P. Guo, J. Huang, K. Ehmann
 , and J.
@@ -3228,7 +3231,7 @@ Underfull \hbox (badness 1325) in paragraph at lines 551--551
 10.95 Poly-mer\T1/ppl/m/n/10.95 , vol. 52, no. 16,
  []
 
-[63]
+[64]
 Underfull \hbox (badness 1102) in paragraph at lines 551--551
 []\T1/ppl/m/n/10.95 G. R. Williams, B. T. Raimi-Abraham, and C. J. Luo,   Elec
 -tro-spin-ning
@@ -3264,7 +3267,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 551--551
 -field
  []
 
-[64]
+[65]
 Underfull \hbox (badness 1769) in paragraph at lines 551--551
 []\T1/ppl/m/n/10.95 C. Chang, V. H. Tran, J. Wang, Y.[]K. Fuh, and L. Lin,   D
 irect-Write
@@ -3283,7 +3286,7 @@ Underfull \hbox (badness 1533) in paragraph at lines 551--551
 n/10.95 :
  []
 
-[65]
+[66]
 Underfull \hbox (badness 2253) in paragraph at lines 551--551
 []\T1/ppl/m/n/10.95 G. Hochleit-ner, M. Kessler, M. Schmitz, A. R. Boc-cac-cini
 , J. Teb-mar,
@@ -3325,7 +3328,7 @@ Underfull \hbox (badness 2617) in paragraph at lines 551--551
 In-ter-na-tional Solid-State Sen-sors,
  []
 
-[66]
+[67]
 Underfull \hbox (badness 3009) in paragraph at lines 551--551
 \T1/ppl/m/n/10.95 and D. Pisig-nano,   Near-field elec-tro-spin-ning of con-ju
 -gated poly-mer
@@ -3343,7 +3346,7 @@ Underfull \hbox (badness 4479) in paragraph at lines 551--551
 dy-namic writ-ing of
  []
 
-[67]
+[68]
 Underfull \hbox (badness 1728) in paragraph at lines 551--551
 \T1/ppl/m/n/10.95 fi-brous poly(2-ethyl-2-oxazoline) scaf-folds through melt el
 ec-tro-spin-ning
@@ -3379,7 +3382,7 @@ Underfull \hbox (badness 3323) in paragraph at lines 551--551
 Im-proved
  []
 
-[68]
+[69]
 Underfull \hbox (badness 2573) in paragraph at lines 551--551
 []\T1/ppl/m/n/10.95 M. J. Strauss, D. Asheghali, A. M. Evans, R. L. Li, A. D. C
 havez,
@@ -3415,7 +3418,7 @@ Underfull \hbox (badness 4366) in paragraph at lines 551--551
 or-phol-ogy
  []
 
-[69]
+[70]
 Underfull \hbox (badness 10000) in paragraph at lines 551--551
 []\T1/ppl/m/n/10.95 C. Song, J. A. Rogers, J.[]M. Kim, and H. Ahn,   Pat-terne
 d
@@ -3432,7 +3435,7 @@ Underfull \hbox (badness 1019) in paragraph at lines 551--551
  Sun,
  []
 
-[70]
+[71]
 Underfull \hbox (badness 3895) in paragraph at lines 551--551
 []\T1/ppl/m/n/10.95 G. Luo, K. S. Teh, X. Zang, D. Wu, Z. Wen, and L. Lin,   H
 igh
@@ -3456,13 +3459,13 @@ Underfull \hbox (badness 1072) in paragraph at lines 551--551
 the di-am-e-ter of
  []
 
-[71]
+[72]
 
 Package pdfpages Warning: Option `page' is unknow to \includepdf.
 (pdfpages)                Did you mean `pages'? (Note the `s'!)
 (pdfpages)                OK, I'll proceed as if it were `pages'.
 
-<./pdf/CV/CV.pdf, id=1955, 614.295pt x 794.97pt>
+<./pdf/CV/CV.pdf, id=1977, 614.295pt x 794.97pt>
 File: ./pdf/CV/CV.pdf Graphic file (type pdf)
 <use ./pdf/CV/CV.pdf>
 Package pdftex.def Info: ./pdf/CV/CV.pdf  used on input line 565.
@@ -3471,7 +3474,7 @@ File: ./pdf/CV/CV.pdf Graphic file (type pdf)
 <use ./pdf/CV/CV.pdf>
 Package pdftex.def Info: ./pdf/CV/CV.pdf  used on input line 565.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-<./pdf/CV/CV.pdf, id=1958, page=1, 614.295pt x 794.97pt>
+<./pdf/CV/CV.pdf, id=1980, page=1, 614.295pt x 794.97pt>
 File: ./pdf/CV/CV.pdf Graphic file (type pdf)
 <use ./pdf/CV/CV.pdf, page 1>
 Package pdftex.def Info: ./pdf/CV/CV.pdf , page1 used on input line 565.
@@ -3492,7 +3495,7 @@ File: ./pdf/CV/CV.pdf Graphic file (type pdf)
 <use ./pdf/CV/CV.pdf, page 1>
 Package pdftex.def Info: ./pdf/CV/CV.pdf , page1 used on input line 565.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
-[72 <./pdf/CV/CV.pdf>]
+[73 <./pdf/CV/CV.pdf>]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 569.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 569.
  (main.aux (Chapters/1.aux) (Chapters/2.aux)
@@ -3500,7 +3503,7 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 569.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 569.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 569.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 156E11A29ABCDA778671DB0C2E80BFA4;12445.
+(rerunfilecheck)             Checksum: 48732B0B608E598C9B53FB7C5D89ECC1;12446.
 
 
 LaTeX Warning: There were undefined references.
@@ -3513,10 +3516,10 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 48698 strings out of 492946
- 1019614 string characters out of 3126267
- 1713076 words of memory out of 3000000
- 51484 multiletter control sequences out of 15000+200000
+ 48706 strings out of 492946
+ 1019887 string characters out of 3126267
+ 1713789 words of memory out of 3000000
+ 51489 multiletter control sequences out of 15000+200000
  587185 words of font info for 128 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  64i,20n,83p,2948b,3030s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -3532,9 +3535,9 @@ ta/Local/Programs/MiKTeX 2.9/fonts/type1/urw/palatino/uplr8a.pfb><C:/Users/oska
 t/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/palatino/uplr8a.pfb><C:/Use
 rs/oskat/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/palatino/uplri8a.pfb
 >
-Output written on main.pdf (84 pages, 5632743 bytes).
+Output written on main.pdf (85 pages, 5782223 bytes).
 PDF statistics:
- 2216 PDF objects out of 2487 (max. 8388607)
- 411 named destinations out of 1000 (max. 500000)
- 617 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 2239 PDF objects out of 2487 (max. 8388607)
+ 413 named destinations out of 1000 (max. 500000)
+ 622 words of extra memory for PDF output out of 10000 (max. 10000000)
 
