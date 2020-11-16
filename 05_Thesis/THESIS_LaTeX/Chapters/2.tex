@@ -326,7 +326,17 @@ On the other hand, Choi et al.\unskip~\cite{527120:12322289} implemented a hydro
 
 \section{Data collection of NFES fiber morphology and process parameters}
 
-Near-field electrospinning process parameters and achieved fiber morphology data was collected into a single database with the purpose to analyze the data and find correlations between the process parameters and the obtained fiber morphology after a NFES process. The alalysis comprises from the first reported NFES apparatus built in 2003 by J. Kameoka et al. \cite{Kameoka2003a} to recent studies conducted in 2020. The data collection process was divided in three procedures depending on the format of the available information, as follows:
+Near-field electrospinning process parameters and achieved fiber morphology data was collected into a single database with the purpose to analyze the data and find correlations between the process parameters and the obtained fiber morphology after a NFES process. The alalysis comprises from the first reported NFES apparatus built in 2003 by J. Kameoka et al. \cite{Kameoka2003a} to recent studies conducted in 2020. \cite{
+  Yang2019,Fattahi2017,Shin2019,Wang2015,Parajuli2016,Zheng2010,Fuh2011,Dalton2015,
+  Ru2014,Xue2014,Wang2017,Xu2014,Liu2013,Pan2014,Canton2014,Chakraborty2009,Gupta2007,
+  He2018,Zhou2011,Chen2013,Williams2018,Choi2017,Pan2019,Lei2015,Lim2019,Park2020,
+  Fuh2012,Flores2017,Chang2010,Xu2019,Zhang2019,Shin2018,Fuh2015,Nagle2019,Zheng2012,
+  Kameoka2003a,Liu2014,E.King2019,Hochleitner2017,Madou2011,Jiang2018,Husain2016,
+  ElectrospinTech2015,Brown2011,Kolan2018,Chang2011,Beachley2011,Camillo2013,Kameoka2003,
+  Bu2012,Lee2012,Huang2015,Coppola2020,CisquellaSerra2019,Ruggieri2013,Hochleitner2014,
+  Zhu2016,Brown2014,Chang2008,Sonntag2020,Kim2018,Deng2020,Han2019,George2020,Sun2006a,
+  Pan2015,Shen2016,Strauss2019,Fuh2013,Sarkar2007,You2017,Wang2018a,Zheng2014,Song2015,
+  GaofengZheng2010,Liu2015a,Min2013,Luo2016,Yousefi2019,Cardenas2017,Coppola2014} The data collection process was divided in three procedures depending on the format of the available information, as follows:
 
 \begin{enumerate}
 \item Case 1 : data is collected as is from literature. This procedure was implemented when the data is listed within tables and/or as text format.
@@ -348,75 +358,174 @@ Most numerical data of NFES process parameters and fiber diameters is available 
 
 \subsection{Image Analysis - Data extraction from Scanning Electron Microscopy Images}
 
-Scanning Electron Microscopy Images (SEM) images contain information in a two-dimensional grid that can be extracted using point and line counting techniques, however this can be a laborious process for a large number of images. To decrease the complex and lavorious aspect of the counting process, a \emph{Python} script was developed to measure fiber diameters from the available SEM images. As shown in Figure \ref{fig:}, the image analysis algorithm follows three main steps: pre-processing, segmentation, object detection, and data processing.
+Scanning Electron Microscopy Images (SEM) images contain information in a two-dimensional grid that can be extracted using point and line counting techniques, however this can be a laborious process for a large number of images. To decrease the complex and lavorious aspect of the counting process, a \emph{Python} script was developed to measure fiber diameters from the available SEM images. As shown in Figure \ref{fig:imageAnalysisAlgorithm}, the image analysis algorithm follows three main steps: pre-processing, segmentation, object detection, and data processing.
 
+\begin{figure}[!th]
+\centering
+\includegraphics[scale=0.50]{./Figures/imageAnalysisAlgorithm.png}
+\decoRule
+\caption[Image Analysis Algorithm to Measure Fiber Diameters from SEM images]{Image Analysis Algorithm to Measure Fiber Diameters from SEM images. Ilustration uses Yousefi et al.'s work as an example. \cite{Yousefi2019}}
+\label{fig:imageAnalysisAlgorithm}
+\end{figure}
 
+The adopted image analysis was implemented with the \emph{Python} package \emph{OpenCV}. First a segmentation procedure is executed over an input image to delimit the objects to be measured (fiber sections and scale bar). The segmentation step is the only step needed to be done manually in a image processing software, in this case \emph{Inkscape} was used. Next, the segmented image is passed to the \emph{Pyhton} script, which will convert its input image into a binary image. A binary image is a black and white image (with no gray scale) that ease the detection of the object edges as the color intensity change between the objects and the background is well defined. Once the binary image is computed, the \emph{Canny} edge detection algorithm is executed. Once the edges are well defined, a the image is dilated to make the edges more visible. The final step before measurement, the \emph{OpenCV} \emph{findContours} function is called to store the objects in memory. The first object to be measured is the scale bar as this is needed as a reference to convert the pixel counts to a metric unit. Finally, the objects are located within the image with four edge points, and the reference object is used to compute the metric length as the ratio of counted pixels between two edge points and the scale bar dimension in meters.
 
 \section{Discussion \& NFES Challenges}
-Helix electrodynamic printing (HE-printing) was presented by Duan et al. \unskip~\cite{527120:11974308} with the intention of depositing aligned fibers. The authors fabricated a stretchable piezoelectric device using micro and nano fibers to demonstrate the possible applications of HE-printinh for electronics manufacturing. Duan et al. concluded that the fiber morphology is mainly driven by: the stage velocity, the applied voltage, and the nozzle-to-collector distance.
+
+Helix electrodynamic printing (HE-printing) was presented by Duan et al. \unskip~\cite{527120:11974308} with the intention of depositing aligned fibers. The authors fabricated a stretchable piezoelectric device using micro and nano fibers to demonstrate the possible applications of HE-printing for electronics manufacturing. Duan et al. concluded that the fiber morphology is mainly driven by: the stage velocity, the applied voltage, and the nozzle-to-collector distance.
+
+\begin{figure}[!th]
+\centering
+\includegraphics[width=\textwidth]{./Figures/plt_corMat.png}
+\decoRule
+\caption[NFES correlation matrix of process parameters and fiber morphology]{{Correlation matrix comprised by the NFES data from recent literature. 
+\cite{
+  Yang2019,Fattahi2017,Shin2019,Wang2015,Parajuli2016,Zheng2010,Fuh2011,Dalton2015,
+  Ru2014,Xue2014,Wang2017,Xu2014,Liu2013,Pan2014,Canton2014,Chakraborty2009,Gupta2007,
+  He2018,Zhou2011,Chen2013,Williams2018,Choi2017,Pan2019,Lei2015,Lim2019,Park2020,
+  Fuh2012,Flores2017,Chang2010,Xu2019,Zhang2019,Shin2018,Fuh2015,Nagle2019,Zheng2012,
+  Kameoka2003a,Liu2014,E.King2019,Hochleitner2017,Madou2011,Jiang2018,Husain2016,
+  ElectrospinTech2015,Brown2011,Kolan2018,Chang2011,Beachley2011,Camillo2013,Kameoka2003,
+  Bu2012,Lee2012,Huang2015,Coppola2020,CisquellaSerra2019,Ruggieri2013,Hochleitner2014,
+  Zhu2016,Brown2014,Chang2008,Sonntag2020,Kim2018,Deng2020,Han2019,George2020,Sun2006a,
+  Pan2015,Shen2016,Strauss2019,Fuh2013,Sarkar2007,You2017,Wang2018a,Zheng2014,Song2015,
+  GaofengZheng2010,Liu2015a,Min2013,Luo2016,Yousefi2019,Cardenas2017,Coppola2014} Fiber diameter is highly correlated with polymer solution concentration and slightly correlated with solution flow rate, zero-shear viscosity and nozzle diameter.}}
+\label{fig:plt_corMat}
+\end{figure}
+
+Figures \ref{fig:plt_Cpolymerwt_vs_Dfiberm}, \ref{fig:plt_Dnozzlem_vs_Dfiberm}, \ref{fig:plt_Lm_vs_Dfiberm}, \ref{fig:plt_Phi0V_vs_Dfiberm}, \ref{fig:plt_Qm3s_vs_Dfiberm} and \ref{fig:plt_vstagems_vs_Dfiberm} are scatter plots that depict the relationship of various process parameters (polymer concentration $C_{polymer}$, nozzle inner diameter $D_{nozzle}$, NFES working distance $L$, NFES applied voltage $\Phi_0$, flow rate $Q$, and stage velocity $v_{stage}$) with the final fiber diameter $D_{fiber}$. In a generalized summary, these figures suggest that thin fibers are produced with the implementation of low polymer concentrations, small nozzle diameters, short working distances, low applied voltages, low flow rates, and high stage xy velocities. Moreover, based on the degree of dispersion of the data points, polymer concentration $C_{polymer}$ is the most reliable process parameter to describe and predict the behavior of the fiber diameter, as most of the data can be grouped in a single cluster. Unlike $C_{polymer}$ in Figure \ref{fig:plt_Cpolymerwt_vs_Dfiberm}, various data clusters can be identified within the other scatter plots. For instance, Song's results \cite{Song2015} deviate from the main cluster in Figures \ref{fig:plt_Dnozzlem_vs_Dfiberm}, \ref{fig:plt_Lm_vs_Dfiberm}, \ref{fig:plt_Phi0V_vs_Dfiberm}, and \ref{fig:plt_vstagems_vs_Dfiberm}, this may be because Song et al. used Au/Pd coated glass capillary nozzles instead of the traditional stainless steel precision tips. However in the $C_{polymer}$ vs. $D_{fiber}$ figure, Song's results fit within the main cluster.
+
+\begin{figure}[!th]
+\centering
+\includegraphics[width=\textwidth]{./Figures/plt_Cpolymerwt_vs_Dfiberm.png}
+\decoRule
+\caption[Image Analysis Algorithm to Measure Fiber Diameters from SEM images]{Image Analysis Algorithm to Measure Fiber Diameters from SEM images. Ilustration uses Yousefi et al.'s work as an example. \cite{
+  Yang2019,Fattahi2017,Shin2019,Wang2015,Parajuli2016,Zheng2010,Fuh2011,Dalton2015,
+  Ru2014,Xue2014,Wang2017,Xu2014,Liu2013,Pan2014,Canton2014,Chakraborty2009,Gupta2007,
+  He2018,Zhou2011,Chen2013,Williams2018,Choi2017,Pan2019,Lei2015,Lim2019,Park2020,
+  Fuh2012,Flores2017,Chang2010,Xu2019,Zhang2019,Shin2018,Fuh2015,Nagle2019,Zheng2012,
+  Kameoka2003a,Liu2014,E.King2019,Hochleitner2017,Madou2011,Jiang2018,Husain2016,
+  ElectrospinTech2015,Brown2011,Kolan2018,Chang2011,Beachley2011,Camillo2013,Kameoka2003,
+  Bu2012,Lee2012,Huang2015,Coppola2020,CisquellaSerra2019,Ruggieri2013,Hochleitner2014,
+  Zhu2016,Brown2014,Chang2008,Sonntag2020,Kim2018,Deng2020,Han2019,George2020,Sun2006a,
+  Pan2015,Shen2016,Strauss2019,Fuh2013,Sarkar2007,You2017,Wang2018a,Zheng2014,Song2015,
+  GaofengZheng2010,Liu2015a,Min2013,Luo2016,Yousefi2019,Cardenas2017,Coppola2014}}
+\label{fig:plt_Cpolymerwt_vs_Dfiberm}
+\end{figure}
+
+\begin{figure}[!th]
+\centering
+\includegraphics[width=\textwidth]{./Figures/plt_Dnozzlem_vs_Dfiberm.png}
+\decoRule
+\caption[Image Analysis Algorithm to Measure Fiber Diameters from SEM images]{Image Analysis Algorithm to Measure Fiber Diameters from SEM images. Ilustration uses Yousefi et al.'s work as an example. \cite{
+  Yang2019,Fattahi2017,Shin2019,Wang2015,Parajuli2016,Zheng2010,Fuh2011,Dalton2015,
+  Ru2014,Xue2014,Wang2017,Xu2014,Liu2013,Pan2014,Canton2014,Chakraborty2009,Gupta2007,
+  He2018,Zhou2011,Chen2013,Williams2018,Choi2017,Pan2019,Lei2015,Lim2019,Park2020,
+  Fuh2012,Flores2017,Chang2010,Xu2019,Zhang2019,Shin2018,Fuh2015,Nagle2019,Zheng2012,
+  Kameoka2003a,Liu2014,E.King2019,Hochleitner2017,Madou2011,Jiang2018,Husain2016,
+  ElectrospinTech2015,Brown2011,Kolan2018,Chang2011,Beachley2011,Camillo2013,Kameoka2003,
+  Bu2012,Lee2012,Huang2015,Coppola2020,CisquellaSerra2019,Ruggieri2013,Hochleitner2014,
+  Zhu2016,Brown2014,Chang2008,Sonntag2020,Kim2018,Deng2020,Han2019,George2020,Sun2006a,
+  Pan2015,Shen2016,Strauss2019,Fuh2013,Sarkar2007,You2017,Wang2018a,Zheng2014,Song2015,
+  GaofengZheng2010,Liu2015a,Min2013,Luo2016,Yousefi2019,Cardenas2017,Coppola2014}}
+\label{fig:plt_Dnozzlem_vs_Dfiberm}
+\end{figure}
+
+\begin{figure}[!th]
+\centering
+\includegraphics[width=\textwidth]{./Figures/plt_Lm_vs_Dfiberm.png}
+\decoRule
+\caption[Image Analysis Algorithm to Measure Fiber Diameters from SEM images]{Image Analysis Algorithm to Measure Fiber Diameters from SEM images. Ilustration uses Yousefi et al.'s work as an example. \cite{
+  Yang2019,Fattahi2017,Shin2019,Wang2015,Parajuli2016,Zheng2010,Fuh2011,Dalton2015,
+  Ru2014,Xue2014,Wang2017,Xu2014,Liu2013,Pan2014,Canton2014,Chakraborty2009,Gupta2007,
+  He2018,Zhou2011,Chen2013,Williams2018,Choi2017,Pan2019,Lei2015,Lim2019,Park2020,
+  Fuh2012,Flores2017,Chang2010,Xu2019,Zhang2019,Shin2018,Fuh2015,Nagle2019,Zheng2012,
+  Kameoka2003a,Liu2014,E.King2019,Hochleitner2017,Madou2011,Jiang2018,Husain2016,
+  ElectrospinTech2015,Brown2011,Kolan2018,Chang2011,Beachley2011,Camillo2013,Kameoka2003,
+  Bu2012,Lee2012,Huang2015,Coppola2020,CisquellaSerra2019,Ruggieri2013,Hochleitner2014,
+  Zhu2016,Brown2014,Chang2008,Sonntag2020,Kim2018,Deng2020,Han2019,George2020,Sun2006a,
+  Pan2015,Shen2016,Strauss2019,Fuh2013,Sarkar2007,You2017,Wang2018a,Zheng2014,Song2015,
+  GaofengZheng2010,Liu2015a,Min2013,Luo2016,Yousefi2019,Cardenas2017,Coppola2014}}
+\label{fig:plt_Lm_vs_Dfiberm}
+\end{figure}
+
+\begin{figure}[!th]
+\centering
+\includegraphics[width=\textwidth]{./Figures/plt_Phi0V_vs_Dfiberm.png}
+\decoRule
+\caption[Image Analysis Algorithm to Measure Fiber Diameters from SEM images]{Image Analysis Algorithm to Measure Fiber Diameters from SEM images. Ilustration uses Yousefi et al.'s work as an example. \cite{
+  Yang2019,Fattahi2017,Shin2019,Wang2015,Parajuli2016,Zheng2010,Fuh2011,Dalton2015,
+  Ru2014,Xue2014,Wang2017,Xu2014,Liu2013,Pan2014,Canton2014,Chakraborty2009,Gupta2007,
+  He2018,Zhou2011,Chen2013,Williams2018,Choi2017,Pan2019,Lei2015,Lim2019,Park2020,
+  Fuh2012,Flores2017,Chang2010,Xu2019,Zhang2019,Shin2018,Fuh2015,Nagle2019,Zheng2012,
+  Kameoka2003a,Liu2014,E.King2019,Hochleitner2017,Madou2011,Jiang2018,Husain2016,
+  ElectrospinTech2015,Brown2011,Kolan2018,Chang2011,Beachley2011,Camillo2013,Kameoka2003,
+  Bu2012,Lee2012,Huang2015,Coppola2020,CisquellaSerra2019,Ruggieri2013,Hochleitner2014,
+  Zhu2016,Brown2014,Chang2008,Sonntag2020,Kim2018,Deng2020,Han2019,George2020,Sun2006a,
+  Pan2015,Shen2016,Strauss2019,Fuh2013,Sarkar2007,You2017,Wang2018a,Zheng2014,Song2015,
+  GaofengZheng2010,Liu2015a,Min2013,Luo2016,Yousefi2019,Cardenas2017,Coppola2014}}
+\label{fig:plt_Phi0V_vs_Dfiberm}
+\end{figure}
+
+\begin{figure}[!th]
+\centering
+\includegraphics[width=\textwidth]{./Figures/plt_Qm3s_vs_Dfiberm.png}
+\decoRule
+\caption[Image Analysis Algorithm to Measure Fiber Diameters from SEM images]{Image Analysis Algorithm to Measure Fiber Diameters from SEM images. Ilustration uses Yousefi et al.'s work as an example. \cite{
+  Yang2019,Fattahi2017,Shin2019,Wang2015,Parajuli2016,Zheng2010,Fuh2011,Dalton2015,
+  Ru2014,Xue2014,Wang2017,Xu2014,Liu2013,Pan2014,Canton2014,Chakraborty2009,Gupta2007,
+  He2018,Zhou2011,Chen2013,Williams2018,Choi2017,Pan2019,Lei2015,Lim2019,Park2020,
+  Fuh2012,Flores2017,Chang2010,Xu2019,Zhang2019,Shin2018,Fuh2015,Nagle2019,Zheng2012,
+  Kameoka2003a,Liu2014,E.King2019,Hochleitner2017,Madou2011,Jiang2018,Husain2016,
+  ElectrospinTech2015,Brown2011,Kolan2018,Chang2011,Beachley2011,Camillo2013,Kameoka2003,
+  Bu2012,Lee2012,Huang2015,Coppola2020,CisquellaSerra2019,Ruggieri2013,Hochleitner2014,
+  Zhu2016,Brown2014,Chang2008,Sonntag2020,Kim2018,Deng2020,Han2019,George2020,Sun2006a,
+  Pan2015,Shen2016,Strauss2019,Fuh2013,Sarkar2007,You2017,Wang2018a,Zheng2014,Song2015,
+  GaofengZheng2010,Liu2015a,Min2013,Luo2016,Yousefi2019,Cardenas2017,Coppola2014}}
+\label{fig:plt_Qm3s_vs_Dfiberm}
+\end{figure}
+
+\begin{figure}[!th]
+\centering
+\includegraphics[width=\textwidth]{./Figures/plt_vstagems_vs_Dfiberm.png}
+\decoRule
+\caption[Image Analysis Algorithm to Measure Fiber Diameters from SEM images]{Image Analysis Algorithm to Measure Fiber Diameters from SEM images. Ilustration uses Yousefi et al.'s work as an example. \cite{
+  Yang2019,Fattahi2017,Shin2019,Wang2015,Parajuli2016,Zheng2010,Fuh2011,Dalton2015,
+  Ru2014,Xue2014,Wang2017,Xu2014,Liu2013,Pan2014,Canton2014,Chakraborty2009,Gupta2007,
+  He2018,Zhou2011,Chen2013,Williams2018,Choi2017,Pan2019,Lei2015,Lim2019,Park2020,
+  Fuh2012,Flores2017,Chang2010,Xu2019,Zhang2019,Shin2018,Fuh2015,Nagle2019,Zheng2012,
+  Kameoka2003a,Liu2014,E.King2019,Hochleitner2017,Madou2011,Jiang2018,Husain2016,
+  ElectrospinTech2015,Brown2011,Kolan2018,Chang2011,Beachley2011,Camillo2013,Kameoka2003,
+  Bu2012,Lee2012,Huang2015,Coppola2020,CisquellaSerra2019,Ruggieri2013,Hochleitner2014,
+  Zhu2016,Brown2014,Chang2008,Sonntag2020,Kim2018,Deng2020,Han2019,George2020,Sun2006a,
+  Pan2015,Shen2016,Strauss2019,Fuh2013,Sarkar2007,You2017,Wang2018a,Zheng2014,Song2015,
+  GaofengZheng2010,Liu2015a,Min2013,Luo2016,Yousefi2019,Cardenas2017,Coppola2014}}
+\label{fig:plt_vstagems_vs_Dfiberm}
+\end{figure}
 
 
-\bgroup
-%\fixFloatSize{./images/6e169654-19e4-40ab-bb05-8ffb11b5ce11-uplt_cormat.png}
-\begin{figure*}[!htbp]
-\centering \makeatletter\IfFileExists{./images/6e169654-19e4-40ab-bb05-8ffb11b5ce11-uplt_cormat.png}{\includegraphics[scale=0.65]{./images/6e169654-19e4-40ab-bb05-8ffb11b5ce11-uplt_cormat.png}}{}
-\makeatother 
-\caption{{}}
-\label{f-30543905e028}
-\end{figure*}
-\egroup
-
-\bgroup
-%\fixFloatSize{./images/dac8d1ee-e40f-49ab-a2ca-e0d7db210474-uplt_nfesappliedvoltage_vs_fiberdiameter.png}
-\begin{figure*}[!htbp]
-\centering \makeatletter\IfFileExists{./images/dac8d1ee-e40f-49ab-a2ca-e0d7db210474-uplt_nfesappliedvoltage_vs_fiberdiameter.png}{\includegraphics{./images/dac8d1ee-e40f-49ab-a2ca-e0d7db210474-uplt_nfesappliedvoltage_vs_fiberdiameter.png}}{}
-\makeatother 
-\caption{{NFES Applied Voltage vs. Fiber Diameter}}
-\label{f-59ed68f95344}
-\end{figure*}
-\egroup
-
-\bgroup
-%\fixFloatSize{./images/a8f86e3c-c4e3-45be-b9e8-7b60145137cb-uplt_nozzlediameter_vs_fiberdiameter.png}
-\begin{figure*}[!htbp]
-\centering \makeatletter\IfFileExists{./images/a8f86e3c-c4e3-45be-b9e8-7b60145137cb-uplt_nozzlediameter_vs_fiberdiameter.png}{\includegraphics{./images/a8f86e3c-c4e3-45be-b9e8-7b60145137cb-uplt_nozzlediameter_vs_fiberdiameter.png}}{}
-\makeatother 
-\caption{{Nozzle Diameter vs. Fiber Diameter}}
-\label{f-51afaccaf109}
-\end{figure*}
-\egroup
-
-\bgroup
-%\fixFloatSize{./images/6eaa2ba7-07ab-4cfb-980d-5f78b4fcf1a5-uplt_nozzletocollectordistance_vs_fiberdiameter.png}
-\begin{figure*}[!htbp]
-\centering \makeatletter\IfFileExists{./images/6eaa2ba7-07ab-4cfb-980d-5f78b4fcf1a5-uplt_nozzletocollectordistance_vs_fiberdiameter.png}{\includegraphics{./images/6eaa2ba7-07ab-4cfb-980d-5f78b4fcf1a5-uplt_nozzletocollectordistance_vs_fiberdiameter.png}}{}
-\makeatother 
-\caption{{Nozzle to Collector Distance vs. Fiber Diameter}}
-\label{f-5f453fad619f}
-\end{figure*}
-\egroup
-
-\bgroup
-%\fixFloatSize{./images/b8cbc9c7-97d8-409f-a979-447aebd4aa67-uplt_polymerconcentration_vs_fiberdiameter.png}
-\begin{figure*}[!htbp]
-\centering \makeatletter\IfFileExists{./images/b8cbc9c7-97d8-409f-a979-447aebd4aa67-uplt_polymerconcentration_vs_fiberdiameter.png}{\includegraphics{./images/b8cbc9c7-97d8-409f-a979-447aebd4aa67-uplt_polymerconcentration_vs_fiberdiameter.png}}{}
-\makeatother 
-\caption{{Polymer Concentration vs. Fiber Diameter}}
-\label{f-d977f56a0782}
-\end{figure*}
-\egroup
-
-\bgroup
-%\fixFloatSize{./images/085b1fe7-0896-4800-b231-bf68cf86983b-uplt_solutiondepositionrate_vs_fiberdiameter.png}
-\begin{figure*}[!htbp]
-\centering \makeatletter\IfFileExists{./images/085b1fe7-0896-4800-b231-bf68cf86983b-uplt_solutiondepositionrate_vs_fiberdiameter.png}{\includegraphics{./images/085b1fe7-0896-4800-b231-bf68cf86983b-uplt_solutiondepositionrate_vs_fiberdiameter.png}}{}
-\makeatother 
-\caption{{Solution Deposition Rate vs. Fiber Diameter}}
-\label{f-08e527ddef81}
-\end{figure*}
-\egroup
 Electrohydrodynamic (EHD) jet printing is a direct-writing technique which ejects ink through a fine nozzle using an electric field, which has the advantages of high-resolution, rapid printing speed and a wide range of ink selectivity. The effect of parameters such as ink concentration, working distance, applied voltage, and stage speed on the diameter of the printed nano fibers was investigated.
 
 Near-field electrospinning (NFES) is widely recognized as a versatile nano fabrication method, one suitable for applications in tissue engineering. Rapid developments in this field have given rise to layered nano fibrous scaffolds. However, this electrostatic fabrication process is limited by the electric field inhibitory effects of polymer deposition. This leads to a major challenge: how to surpass this limitation on planar/layered constructs. While the current focus in this area largely lies with the investigation of new materials, techniques and increasing precision of NFES systems and patterning, exploration of complex collector substrates is often restricted by (i) available technology and (ii) access to complex electrode manufacturing tools.
 
 Although electrospinning (ES) allows the production of unsurpassed nano scale polymer fibers, the major drawbacks are the nozzle-clogging and single-jet spinneret, respectively. This is a real limitation in terms of usable polymers and for patterning active organics. Nowadays the micro-engineering of smart materials could represent a new route for many fields of technology ranging from the production of electronic and photonic devices [1\ensuremath{-}3] to regenerative medicine and tissue engineering. [4\ensuremath{-}7] An enormous technological interest is related to the possibility of patterning fibers directly in well-ordered patterns avoiding the deposition of nonwoven sub micrometer mats often occurring in ES. [8,9] In the past decade several attempts have been made using field- induced [10\ensuremath{-}13] and near-field ES, [14,15] but only very recently, with the introduction of mechano ES, [16] has the production of well- ordered fiber patterns been achieved. Nevertheless, some drawbacks related to the complexity of the setup, the operating temperature, and the selection of usable materials for problems related to nozzle clogging still persist. Moreover, high temperature can cause deterioration of the optical and electronic properties of active organic materials eventually embedded in the functionalize [d fibers. On the other side, interfering effects due to closeness of multiple electrified nozzles ban working with multiple spinnerets.
+
+\section{Diameter Prediction of Electrospun Fibers} % adimensional analysis
+
+\begin{figure}[!th]
+\centering
+\includegraphics[width=\textwidth]{./Figures/plt_Pi1_vs_Oh.png}
+\decoRule
+\caption[Image Analysis Algorithm to Measure Fiber Diameters from SEM images]{Image Analysis Algorithm to Measure Fiber Diameters from SEM images. Ilustration uses Yousefi et al.'s work as an example. \cite{Helgeson2007,
+  Yang2019,Fattahi2017,Shin2019,Wang2015,Parajuli2016,Zheng2010,Fuh2011,Dalton2015,
+  Ru2014,Xue2014,Wang2017,Xu2014,Liu2013,Pan2014,Canton2014,Chakraborty2009,Gupta2007,
+  He2018,Zhou2011,Chen2013,Williams2018,Choi2017,Pan2019,Lei2015,Lim2019,Park2020,
+  Fuh2012,Flores2017,Chang2010,Xu2019,Zhang2019,Shin2018,Fuh2015,Nagle2019,Zheng2012,
+  Kameoka2003a,Liu2014,E.King2019,Hochleitner2017,Madou2011,Jiang2018,Husain2016,
+  ElectrospinTech2015,Brown2011,Kolan2018,Chang2011,Beachley2011,Camillo2013,Kameoka2003,
+  Bu2012,Lee2012,Huang2015,Coppola2020,CisquellaSerra2019,Ruggieri2013,Hochleitner2014,
+  Zhu2016,Brown2014,Chang2008,Sonntag2020,Kim2018,Deng2020,Han2019,George2020,Sun2006a,
+  Pan2015,Shen2016,Strauss2019,Fuh2013,Sarkar2007,You2017,Wang2018a,Zheng2014,Song2015,
+  GaofengZheng2010,Liu2015a,Min2013,Luo2016,Yousefi2019,Cardenas2017,Coppola2014}}
+\label{fig:plt_Pi1_vs_Oh}
+\end{figure}
