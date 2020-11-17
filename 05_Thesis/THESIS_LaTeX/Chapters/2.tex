@@ -346,7 +346,7 @@ Near-field electrospinning process parameters and achieved fiber morphology data
 
 \subsection{Image Analysis - Data extraction from plots}
 
-Most numerical data of NFES process parameters and fiber diameters is available only in the form of plots. The reported figures provide a visual relationship between the variables of interest, however recovering the numerical values of the data is a tedious process prone to errors. To avoid mistakes and accelerate the collection data from plots, \href{https://github.com/ankitrohatgi/WebPlotDigitizer}{WebPlotDigitizer} was used. WebPlotDigitizer is a HTML5 tool that facilitates accurate data extraction with ease of use. Figure \ref{fig:} is a screenshot of the software in use.
+Most numerical data of NFES process parameters and fiber diameters is available only in the form of plots. The reported figures provide a visual relationship between the variables of interest, however recovering the numerical values of the data is a tedious process prone to errors. To avoid mistakes and accelerate the collection data from plots, \href{https://github.com/ankitrohatgi/WebPlotDigitizer}{WebPlotDigitizer} was used. WebPlotDigitizer is a HTML5 tool that facilitates accurate data extraction with ease of use. Figure \ref{fig:screenshotWebPlotDigitizer} is a screenshot of the software in use.
 
 \begin{figure}[th]
 \centering
@@ -409,7 +409,7 @@ Figures \ref{fig:plt_Cpolymerwt_vs_Dfiberm}, \ref{fig:plt_Dnozzlem_vs_Dfiberm}, 
 \centering
 \includegraphics[width=\textwidth]{./Figures/plt_Cpolymerwt_vs_Dfiberm.png}
 \decoRule
-\caption[Scatter Plot of Polymer Concentrations and Fiber Diameters from Literature Results]{Scatter Plot of Polymer Concentrations and Fiber Diameters from Literature Results. \cite{
+\caption[Scatter Plot of Polymer Concentrations and Fiber Diameters from Literature Experimental Results]{Scatter Plot of Polymer Concentrations and Fiber Diameters from Literature Experimental Results. \cite{
   Yang2019,Fattahi2017,Shin2019,Wang2015,Parajuli2016,Zheng2010,Fuh2011,Dalton2015,
   Ru2014,Xue2014,Wang2017,Xu2014,Liu2013,Pan2014,Canton2014,Chakraborty2009,Gupta2007,
   He2018,Zhou2011,Chen2013,Williams2018,Choi2017,Pan2019,Lei2015,Lim2019,Park2020,
@@ -423,13 +423,13 @@ Figures \ref{fig:plt_Cpolymerwt_vs_Dfiberm}, \ref{fig:plt_Dnozzlem_vs_Dfiberm}, 
 \label{fig:plt_Cpolymerwt_vs_Dfiberm}
 \end{figure}
 
-The trend of Figure \ref{fig:plt_Dnozzlem_vs_Dfiberm} shows that thicker nozzle diameters yield thicker fibers. However, the final fiber diameter can be reduced without changing the nozzle diameter. For instance Chang et al. \cite{Chang2008} achieved the thinnest fibers of about $50 nm$ in diameter even though Chang implemented nozzle needles of similar diameter as Shin, Min and Xu. \cite{Shin2019, Min2013, Xu2014}
+The trend of Figure \ref{fig:plt_Dnozzlem_vs_Dfiberm} shows that thicker nozzle diameters yield thicker fibers. However, the final fiber diameter can be reduced without changing the nozzle diameter. For instance Chang et al. \cite{Chang2008} achieved the thinnest fibers of about $50 nm$ in diameter even though Chang implemented nozzle needles of similar diameter as Shin, Min and Xu by the implementation different settings on the other process parameters. \cite{Shin2019, Min2013, Xu2014} It is reasonable to notice that Chang's record of achieving the thinnest fiber may be a one time-successful since, neither the yield rate nor the reproducibility of their technique was not reported.
 
 \begin{figure}[!th]
 \centering
 \includegraphics[width=\textwidth]{./Figures/plt_Dnozzlem_vs_Dfiberm.png}
 \decoRule
-\caption[Scatter Plot of Nozzle Inner Diameters and Fiber Diameters from Literature Results]{Scatter Plot of Nozzle Inner Diameters and Fiber Diameters from Literature Results. \cite{
+\caption[Scatter Plot of Nozzle Inner Diameters and Fiber Diameters from Literature Experimental Results]{Scatter Plot of Nozzle Inner Diameters and Fiber Diameters from Literature Experimental Results. \cite{
   Yang2019,Fattahi2017,Shin2019,Wang2015,Parajuli2016,Zheng2010,Fuh2011,Dalton2015,
   Ru2014,Xue2014,Wang2017,Xu2014,Liu2013,Pan2014,Canton2014,Chakraborty2009,Gupta2007,
   He2018,Zhou2011,Chen2013,Williams2018,Choi2017,Pan2019,Lei2015,Lim2019,Park2020,
@@ -443,11 +443,15 @@ The trend of Figure \ref{fig:plt_Dnozzlem_vs_Dfiberm} shows that thicker nozzle 
 \label{fig:plt_Dnozzlem_vs_Dfiberm}
 \end{figure}
 
+The relationship between the fiber diameter the working distance $L$ and applied voltage $\Phi_0$ can be depicted in Figures \ref{fig:plt_Lm_vs_Dfiberm} and \ref{fig:plt_Phi0V_vs_Dfiberm}. The near-field electrospinning jet is ejected from the Taylor cone when the applied voltage generates an electric field strong enough to break the solution drop. Changing the applied voltage will amend initial drop and fiber morphology, thereby resulting in a change in the fibers' properties. However, the effect of the applied voltage on the fiber diameter is not well defined. On one hand, many researchers posit that high applied voltages lead to larger fiber diameters, whereas other researchers have reported reductions in fiber diameter with high applied voltages as the electric field force increases on the charged jet. \cite{Zhang2005} Furthermore, Reneker and Chun observed that applied voltage does not significantly affect the diameter of electrospun polyethylene oxide (PEO) fibers. \cite{Reneker1996} Applied voltage has an influence on the fiber diameter, but the degree and direction of influence varies with other process parameters such as polymeric solution concentration and on the working distance \cite{Yordem2008, Chang2016}.
+
+Looking at Figures \ref{fig:plt_Lm_vs_Dfiberm} and \ref{fig:plt_Phi0V_vs_Dfiberm}, the data points from Husain, Lee and Sonntag \ref{Husain2016, Lee2012, Sonntag2020} experimental results are outside the principal cluster since they implemented working distances around $10^{-1} \textrm{m}$, which is concidered to be the threshold between NFES and far-field electrospinning (FFES). One can observe that: a) in NFES fiber diameter increase with increasing applied voltage; and b) in FFES fiber diameter decrease with increasing applied voltage. On the other hand, data related to Liu's and Beachey's work \ref{Liu2014, Beachey2011} do not fit the main trend as they perform the electrospinning process with a rotating drum as the collector, instead of the typical xy stage.
+
 \begin{figure}[!th]
 \centering
 \includegraphics[width=\textwidth]{./Figures/plt_Lm_vs_Dfiberm.png}
 \decoRule
-\caption[Scatter Plot of NFES Working Distances and Fiber Diameters from Literature Results]{Scatter Plot of NFES Working Distances and Fiber Diameters from Literature Results. \cite{
+\caption[Scatter Plot of NFES Working Distances and Fiber Diameters from Literature Experimental Results]{Scatter Plot of NFES Working Distances and Fiber Diameters from Literature Experimental Results. \cite{
   Yang2019,Fattahi2017,Shin2019,Wang2015,Parajuli2016,Zheng2010,Fuh2011,Dalton2015,
   Ru2014,Xue2014,Wang2017,Xu2014,Liu2013,Pan2014,Canton2014,Chakraborty2009,Gupta2007,
   He2018,Zhou2011,Chen2013,Williams2018,Choi2017,Pan2019,Lei2015,Lim2019,Park2020,
@@ -465,7 +469,7 @@ The trend of Figure \ref{fig:plt_Dnozzlem_vs_Dfiberm} shows that thicker nozzle 
 \centering
 \includegraphics[width=\textwidth]{./Figures/plt_Phi0V_vs_Dfiberm.png}
 \decoRule
-\caption[Scatter Plot of NFES Applied Voltages and Fiber Diameters from Literature Results]{Scatter Plot of NFES Applied Voltages and Fiber Diameters from Literature Results. \cite{
+\caption[Scatter Plot of NFES Applied Voltages and Fiber Diameters from Literature Experimental Results]{Scatter Plot of NFES Applied Voltages and Fiber Diameters from Literature Experimental Results. \cite{
   Yang2019,Fattahi2017,Shin2019,Wang2015,Parajuli2016,Zheng2010,Fuh2011,Dalton2015,
   Ru2014,Xue2014,Wang2017,Xu2014,Liu2013,Pan2014,Canton2014,Chakraborty2009,Gupta2007,
   He2018,Zhou2011,Chen2013,Williams2018,Choi2017,Pan2019,Lei2015,Lim2019,Park2020,
@@ -479,11 +483,13 @@ The trend of Figure \ref{fig:plt_Dnozzlem_vs_Dfiberm} shows that thicker nozzle 
 \label{fig:plt_Phi0V_vs_Dfiberm}
 \end{figure}
 
+
+
 \begin{figure}[!th]
 \centering
 \includegraphics[width=\textwidth]{./Figures/plt_Qm3s_vs_Dfiberm.png}
 \decoRule
-\caption[Scatter Plot of Polymer Solution Flow Rates and Fiber Diameters from Literature Results]{Scatter Plot of Polymer Solution Flow Rates and Fiber Diameters from Literature Results. \cite{
+\caption[Scatter Plot of Polymer Solution Flow Rates and Fiber Diameters from Literature Experimental Results]{Scatter Plot of Polymer Solution Flow Rates and Fiber Diameters from Literature Experimental Results. \cite{
   Yang2019,Fattahi2017,Shin2019,Wang2015,Parajuli2016,Zheng2010,Fuh2011,Dalton2015,
   Ru2014,Xue2014,Wang2017,Xu2014,Liu2013,Pan2014,Canton2014,Chakraborty2009,Gupta2007,
   He2018,Zhou2011,Chen2013,Williams2018,Choi2017,Pan2019,Lei2015,Lim2019,Park2020,
@@ -501,7 +507,7 @@ The trend of Figure \ref{fig:plt_Dnozzlem_vs_Dfiberm} shows that thicker nozzle 
 \centering
 \includegraphics[width=\textwidth]{./Figures/plt_vstagems_vs_Dfiberm.png}
 \decoRule
-\caption[Scatter Plot of Collector xy Stage Velocities and Fiber Diameters from Literature Results]{Scatter Plot of Collector xy Stage Velocities and Fiber Diameters from Literature Results. \cite{
+\caption[Scatter Plot of Collector xy Stage Velocities and Fiber Diameters from Literature Experimental Results]{Scatter Plot of Collector xy Stage Velocities and Fiber Diameters from Literature Experimental Results. \cite{
   Yang2019,Fattahi2017,Shin2019,Wang2015,Parajuli2016,Zheng2010,Fuh2011,Dalton2015,
   Ru2014,Xue2014,Wang2017,Xu2014,Liu2013,Pan2014,Canton2014,Chakraborty2009,Gupta2007,
   He2018,Zhou2011,Chen2013,Williams2018,Choi2017,Pan2019,Lei2015,Lim2019,Park2020,

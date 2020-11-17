@@ -12741,6 +12741,219 @@
       \verb 10.3390/polym9090434
       \endverb
     \endentry
+    \entry{Zhang2005}{article}{}
+      \name{author}{5}{}{%
+        {{hash=2edcb3579acef6fc18e09157f49812ad}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Chunxue},
+           giveni={C\bibinitperiod}}}%
+        {{hash=65a84a35abb662b3cfb28fa6bbbbaea9}{%
+           family={Yuan},
+           familyi={Y\bibinitperiod},
+           given={Xiaoyan},
+           giveni={X\bibinitperiod}}}%
+        {{hash=8e32c03a9c33fa4ae95443a1c43ee07a}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={Lili},
+           giveni={L\bibinitperiod}}}%
+        {{hash=62301ce5ff7d2c0e33a611023246a7c0}{%
+           family={Han},
+           familyi={H\bibinitperiod},
+           given={Yue},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=a775994380fbe62ec93b0ca7965e63d9}{%
+           family={Sheng},
+           familyi={S\bibinitperiod},
+           given={Jing},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{5f0a995b869e309918d1246eabe37e2d}
+      \strng{fullhash}{5f0a995b869e309918d1246eabe37e2d}
+      \strng{bibnamehash}{5f0a995b869e309918d1246eabe37e2d}
+      \strng{authorbibnamehash}{5f0a995b869e309918d1246eabe37e2d}
+      \strng{authornamehash}{5f0a995b869e309918d1246eabe37e2d}
+      \strng{authorfullhash}{5f0a995b869e309918d1246eabe37e2d}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Submicron poly(vinyl alcohol) (PVA) fiber mats were prepared by electrospinning of aqueous PVA solutions in 6-8{\%} concentration. Fiber morphology was observed under a scanning electron microscope and effects of instrument parameters including electric voltage, tip-target distance, flow rate and solution parameters such as concentration on the morphology of electrospun PVA fibers were evaluated. Results showed that, when PVA with higher degree of hydrolysis (DH) of 98{\%} was used, tip-target distance exhibited no significant effect on the fiber morphology, however the morphological structure can be slightly changed by changing the solution flow rate. At high voltages above 10 kV, electrospun PVA fibers exhibited a broad diameter distribution. With increasing solution concentration, the morphology was changed from beaded fiber to uniform fiber and the average fiber diameter could be increased from 87 ± 14 nm to 246 ± 50 nm. It was also found that additions of sodium chloride and ethanol had significant effects on the fiber diameter and the morphology of electrospun PVA fibers because of the different solution conductivity, surface tension and viscosity. When the DH value of PVA was increased from 80{\%} to 99{\%}, the morphology electrospun PVA fibers was changed from ribbon-like fibers to uniform fibers and then to beaded fibers. The addition of aspirin and bovine serum albumin also resulted in the appearance of beads. {©} 2004 Elsevier Ltd. All rights reserved.}
+      \field{issn}{00143057}
+      \field{journaltitle}{European Polymer Journal}
+      \field{month}{3}
+      \field{number}{3}
+      \field{title}{{Study on morphology of electrospun poly(vinyl alcohol) mats}}
+      \field{volume}{41}
+      \field{year}{2005}
+      \field{pages}{423\bibrangedash 432}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1016/j.eurpolymj.2004.10.027
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/oskat/OneDrive - Instituto Tecnologico y de Estudios Superiores de Monterrey/Documents/MNT{\_}ITESM{\_}Thesis/0{\_}References/SOMOEPVAM.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0014305704003945
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0014305704003945
+      \endverb
+      \keyw{Electrospinning,Fiber,Mat,Morphology,Poly(vinyl alcohol)}
+    \endentry
+    \entry{Reneker1996}{article}{}
+      \name{author}{2}{}{%
+        {{hash=8690f9e011f01659e59d1fbdb030c24d}{%
+           family={Reneker},
+           familyi={R\bibinitperiod},
+           given={Darrell\bibnamedelima H},
+           giveni={D\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=50cf69af68740251e8b63bc157ae9530}{%
+           family={Chun},
+           familyi={C\bibinitperiod},
+           given={Iksoo},
+           giveni={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{a071d7dc177f6a57201841149edc87ee}
+      \strng{fullhash}{a071d7dc177f6a57201841149edc87ee}
+      \strng{bibnamehash}{a071d7dc177f6a57201841149edc87ee}
+      \strng{authorbibnamehash}{a071d7dc177f6a57201841149edc87ee}
+      \strng{authornamehash}{a071d7dc177f6a57201841149edc87ee}
+      \strng{authorfullhash}{a071d7dc177f6a57201841149edc87ee}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Electrospinning uses electrical forces to produce polymer fibres with nanometre-scale diameters. Electrospinning occurs when the electrical forces at the surface of a polymer solution or melt overcome the surface tension and cause an electrically charged jet to be ejected. When the jet dries or solidifies, an electrically charged fibre remains. This charged fibre can be directed or accelerated by electrical forces and then collected in sheets or other useful geometrical forms. More than 20 polymers, including polyethylene oxide, nylon, polyimide, DNA, polyaramid, and polyaniline, have been electrospun in our laboratory. Most were spun from solution, although spinning from the melt in vacuum and air was also demonstrated. Electrospinning from polymer melts in a vacuum is advantageous because higher fields and higher temperatures can be used than in air.}
+      \field{isbn}{0957-4484}
+      \field{issn}{0957-4484}
+      \field{journaltitle}{Nanotechnology}
+      \field{month}{9}
+      \field{number}{3}
+      \field{title}{{Nanometre diameter fibres of polymer, produced by electrospinning}}
+      \field{volume}{7}
+      \field{year}{1996}
+      \field{pages}{216\bibrangedash 223}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1088/0957-4484/7/3/009
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/oskat/OneDrive - Instituto Tecnologico y de Estudios Superiores de Monterrey/Documents/MNT{\_}ITESM{\_}Thesis/0{\_}References/NDFOPPVE.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://stacks.iop.org/0957-4484/7/i=3/a=009?key=crossref.b62a3c509c723c5a2561f1e345fc1706 https://iopscience.iop.org/article/10.1088/0957-4484/7/3/009
+      \endverb
+      \verb{url}
+      \verb http://stacks.iop.org/0957-4484/7/i=3/a=009?key=crossref.b62a3c509c723c5a2561f1e345fc1706%20https://iopscience.iop.org/article/10.1088/0957-4484/7/3/009
+      \endverb
+    \endentry
+    \entry{Yordem2008}{article}{}
+      \name{author}{3}{}{%
+        {{hash=c8f7f32c89599f08b8ba7c0d9e4a461e}{%
+           family={Y{ö}rdem},
+           familyi={Y\bibinitperiod},
+           given={O.S.},
+           giveni={O\bibinitperiod}}}%
+        {{hash=29701e9e1174b6b6c91b67ea51caedea}{%
+           family={Papila},
+           familyi={P\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=dffe084aaacb0ead2ee781437bc30de2}{%
+           family={Menceloğlu},
+           familyi={M\bibinitperiod},
+           given={Y.Z.},
+           giveni={Y\bibinitperiod}}}%
+      }
+      \strng{namehash}{79a1f988d2df45b30964783b1d1e75a4}
+      \strng{fullhash}{79a1f988d2df45b30964783b1d1e75a4}
+      \strng{bibnamehash}{79a1f988d2df45b30964783b1d1e75a4}
+      \strng{authorbibnamehash}{79a1f988d2df45b30964783b1d1e75a4}
+      \strng{authornamehash}{79a1f988d2df45b30964783b1d1e75a4}
+      \strng{authorfullhash}{79a1f988d2df45b30964783b1d1e75a4}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Effects of material and process parameters on the diameter of electrospun polyacrylonitrile fibers were experimentally investigated. Response surface methodology (RSM) was utilized to design the experiments at the settings of solution concentration, voltage and the collector distance. It also imparted the evaluation of the significance of each parameter on the resultant fiber diameter. The investigations were carried out in the two-variable process domains of several collector distances as applied voltage and the solution concentration were varied at a fixed polymer molecular weight. The mean diameter and coefficient of variation were modeled by polynomial response surfaces as functions of solution concentration and voltage at each collector distance. Effect of applied voltage in micron-scale fiber diameter was observed to be almost negligible when solution concentration and collector distance were high. However, all three factors were found statistically significant in the production of nano-scale fibers. The response surface predictions revealed the parameter interactions for the resultant fiber diameter, and showed that there is a negative correlation between the mean diameter and coefficient of variation for the fiber diameter. A sub-domain of the parameter space consisting of the solution concentration, applied voltage and collector distance, was suggested for the potential nano-scale fiber production. {©} 2007 Elsevier Ltd. All rights reserved.}
+      \field{issn}{02613069}
+      \field{journaltitle}{Materials {\&} Design}
+      \field{month}{1}
+      \field{number}{1}
+      \field{title}{{Effects of electrospinning parameters on polyacrylonitrile nanofiber diameter: An investigation by response surface methodology}}
+      \field{volume}{29}
+      \field{year}{2008}
+      \field{pages}{34\bibrangedash 44}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1016/j.matdes.2006.12.013
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/oskat/OneDrive - Instituto Tecnologico y de Estudios Superiores de Monterrey/Documents/MNT{\_}ITESM{\_}Thesis/0{\_}References/EOEPOPNDAIBRSM.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0261306906003967
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0261306906003967
+      \endverb
+      \keyw{Electrospinning,Nanofiber,Response surface methodology}
+    \endentry
+    \entry{Chang2016}{article}{}
+      \name{author}{3}{}{%
+        {{hash=318ccbb43a1a68f356183725f9343be6}{%
+           family={Chang},
+           familyi={C\bibinitperiod},
+           given={Feng-Cheng},
+           giveni={F\bibinithyphendelim C\bibinitperiod}}}%
+        {{hash=41d6f63644aa4701e81c2f989d7590ea}{%
+           family={Chan},
+           familyi={C\bibinitperiod},
+           given={Kei-Kei},
+           giveni={K\bibinithyphendelim K\bibinitperiod}}}%
+        {{hash=96ab31ba88e081511f4537c9dd7edc97}{%
+           family={Chang},
+           familyi={C\bibinitperiod},
+           given={Chia-Yuan},
+           giveni={C\bibinithyphendelim Y\bibinitperiod}}}%
+      }
+      \strng{namehash}{1f49f16b3a0a5c5ddcf37ae87f5648a8}
+      \strng{fullhash}{1f49f16b3a0a5c5ddcf37ae87f5648a8}
+      \strng{bibnamehash}{1f49f16b3a0a5c5ddcf37ae87f5648a8}
+      \strng{authorbibnamehash}{1f49f16b3a0a5c5ddcf37ae87f5648a8}
+      \strng{authornamehash}{1f49f16b3a0a5c5ddcf37ae87f5648a8}
+      \strng{authorfullhash}{1f49f16b3a0a5c5ddcf37ae87f5648a8}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Lignosulfonate fibers were produced using electrospinning technology, a method of manufacturing fibrous materials using polymeric solutions, by adding traces of polyethylene oxide to lignosulfonate solutions. Continuous and uniform fibers were obtained under appropriate processing conditions. Solution concentration, applied voltage, flow rate, and syringe-to-collector distance all had effects on fiber formation and diameter. Certain interactive effects among these processing parameters were also observed. Solution concentration was the most significant parameter influencing the diameters of the resulting lignosulfonate fibers. Higher solution concentrations resulted in greater fiber diameters. A broader distribution of fibers was observed as the solution concentration increased. Applied voltage, flow rate, and syringe-to-collector distance had moderate effects on the fiber diameters, and needle gauge had a minor impact on the fiber diameters.}
+      \field{issn}{1930-2126}
+      \field{journaltitle}{BioResources}
+      \field{month}{4}
+      \field{number}{2}
+      \field{title}{{The Effect of Processing Parameters on Formation of Lignosulfonate Fibers Produced using Electrospinning Technology}}
+      \field{volume}{11}
+      \field{year}{2016}
+      \field{pages}{4705\bibrangedash 4717}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.15376/biores.11.2.4705-4717
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/oskat/OneDrive - Instituto Tecnologico y de Estudios Superiores de Monterrey/Documents/MNT{\_}ITESM{\_}Thesis/0{\_}References/TEOPPOFOLFPUET.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://ojs.cnr.ncsu.edu/index.php/BioRes/article/view/9253
+      \endverb
+      \verb{url}
+      \verb http://ojs.cnr.ncsu.edu/index.php/BioRes/article/view/9253
+      \endverb
+      \keyw{Electrospinning,Fiber,Lignosulfonates}
+    \endentry
     \entry{Helgeson2007}{article}{}
       \name{author}{2}{}{%
         {{hash=a06dd6118a41222408e720cc5491ee12}{%
