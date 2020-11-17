@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.6960 64-bit) (preloaded format=pdflatex 2019.2.1)  17 NOV 2020 15:31
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.6960 64-bit) (preloaded format=pdflatex 2019.2.1)  17 NOV 2020 17:39
 entering extended mode
 **./main.tex
 (main.tex
@@ -1751,13 +1751,6 @@ Package biblatex Warning: Biber reported the following issues
 (biblatex)                - Range field 'pages' in entry 'Kolan2018' is malform
 ed, falling back to literal.
 
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                Burghelea2020
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
 )
 Package biblatex Info: Reference section=0 on input line 180.
 Package biblatex Info: Reference segment=0 on input line 180.
@@ -2838,22 +2831,20 @@ File: ./Figures/concentrationViscosityPlotExplained.png Graphic file (type png)
 Package pdftex.def Info: ./Figures/concentrationViscosityPlotExplained.png  use
 d on input line 56.
 (pdftex.def)             Requested size: 161.25095pt x 143.97404pt.
-LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <10> not available
-(Font)              Font shape `T1/ppl/b/n' tried instead on input line 58.
 
-Underfull \hbox (badness 2865) in paragraph at lines 64--66
+Underfull \hbox (badness 2865) in paragraph at lines 65--67
 \T1/ppl/m/n/12 all re-ac-tants were used as they ar-rived. SU-8 was ob-tained f
 rom
  []
 
 [49 <./Figures/concentrationViscosityPlotExplained.png>]
-Underfull \hbox (badness 1189) in paragraph at lines 67--68
+Underfull \hbox (badness 1189) in paragraph at lines 68--69
 \T1/ppl/m/n/12 with higher PEO con-cen-tra-tion of-ten needed more time of stir
 -ring to
  []
 
 LaTeX Font Info:    Font shape `T1/ppl/bx/it' in size <14.4> not available
-(Font)              Font shape `T1/ppl/b/it' tried instead on input line 77.
+(Font)              Font shape `T1/ppl/b/it' tried instead on input line 78.
 ) [50]
 \openout2 = `./Chapters/4.aux'.
 
@@ -3666,7 +3657,7 @@ Package pdfpages Warning: Option `page' is unknow to \includepdf.
 (pdfpages)                Did you mean `pages'? (Note the `s'!)
 (pdfpages)                OK, I'll proceed as if it were `pages'.
 
-<./pdf/CV/CV.pdf, id=2286, 614.295pt x 794.97pt>
+<./pdf/CV/CV.pdf, id=2292, 614.295pt x 794.97pt>
 File: ./pdf/CV/CV.pdf Graphic file (type pdf)
 <use ./pdf/CV/CV.pdf>
 Package pdftex.def Info: ./pdf/CV/CV.pdf  used on input line 565.
@@ -3675,7 +3666,7 @@ File: ./pdf/CV/CV.pdf Graphic file (type pdf)
 <use ./pdf/CV/CV.pdf>
 Package pdftex.def Info: ./pdf/CV/CV.pdf  used on input line 565.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-<./pdf/CV/CV.pdf, id=2289, page=1, 614.295pt x 794.97pt>
+<./pdf/CV/CV.pdf, id=2295, page=1, 614.295pt x 794.97pt>
 File: ./pdf/CV/CV.pdf Graphic file (type pdf)
 <use ./pdf/CV/CV.pdf, page 1>
 Package pdftex.def Info: ./pdf/CV/CV.pdf , page1 used on input line 565.
@@ -3717,11 +3708,11 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 48941 strings out of 492946
- 1026554 string characters out of 3126267
- 1812632 words of memory out of 3000000
- 51666 multiletter control sequences out of 15000+200000
- 591409 words of font info for 136 fonts, out of 3000000 for 9000
+ 48940 strings out of 492946
+ 1026623 string characters out of 3126267
+ 1815070 words of memory out of 3000000
+ 51665 multiletter control sequences out of 15000+200000
+ 589960 words of font info for 134 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  64i,20n,83p,2948b,3031s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\oskat\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\
@@ -3738,9 +3729,9 @@ pfb><C:/Users/oskat/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/palatino/
 uplr8a.pfb><C:/Users/oskat/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/pa
 latino/uplr8a.pfb><C:/Users/oskat/AppData/Local/Programs/MiKTeX 2.9/fonts/type1
 /urw/palatino/uplri8a.pfb>
-Output written on main.pdf (96 pages, 6394423 bytes).
+Output written on main.pdf (96 pages, 6395573 bytes).
 PDF statistics:
- 2564 PDF objects out of 2984 (max. 8388607)
- 467 named destinations out of 1000 (max. 500000)
+ 2570 PDF objects out of 2984 (max. 8388607)
+ 468 named destinations out of 1000 (max. 500000)
  636 words of extra memory for PDF output out of 10000 (max. 10000000)
 

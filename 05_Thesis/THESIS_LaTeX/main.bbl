@@ -14571,8 +14571,65 @@
       \endverb
       \keyw{copolymer,elastomer,electron microscopy,electrospinning,nanofiber,phase separation,polymer,sbs,triblock}
     \endentry
+    \entry{Burghelea2020}{book}{}
+      \name{author}{1}{}{%
+        {{hash=62bda2d1c6c835c3fad0ad467436ecde}{%
+           family={Burghelea},
+           familyi={B\bibinitperiod},
+           given={Teodor},
+           giveni={T\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=62bda2d1c6c835c3fad0ad467436ecde}{%
+           family={Burghelea},
+           familyi={B\bibinitperiod},
+           given={Teodor},
+           giveni={T\bibinitperiod}}}%
+        {{hash=10382c289e5cb1ae370cac2e83ca9664}{%
+           family={Bertola},
+           familyi={B\bibinitperiod},
+           given={Volfango},
+           giveni={V\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cham}%
+      }
+      \list{publisher}{1}{%
+        {Springer International Publishing}%
+      }
+      \strng{namehash}{62bda2d1c6c835c3fad0ad467436ecde}
+      \strng{fullhash}{62bda2d1c6c835c3fad0ad467436ecde}
+      \strng{bibnamehash}{62bda2d1c6c835c3fad0ad467436ecde}
+      \strng{authorbibnamehash}{62bda2d1c6c835c3fad0ad467436ecde}
+      \strng{authornamehash}{62bda2d1c6c835c3fad0ad467436ecde}
+      \strng{authorfullhash}{62bda2d1c6c835c3fad0ad467436ecde}
+      \strng{editorbibnamehash}{341a9174e25036bf65aae40ef2746283}
+      \strng{editornamehash}{341a9174e25036bf65aae40ef2746283}
+      \strng{editorfullhash}{341a9174e25036bf65aae40ef2746283}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-3-030-35557-9}
+      \field{series}{CISM International Centre for Mechanical Sciences}
+      \field{title}{{Transport Phenomena in Complex Fluids}}
+      \field{volume}{598}
+      \field{year}{2020}
+      \verb{doi}
+      \verb 10.1007/978-3-030-35558-6
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/oskat/OneDrive - Instituto Tecnologico y de Estudios Superiores de Monterrey/Documents/MNT{\_}ITESM{\_}Thesis/0{\_}References/{\_}TransportPhenomenaInComplexFluids.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://link.springer.com/10.1007/978-3-030-35558-6
+      \endverb
+      \verb{url}
+      \verb http://link.springer.com/10.1007/978-3-030-35558-6
+      \endverb
+      \keyw{is{\_}book}
+    \endentry
   \enddatalist
-  \missing{Burghelea2020}
 \endrefsection
 \endinput
 
