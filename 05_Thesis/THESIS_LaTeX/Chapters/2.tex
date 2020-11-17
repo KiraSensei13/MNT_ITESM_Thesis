@@ -445,7 +445,7 @@ The trend of Figure \ref{fig:plt_Dnozzlem_vs_Dfiberm} shows that thicker nozzle 
 
 The relationship between the fiber diameter the working distance $L$ and applied voltage $\Phi_0$ can be depicted in Figures \ref{fig:plt_Lm_vs_Dfiberm} and \ref{fig:plt_Phi0V_vs_Dfiberm}. The near-field electrospinning jet is ejected from the Taylor cone when the applied voltage generates an electric field strong enough to break the solution drop. Changing the applied voltage will amend initial drop and fiber morphology, thereby resulting in a change in the fibers' properties. However, the effect of the applied voltage on the fiber diameter is not well defined. On one hand, many researchers posit that high applied voltages lead to larger fiber diameters, whereas other researchers have reported reductions in fiber diameter with high applied voltages as the electric field force increases on the charged jet. \cite{Zhang2005} Furthermore, Reneker and Chun observed that applied voltage does not significantly affect the diameter of electrospun polyethylene oxide (PEO) fibers. \cite{Reneker1996} Applied voltage has an influence on the fiber diameter, but the degree and direction of influence varies with other process parameters such as polymeric solution concentration and on the working distance \cite{Yordem2008, Chang2016}.
 
-Looking at Figures \ref{fig:plt_Lm_vs_Dfiberm} and \ref{fig:plt_Phi0V_vs_Dfiberm}, the data points from Husain, Lee and Sonntag \ref{Husain2016, Lee2012, Sonntag2020} experimental results are outside the principal cluster since they implemented working distances around $10^{-1} \textrm{m}$, which is concidered to be the threshold between NFES and far-field electrospinning (FFES). One can observe that: a) in NFES fiber diameter increase with increasing applied voltage; and b) in FFES fiber diameter decrease with increasing applied voltage. On the other hand, data related to Liu's and Beachey's work \ref{Liu2014, Beachey2011} do not fit the main trend as they perform the electrospinning process with a rotating drum as the collector, instead of the typical xy stage.
+Looking at Figures \ref{fig:plt_Lm_vs_Dfiberm} and \ref{fig:plt_Phi0V_vs_Dfiberm}, the data points from Husain, Lee and Sonntag \cite{Husain2016, Lee2012, Sonntag2020} experimental results are outside the principal cluster since they implemented working distances around $10^{-1} \textrm{m}$, which is concidered to be the threshold between NFES and far-field electrospinning (FFES). One can observe that: a) in NFES fiber diameter increase with increasing applied voltage; and b) in FFES fiber diameter decrease with increasing applied voltage. On the other hand, data related to Liu's and Beachey's work \cite{Liu2014, Beachey2011} do not fit the main trend as they perform the electrospinning process with a rotating drum as the collector, instead of the typical xy stage.
 
 \begin{figure}[!th]
 \centering
@@ -522,13 +522,45 @@ Looking at Figures \ref{fig:plt_Lm_vs_Dfiberm} and \ref{fig:plt_Phi0V_vs_Dfiberm
 \end{figure}
 
 
-Electrohydrodynamic (EHD) jet printing is a direct-writing technique which ejects ink through a fine nozzle using an electric field, which has the advantages of high-resolution, rapid printing speed and a wide range of ink selectivity. The effect of parameters such as ink concentration, working distance, applied voltage, and stage speed on the diameter of the printed nano fibers was investigated.
+The effect of parameters such as ink concentration, working distance, applied voltage, and stage speed on the diameter of the printed nano-fibers was investigated, a summary is presented in Table \ref{tab:nfesProcessParameters}.
 
-Near-field electrospinning (NFES) is widely recognized as a versatile nano fabrication method, one suitable for applications in tissue engineering. Rapid developments in this field have given rise to layered nano fibrous scaffolds. However, this electrostatic fabrication process is limited by the electric field inhibitory effects of polymer deposition. This leads to a major challenge: how to surpass this limitation on planar/layered constructs. While the current focus in this area largely lies with the investigation of new materials, techniques and increasing precision of NFES systems and patterning, exploration of complex collector substrates is often restricted by (i) available technology and (ii) access to complex electrode manufacturing tools.
+\begin{table}[ht]
+\centering
+\caption[Near-Field Electrospinning Process Parameters]{Summary of the main parameters that drive the electrospinning process, ordered by: polymer solution parameters, process parameters, and ambient parameters. Adapted from \cite{Bagbi2019, Unnithan2015}}
+\begin{tabularx}{\textwidth}{lX}
+\hline
+\textbf{NFES Process Parameters} & \textbf{Effect} \\
+\hline
+\textbf{Solution Parameters:} &  \\
+Concentration & Concentration shall be high enough to produce uniform nano-fibers, but low enough to give the correct viscosity \\
+Molecular weight & High molecular weight polymers yield smoother fibers \\
+Viscosity & Zero-shear viscosity shall be optimal to generate a constant jet from the needle \\
+Conductivity & Solution shall be conductive enough for the electrif field to have influence on the jet \\
+\textbf{Process Parameters:} &  \\
+Applied voltage & Higher voltages eject more material from the nozzle \\
+Flow rate & Slow flow rates yield thinner fibers, but it shall be fast enough to prevent clogging and keep the Tailor cone in a constant size and shape \\
+Working distance & Long distances result in thinner fibers, however the spatial control is harmed \\
+\textbf{Ambient Parameters:} &  \\
+Humidity & Increasing humidity produces thicker diameters \\
+Temperature & Increasing temperature yields thinner fibers, however high temperatures make the nozzle prone to clog as the solvent evaporates at a faster rate \\
+\hline
+\end{tabularx}
+\label{tab:nfesProcessParameters}
+\end{table}
 
-Although electrospinning (ES) allows the production of unsurpassed nano scale polymer fibers, the major drawbacks are the nozzle-clogging and single-jet spinneret, respectively. This is a real limitation in terms of usable polymers and for patterning active organics. Nowadays the micro-engineering of smart materials could represent a new route for many fields of technology ranging from the production of electronic and photonic devices [1\ensuremath{-}3] to regenerative medicine and tissue engineering. [4\ensuremath{-}7] An enormous technological interest is related to the possibility of patterning fibers directly in well-ordered patterns avoiding the deposition of nonwoven sub micrometer mats often occurring in ES. [8,9] In the past decade several attempts have been made using field- induced [10\ensuremath{-}13] and near-field ES, [14,15] but only very recently, with the introduction of mechano ES, [16] has the production of well- ordered fiber patterns been achieved. Nevertheless, some drawbacks related to the complexity of the setup, the operating temperature, and the selection of usable materials for problems related to nozzle clogging still persist. Moreover, high temperature can cause deterioration of the optical and electronic properties of active organic materials eventually embedded in the functionalize [d fibers. On the other side, interfering effects due to closeness of multiple electrified nozzles ban working with multiple spinnerets.
+Near-field electrospinning (NFES) is known as a versatile nano-fabrication technique, suitable for several applications such as tissue engineering, chemical sensing, filtration, energy storage, besides others (see Figure \ref{fig:synthesesAndApplicationsOfNanofibers}). Fast developments in electrospinning has been observed in recent years. However, this process is limited by the electric field wiping instability effects during polymer deposition. This leads to a major challenge: how to surpass this limitation of planar two-dimensional prints. The current trend in this area lies on the research of new materials, techniques to increase precision patterning in NFES systems.
+
+\begin{figure}[!th]
+\centering
+\includegraphics[width=\textwidth]{./Figures/synthesesAndApplicationsOfNanofibers.png}
+\decoRule
+\caption[Syntheses and Applications of Nanofibers]{Syntheses and Applications of Nanofibers. Adapted from \cite{Kenry2017}}
+\label{fig:synthesesAndApplicationsOfNanofibers}
+\end{figure}
 
 \section{Diameter Prediction of Electrospun Fibers} % adimensional analysis
+
+
 
 \begin{figure}[!th]
 \centering

@@ -12954,6 +12954,157 @@
       \endverb
       \keyw{Electrospinning,Fiber,Lignosulfonates}
     \endentry
+    \entry{Bagbi2019}{incollection}{}
+      \name{author}{3}{}{%
+        {{hash=8a290306b85679130fc20bcc48f34abc}{%
+           family={Bagbi},
+           familyi={B\bibinitperiod},
+           given={Yana},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=e165c5feb565e50634bc70e085da732a}{%
+           family={Pandey},
+           familyi={P\bibinitperiod},
+           given={Arvind},
+           giveni={A\bibinitperiod}}}%
+        {{hash=a6d26533114c750443a5eb037ec8b644}{%
+           family={Solanki},
+           familyi={S\bibinitperiod},
+           given={Pratima\bibnamedelima R.},
+           giveni={P\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{c8e88f9c2d201e797592ad4aa9dc798e}
+      \strng{fullhash}{c8e88f9c2d201e797592ad4aa9dc798e}
+      \strng{bibnamehash}{c8e88f9c2d201e797592ad4aa9dc798e}
+      \strng{authorbibnamehash}{c8e88f9c2d201e797592ad4aa9dc798e}
+      \strng{authornamehash}{c8e88f9c2d201e797592ad4aa9dc798e}
+      \strng{authorfullhash}{c8e88f9c2d201e797592ad4aa9dc798e}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The discharge of untreated domestic sewage and wastewater from industrial and commercial establishments into surface water has caused water scarcity. As a result, 1.2 billion of the population can barely get clean drinking water. Besides, each year millions die drinking unhealthy water. Recently, progress in electrospinning skill has helped in the manufacture of polymer fibers of one-dimensional nanostructures having nanometer diameters that have elicited enormous attention because of high surface area-to-volume ratio, water permeability, high porosity, and superior mechanical properties, which provides a foremost contribution to water treatment. Based on their properties, such as thickness, porosity, and surface roughness, these characteristic nanofibrous materials were used as membrane solvents in an extensive assortment of applications in water purification such as remediation of heavy metal ions and dyes. To increase their functionality and applicability, nanofibers have promoted nanocomposite tactics, for example, carbon nanotubes, metal/metal oxides, keen biological agents, that have been included either throughout electrospinning process or else in the posthanding-out. In addition, to improve the mechanical steadiness and reduce the pressure drop, electrospun nanofibers are supported by nonwoven microfibrous to make a hybrid membrane. These hybrid/nanocomposite nanofibers have performed extremely well in water treatment. This chapter gives a wide-ranging analysis of the extant research and progress in the field of water treatment using electrospun nanofiber filtration membranes to achieve environmental detoxification using the adsorption process.}
+      \field{booktitle}{Nanoscale Materials in Water Purification}
+      \field{isbn}{9780128139271}
+      \field{title}{{Electrospun Nanofibrous Filtration Membranes for Heavy Metals and Dye Removal}}
+      \field{year}{2019}
+      \field{pages}{275\bibrangedash 288}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.1016/B978-0-12-813926-4.00015-X
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/oskat/OneDrive - Instituto Tecnologico y de Estudios Superiores de Monterrey/Documents/MNT{\_}ITESM{\_}Thesis/0{\_}References/ENFMFHMADR.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://dx.doi.org/10.1016/B978-0-12-813926-4.00015-X https://linkinghub.elsevier.com/retrieve/pii/B978012813926400015X
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1016/B978-0-12-813926-4.00015-X%20https://linkinghub.elsevier.com/retrieve/pii/B978012813926400015X
+      \endverb
+      \keyw{Adsorption,Dyes,Electrospun,Filtration membranes,Heavy metals/metalloids,Nanofibers,Toxicity,Water pollution}
+    \endentry
+    \entry{Unnithan2015}{incollection}{}
+      \name{author}{3}{}{%
+        {{hash=a0c83464cdc6efdf838c762b0064acd9}{%
+           family={Unnithan},
+           familyi={U\bibinitperiod},
+           given={Afeesh\bibnamedelima Rajan},
+           giveni={A\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=1813df12eb549c5a8f2368417d858fa3}{%
+           family={Arathyram},
+           familyi={A\bibinitperiod},
+           given={R.S.},
+           giveni={R\bibinitperiod}}}%
+        {{hash=02fe276c9b317da1824944e78781a0df}{%
+           family={Kim},
+           familyi={K\bibinitperiod},
+           given={Cheol\bibnamedelima Sang},
+           giveni={C\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{66c5169a7807f3c8a7a2a7817621feeb}
+      \strng{fullhash}{66c5169a7807f3c8a7a2a7817621feeb}
+      \strng{bibnamehash}{66c5169a7807f3c8a7a2a7817621feeb}
+      \strng{authorbibnamehash}{66c5169a7807f3c8a7a2a7817621feeb}
+      \strng{authornamehash}{66c5169a7807f3c8a7a2a7817621feeb}
+      \strng{authorfullhash}{66c5169a7807f3c8a7a2a7817621feeb}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Interest in electrospinning has recently escalated due to the ability to produce materials with nanoscale properties. Electrospinning has been recognized as an efficient technique for the fabrication of polymer nanofibers. The parameters affecting electrospinning were very important to understand not only the nature of electrospinning but also the conversion of polymer solutions into nanofibers. A wide range of polymers can be fabricated into nanofibers to suit different applications. Nanofiber technology is an exciting area attracting the attention of many researchers as a potential solution to the current challenges in the biomedical field such as burn and wound care, organ repair, and treatment for cancer and various other diseases. In this chapter, we will present a concise introduction to the electrospinning technique and its biomedical applications.}
+      \field{booktitle}{Nanotechnology Applications for Tissue Engineering}
+      \field{isbn}{9780323353038}
+      \field{title}{{Electrospinning of Polymers for Tissue Engineering}}
+      \field{year}{2015}
+      \field{pages}{45\bibrangedash 55}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1016/B978-0-323-32889-0.00003-0
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/oskat/OneDrive - Instituto Tecnologico y de Estudios Superiores de Monterrey/Documents/MNT{\_}ITESM{\_}Thesis/0{\_}References/EOPFTENAFTE.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://dx.doi.org/10.1016/B978-0-323-32889-0.00003-0 https://linkinghub.elsevier.com/retrieve/pii/B9780323328890000030
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1016/B978-0-323-32889-0.00003-0%20https://linkinghub.elsevier.com/retrieve/pii/B9780323328890000030
+      \endverb
+      \keyw{Biomedical,Electrospinning,Nanofiber,Polymer,Tissue engineering,Wound}
+    \endentry
+    \entry{Kenry2017}{article}{}
+      \name{author}{2}{}{%
+        {{hash=cca57554534bad186003c2d4d2c72a38}{%
+           family={Kenry},
+           familyi={K\bibinitperiod}}}%
+        {{hash=155b3b584cddd50c47032c109591a61a}{%
+           family={Lim},
+           familyi={L\bibinitperiod},
+           given={Chwee\bibnamedelima Teck},
+           giveni={C\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier Ltd}%
+      }
+      \strng{namehash}{6cd8b38dc022147a9af50045fdf453ca}
+      \strng{fullhash}{6cd8b38dc022147a9af50045fdf453ca}
+      \strng{bibnamehash}{6cd8b38dc022147a9af50045fdf453ca}
+      \strng{authorbibnamehash}{6cd8b38dc022147a9af50045fdf453ca}
+      \strng{authornamehash}{6cd8b38dc022147a9af50045fdf453ca}
+      \strng{authorfullhash}{6cd8b38dc022147a9af50045fdf453ca}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Nanofibers have emerged as exciting one-dimensional nanomaterials for a broad spectrum of research and commercial applications owing to their unique physicochemical properties and characteristics. As a class of nanomaterials with cross-sectional diameters ranging from tens to hundreds of nanometers, nanofibers possess extremely high specific surface area and surface area-to-volume ratio. They are capable of forming networks of highly porous mesh with remarkable interconnectivity between their pores, making them an attractive choice for a host of advanced applications. In fact, the significant impact of nanofiber technology can be traced from the wide range of fundamental materials that can be used for the synthesis of nanofibers. These include natural polymers, synthetic polymers, carbon-based materials, semiconducting materials, and composite materials. Correspondingly, the emerging proof-of-concept applications of nanofibers spanning several important areas have been rapidly reported. This Review explores the current status and up-and-coming development of nanofiber technology, with an emphasis on its syntheses and applications. First, we highlight the current and emerging strategies used in synthesizing nanofibers. We briefly introduce the various established nanofiber synthesis techniques, especially the electrospinning method. We then focus on the emerging nanofiber synthesis strategies, such as solution blow spinning, centrifugal jet spinning, and electrohydrodynamic direct writing. Next, we discuss the emerging applications of nanofiber technology in various fields, specifically in three important areas of energy generation and storage, water treatment and environmental remediation, and healthcare and biomedical engineering. Despite all these advancements, there are still challenges to be addressed and overcome for nanofiber technology to move towards maturation. Nevertheless, we envision that with further progress in the development of nanofiber synthesis strategies and identification of “killer” applications of nanofibers, nanofiber technology will mature and move beyond its current state towards commercial realization and applications.}
+      \field{issn}{00796700}
+      \field{journaltitle}{Progress in Polymer Science}
+      \field{month}{7}
+      \field{title}{{Nanofiber technology: current status and emerging developments}}
+      \field{volume}{70}
+      \field{year}{2017}
+      \field{pages}{1\bibrangedash 17}
+      \range{pages}{17}
+      \verb{doi}
+      \verb 10.1016/j.progpolymsci.2017.03.002
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/oskat/OneDrive - Instituto Tecnologico y de Estudios Superiores de Monterrey/Documents/MNT{\_}ITESM{\_}Thesis/0{\_}References/NTCSAED.pdf:pdf;:C$\backslash$:/Users/oskat/OneDrive - Instituto Tecnologico y de Estudios Superiores de Monterrey/Documents/MNT{\_}ITESM{\_}courses/0.References/NTCSAED.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://dx.doi.org/10.1016/j.progpolymsci.2017.03.002 https://linkinghub.elsevier.com/retrieve/pii/S0079670017300692
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1016/j.progpolymsci.2017.03.002%20https://linkinghub.elsevier.com/retrieve/pii/S0079670017300692
+      \endverb
+      \keyw{Commercialization,Emerging applications,Emerging fabrication strategies,Fiber technology,NFES{\_}review,SU8,conductivity,star}
+    \endentry
     \entry{Helgeson2007}{article}{}
       \name{author}{2}{}{%
         {{hash=a06dd6118a41222408e720cc5491ee12}{%
@@ -13006,6 +13157,7 @@
       \keyw{adimensional{\_}NFES,image analysis,porous materials,star,tomography,tortuosity,transport}
     \endentry
   \enddatalist
+  \missing{Beachey2011}
 \endrefsection
 \endinput
 
