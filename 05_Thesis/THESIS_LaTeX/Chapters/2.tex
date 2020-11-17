@@ -324,6 +324,16 @@ Liu et al.\unskip~\cite{527120:11974315} discovered that the fiber alignment is 
 
 On the other hand, Choi et al.\unskip~\cite{527120:12322289} implemented a hydrophilic substrate to deposit the fibers with plasma treatment to increase the conductivity of selected areas. NFES was carried put with precise deposition as the fibers were placed as per the desired design within the hydrophilic substrate.
 
+\begin{figure}[!th]
+\centering
+\includegraphics[scale=0.45]{./Figures/DifferentElectrospinningMethods.png}
+\decoRule
+\caption[Different Electrospinning Methods in Terms of Spatial Control, Fiber Throughput and Resolution]{Different Electrospinning Methods in Terms of Spatial Control, Fiber Throughput and Resolution. Adapted from \cite{Tourlomousis2017}}
+\label{fig:DifferentElectrospinningMethods}
+\end{figure}
+
+As depicted in Figure \ref{fig:DifferentElectrospinningMethods}, solution electrospinning yields fiber with higher resolution than melt electrospinning techniques, and near-field electrospinning offers greater spacial control on the deposition of fibers than the far-field technique. Moreover, solution electrospinning often involves the use of toxic solvents, whereas melt electrospinning is a solvent free process but with extra complexity as a heater needs to be installed. \cite{Tourlomousis2017}
+
 \section{Data collection of NFES fiber morphology and process parameters}
 
 Near-field electrospinning process parameters and achieved fiber morphology data was collected into a single database with the purpose to analyze the data and find correlations between the process parameters and the obtained fiber morphology after a NFES process. The alalysis comprises from the first reported NFES apparatus built in 2003 by J. Kameoka et al. \cite{Kameoka2003a} to recent studies conducted in 2020. \cite{
@@ -341,14 +351,14 @@ Near-field electrospinning process parameters and achieved fiber morphology data
 \begin{enumerate}
 \item Case 1 : data is collected as is from literature. This procedure was implemented when the data is listed within tables and/or as text format.
 \item Case 2 : data is only presented in a figure as plots.
-\item Case 3 : data is not available in text format or plots, however Scanning Electron Microscopy Images (SEM) images are reported from the obtained fibers.
+\item Case 3 : data is not available in text format or plots, however Scanning Electron Microscopy (SEM) images are reported from the obtained fibers.
 \end{enumerate}
 
 \subsection{Image Analysis - Data extraction from plots}
 
 Most numerical data of NFES process parameters and fiber diameters is available only in the form of plots. The reported figures provide a visual relationship between the variables of interest, however recovering the numerical values of the data is a tedious process prone to errors. To avoid mistakes and accelerate the collection data from plots, \href{https://github.com/ankitrohatgi/WebPlotDigitizer}{WebPlotDigitizer} was used. WebPlotDigitizer is a HTML5 tool that facilitates accurate data extraction with ease of use. Figure \ref{fig:screenshotWebPlotDigitizer} is a screenshot of the software in use.
 
-\begin{figure}[th]
+\begin{figure}[!th]
 \centering
 \includegraphics[scale=0.45]{./Figures/screenshotWebPlotDigitizer.png}
 \decoRule
@@ -370,7 +380,7 @@ Scanning Electron Microscopy Images (SEM) images contain information in a two-di
 
 The adopted image analysis was implemented with the \emph{Python} package \emph{OpenCV}. First a segmentation procedure is executed over an input image to delimit the objects to be measured (fiber sections and scale bar). The segmentation step is the only step needed to be done manually in a image processing software, in this case \emph{Inkscape} was used. Next, the segmented image is passed to the \emph{Pyhton} script, which will convert its input image into a binary image. A binary image is a black and white image (with no gray scale) that ease the detection of the object edges as the color intensity change between the objects and the background is well defined. Once the binary image is computed, the \emph{Canny} edge detection algorithm is executed. Once the edges are well defined, a the image is dilated to make the edges more visible. The final step before measurement, the \emph{OpenCV} \emph{findContours} function is called to store the objects in memory. The first object to be measured is the scale bar as this is needed as a reference to convert the pixel counts to a metric unit. Finally, the objects are located within the image with four edge points, and the reference object is used to compute the metric length as the ratio of counted pixels between two edge points and the scale bar dimension in meters.
 
-Measurements were validaded with Camillo's, Gupta's, Jiang's, Min's, Sun's, Wang's, and Xue's \cite{Camillo2013, Gupta2007, Jiang2018, Min2013, Sun2006a, Wang2015, Xue2014} results as those authors reported both, a SEM image and the measured fiber diameter. For instance, Figure \ref{fig:imageAnalysisToolValidation} shows in white the reported diameters by Min and in blue the diameters measured by the \emph{Python script}. The measurement error of the developed script is about $3.2\%$ in avg. It is considerable to mention that the reported measurement error is mainly contributed to the fact that most fibers are not of the same diameter along the fiber length. In most cases, measurements at the end of the fibers are thicker than the ones measured u¿in the center.
+Measurements were validaded with Camillo's, Gupta's, Jiang's, Min's, Sun's, Wang's, and Xue's \cite{Camillo2013, Gupta2007, Jiang2018, Min2013, Sun2006a, Wang2015, Xue2014} results as those authors reported both, a SEM image and the measured fiber diameter. For instance, Figure \ref{fig:imageAnalysisToolValidation} shows in white the reported diameters by Min and in blue the diameters measured by the \emph{Python script}. The measurement error of the developed script is about $3.2\%$ in average. It is considerable to mention that the reported measurement error is mainly contributed to the fact that most fibers are not of the same diameter along the fiber length. In most cases, measurements at the end of the fibers are thicker than the ones measured u¿in the center.
 
 \begin{figure}[!th]
 \centering
@@ -445,7 +455,7 @@ The trend of Figure \ref{fig:plt_Dnozzlem_vs_Dfiberm} shows that thicker nozzle 
 
 The relationship between the fiber diameter the working distance $L$ and applied voltage $\Phi_0$ can be depicted in Figures \ref{fig:plt_Lm_vs_Dfiberm} and \ref{fig:plt_Phi0V_vs_Dfiberm}. The near-field electrospinning jet is ejected from the Taylor cone when the applied voltage generates an electric field strong enough to break the solution drop. Changing the applied voltage will amend initial drop and fiber morphology, thereby resulting in a change in the fibers' properties. However, the effect of the applied voltage on the fiber diameter is not well defined. On one hand, many researchers posit that high applied voltages lead to larger fiber diameters, whereas other researchers have reported reductions in fiber diameter with high applied voltages as the electric field force increases on the charged jet. \cite{Zhang2005} Furthermore, Reneker and Chun observed that applied voltage does not significantly affect the diameter of electrospun polyethylene oxide (PEO) fibers. \cite{Reneker1996} Applied voltage has an influence on the fiber diameter, but the degree and direction of influence varies with other process parameters such as polymeric solution concentration and on the working distance \cite{Yordem2008, Chang2016}.
 
-Looking at Figures \ref{fig:plt_Lm_vs_Dfiberm} and \ref{fig:plt_Phi0V_vs_Dfiberm}, the data points from Husain, Lee and Sonntag \cite{Husain2016, Lee2012, Sonntag2020} experimental results are outside the principal cluster since they implemented working distances around $10^{-1} \textrm{m}$, which is concidered to be the threshold between NFES and far-field electrospinning (FFES). One can observe that: a) in NFES fiber diameter increase with increasing applied voltage; and b) in FFES fiber diameter decrease with increasing applied voltage. On the other hand, data related to Liu's and Beachey's work \cite{Liu2014, Beachey2011} do not fit the main trend as they perform the electrospinning process with a rotating drum as the collector, instead of the typical xy stage.
+Looking at Figures \ref{fig:plt_Lm_vs_Dfiberm} and \ref{fig:plt_Phi0V_vs_Dfiberm}, the data points from Husain, Lee and Sonntag \cite{Husain2016, Lee2012, Sonntag2020} experimental results are outside the principal cluster since they implemented working distances around $10^{-1} \textrm{m}$, which is concidered to be the threshold between NFES and far-field electrospinning (FFES). One can observe that: a) in NFES fiber diameter increase with increasing applied voltage; and b) in FFES fiber diameter decrease with increasing applied voltage. On the other hand, data related to Liu's and Beachey's work \cite{Liu2014, Beachley2011} do not fit the main trend as they perform the electrospinning process with a rotating drum as the collector, instead of the typical xy stage. 
 
 \begin{figure}[!th]
 \centering
@@ -560,7 +570,25 @@ Near-field electrospinning (NFES) is known as a versatile nano-fabrication techn
 
 \section{Diameter Prediction of Electrospun Fibers} % adimensional analysis
 
+Electrospinning is a simple process to fabricate fibers of different morphology. However, the final morphology of a fiber depends on various solution, process, and ambient parameters (Table \ref{tab:nfesProcessParameters}) with interaction with rheology and fluid dynamics. Given the connection of various parameters, it is not trivial to derive a mathematical model to describe the complete electrospinning process. Current attempts involve limited models that can only describe the steady jet region for specific polymer solutions. \cite{Hohman2001a,Feng2002a,Reneker2000} From literature \cite{Greiner2008, Deitzel2001, Cui2007, Beachley2011} and as described in Figure \ref{fig:plt_corMat}, zero-shear viscosity, flow rate and applied voltage are the main drivers that determine the final fiber morphology and dimensions. Other parameters such as solution surface tension, conductivity and working distance have less impact on the electrospun fibers. \cite{Ramakrishna2005} As shown in Figures \ref{fig:plt_Qm3s_vs_Dfiberm} and \ref{fig:plt_Cpolymerwt_vs_Dfiberm}, literature states that flow rate $Q$ and solution concentration $C_{polymer}$ are directly proportional to the fiber diameter $D_{fiber}$. \cite{Wang2008, McKee2004, Gupta2005}
 
+As mentioned in the previous section, the correlation between the final fiber diameter $D_{fiber}$ and the applied voltage $\Phi_0$ is not well defined. Most authors posit that the fiber diameter decreases with increasing voltage. \cite{Yuan2004, Wang2009, Thompson2007, Sajeev2008, Mazoochi2011, MATARAM2011, Liu2007, Homayoni2009, Zhang2005} Nevertheless, other publications state the inverse correlation. \cite{Rojas2009, Jeun2007} This discrepancy between the final fiber diameter $D_{fiber}$ and the applied voltage $\Phi_0$ may be attributed to the fact that $\Phi_0$ is also related to the electric field $\Phi_0 / L$, which in turn is related to the working distance $L$. As the electric field $\Phi_0 / L$ increases, the electric field forces loose influence under the polymer jet as the increased force results into faster evaporation of the solvent promoting faster solidification. On the other hand, polymer concentration $C_{polymer}$, and conductivity $K$ also have an effect on the electric field. \cite{Thompson2007, Mohan2002} 
+
+On the other hand, Zhang et al., Kim et al., and Mituppatham et al. studied the relationship between the solution surface tension $\gamma$ and its conductivity $K$. \cite{Zhang2005, Kim2005, Mituppatham2004} Kim's and Mituppatham's work report a increase in fiber diameter with increasing conductivity in the polymer solution, while Zhang's reports the inverse relationship. The existing interdependence between the process and solution parameters adds complexity and ambiguity to the effect of each parameter. The fiber morphology not only depends on the process parameters, but also on the type of electrospinning process and on polymer-solvent system. \cite{Gadkari2014}
+
+Helgeson and Wagner \cite{Helgeson2007} have presented an adimensional analysis to predict the fiber diameter with conservation equations of momentum, mass, electric charge and four dimensionless numbers: Peclet number $ \displaystyle Pe = \frac{2 \bar{\varepsilon} v_0}{K R_0} $, Reynold number $ \displaystyle Re = \frac{\rho v_0 R_0}{\eta_0} $, Weber number $ \displaystyle We = \frac{\rho {v_0}^2 R_0}{\gamma} $, and the dimensionless electric field strength $ \displaystyle \Psi = \frac{\bar{\varepsilon} {E_0}^2}{\rho {v_0}^2} $. Where $\bar{\varepsilon}$ is the dielectric permitivity of the atmosphere, $K$ the solution conductivity, $\rho$ the density, $\eta_0$ the zero-shear viscosity, $\gamma$ the surface tension, $E_0$ the applied electric field, $R_0$ the initial jet radius, and $v_0$ the initial jet velocity. Since $R_0$ and $v_0$ can neither be controlled nor measured, Helgeson arrived to a correlation between the electrostatic and viscous forces $\Pi_1$ describing the stress directing the polymer jet elongation from the source to the collector plate. \cite{Helgeson2007}
+
+\begin{equation}\label{eqn:electroViscousRatio}
+    \Pi_1 = Re Pe \Psi = \frac{2 {\bar{\varepsilon}}^2 {\Phi_0}^2}{K \eta_0 L^2}
+\end{equation}
+
+Ohnesorge number, resulting from the manipulation of the Reynolds number $Re$ and the Weber number $We$, is used to explain the behavior of the polymeric solution jet under small disturbances, due the voltage presence, leads to the capillary rupture of the fluid jet. \cite{Helgeson2007}
+
+\begin{equation}\label{eqn:ohnesorgeNumber}
+    Oh = \frac{{Re}^2}{We} = \frac{\eta_0}{\sqrt{\rho \gamma R_{jet}}}
+\end{equation}
+
+Where $ \displaystyle R_{jet} = R_f \sqrt{\frac{1}{w_s}} $ is the wet radius of the jet solution, which is calculated from the radius of the dry fiber $R_f$ and the mass fraction of the polymer in solution $w_s$. \cite{Helgeson2007}
 
 \begin{figure}[!th]
 \centering
@@ -579,3 +607,13 @@ Near-field electrospinning (NFES) is known as a versatile nano-fabrication techn
   GaofengZheng2010,Liu2015a,Min2013,Luo2016,Yousefi2019,Cardenas2017,Coppola2014}}
 \label{fig:plt_Pi1_vs_Oh}
 \end{figure}
+
+Figure \ref{fig:plt_Pi1_vs_Oh} plots the $\Pi_1$ and $Oh$ values reported by \cite{Helgeson2007} along with new data points from the previous data collection of NFES fiber diameters and process parameters. It is possible to observe the predominance of the viscous and the electrostatic forces within the solution by the magnitude $\Pi_1$ (Equation \ref{eqn:electroViscousRatio}), on the other hand $Oh$ (Equation \ref{eqn:ohnesorgeNumber}) reflects the capacity of the viscous forces over the polymeric jet, which allows stability in the electrospinning process. The data points gathered by Helgeson et al. are from far-field electrospinning studies, whereas the new data points belong to near-field electrospinning studies.
+
+The collected data suggest that both types of electrospinning behave in a similar manner, where the FFES data fits better a linear behavior of slope $-1$. As the working distance closes in NFES, the data points fit a shallower slope with higher $\Pi_1$ values and lower $Oh$ values. This suggests that in NFES less viscous solutions have been used, since in long working distances a higher viscosity is needed to keep the integrity of the fiber in the whole traveling distance until it reaches the collector. For high $Oh$ values and elevated viscosity, the entanglement of the polymeric chains is higher, resulting in the formation of individual fibers; also, the jet is prone to faster solidification, due to an early evaporation of solvent, due to the resistance to the change of momentum, caused by the high viscosity in the polymeric solution, hence the need of higher voltages in FFES. Helgeson et al. suggest that with the following relationship in Equation \ref{eqn:ohnesorgeNumberRelationship} can be used to predict the fiber diameter, as in the trend in Figure \ref{fig:plt_Pi1_vs_Oh} $Oh$ has an inverse linear relationship with $\Pi_1$. \cite{Helgeson2007}
+
+\begin{equation}\label{eqn:ohnesorgeNumberRelationship}
+    \Pi_1 Oh = \frac{2 {\bar{\varepsilon}}^2 {\Phi_0}^2}{K L^2 \sqrt{\rho \gamma R_{jet}}} = 2.5 \pm 0.2 \times 10^{-8}
+\end{equation}
+
+The absence of the solution zero-shear viscosity in Equation \ref{eqn:ohnesorgeNumberRelationship} suggests that $\eta_0$ by its own is insufficient to predict the fiber diameter. The solution conductivity, process parameters and surface tension are the main drivers to describe the diameter of electrospun fibers. \cite{Helgeson2007}
