@@ -14571,6 +14571,63 @@
       \endverb
       \keyw{copolymer,elastomer,electron microscopy,electrospinning,nanofiber,phase separation,polymer,sbs,triblock}
     \endentry
+    \entry{Shenoy2005}{article}{}
+      \name{author}{4}{}{%
+        {{hash=daa69d0780347091f96a674360fa5ded}{%
+           family={Shenoy},
+           familyi={S\bibinitperiod},
+           given={Suresh\bibnamedelima L.},
+           giveni={S\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=5c3299da55112bb1837744a061681cbe}{%
+           family={Bates},
+           familyi={B\bibinitperiod},
+           given={W.\bibnamedelimi Douglas},
+           giveni={W\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=19bc5f797d28f5d724296a0e49972ce9}{%
+           family={Frisch},
+           familyi={F\bibinitperiod},
+           given={Harry\bibnamedelima L.},
+           giveni={H\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=ffef636a207102a9d6b75cad251074b0}{%
+           family={Wnek},
+           familyi={W\bibinitperiod},
+           given={Gary\bibnamedelima E.},
+           giveni={G\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \strng{namehash}{39ad6872d2e9b55887714fd2bef38fe7}
+      \strng{fullhash}{39ad6872d2e9b55887714fd2bef38fe7}
+      \strng{bibnamehash}{39ad6872d2e9b55887714fd2bef38fe7}
+      \strng{authorbibnamehash}{39ad6872d2e9b55887714fd2bef38fe7}
+      \strng{authornamehash}{39ad6872d2e9b55887714fd2bef38fe7}
+      \strng{authorfullhash}{39ad6872d2e9b55887714fd2bef38fe7}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Chain entanglements are one of many parameters that can significantly influence fiber formation during polymer electrospinning. While the importance of chain entanglements has been acknowledged, there is no clear understanding of how many entanglements are required to affect/stabilize fiber formation. In this paper, polymer solution rheology arguments have been extrapolated to formulate a semi-empirical analysis to explain the transition from electrospraying to electrospinning in the good solvent, non-specific polymer-polymer interaction limit. Utilizing entanglement and weight average molecular weights (Me, Mw), the requisite polymer concentration for fiber formation may be determined a priori, eliminating the laborious trial-and-error methodology typically employed to produce electrospun fibers. Incipient, incomplete fiber formation is correctly predicted for a variety of polymer/solvent systems at one entanglement per chain. Complete, stable fiber formation occurs at ≥2.5 entanglements per chain. {©} 2005 Elsevier Ltd. All rights reserved.}
+      \field{issn}{00323861}
+      \field{journaltitle}{Polymer}
+      \field{month}{4}
+      \field{number}{10}
+      \field{title}{{Role of chain entanglements on fiber formation during electrospinning of polymer solutions: good solvent, non-specific polymer–polymer interaction limit}}
+      \field{volume}{46}
+      \field{year}{2005}
+      \field{pages}{3372\bibrangedash 3384}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1016/j.polymer.2005.03.011
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/oskat/OneDrive - Instituto Tecnologico y de Estudios Superiores de Monterrey/Documents/MNT{\_}ITESM{\_}Thesis/0{\_}References/ROCEOFFDEOPSGSNSPPIL.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0032386105002867
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0032386105002867
+      \endverb
+      \keyw{Chain entanglements,Electrospinning,Fiber formation}
+    \endentry
     \entry{Burghelea2020}{book}{}
       \name{author}{1}{}{%
         {{hash=62bda2d1c6c835c3fad0ad467436ecde}{%
@@ -14628,6 +14685,172 @@
       \verb http://link.springer.com/10.1007/978-3-030-35558-6
       \endverb
       \keyw{is{\_}book}
+    \endentry
+    \entry{RByron1987}{book}{}
+      \name{author}{3}{}{%
+        {{hash=568d299d216313511bad0fd5cee511f7}{%
+           family={{R. Byron}},
+           familyi={R\bibinitperiod},
+           given={Bird},
+           giveni={B\bibinitperiod}}}%
+        {{hash=50844cf9c7fb0a57615218ca398959b6}{%
+           family={{Robert C.}},
+           familyi={R\bibinitperiod},
+           given={Armstrong},
+           giveni={A\bibinitperiod}}}%
+        {{hash=4fe4e90ef53384856c940d8ec0cc8525}{%
+           family={Ole},
+           familyi={O\bibinitperiod},
+           given={Hassager},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley}%
+      }
+      \strng{namehash}{a2a5f1d919b2a657e43c373664992e72}
+      \strng{fullhash}{a2a5f1d919b2a657e43c373664992e72}
+      \strng{bibnamehash}{a2a5f1d919b2a657e43c373664992e72}
+      \strng{authorbibnamehash}{a2a5f1d919b2a657e43c373664992e72}
+      \strng{authornamehash}{a2a5f1d919b2a657e43c373664992e72}
+      \strng{authorfullhash}{a2a5f1d919b2a657e43c373664992e72}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{2nd}
+      \field{isbn}{978-0-471-80245-7}
+      \field{title}{{Dynamics of Polymeric Liquids, Volume 1: Fluid Mechanics}}
+      \field{year}{1987}
+      \field{pages}{672}
+      \range{pages}{1}
+      \verb{urlraw}
+      \verb https://www.wiley.com/en-us/Dynamics+of+Polymeric+Liquids{\%}2C+Volume+1{\%}3A+Fluid+Mechanics{\%}2C+2nd+Edition-p-9780471802457
+      \endverb
+      \verb{url}
+      \verb https://www.wiley.com/en-us/Dynamics+of+Polymeric+Liquids%7B%5C%%7D2C+Volume+1%7B%5C%%7D3A+Fluid+Mechanics%7B%5C%%7D2C+2nd+Edition-p-9780471802457
+      \endverb
+    \endentry
+    \entry{Macosko1994}{book}{}
+      \name{author}{1}{}{%
+        {{hash=9ff86d86fd440483afa0286e33dfebe8}{%
+           family={Macosko},
+           familyi={M\bibinitperiod},
+           given={Christopher\bibnamedelima W.},
+           giveni={C\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley}%
+      }
+      \strng{namehash}{9ff86d86fd440483afa0286e33dfebe8}
+      \strng{fullhash}{9ff86d86fd440483afa0286e33dfebe8}
+      \strng{bibnamehash}{9ff86d86fd440483afa0286e33dfebe8}
+      \strng{authorbibnamehash}{9ff86d86fd440483afa0286e33dfebe8}
+      \strng{authornamehash}{9ff86d86fd440483afa0286e33dfebe8}
+      \strng{authorfullhash}{9ff86d86fd440483afa0286e33dfebe8}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{978-0-471-18575-8}
+      \field{title}{{Rheology: Principles, Measurements, and Applications}}
+      \field{year}{1994}
+      \field{pages}{568}
+      \range{pages}{1}
+      \verb{urlraw}
+      \verb https://www.wiley.com/en-us/Rheology{\%}3A+Principles{\%}2C+Measurements{\%}2C+and+Applications-p-9780471185758
+      \endverb
+      \verb{url}
+      \verb https://www.wiley.com/en-us/Rheology%7B%5C%%7D3A+Principles%7B%5C%%7D2C+Measurements%7B%5C%%7D2C+and+Applications-p-9780471185758
+      \endverb
+    \endentry
+    \entry{Connelly1985}{article}{}
+      \name{author}{2}{}{%
+        {{hash=84c028e24bd2b8b8f3b049570dde8d14}{%
+           family={Connelly},
+           familyi={C\bibinitperiod},
+           given={R.\bibnamedelimi W.},
+           giveni={R\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=52f08c85ffc825d34cc73719a31dd63f}{%
+           family={Greener},
+           familyi={G\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{bb323c9127e45691f5c72ea9fc4ac531}
+      \strng{fullhash}{bb323c9127e45691f5c72ea9fc4ac531}
+      \strng{bibnamehash}{bb323c9127e45691f5c72ea9fc4ac531}
+      \strng{authorbibnamehash}{bb323c9127e45691f5c72ea9fc4ac531}
+      \strng{authornamehash}{bb323c9127e45691f5c72ea9fc4ac531}
+      \strng{authorfullhash}{bb323c9127e45691f5c72ea9fc4ac531}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{A novel technique for measuring viscosity at high shear rates is described. The technique is an extension of a well-established method, parallel-disk viscometry, which has been limited traditionally to low shear rates ( {<} 500 s -1 ). Precision mounting of the disks a small distance apart (ca. 50 $\mu$m) allowed high shear rates 050,000 s - 1 ) to be attained without disrupting the torsional flow field, and thus controlled measurements of viscosity could be made at those shear rates. The presence of flow disturbances such as shear heating, surface fracture, and radial migration, common impediments in high-shear measurements, can be readily detected with a thixotropic loop program, and the effect of such disturbances can be separated from the actual rheological response of the fluid. Data are presented on some well-defined fluids, both Newtonian and shear-thinning, and the limitations of this technique are discussed. {©} 1985, The Society of Rheology. All rights reserved.}
+      \field{issn}{0148-6055}
+      \field{journaltitle}{Journal of Rheology}
+      \field{number}{2}
+      \field{title}{{High‐Shear Viscometry with a Rotational Parallel‐Disk Device}}
+      \field{volume}{29}
+      \field{year}{1985}
+      \field{pages}{209\bibrangedash 226}
+      \range{pages}{18}
+      \verb{doi}
+      \verb 10.1122/1.549828
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/oskat/OneDrive - Instituto Tecnologico y de Estudios Superiores de Monterrey/Documents/MNT{\_}ITESM{\_}Thesis/0{\_}References/HVWARPD.pdf:pdf
+      \endverb
+    \endentry
+    \entry{Pipe2008}{article}{}
+      \name{author}{3}{}{%
+        {{hash=e10a7cb5884efbafb202c681890f8ee2}{%
+           family={Pipe},
+           familyi={P\bibinitperiod},
+           given={Christopher\bibnamedelima J},
+           giveni={C\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=a5d73def45d5b51adf33bc8754feb158}{%
+           family={Majmudar},
+           familyi={M\bibinitperiod},
+           given={Trushant\bibnamedelima S},
+           giveni={T\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=d2cc52df35fae13734029b48f5510c48}{%
+           family={McKinley},
+           familyi={M\bibinitperiod},
+           given={Gareth\bibnamedelima H.},
+           giveni={G\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \strng{namehash}{1d9cabf638dcd48291a27ab8950fde1d}
+      \strng{fullhash}{1d9cabf638dcd48291a27ab8950fde1d}
+      \strng{bibnamehash}{1d9cabf638dcd48291a27ab8950fde1d}
+      \strng{authorbibnamehash}{1d9cabf638dcd48291a27ab8950fde1d}
+      \strng{authornamehash}{1d9cabf638dcd48291a27ab8950fde1d}
+      \strng{authorfullhash}{1d9cabf638dcd48291a27ab8950fde1d}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0035-4511}
+      \field{journaltitle}{Rheologica Acta}
+      \field{month}{7}
+      \field{number}{5-6}
+      \field{title}{{High shear rate viscometry}}
+      \field{volume}{47}
+      \field{year}{2008}
+      \field{pages}{621\bibrangedash 642}
+      \range{pages}{22}
+      \verb{doi}
+      \verb 10.1007/s00397-008-0268-1
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/oskat/OneDrive - Instituto Tecnologico y de Estudios Superiores de Monterrey/Documents/MNT{\_}ITESM{\_}Thesis/0{\_}References/HSRV.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://link.springer.com/10.1007/s00397-008-0268-1
+      \endverb
+      \verb{url}
+      \verb http://link.springer.com/10.1007/s00397-008-0268-1
+      \endverb
     \endentry
   \enddatalist
 \endrefsection
