@@ -75,7 +75,7 @@ Electrospinning of smooth, continuous fibers require a polymer concentration hig
 %Poly(Styrene-co-Butadiene) (PSB)                & Tetrahydrofuran (THF) and N,N-Dimethylformamide (DMF) \\
 %Poly(Styrene-co-alpha-Methylstyrene) (PSMS)     & N,N-Dimethylformamide (DMF)                           \\
 %Poly(9-Vinylcarbazole) (PVK)                    & Chloroform (CHL)                                      \\
-%Poly(9-Vinylcarbazole) (PVK) + SU-8 2002 (SU-8) & Cyclopentanone                                        \\
+%Poly(9-Vinylcarbazole) (PVK) + SU-8 2002 (SU-8) & Cyclopentanone (CPO)                                  \\
 %\hline
 %\end{tabularx}
 %\label{tab:candidatePolymerSolventSystems}
@@ -83,7 +83,7 @@ Electrospinning of smooth, continuous fibers require a polymer concentration hig
 
 \subsection{Materials and Sample Preparation}
 
-Seven polymer-solvent combinations are to be tested. The Poly(Ethylene Oxide) and SU-8 2002 combination is what has been used in past work \cite{Cardenas2017, Flores2017}, and will be used as the control sample set. The selected polymer-solvent combinations are to investigate the ability of oxygenless polymers to be electrospun and then carbonized into vitreous carbon. Tables \ref{tab:PEOinSU8}, \ref{tab:PSBinNMP}, \ref{tab:PSBinTHFnDMF}, \ref{tab:PSMSinDMF}, \ref{tab:PSinTHF}, \ref{tab:PVKinCHL}, and \ref{tab:PVKinSU8} list the prepared polymer systems. Tetrabutylammonium tetrafluoroborate (TBF) was added to all solutions to increase the conductivity of the solution. SU-8 contains $71\%$ of cyclopentanone, which acts as the solvent (Figure \ref{fig:su8Components}) \cite{Microchem2012}.
+Seven polymer-solvent combinations are to be tested. The Poly(Ethylene Oxide) and SU-8 2002 combination is what has been used in past work \cite{Cardenas2017, Flores2017}, and will be used as the control sample set. The selected polymer-solvent combinations are to investigate the ability of oxygenless polymers to be electrospun and then carbonized into vitreous carbon. Tables \ref{tab:PEOinSU8}, \ref{tab:PSBinNMP}, \ref{tab:PSBinTHFnDMF}, \ref{tab:PSMSinDMF}, \ref{tab:PSinTHF}, \ref{tab:PVKinCHL}, and \ref{tab:PVKinSU8} list the prepared polymer systems. Tetrabutylammonium tetrafluoroborate (TBF) was added to all solutions to increase the conductivity of the solution. SU-8 contains $71\%$ of cyclopentanone (CPO), which acts as the solvent (Figure \ref{fig:su8Components}) \cite{Microchem2012}.
 
 \begin{table}[!th]
 \centering
@@ -254,15 +254,42 @@ All of the rheological tests were performed in a rotational rheometer (Discovery
 
 Flow curves determine the flow behaviour of a sample by measuring the viscosity as a function of shear rate. For shear rates under $~10^{-2.25} \textrm{ 1} / \textrm{s}$ the rheometer was unable to take viscosity measurements, on the other hand for shar rates over $~10^{-3.5} \textrm{ 1} / \textrm{s}$ the measurements are discarded. At high shear rates, several factors such as inertial effects, and viscous heating can alter the rheometric measurements \cite{RByron1987, Macosko1994}. As the shear rate increases, the centrifugal stresses become large enough to overcome the surface tension stresses that keep the sample within the gap between the geometry and the plate. High centrifugal stresses result in the sample being thrown out of the measuring area; a phenomenon known as 'radial migration effect' \cite{Connelly1985}. Once the 'radial migration effect' partially ejects the sample, the viscosity measurements are lower than expected due to a drop in torque. \cite{Pipe2008}
 
-As depicted in the rheological results in Figures \ref{}, the constant-viscosity (Newtonian-like) behavior before the shear thinning onset was captured. In all samples, a noticeable shear-thinning behavior is observed. The Carreau–Yasuda model \cite{RByron1987} was fitted to the cone-and-plate  measurements to compute the zero-shear viscosity of each sample.
+As depicted in the rheological results in Figures \ref{fig:plt_PEOwtinSU8}, \ref{fig:plt_PSwtinTHF}, \ref{fig:plt_PSBwtinNMP}, \ref{fig:plt_PSBwtinTHFandDMF}, \ref{fig:plt_PSMSwtinDMF}, \ref{fig:plt_PVKwtinCHL} and \ref{fig:plt_PVKwtinSU8}, the constant-viscosity (Newtonian-like) behavior before the shear thinning onset was captured. In all samples, a noticeable shear-thinning behavior is observed with an increase in viscosity with concentration increments. The shear-thinning behavior can be interpreted as the alignment of polymer chains to the flow in the direction of the applied shear stress. \cite{Floreshernandez2020} The Carreau–Yasuda model (Equation \ref{eqn:carreauYasudaModel}) \cite{RByron1987} was fitted to the cone-and-plate  measurements to compute the zero-shear viscosity of each sample.
+
+\begin{equation}\label{eqn:carreauYasudaModel}
+    \eta = \frac{\eta_0 - \eta_{\infty}}{\left[1 + \left(\kappa \dot{\gamma}\right)^a\right]^{\frac{(1 - n)}{a}}} + \eta_{\infty}
+\end{equation}
+
+Where: $\eta$ is the viscosity, $\dot{\gamma}$ the shear rate, $\eta_{\infty}$ the  infinite shear rate viscosity, $\eta_0$ the zero shear rate viscosity, $\kappa$ is the time constant, $n$ the Power Law index, $a$ the width of the transition region between the zero shear viscosity and the Power Law region. The model was fitted to the rheologial data to estimate $\eta_0$. Then, $\eta_0$ values are used to create diagrams that describe the effect of polymer concentration on the solution viscosity, as described in Figure \ref{fig:concentrationViscosityPlotExplained}. The critical concentrations are calculated from the change in slope in the zero-shear viscosity to concentration relationship as depicted in Figure \ref{fig:criticalConcentrationCalculation} for the PEO in SU-8 solutions. Appendix \ref{Appendix_CriticalConcentrations} contains the diagrams of the other polymer-solvent systems.
 
 \begin{figure}[!th]
 \centering
-\includegraphics[width=\textwidth]{./Figures/plt_FlowCurves_PEOinSU8.png}
+\includegraphics[width=\textwidth]{./Figures/criticalConcentrationCalculation.png}
 \decoRule
-\caption[Viscosity as a function of shear rate for Poly(Ethylene Oxide) (PEO) and SU-8 2002 solutions]{Viscosity as a function of shear rate for Poly(Ethylene Oxide) (PEO) and SU-8 2002 solutions}
-\label{fig:plt_FlowCurves_PEOinSU8}
+\caption[Estimation of the Critical Concentration of the PEO in SU-8 solutions]{The change in slope is given at 25 $wt\%$ PEO, which suggests that at 25 $wt\%$ the polymer chains are entangled.}
+\label{fig:criticalConcentrationCalculation}
 \end{figure}
+
+\begin{table}[!th]
+\centering
+\caption[Calculated Critical/Spinnable Concentrations for each Polymer-Solvent System]{Calculated Critical/Spinnable Concentrations for each Polymer-Solvent System}
+\begin{tabular}{lllll}
+\hline
+\textbf{Polymer} & \textbf{Molecular Weight $[\textrm{g} \cdot \textrm{mol}]$} & \textbf{Solvent} & \textbf{$c^* [\textrm{wt}\%]$} & \textbf{$\eta_0 [\textrm{Pa} \cdot \textrm{s}]$} \\
+\hline
+PEO  & 4,000,000                  & CPO (SU-8)  & 0.25  & 60.022 \\
+PS   & 192,000                    & THF         & 20.00 & 0.166  \\
+PSB  & 490,000   \cite{Doan2013}  & NMP         & 8.00  & 0.028  \\
+PSB  & 490,000   \cite{Doan2013}  & THF and DMF & 15.00 & 0.092  \\
+PSMS & 2,658,076 \cite{Colby1987} & DMF         & 5.00  & 0.282  \\
+PVK  & 1,100,000                  & CHL         & 15.00 & 41.861 \\
+PVK  & 1,100,000                  & CPO (SU-8)  & 0.75  & 49.657 \\
+\hline
+\end{tabular}
+\label{tab:calculatedSpinnableConcentrations}
+\end{table}
+
+Table \ref{tab:calculatedSpinnableConcentrations} summarizes the calculated critical concentrations for each system. In general, the critical concentration $c^*$ has proportional relationship with the polymer molecular weight, as a polymer's molecular weight greatly influences the solution viscosity. First, the structure of the polymer chain has an effect on its solubility as the intermolecular interactions between long molecules are stronger and the solvent molecules take longer to diffuse within the polymer aggregates. \cite{Ramakrishna2005} Second, the viscosity of a polymer solution will be smaller when a polymer of low molecular weight is dissolved than a solution of the same polymer but of a higher molecular weight. \cite{Ramakrishna2005} The molecular weight of the polymer describes the length of the polymer chain, which has an effect on the viscosity of the solution. Since the polymer length defines the amount of entanglement of the polymer chains in the solvent, a lower molecular weight shall be compensated by higher concentrations to reach the desired viscosity.
 
 %----------------------------------------------------------------------------------------
 %	SECTION 1

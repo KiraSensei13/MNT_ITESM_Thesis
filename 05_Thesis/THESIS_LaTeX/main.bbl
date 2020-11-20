@@ -14852,7 +14852,120 @@
       \verb http://link.springer.com/10.1007/s00397-008-0268-1
       \endverb
     \endentry
+    \entry{Doan2013}{article}{}
+      \name{author}{5}{}{%
+        {{hash=dc8bfa0c5325711317978ca196526eff}{%
+           family={Doan},
+           familyi={D\bibinitperiod},
+           given={Vu\bibnamedelima Anh},
+           giveni={V\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=1231e8636229b5c5532155c84bce8d34}{%
+           family={Nobukawa},
+           familyi={N\bibinitperiod},
+           given={Shogo},
+           giveni={S\bibinitperiod}}}%
+        {{hash=a6de64693ad183e2d518e86b005f8470}{%
+           family={Ohtsubo},
+           familyi={O\bibinitperiod},
+           given={Shigeki},
+           giveni={S\bibinitperiod}}}%
+        {{hash=eaf3e4afb492f84bad6ef796b664f069}{%
+           family={Tada},
+           familyi={T\bibinitperiod},
+           given={Toshio},
+           giveni={T\bibinitperiod}}}%
+        {{hash=ec2068a2f62603c5ab5141e3106ed573}{%
+           family={Yamaguchi},
+           familyi={Y\bibinitperiod},
+           given={Masayuki},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{aab21228c81e4531c05040185dfcbf16}
+      \strng{fullhash}{aab21228c81e4531c05040185dfcbf16}
+      \strng{bibnamehash}{aab21228c81e4531c05040185dfcbf16}
+      \strng{authorbibnamehash}{aab21228c81e4531c05040185dfcbf16}
+      \strng{authornamehash}{aab21228c81e4531c05040185dfcbf16}
+      \strng{authorfullhash}{aab21228c81e4531c05040185dfcbf16}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The interphase transfer behavior of poly(styrene-co-$\alpha$-methyl styrene), which is known as a tackifier in rubber industry, is investigated using poly(butadiene) rubber (BR) and poly(styrene-co-butadiene) rubber (SBR). The films of pure rubbers and the blends with the tackifier were prepared by a solution-cast method using toluene as a solvent. Two sheets composed of different rubbers, in which the tackifier was mixed at least in one rubber sheet, were piled together and annealed beyond the glass transition temperature T g of the tackifier. The transfer phenomenon of the tackifier between the sheets was evaluated by the peak shift in the tensile loss modulus E″ curve, ascribed to T g of the rubbers, which was measured by the dynamic mechanical analysis. Moreover, crystallization temperature of BR was also employed as a measure of the transfer, because the tackifier retards the crystallization of BR. It is found that the tackifier moves from one rubber to another during annealing procedure to reduce severe localization. When the content is the same in each rubber, the tackifier immigrates from BR to SBR, suggesting a better miscibility with SBR. This behavior is attributed to the small difference in the solubility parameter between SBR and the tackifier as compared to that between BR and the tackifier. {©} 2012 Springer Science+Business Media New York.}
+      \field{issn}{0022-2461}
+      \field{journaltitle}{Journal of Materials Science}
+      \field{month}{3}
+      \field{number}{5}
+      \field{title}{{Interphase transfer of tackifier between poly(butadiene) and poly(styrene-co-butadiene)}}
+      \field{volume}{48}
+      \field{year}{2013}
+      \field{pages}{2046\bibrangedash 2052}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1007/s10853-012-6974-1
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/oskat/OneDrive - Instituto Tecnologico y de Estudios Superiores de Monterrey/Documents/MNT{\_}ITESM{\_}Thesis/0{\_}References/ITOTBPBAPSB.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://link.springer.com/10.1007/s10853-012-6974-1
+      \endverb
+      \verb{url}
+      \verb http://link.springer.com/10.1007/s10853-012-6974-1
+      \endverb
+    \endentry
+    \entry{Colby1987}{article}{}
+      \name{author}{3}{}{%
+        {{hash=d57ba7025e9f234ce9fbba855738c3c0}{%
+           family={Colby},
+           familyi={C\bibinitperiod},
+           given={Ralph\bibnamedelima H.},
+           giveni={R\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=414c97f9644ce299f3f51425c8d40b17}{%
+           family={Fetters},
+           familyi={F\bibinitperiod},
+           given={Lewis\bibnamedelima J.},
+           giveni={L\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=3fd64d38a05807f9d5d971a889f44971}{%
+           family={Graessley},
+           familyi={G\bibinitperiod},
+           given={William\bibnamedelima W.},
+           giveni={W\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+      }
+      \strng{namehash}{132d87b6bc726df1750b6a9a64cfe6e8}
+      \strng{fullhash}{132d87b6bc726df1750b6a9a64cfe6e8}
+      \strng{bibnamehash}{132d87b6bc726df1750b6a9a64cfe6e8}
+      \strng{authorbibnamehash}{132d87b6bc726df1750b6a9a64cfe6e8}
+      \strng{authornamehash}{132d87b6bc726df1750b6a9a64cfe6e8}
+      \strng{authorfullhash}{132d87b6bc726df1750b6a9a64cfe6e8}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The relationship between melt viscosity ή0 and molecular weight M for entangled linear polymers is accurately described by a power law,ή0 $\alpha$ M3.4, up to M/Me{\~{}} 150, where Meis the entanglement molecular weight. We have sought here to test the range of validity of that law by measurements on polymers with M/Meas large as practically possible. Anionic polymerization was used to prepare a series of narrow distribution polybutadienes with low vinyl content and molecular weights ranging from 1 × 103to 1.65 × 107(0.5 {<} M/M{\&}{<} 8000). Several linear viscoelastic techniques were used to determine viscosities ranging from 1 × 10° P to 2 × 1012P. Significant departures from the 3.4 power law were found beyond M/Me{\~{}} 200. The results are consistent with an approach to M3dependence as suggested by reptation theory, but the scatter is too large to allow a definite conclusion. The apparent ή0/M3asymptote is within a factor of 2 of a prediction based on reptation theory, modified by the contributions of tube renewal. Additionally, a comparison was made of the monomeric friction coefficient obtained from viscosities at low molecular weight and from transition responses at high molecular weight. Values of the modulus shift factor bTwere obtained for an unusually wide range of temperatures and are briefly discussed. {©} 1987, American Chemical Society. All rights reserved.}
+      \field{issn}{0024-9297}
+      \field{journaltitle}{Macromolecules}
+      \field{month}{9}
+      \field{number}{9}
+      \field{title}{{The melt viscosity-molecular weight relationship for linear polymers}}
+      \field{volume}{20}
+      \field{year}{1987}
+      \field{pages}{2226\bibrangedash 2237}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1021/ma00175a030
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/oskat/OneDrive - Instituto Tecnologico y de Estudios Superiores de Monterrey/Documents/MNT{\_}ITESM{\_}Thesis/0{\_}References/colby1987.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://pubs.acs.org/doi/abs/10.1021/ma00175a030
+      \endverb
+      \verb{url}
+      \verb https://pubs.acs.org/doi/abs/10.1021/ma00175a030
+      \endverb
+    \endentry
   \enddatalist
+  \missing{Floreshernandez2020}
 \endrefsection
 \endinput
 
