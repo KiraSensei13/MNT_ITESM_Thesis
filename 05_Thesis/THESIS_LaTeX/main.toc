@@ -43,15 +43,12 @@
 \contentsline {section}{\numberline {3.2}Rheology of candidate polymer solutions}{49}{section.94}% 
 \contentsline {subsection}{\numberline {3.2.1}Materials and Sample Preparation}{50}{subsection.97}% 
 \contentsline {subsection}{\numberline {3.2.2}Rheological Characterization of polymer Solutions}{53}{subsection.105}% 
-\contentsline {section}{\numberline {3.3}Effect of aromatic groups in oxygen-free polymers in NFES and Pyrolysis}{56}{section.110}% 
-\contentsline {section}{\numberline {3.4}\emph {conclude with a collection of potential spunable polymer solutions}}{56}{section.111}% 
-\contentsline {chapter}{\numberline {4}Fabrication and Characterization of Polymeric Fibers through Near-Field Electrospinning, and Forward-thinking on Photopolymerization and Pyrolysis}{57}{chapter.112}% 
-\contentsline {section}{\numberline {4.1}}{57}{section.113}% 
-\contentsline {section}{\numberline {4.2}}{57}{section.114}% 
-\contentsline {section}{\numberline {4.3}Fabrication and Characterization of Legacy SU-8 carbon fibers}{57}{section.115}% 
-\contentsline {section}{\numberline {4.4}Comparison of the Obtained Polymer Fibres Against SU8-based Carbon Fibres and Potential Applications}{57}{section.116}% 
-\contentsline {section}{\numberline {4.5}\emph {conclude with fibre morphology before and after pyrolysis. determine best pyrolysis process}}{57}{section.117}% 
-\contentsline {chapter}{\numberline {A}Flow Curves}{60}{appendix.122}% 
-\contentsline {chapter}{\numberline {B}Critical Concentrations}{64}{appendix.130}% 
-\contentsline {chapter}{Bibliography}{68}{figure.caption.137}% 
-\contentsline {chapter}{Curriculum Vitae}{99}{appendix*.138}% 
+\contentsline {chapter}{\numberline {4}Fabrication and Characterization of Polymeric Fibers through Near-Field Electrospinning}{57}{chapter.110}% 
+\contentsline {section}{\numberline {4.1}Materials and Methods}{57}{section.111}% 
+\contentsline {section}{\numberline {4.2}Results}{58}{section.113}% 
+\contentsline {section}{\numberline {4.3}Conclusions and Future Work}{60}{section.115}% 
+\contentsline {chapter}{\numberline {A}Flow Curves}{64}{appendix.120}% 
+\contentsline {chapter}{\numberline {B}Critical Concentrations}{68}{appendix.128}% 
+\contentsline {chapter}{\numberline {C}Optical Microscopy Characterization of Electrospun Fibers}{72}{appendix.136}% 
+\contentsline {chapter}{Bibliography}{77}{figure.caption.141}% 
+\contentsline {chapter}{Curriculum Vitae}{105}{appendix*.142}% 
