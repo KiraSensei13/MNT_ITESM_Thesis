@@ -1,7 +1,7 @@
 \boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
 \babel@toc {english}{}
 \contentsline {chapter}{Abstract}{vi}{section*.5}% 
-\contentsline {chapter}{List of Figures}{ix}{chapter*.6}% 
+\contentsline {chapter}{List of Figures}{x}{chapter*.6}% 
 \contentsline {chapter}{List of Tables}{x}{chapter*.7}% 
 \contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.9}% 
 \contentsline {section}{\numberline {1.1}Carbon Nanowires Research Developments in Terms of Published Papers, Synthesis and Fabrication}{2}{section.11}% 
@@ -47,8 +47,9 @@
 \contentsline {section}{\numberline {4.1}Materials and Methods}{57}{section.111}% 
 \contentsline {section}{\numberline {4.2}Results}{58}{section.113}% 
 \contentsline {section}{\numberline {4.3}Conclusions and Future Work}{60}{section.115}% 
-\contentsline {chapter}{\numberline {A}Flow Curves}{64}{appendix.120}% 
-\contentsline {chapter}{\numberline {B}Critical Concentrations}{68}{appendix.128}% 
-\contentsline {chapter}{\numberline {C}Optical Microscopy Characterization of Electrospun Fibers}{72}{appendix.136}% 
-\contentsline {chapter}{Bibliography}{77}{figure.caption.141}% 
-\contentsline {chapter}{Curriculum Vitae}{105}{appendix*.142}% 
+\contentsline {chapter}{\numberline {A}Flow Curves}{64}{appendix.118}% 
+\contentsline {chapter}{\numberline {B}Critical Concentrations}{68}{appendix.126}% 
+\contentsline {chapter}{\numberline {C}Optical Microscopy Characterization of Electrospun Fibers}{72}{appendix.134}% 
+\contentsline {chapter}{\numberline {D}Average Fiber Diameters, Minimums and Maximums}{77}{appendix.140}% 
+\contentsline {chapter}{Bibliography}{79}{table.caption.141}% 
+\contentsline {chapter}{Curriculum Vitae}{107}{appendix*.142}% 
