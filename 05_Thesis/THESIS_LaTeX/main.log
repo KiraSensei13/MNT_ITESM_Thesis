@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.6960 64-bit) (preloaded format=pdflatex 2019.2.1)  23 NOV 2020 08:19
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.6960 64-bit) (preloaded format=pdflatex 2019.2.1)  26 NOV 2020 16:50
 entering extended mode
 **./main.tex
 (main.tex
@@ -2711,11 +2711,11 @@ Underfull \hbox (badness 1033) in paragraph at lines 393--394
 r elec-tron-ics
  []
 
-<./Figures/plt_corMat.png, id=1157, 476.982pt x 476.982pt>
+<./Figures/plt_corMat.png, id=1157, 496.85625pt x 496.85625pt>
 File: ./Figures/plt_corMat.png Graphic file (type png)
 <use ./Figures/plt_corMat.png>
 Package pdftex.def Info: ./Figures/plt_corMat.png  used on input line 397.
-(pdftex.def)             Requested size: 404.02908pt x 404.0392pt.
+(pdftex.def)             Requested size: 404.02908pt x 404.03586pt.
 [36 <./Figures/imageAnalysisToolValidation.png>] [37 <./Figures/plt_corMat.png>
 ]
 <./Figures/plt_Cpolymerwt_vs_Dfiberm.png, id=1197, 1256.0526pt x 842.6682pt>
@@ -3251,10 +3251,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 43--43
  \T1/ppl/m/n/10 for Poly(Styrene-co-alpha-Methylstyrene) (PSMS) and 
  []
 
-<./Figures/c_vs_v_PCKinCHL.png, id=1636, 1089.1089pt x 715.83435pt>
-File: ./Figures/c_vs_v_PCKinCHL.png Graphic file (type png)
-<use ./Figures/c_vs_v_PCKinCHL.png>
-Package pdftex.def Info: ./Figures/c_vs_v_PCKinCHL.png  used on input line 49.
+<./Figures/c_vs_v_PVKinCHL.png, id=1636, 1089.1089pt x 715.83435pt>
+File: ./Figures/c_vs_v_PVKinCHL.png Graphic file (type png)
+<use ./Figures/c_vs_v_PVKinCHL.png>
+Package pdftex.def Info: ./Figures/c_vs_v_PVKinCHL.png  used on input line 49.
 (pdftex.def)             Requested size: 404.02908pt x 265.55362pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 51--51
@@ -3262,10 +3262,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 51--51
 ear rate for 
  []
 
-<./Figures/c_vs_v_PCKinSU8.png, id=1637, 1080.79785pt x 715.83435pt>
-File: ./Figures/c_vs_v_PCKinSU8.png Graphic file (type png)
-<use ./Figures/c_vs_v_PCKinSU8.png>
-Package pdftex.def Info: ./Figures/c_vs_v_PCKinSU8.png  used on input line 57.
+<./Figures/c_vs_v_PVKinSU8.png, id=1637, 1080.79785pt x 715.83435pt>
+File: ./Figures/c_vs_v_PVKinSU8.png Graphic file (type png)
+<use ./Figures/c_vs_v_PVKinSU8.png>
+Package pdftex.def Info: ./Figures/c_vs_v_PVKinSU8.png  used on input line 57.
 (pdftex.def)             Requested size: 404.02908pt x 267.59616pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 59--59
@@ -3288,7 +3288,7 @@ LaTeX Warning: Text page 69 contains only floats.
 LaTeX Warning: Text page 70 contains only floats.
 
 [70 <./Figures/c_vs_v_PSBinTHF-DMF.png> <./Figures/c_vs_v_PSMSinDMF.png>]
-[71 <./Figures/c_vs_v_PCKinCHL.png> <./Figures/c_vs_v_PCKinSU8.png>]
+[71 <./Figures/c_vs_v_PVKinCHL.png> <./Figures/c_vs_v_PVKinSU8.png>]
 \openout2 = `Appendices/Appendix_MicroscopyChar.aux'.
 
 
@@ -4312,7 +4312,7 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 Here is how much of TeX's memory you used:
  49273 strings out of 492946
  1036982 string characters out of 3126267
- 1851512 words of memory out of 3000000
+ 1851516 words of memory out of 3000000
  51859 multiletter control sequences out of 15000+200000
  600054 words of font info for 161 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -4330,7 +4330,7 @@ Users/oskat/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/palatino/uplr8a.p
 fb><C:/Users/oskat/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/palatino/u
 plr8a.pfb><C:/Users/oskat/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/pal
 atino/uplri8a.pfb>
-Output written on main.pdf (120 pages, 12898902 bytes).
+Output written on main.pdf (120 pages, 12899022 bytes).
 PDF statistics:
  2896 PDF objects out of 2984 (max. 8388607)
  534 named destinations out of 1000 (max. 500000)
