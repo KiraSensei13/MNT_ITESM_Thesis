@@ -118,6 +118,35 @@ headsepline,
 % \FloatBarrier command into another section
 \usepackage{placeins}
 
+% import code snippets
+\usepackage{listings}
+\usepackage{xcolor}
+\definecolor{codegreen}{rgb}{0,0.6,0}
+\definecolor{codegray}{rgb}{0.5,0.5,0.5}
+\definecolor{codepurple}{rgb}{0.58,0,0.82}
+\definecolor{backcolour}{rgb}{0.99,0.99,0.96}
+\lstdefinestyle{mystyle}{
+  backgroundcolor   = \color{backcolour},
+  commentstyle      = \color{codegreen},
+  keywordstyle      = \color{magenta},
+  numberstyle       = \tiny\color{codegray},
+  stringstyle       = \color{codepurple},
+  basicstyle        = \ttfamily\small,
+  breakatwhitespace = false,
+  breaklines        = true,
+  captionpos        = b,
+  keepspaces        = true,
+  numbers           = left,
+  numbersep         = 2pt,
+  showspaces        = false,
+  showstringspaces  = false,
+  showtabs          = false,
+  tabsize           = 2,
+  aboveskip         = 0.1em,
+  belowskip         = 0.1em
+}
+\lstset{style=mystyle}
+
 %----------------------------------------------------------------------------------------
 %	MARGIN SETTINGS
 %----------------------------------------------------------------------------------------
@@ -137,7 +166,8 @@ headsepline,
 %----------------------------------------------------------------------------------------
 
 % Your thesis title, this is used in the title and abstract, print it elsewhere with \ttitle
-\thesistitle{Fabrication of Suspended Nanowires Through Mechano-Near-Field Electrospinning of Polymers in Solution for the Production of Glass-like Carbon}
+\thesistitle{Search for high-molecular weight linear polymers for the formulation of novel solutions for the fabrication of micro fibers by electromechanical spinning}
+% Fabrication of Suspended Nanowires Through Mechano-Near-Field Electrospinning of Polymers in Solution for the Production of Glass-like Carbon
 
 % Your supervisor's name, this is used in the title page, print it elsewhere with \supname and \cosupname
 \supervisor{Dr. Héctor Alán Aguirre Soto}
@@ -431,7 +461,7 @@ Finally, I would like to thank my family, who always believed in me. I am gratef
 \begin{abstract}
 \addchaptertocentry{\abstractname} % Add the abstract to the table of contents
 
-Carbon nano-wires are versatile materials composed of carbon chains with a wide range of applications due to their high conductivity. Regardless of the high interest in the implementation of carbon nano-wires in several applications and devices, no feasible processes have been developed to fabricate carbon nano-wires with spatial control at a reasonable cost. Carbon nano-wires have been fabricated with the use of a photoresist, but little is known about polymers that can produce more conductive carbon nano-wires after pyrolysis. Various polymer solutions have been tested in near field electrospinning (NFES) and photopolymerization separately, however, few have been tested for nano-wire fabrication purposes through pyrolysis. The intention behind the thesis proposal is to implement rheology analyses of different polymer solutions to determine if they can be easily electrospun at low voltages and then fabricate nano-wires with them. This thesis work arises from the need to test a greater variety of polymers with the goal to design a polymer solution to fabricate carbon nano-wires with better conductivity than the current SU-8 polymeric nano-fibers. The research process will include the design of polymer solutions that can be electrospun, photopolymerized, and then pyrolyzed into conducting carbon nanowires. On the other hand, it is intended to engineer a newly designed polymer solution to achieve mass scale manufacturing of conductive carbon nano-wires in an inexpensive, continuous, simple and reproducible manner as central components for nano-sensors. \\
+Carbon nano-wires are versatile structures composed of carbon chains with a wide range of applications due to their high chemical resistance and electric properties. Regardless of the high interest in the implementation of carbon nano-wires in energy, environmental and health-care applications, no feasible processes have been developed to fabricate carbon nano-wires with spatial control at a reasonable cost. Carbon nano-wires have been fabricated with the use of a photoresist, but little is known about polymers that can produce conductive carbon nano-wires after pyrolysis. Various polymer solutions have been tested in near field electrospinning (NFES) and photopolymerization separately, however, few have been tested for nano-wire fabrication purposes through the process of spatio-temporal deposition with NFES, photo-polymerization for cross-linking and pyrolysis. The intention behind the thesis proposal is to use rheological analyses of different polymer solutions to determine if they can be easily electrospun at low voltages and then fabricate nano-wires with them. This thesis work arises from the need to test a greater variety of polymer-solvent combinations with the goal of designing a polymer solution to fabricate carbon nano-wires with higher conductivity than the current SU-8 polymeric nano-fibers. The present work includes the design of polymer solutions that can be electrospun, with the hope that the selected high molecular weight polymers can be photo-polymerized, and then pyrolyzed into conducting carbon nanowires. The overarching goal is to contribute towards the development of novel designed polymer solutions to achieve mass scale manufacturing of conductive carbon nano-wires in an inexpensive, continuous, simple and reproducible manner as central components for nano-sensors. \\
 
 \noindent
 \textbf{keywords:} \keywordnames
@@ -468,7 +498,7 @@ Carbon nano-wires are versatile materials composed of carbon chains with a wide 
 \include{./Chapters/2}
 \include{./Chapters/3}
 \include{./Chapters/4}
-%\include{./Chapters/5}
+\include{./Chapters/5}
 
 }
 
@@ -556,13 +586,15 @@ $\Psi$         & Dimensionless Field Strength & NA. \\
 \include{Appendices/Appendix_CriticalConcentrations}
 \include{Appendices/Appendix_MicroscopyChar}
 \include{Appendices/Appendix_FiberDiameters}
+\include{Appendices/Appendix_ReviewTable}
+\include{Appendices/Appendix_ImageAnalysisCode}
 
 %----------------------------------------------------------------------------------------
 %	BIBLIOGRAPHY
 %----------------------------------------------------------------------------------------
 
-\addcontentsline{toc}{chapter}{Bibliography}
-\printbibliography[title={Bibliography}]
+\printbibliography[heading=bibintoc, title={Bibliography}]
+% \addcontentsline{toc}{chapter}{Bibliography}
 
 %% https://www.overleaf.com/learn/latex/bibtex_bibliography_styles
 %% abbrv, acm, alpha, apalike, ieeetr, plain, siam, unsrt
@@ -574,9 +606,7 @@ $\Psi$         & Dimensionless Field Strength & NA. \\
 %	CURRICULUM VITAE
 %----------------------------------------------------------------------------------------
 
-\newpage 
-\addcontentsline{toc}{chapter}{Curriculum Vitae}
-\includepdf[page=-,fitpaper=false,landscape=false]{./pdf/CV/CV}
+% \includepdf[page=-,fitpaper=false,landscape=false]{./pdf/CV/CV}
 
 %----------------------------------------------------------------------------------------
 
